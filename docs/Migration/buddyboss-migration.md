@@ -1,6 +1,6 @@
 # Migrating from BuddyBoss to FluentCommunity
 
-Welcome! Making the move from a comprehensive platform like BuddyBoss to the lightweight and blazing-fast FluentCommunity is a significant upgrade for your community's performance and simplicity. This detailed guide is designed to hold your hand through every step of the process, ensuring a safe and successful transition.
+Making the move from a comprehensive platform like BuddyBoss to the lightweight and blazing-fast FluentCommunity is a significant upgrade for your community's performance and simplicity. This detailed guide is designed to hold your hand through every step of the process, ensuring a safe and successful transition.
 
 We've built a migration tool to make this process as smooth as possible, and this document will explain exactly what to expect.
 

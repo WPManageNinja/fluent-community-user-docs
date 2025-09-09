@@ -1,6 +1,6 @@
 # Migrating from BuddyPress to FluentCommunity
 
-Welcome to FluentCommunity! If you have an existing community built with BuddyPress, you can use our built-in migration tool to smoothly transition your members and content to our modern, high-performance platform.
+If you have an existing community built with BuddyPress, you can use our built-in migration tool to smoothly transition your members and content to our modern, high-performance platform.
 
 This guide will walk you through the entire process, from pre-migration checks to the final steps after the import is complete.
 
