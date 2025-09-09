@@ -166,15 +166,13 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Using Webhooks (Pro)', link: '/docs/Integrations/using-webhooks-(pro).md' },
-              { text: 'Uncanny Automator & FlowMattic', link: '/docs/Integrations/uncanny-automator-&-flowmattic.md' },
             ]
           },
           {
             text: 'Other Integrations',
             collapsed: true,
             items: [
-              { text: 'GamiPress', link: '/docs/Integrations/gamipress.md' },
-              { text: 'Better Messages', link: '/docs/Integrations/better-messages.md' },
+              
             ]
           },
         ]
