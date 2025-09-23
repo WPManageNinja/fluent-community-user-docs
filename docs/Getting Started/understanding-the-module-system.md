@@ -42,4 +42,4 @@ To enable or disable a module, simply click the toggle switch next to its name. 
 
 Congratulations, you've completed the "Getting Started" guide! You now have a solid understanding of how to install, configure, and navigate FluentCommunity.
 
-You're ready to start building the core of your community. We recommend creating your first Space. **Next Up:** [Creating a New Space](../The Community Hub/creating-a-new-space.md)
+You're ready to start building the core of your community. We recommend creating your first Space. **Next Up:** [Creating a New Space](../Community Hub/creating-a-new-space.md)

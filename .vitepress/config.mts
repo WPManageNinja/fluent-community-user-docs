@@ -8,7 +8,7 @@ export default defineConfig({
   // Theme related configurations
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
-    logo: '/logo.svg', // Make sure to place your logo in the public directory
+    logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/docs/Getting Started/introduction-fluentcommunity.md' },
@@ -29,38 +29,38 @@ export default defineConfig({
         ]
       },
       {
-        text: 'The Community Hub',
+        text: 'Community Hub',
         items: [
           {
             text: 'Spaces & Group Chat',
             collapsed: true,
             items: [
-              { text: 'Creating a New Space', link: '/docs/The Community Hub/creating-a-new-space.md' },
-              { text: 'Space Settings & Privacy', link: '/docs/The Community Hub/space-settings-&-privacy.md' },
-              { text: 'Customizing the Lockscreen', link: '/docs/The Community Hub/customizing-the-lockscreen.md' },
-              { text: 'Using Group Chat (Pro)', link: '/docs/The Community Hub/using-group-chat-(pro).md' },
+              { text: 'Creating a New Space', link: '/docs/Community Hub/creating-a-new-space.md' },
+              { text: 'Space Settings & Privacy', link: '/docs/Community Hub/space-settings-&-privacy.md' },
+              { text: 'Customizing the Lockscreen', link: '/docs/Community Hub/customizing-the-lockscreen.md' },
+              { text: 'Using Group Chat (Pro)', link: '/docs/Community Hub/using-group-chat-(pro).md' },
             ]
           },
           {
             text: 'Posts & Discussions',
             collapsed: true,
             items: [
-              { text: 'Creating & Editing Posts', link: '/docs/The Community Hub/creating-&-editing-posts.md' },
-              { text: 'Using Comments & Replies', link: '/docs/The Community Hub/using-comments-&-replies.md' },
-              { text: 'Post Reactions & Mentions', link: '/docs/The Community Hub/post-reactions-&-mentions.md' },
-              { text: 'Using Emojis & GIFs (Pro)', link: '/docs/The Community Hub/using-emojis-&-gifs-(pro).md' },
-              { text: 'Content Moderation', link: '/docs/The Community Hub/content-moderation.md' },
+              { text: 'Creating & Editing Posts', link: '/docs/Community Hub/creating-&-editing-posts.md' },
+              { text: 'Using Comments & Replies', link: '/docs/Community Hub/using-comments-&-replies.md' },
+              { text: 'Post Reactions & Mentions', link: '/docs/Community Hub/post-reactions-&-mentions.md' },
+              { text: 'Using Emojis & GIFs (Pro)', link: '/docs/Community Hub/using-emojis-&-gifs-(pro).md' },
+              { text: 'Content Moderation', link: '/docs/Community Hub/content-moderation.md' },
             ]
           },
           {
             text: 'Members & Profiles',
             collapsed: true,
             items: [
-              { text: 'The Member Directory', link: '/docs/The Community Hub/the-member-directory.md' },
-              { text: 'Managing User Profiles', link: '/docs/The Community Hub/managing-user-profiles.md' },
-              { text: 'Assigning User Roles', link: '/docs/The Community Hub/assigning-user-roles.md' },
-              { text: 'Direct Messaging (Pro)', link: '/docs/The Community Hub/direct-messaging-(pro).md' },
-              { text: 'Moderating Chat Users (Pro)', link: '/docs/The Community Hub/moderating-chat-users-(pro).md' },
+              { text: 'The Member Directory', link: '/docs/Community Hub/the-member-directory.md' },
+              { text: 'Managing User Profiles', link: '/docs/Community Hub/managing-user-profiles.md' },
+              { text: 'Assigning User Roles', link: '/docs/Community Hub/assigning-user-roles.md' },
+              { text: 'Direct Messaging (Pro)', link: '/docs/Community Hub/direct-messaging-(pro).md' },
+              { text: 'Moderating Chat Users (Pro)', link: '/docs/Community Hub/moderating-chat-users-(pro).md' },
             ]
           },
         ]
@@ -115,29 +115,29 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Platform Settings',
+        text: 'Portal Settings',
         items: [
           {
             text: 'Layout & Appearance',
             collapsed: true,
             items: [
-              { text: 'Adding Custom Sidebar Links', link: '/docs/Platform Settings/adding-custom-sidebar-links.md' },
+              { text: 'Adding Custom Sidebar Links', link: '/docs/Portal Settings/adding-custom-sidebar-links.md' },
             ]
           },
           {
             text: 'Communication',
             collapsed: true,
             items: [
-              { text: 'In-App Notification Settings', link: '/docs/Platform Settings/in-app-notification-settings.md' },
-              { text: 'Customizing Email Templates (Pro)', link: '/docs/Platform Settings/customizing-email-templates-(pro).md' },
+              { text: 'In-App Notification Settings', link: '/docs/Portal Settings/in-app-notification-settings.md' },
+              { text: 'Customizing Email Templates (Pro)', link: '/docs/Portal Settings/customizing-email-templates-(pro).md' },
             ]
           },
           {
             text: 'Analytics (Pro)',
             collapsed: true,
             items: [
-              { text: 'The Analytics Dashboard', link: '/docs/Platform Settings/the-analytics-dashboard.md' },
-              { text: 'Tracking Community Growth', link: '/docs/Platform Settings/tracking-community-growth.md' },
+              { text: 'The Analytics Dashboard', link: '/docs/Portal Settings/the-analytics-dashboard.md' },
+              { text: 'Tracking Community Growth', link: '/docs/Portal Settings/tracking-community-growth.md' },
             ]
           },
         ]
