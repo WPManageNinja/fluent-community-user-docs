@@ -48,3 +48,8 @@ Click **Create FluentCommunity Feed** to save the integration. Your payment form
 
 > **✨ Note:**
 > With Paymattic Pro, you can also set up recurring subscriptions. This allows you to sell monthly or yearly access to your premium spaces and courses, creating a sustainable membership model for your community.
+
+**Related Topics:**
+- Learn about [connecting with FluentCRM](./connecting-with-fluentcrm.md) for email automation
+- Explore [connecting with Fluent Forms](./connecting-with-fluent-forms.md) for custom registration
+- Set up [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community

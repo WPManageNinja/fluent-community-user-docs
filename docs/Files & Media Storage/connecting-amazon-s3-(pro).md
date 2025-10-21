@@ -36,3 +36,8 @@ Before you can connect FluentCommunity to S3, you must have:
 5.  After entering all the details, click the **Save Settings** button.
 
 FluentCommunity will attempt to connect to your S3 bucket. If the connection is successful, all new file uploads will be automatically stored in your S3 bucket instead of on your local server.
+
+**Related Topics:**
+- Learn about [using the local server](./using-the-local-server.md) for default storage
+- Explore [connecting Cloudflare R2](./connecting-cloudflare-r2-(pro).md) for high-performance storage
+- Set up [CDN and image proxy](./cdn-&-image-proxy-setup-(pro).md) for global delivery

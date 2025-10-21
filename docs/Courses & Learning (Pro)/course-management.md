@@ -19,3 +19,8 @@ In the following articles, we will cover the core aspects of managing your cours
 * **Adding Videos & Attachments:** How to enrich your lessons with multimedia and downloadable resources.
 
 Let's begin by creating your very first course.
+
+**Get Started:**
+- Learn about [creating your first course](./creating-your-first-course.md) to get started
+- Explore [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
+- Set up [course layouts and enrollment](./course-layouts-&-enrollment.md) to control access

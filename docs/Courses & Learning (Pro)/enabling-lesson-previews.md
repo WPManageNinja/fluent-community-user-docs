@@ -32,3 +32,8 @@ Visitors can click on this lesson and view its full content without needing to l
 
 > **✨ Note:**
 > It's a best practice to choose lessons for your preview that are engaging and clearly demonstrate the value of your course. Your introduction, a high-value concept, or a particularly well-produced video are all excellent candidates for a free preview.
+
+**Related Topics:**
+- Learn about [creating your first course](./creating-your-first-course.md) to get started
+- Explore [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
+- Set up [course layouts and enrollment](./course-layouts-&-enrollment.md) to control access

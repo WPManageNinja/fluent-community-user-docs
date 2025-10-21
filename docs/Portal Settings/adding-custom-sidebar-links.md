@@ -34,3 +34,8 @@ For each link you add, you need to provide the following details:
 You can add multiple custom links. They can also be reordered by dragging and dropping them into your desired position.
 
 Click the **Save Settings** button to apply your changes. Your new custom links will now be visible to all members in the community portal sidebar.
+
+**Related Topics:**
+- Learn about [layout and appearance](./layout-&-appearance.md) to customize your portal
+- Explore [communication settings](./communication.md) to configure notifications
+- Set up [analytics](./the-analytics-dashboard.md) to track community performance

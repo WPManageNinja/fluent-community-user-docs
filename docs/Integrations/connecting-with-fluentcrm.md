@@ -43,3 +43,8 @@ Within an automation, you can also perform actions back on the user in FluentCom
 * **Remove From Space:** Remove a contact from a specific Space.
 
 Now that you understand the FluentCRM integration, explore other powerful connections.
+
+**Related Topics:**
+- Learn about [connecting with Fluent Forms](./connecting-with-fluent-forms.md) for custom registration
+- Explore [connecting with Paymattic](./connecting-with-paymattic.md) for monetization
+- Set up [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community

@@ -37,3 +37,8 @@ FluentCommunity will now use Cloudflare R2 to store and serve all new media file
 
 > **✨ Note:**
 > Because Cloudflare R2 is S3-compatible, the setup process is very similar to connecting with Amazon S3. The primary difference is where you obtain your credentials (from your Cloudflare dashboard instead of AWS).
+
+**Related Topics:**
+- Learn about [using the local server](./using-the-local-server.md) for default storage
+- Explore [connecting Amazon S3](./connecting-amazon-s3-(pro).md) for cloud storage
+- Set up [CDN and image proxy](./cdn-&-image-proxy-setup-(pro).md) for global delivery

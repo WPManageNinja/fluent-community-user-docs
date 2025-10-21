@@ -37,3 +37,8 @@ This widget shows key information about the customer's status, including:
 [Screenshot: The agent's ticket view in Fluent Support, with the FluentCommunity Widget highlighted in the sidebar, showing a customer's enrolled courses and progress.]
 
 This gives your support team instant access to the information they need without having to manually look up the user in your community, saving time and leading to faster resolutions.
+
+**Related Topics:**
+- Learn about [connecting with FluentCRM](./connecting-with-fluentcrm.md) for email automation
+- Explore [connecting with Fluent Forms](./connecting-with-fluent-forms.md) for custom registration
+- Set up [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community

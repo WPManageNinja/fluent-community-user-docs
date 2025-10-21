@@ -44,3 +44,8 @@ Now you need to tell the integration what to do with the form data.
 [Screenshot: The FluentCommunity feed configuration screen in Fluent Forms, showing field mapping and the dropdown to select a Space.]
 
 Click **Save Feed** to activate the integration. Now, whenever a user successfully submits this form, a new user account will be created and they will be automatically added to the Spaces or Courses you selected.
+
+**Related Topics:**
+- Learn about [connecting with FluentCRM](./connecting-with-fluentcrm.md) for email automation
+- Explore [connecting with Paymattic](./connecting-with-paymattic.md) for monetization
+- Set up [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community

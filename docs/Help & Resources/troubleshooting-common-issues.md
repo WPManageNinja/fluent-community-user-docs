@@ -18,4 +18,9 @@ By default, the FluentCommunity portal uses its own modern, app-like styling to 
 If you have enabled a Pro module like Gamification or Courses but don't see the options on the front-end, there are a few things to check.
 
 * **Check Your License:** Ensure your FluentCommunity Pro license is active and correctly entered in your site's settings. An expired license can sometimes disable pro features.
-* **Clear Your Cache:** If
+* **Clear Your Cache:** If you're using a caching plugin, try clearing your cache to see if the feature appears.
+
+**Related Topics:**
+- Learn about [contacting support](./how-to-contact-support.md) for additional help
+- Explore [frequently asked questions](./frequently-asked-questions.md) for common solutions
+- Check [admin dashboard](../Getting%20Started/admin-dashboard.md) for plugin status

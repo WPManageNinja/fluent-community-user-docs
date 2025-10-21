@@ -47,3 +47,8 @@ Before contacting support, make sure you've checked these resources:
 * **Troubleshooting:** [Troubleshooting Common Issues](./troubleshooting-common-issues.md) - Solutions to frequent problems
 * **Documentation:** Browse our complete documentation for step-by-step guides
 * **Admin Dashboard:** [Admin Dashboard](../Getting%20Started/admin-dashboard.md) - Check your plugin status and version
+
+**Get Started:**
+- Learn about [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community
+- Explore [admin dashboard](../Getting%20Started/admin-dashboard.md) to understand your controls
+- Set up [content moderation](../Community%20Hub/content-moderation.md) to maintain quality

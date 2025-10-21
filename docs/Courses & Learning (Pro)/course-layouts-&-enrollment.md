@@ -37,3 +37,8 @@ This setting defines how your students will progress through the lessons.
 > When using the **Drip** or **Scheduled** enrollment types, ensure your schedule is clearly communicated to your students so they know when to expect new content to become available.
 
 Choose the layout and enrollment type that best suits your teaching style and click **Update Course** to save your settings.
+
+**Related Topics:**
+- Learn about [creating your first course](./creating-your-first-course.md) to get started
+- Explore [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
+- Set up [enabling lesson previews](./enabling-lesson-previews.md) to attract students

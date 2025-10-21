@@ -47,3 +47,8 @@ For greater control, you can restrict who can see specific files or folders. Thi
 
 > **✨ Note:**
 > The File & Document Library is separate from the standard media uploads in posts and comments. It is designed to be a more permanent and organized resource hub, whereas attachments to posts are part of the flowing conversation.
+
+**Related Topics:**
+- Learn about [storage configuration](./storage-configuration.md) for file management options
+- Explore [secure file URLs](./secure-file-urls-(pro).md) to protect premium content
+- Set up [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community

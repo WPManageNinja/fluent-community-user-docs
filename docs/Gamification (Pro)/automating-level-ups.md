@@ -43,3 +43,8 @@ You can use either a role, a badge, or both as the reward.
 > * **Level 3:** 2000 Points → "Veteran" Role + "Veteran" Badge
 
 Click **Save Level** to add the rule. Your automation is now active. The system will continuously check members' point totals and automatically trigger these rewards when the milestones are met.
+
+**Related Topics:**
+- Learn about [configuring the points system](./configuring-the-points-system.md) to set up point values
+- Explore [creating and assigning badges](./creating-&-assigning-badges.md) to recognize achievements
+- Set up [leaderboards](./setting-up-leaderboards.md) to showcase top contributors

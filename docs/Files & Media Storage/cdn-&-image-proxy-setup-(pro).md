@@ -39,3 +39,8 @@ Configuration for the image proxy is also located in the **Media & Storage** set
 
 > **⚠️ Important:**
 > Setting up a CDN and image proxy are advanced configurations. You must have an active account with a third-party service like BunnyCDN before you can complete this setup. Always refer to your CDN provider's documentation for the correct URL and settings to use.
+
+**Related Topics:**
+- Learn about [using the local server](./using-the-local-server.md) for default storage
+- Explore [connecting Amazon S3](./connecting-amazon-s3-(pro).md) for cloud storage
+- Set up [connecting Cloudflare R2](./connecting-cloudflare-r2-(pro).md) for high-performance storage
