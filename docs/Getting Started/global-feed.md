@@ -36,7 +36,7 @@ Let's explore the key areas of this page:
         * Courses (e.g., "Learn Python")
         * Custom Links (e.g., "Link 1," "Link 2")
     * This group system allows you to organize your community's navigation in a way that makes the most sense for your members.
-    * **Settings & Admin:** At the very bottom, members will find icons to access their personal front-end **Settings** or *(if they are an admin)* return to the WordPress admin dashboard.
+    * **Settings:** At the very bottom, members will find icons to access their **Settings** *(if they are an admin)*.
 
 3.  **The Main Feed (Center Column)**
 
