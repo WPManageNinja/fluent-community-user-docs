@@ -1,60 +1,58 @@
----
-title: The Setup Wizard
-description: Learn how to use the FluentCommunity Setup Wizard to configure your community's core settings, branding, and initial modules in just a few steps.
----
-
 # The Setup Wizard
 
-After activating FluentCommunity for the first time, you will be automatically guided through our Setup Wizard. This quick, step-by-step process is the easiest way to configure the essential settings for your new community platform.
+After activating FluentCommunity for the first time, you will be automatically guided through our quick Setup Wizard. This simple 3-step process is the easiest and fastest way to configure the essential settings for your new community.
 
+Don't worry, you can change any of these settings later!
 
+## Step 1: Let's Build Your Community
 
-## Step 1: Branding Your Community
+The first step is to give your community its unique identity and brand.
 
-The first step is to give your community its unique identity.
+* **Name your community:** Enter the name for your community (e.g., "Happy Community," "My Product Users"). This will be displayed throughout your community portal.
+* **Community Portal URL:** This is the unique web address (or "slug") for your community. By default, it is set to `portal`, making your community page accessible at `yoursite.com/portal`. You can change this to anything you like, such as `members` or `hub`.
+* **Logo:** Click **Upload Logo** to add your brand's logo. This will appear at the top of your community portal. For best results, we recommend using an image with a 4:1 aspect ratio, such as 480px wide by 120px tall.
 
-1.  **Community Name:** Enter the name for your community. This will be displayed in various places throughout the platform.
-2.  **Community Logo:** Click **Upload Logo** to add your brand's logo. We recommend using a high-quality PNG with a transparent background.
-3.  **URL Slug:** Define the URL for your community portal (e.g., `yoursite.com/community`). The default is `community`, but you can change it to anything you like, such as `members` or `hub`.
+Click **Continue to Next** to proceed.
 
-    [Screenshot: The "Branding" step of the setup wizard, showing the fields for Community Name, Logo upload, and URL Slug.]
+![Onboarding Settings](/docs/public/images/getting-started/setup-wizard/onboarding-setup-wizard.png)
 
-Click **Next Step** to continue.
+## Step 2: Pick a Fluent Community Template
 
+Next, you'll choose a template that best fits your community's goal. This helps start you off with the right layout and features.
 
+* **Basic:** This is a general-purpose template, perfect for most discussion-based communities.
+* **Course:** Choose this if the primary goal of your community is to support your students and online courses.
+* **Product:** This template is ideal for building a community around a product, which is great for customer feedback, support, and engagement.
+* **Blank:** Select this if you're an advanced user and want to build your community from a completely clean slate.
 
-## Step 2: Choosing Your Modules
+Select your preferred template and click **Continue to Next**.
 
-FluentCommunity is modular, which means you can enable only the features you need. This keeps your site fast and lightweight.
+![Onboarding Settings](/docs/public/images/getting-started/setup-wizard/onboarding-setup-wizard-1.png)
 
-In this step, you can enable or disable the core modules:
+## Step 3: Access & Features
 
-* **Gamification (Pro):** Enable this to use points, badges, and leaderboards. Learn more about [configuring the points system](../Gamification%20(Pro)/configuring-the-points-system.md).
-* **Courses (Pro):** Enable the built-in Learning Management System (LMS) to create and sell courses. Get started with [creating your first course](../Courses%20&%20Learning%20(Pro)/creating-your-first-course.md).
+This final step helps you configure your community's privacy and enable powerful integrations.
 
-Use the toggle switches to turn modules on or off based on your needs. You can always change this later from the main settings.
+* **Who can access your portal:** This is a crucial privacy setting. You can choose:
+    * **Everyone (public):** Anyone can visit your community and see public content.
+    * **Logged-in users only:** This makes your community private. Only registered members can access it.
+* **Integrated Marketing Automation:** Check this box to enable a deep integration with FluentCRM. This allows you to run powerful automations, send onboarding emails, and segment your members.
+* **Reliable Email delivery with FluentSMTP:** Check this box to ensure your community's emails (like notifications, password resets, etc.) are delivered reliably. We highly recommend using the free FluentSMTP plugin to connect your site to a dedicated email service.
+* **Get Feature Update via email:** Enter your name and email to subscribe to our newsletter. We'll send you helpful tips, tricks, and news about new features to help you grow your community.
+* **Help improve the product...:** Check this box to help us make FluentCommunity better by sharing non-sensitive usage data.
 
-[Screenshot: The "Modules" step of the setup wizard, with toggle switches for Gamification and Courses.]
+Click **Save & Finish** to complete the setup.
 
-Click **Next Step** to proceed.
+![Onboarding Settings](/docs/public/images/getting-started/setup-wizard/onboarding-setup-wizard-2.png)
 
+## What's Next?
 
+Congratulations, your community is now live!
 
-## Step 3: Finalizing Setup
+You will be redirected to the main FluentCommunity Admin Dashboard. This is your new command center for managing your community.
 
-You're almost done! The final screen confirms that your community is ready.
+From here, you can start exploring:
 
-Click the **Finish Installation** button to complete the setup process.
-
-[Screenshot: The final confirmation screen of the setup wizard with the "Finish Installation" button.]
-
-After finishing, you will be redirected to your main FluentCommunity admin dashboard, where you can begin creating spaces, adding members, and exploring your new community platform.
-
-**What's Next:**
-- Learn about the [Admin Dashboard](./admin-dashboard.md) to understand your control center
-- Create your first [Space](../Community%20Hub/creating-a-new-space.md) to organize discussions
-- Explore [Portal Settings](../Portal%20Settings/layout-&-appearance.md) to customize your community's appearance
-
-
-
-Now that you have configured the basics, it's time to get familiar with the main control center of your new community. **Next Up:** [Admin Dashboard](./admin-dashboard.md)
+* Create your first Space to organize discussions.
+* Explore Portal Settings to further customize your community's appearance.
+* Start inviting your members.

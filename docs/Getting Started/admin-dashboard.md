@@ -4,9 +4,7 @@ Welcome to the command center for your new community! After installing and activ
 
 This page is designed to be your central hub, giving you quick and easy access to all the most important settings and management areas for your community.
 
-[Screenshot: The main FluentCommunity admin dashboard page.]
-
----
+![FluentCommunity admin dashboard](/docs/public/images/getting-started/admin-dashboard/admin-dashboard-1.png)
 
 ## The Welcome Banner
 
@@ -16,7 +14,6 @@ At the very top of the page, you'll find a welcome banner that confirms your com
 * **License Management:** Click this button to view your license details, activate your pro license key, or manage your activated sites.
 * **Join Official Community:** This link takes you to the official FluentCommunity user group, where you can ask questions, get help from the community, and connect with the development team.
 
----
 
 ## Dashboard Navigation
 
@@ -40,7 +37,11 @@ This card provides a direct link to the official FluentCommunity knowledge base.
 ### 6. Change Community URL
 Every community has a unique web address (URL), such as `yoursite.com/community`. This link takes you to the settings page where you can easily change this URL slug to something else if needed.
 
----
+## Ready to make your community stand-out?
+
+This section is a notice for users of the free version of FluentCommunity, highlighting the premium features available when you upgrade to Pro (like advanced automations, video, and more).
+
+Clicking the **Upgrade to Pro** button will take you to the official FluentCommunity website. This entire section will automatically disappear from your dashboard once you install and activate the Pro license.
 
 At the bottom-right corner of the page, you can always find the **Version Number** of the plugin you are currently running. This is helpful information to have if you ever need to contact our support team for assistance.
 
