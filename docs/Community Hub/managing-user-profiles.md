@@ -37,10 +37,15 @@ This will take you to the administrative view of their profile, where you can mo
 From the back-end, you can perform several exclusive actions:
 
 * **Verify Account:** Check a box to add a "Verified" badge to the user's profile. This is useful for confirming the identity of official staff or notable members.
-* **Assign Badges (Pro):** If you use the Gamification module, you can manually assign custom badges to a user's profile to recognize their contributions or status.
+* **Assign Badges (Pro):** If you use the Gamification module, you can manually assign custom badges to a user's profile to recognize their contributions or status. Learn more about [creating and assigning badges](../Gamification%20(Pro)/creating-&-assigning-badges.md).
 * **Change Access Status:** Set a member's account status to "Active," "Pending," or "Blocked" to control their access to the community.
 
 [Screenshot: The admin view of a user's profile, showing the options for verifying an account and assigning a badge.]
 
 > **⚠️ Important:**
 > Modifying a user's profile information or access status should be done with care. Always ensure you are acting in accordance with your community's terms of service and privacy policy.
+
+**Related Topics:**
+- Learn about [assigning user roles](./assigning-user-roles.md) to control permissions
+- Explore [the member directory](./the-member-directory.md) for member discovery
+- Set up [content moderation](./content-moderation.md) to maintain community standards

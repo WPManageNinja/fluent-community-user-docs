@@ -31,3 +31,8 @@ Animated GIFs are a great way to add humor and motion to a discussion.
 
 > **✨ Note:**
 > The Emoji Picker and Giphy integration are Pro features. An administrator must have these modules enabled in the FluentCommunity settings for the icons to be visible. If you do not see these options, please contact your site administrator.
+
+**Related Features:**
+- Learn about [post reactions and mentions](./post-reactions-&-mentions.md) for enhanced engagement
+- Explore [creating and editing posts](./creating-&-editing-posts.md) to share content
+- Set up [group chat](./using-group-chat-(pro).md) for real-time conversations

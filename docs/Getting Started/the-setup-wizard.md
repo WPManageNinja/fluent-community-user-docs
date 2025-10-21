@@ -29,8 +29,8 @@ FluentCommunity is modular, which means you can enable only the features you nee
 
 In this step, you can enable or disable the core modules:
 
-* **Gamification (Pro):** Enable this to use points, badges, and leaderboards.
-* **Courses (Pro):** Enable the built-in Learning Management System (LMS) to create and sell courses.
+* **Gamification (Pro):** Enable this to use points, badges, and leaderboards. Learn more about [configuring the points system](../Gamification%20(Pro)/configuring-the-points-system.md).
+* **Courses (Pro):** Enable the built-in Learning Management System (LMS) to create and sell courses. Get started with [creating your first course](../Courses%20&%20Learning%20(Pro)/creating-your-first-course.md).
 
 Use the toggle switches to turn modules on or off based on your needs. You can always change this later from the main settings.
 
@@ -49,6 +49,11 @@ Click the **Finish Installation** button to complete the setup process.
 [Screenshot: The final confirmation screen of the setup wizard with the "Finish Installation" button.]
 
 After finishing, you will be redirected to your main FluentCommunity admin dashboard, where you can begin creating spaces, adding members, and exploring your new community platform.
+
+**What's Next:**
+- Learn about the [Admin Dashboard](./admin-dashboard.md) to understand your control center
+- Create your first [Space](../Community%20Hub/creating-a-new-space.md) to organize discussions
+- Explore [Portal Settings](../Portal%20Settings/layout-&-appearance.md) to customize your community's appearance
 
 
 

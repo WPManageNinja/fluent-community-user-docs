@@ -35,3 +35,8 @@ In the following articles, we will walk you through how to use each of these fea
 * **User Roles:** [Assigning User Roles](./assigning-user-roles.md) - Control permissions and access levels
 * **Direct Messaging:** [Direct Messaging (Pro)](./direct-messaging-(pro).md) - Enable private member communication
 * **Chat Moderation:** [Moderating Chat Users (Pro)](./moderating-chat-users-(pro).md) - Manage chat interactions
+
+**Getting Started:**
+- Learn about [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community
+- Explore [content moderation](../Community%20Hub/content-moderation.md) to maintain quality
+- Set up [gamification](../Gamification%20(Pro)/configuring-the-points-system.md) to encourage engagement

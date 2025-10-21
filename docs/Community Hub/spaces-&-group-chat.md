@@ -16,3 +16,8 @@ Think of Spaces as the rooms of your community house. You can create different r
 * **Enable Real-Time Chat:** For more dynamic conversations, you can enable a dedicated **Group Chat** room inside any Space, allowing members to communicate instantly.
 
 In the following articles, we will walk you through how to create and manage every aspect of your Spaces.
+
+**Get Started:**
+- [Creating a New Space](./creating-a-new-space.md) - Set up your first space
+- [Space Settings & Privacy](./space-settings-&-privacy.md) - Control access and visibility
+- [Posts & Discussions](./posts-&-discussions.md) - Enable member engagement

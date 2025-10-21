@@ -35,3 +35,8 @@ FluentCommunity's chat system provides a familiar, real-time messaging experienc
 ## Managing Your Messages
 
 Users have full control over their private conversations. They can mute notifications from specific chats or block users if necessary to maintain their privacy and safety.
+
+**Related Features:**
+- Learn about [group chat](./using-group-chat-(pro).md) for space-wide conversations
+- Explore [managing user profiles](./managing-user-profiles.md) for member administration
+- Set up [content moderation](./content-moderation.md) to maintain community standards

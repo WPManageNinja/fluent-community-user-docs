@@ -67,7 +67,12 @@ Once you have confirmed that your data has been successfully migrated and everyt
 
 Congratulations on your successful migration! Here are a few recommended next steps:
 
-* **Configure Your Spaces:** Review the settings for each imported Space, as FluentCommunity offers different privacy and content controls.
-* **Customize Your Portal:** Go to **FluentCommunity → Customization** to adjust the look and feel of your new community to match your brand.
+* **Configure Your Spaces:** Review the settings for each imported Space, as FluentCommunity offers different privacy and content controls. Learn about [space settings](../Community%20Hub/space-settings-&-privacy.md).
+* **Customize Your Portal:** Go to **FluentCommunity → Customization** to adjust the look and feel of your new community to match your brand. Explore [layout and appearance](../Portal%20Settings/layout-&-appearance.md) options.
 * **Check Permalinks:** Visit **Settings → Permalinks** in your WordPress dashboard and click "Save Changes" to ensure all your new community URLs are working correctly.
 * **Announce the Change:** Let your members know about the new and improved community platform!
+
+**Next Steps:**
+- Learn about [creating new spaces](../Community%20Hub/creating-a-new-space.md) to expand your community
+- Explore [member management](../Community%20Hub/managing-user-profiles.md) features
+- Set up [content moderation](../Community%20Hub/content-moderation.md) to maintain quality

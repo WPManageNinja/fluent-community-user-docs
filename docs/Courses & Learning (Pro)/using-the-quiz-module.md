@@ -48,3 +48,8 @@ In the settings panel on the left, you can configure the behavior of your quiz.
 > Clearly defining the passing grade and retake policy in the quiz description is a great way to manage student expectations before they begin.
 
 Once you have added your questions and configured the settings, click the **Update** button to save your quiz. It will now appear as part of your course structure for students.
+
+**Related Topics:**
+- Learn about [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
+- Explore [adding videos and attachments](./adding-videos-&-attachments.md) to enrich lessons
+- Set up [course layouts and enrollment](./course-layouts-&-enrollment.md) to control access

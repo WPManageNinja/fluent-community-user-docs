@@ -48,3 +48,8 @@ Switch to the **Settings** tab to configure the privacy and behavior of the Spac
 For detailed information about privacy settings, see [Space Settings & Privacy](./space-settings-&-privacy.md).
 
 Your space is now created!
+
+**Next Steps:**
+- Configure [space settings and privacy](./space-settings-&-privacy.md) to control access
+- Learn about [managing user roles](./assigning-user-roles.md) within your space
+- Explore [posts and discussions](./posts-&-discussions.md) to engage your members

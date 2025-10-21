@@ -32,3 +32,8 @@ To keep conversations organized, you can reply directly to a specific comment. T
 Your reply will appear nested under the original comment, creating a clear conversation thread.
 
 Comments and replies are essential for community engagement.
+
+**Related Features:**
+- Learn about [post reactions and mentions](./post-reactions-&-mentions.md) for enhanced interaction
+- Explore [content moderation](./content-moderation.md) to manage discussions
+- Set up [user roles](./assigning-user-roles.md) to control member permissions

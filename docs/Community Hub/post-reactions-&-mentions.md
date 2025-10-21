@@ -34,3 +34,8 @@ The mentioned user's name will appear as a clickable link in the post or comment
 
 > **✨ Note:**
 > To prevent spam, you can typically only mention users who are members of the same Space where you are posting.
+
+**Related Features:**
+- Learn about [using comments and replies](./using-comments-&-replies.md) for deeper engagement
+- Explore [creating and editing posts](./creating-&-editing-posts.md) to start discussions
+- Set up [content moderation](./content-moderation.md) to manage community interactions

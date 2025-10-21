@@ -30,8 +30,8 @@ On the Modules screen, you will see a list of the major features that can be tog
 
 The primary modules include:
 
-* **Gamification (Pro):** This module controls all features related to points, badges, and leaderboards. If you don't plan to reward users for engagement, you can keep this disabled.
-* **Courses (Pro):** This module controls the entire Learning Management System (LMS). If your community is purely for discussions and not for e-learning, you can disable this to save resources.
+* **Gamification (Pro):** This module controls all features related to points, badges, and leaderboards. If you don't plan to reward users for engagement, you can keep this disabled. Learn more about [configuring the points system](../Gamification%20(Pro)/configuring-the-points-system.md).
+* **Courses (Pro):** This module controls the entire Learning Management System (LMS). If your community is purely for discussions and not for e-learning, you can disable this to save resources. Get started with [creating your first course](../Courses%20&%20Learning%20(Pro)/creating-your-first-course.md).
 
 To enable or disable a module, simply click the toggle switch next to its name. The change is saved and takes effect immediately.
 

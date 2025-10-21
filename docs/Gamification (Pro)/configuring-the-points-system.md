@@ -40,3 +40,8 @@ Enter the number of points you want to award for each action. If you want to dis
 Click the **Save Settings** button at the bottom of the page to apply your changes. Your points system is now active!
 
 Now that you have points configured, explore more gamification features.
+
+**Next Steps:**
+- Learn about [creating and assigning badges](./creating-&-assigning-badges.md) to recognize achievements
+- Set up [leaderboards](./setting-up-leaderboards.md) to showcase top contributors
+- Explore [automating level-ups](./automating-level-ups.md) for seamless progression

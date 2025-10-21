@@ -31,3 +31,8 @@ You can change a user's role for any Space they are a member of.
 [Screenshot: The "Members" tab within a Space's settings, showing a list of users with a dropdown menu in the "Role" column.]
 
 The change is saved automatically. The user will now have the new permissions the next time they visit that Space.
+
+**Related Topics:**
+- Learn about [managing user profiles](./managing-user-profiles.md) for member administration
+- Explore [content moderation](./content-moderation.md) to maintain community quality
+- Set up [space settings](./space-settings-&-privacy.md) to control access levels

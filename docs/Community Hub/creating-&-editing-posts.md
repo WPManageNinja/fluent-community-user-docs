@@ -49,3 +49,8 @@ To remove a post permanently, you can select **Delete** from the same three-dot 
 [Screenshot: The three-dot menu on a published post, with the "Edit" and "Delete" options visible.]
 
 Now that you know how to create and edit posts, explore more community features.
+
+**Next Steps:**
+- Learn about [using comments and replies](./using-comments-&-replies.md) to engage in discussions
+- Explore [post reactions and mentions](./post-reactions-&-mentions.md) for quick feedback
+- Set up [content moderation](./content-moderation.md) to maintain community quality

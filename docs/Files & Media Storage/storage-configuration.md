@@ -19,6 +19,11 @@ In the following articles, we will explore the different storage configurations 
 * **CDN & Image Proxy Setup (Pro):** Optimize file delivery speed for a global audience using a Content Delivery Network.
 * **Secure File URLs (Pro):** Protect your premium content by generating temporary, signed links for private files.
 
+**Get Started:**
+- Learn about [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community
+- Explore [course creation](../Courses%20&%20Learning%20(Pro)/creating-your-first-course.md) for learning content
+- Set up [portal settings](../Portal%20Settings/layout-&-appearance.md) to customize your platform
+
 ## Related Topics
 
 * **File Library:** [The File & Document Library (Pro)](./the-file-&-document-library-(pro).md) - Manage your community's files

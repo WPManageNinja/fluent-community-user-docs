@@ -29,3 +29,8 @@ Once Group Chat is enabled, members of that Space will see a new **Chat** tab in
 [Screenshot: The front-end view of a Space, showing the "Chat" tab next to "Feed" and "Members".]
 
 Clicking on this tab will open the chat interface, where all members of the Space can send messages, emojis, and GIFs in real-time. This provides a dynamic and engaging layer to your community, separate from the more structured posts in the main feed.
+
+**Related Features:**
+- Learn about [direct messaging](./direct-messaging-(pro).md) for private conversations
+- Explore [space settings](./space-settings-&-privacy.md) to control chat access
+- Set up [content moderation](./content-moderation.md) to manage chat interactions

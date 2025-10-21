@@ -35,3 +35,8 @@ The leaderboard page itself will show a ranked list of members, displaying their
 ## Resetting Leaderboards
 
 The Weekly and Monthly leaderboards reset automatically. The All-Time leaderboard is persistent, but as an administrator, you may have options in the Gamification settings to manually reset all points if you wish to start a new season of competition.
+
+**Related Topics:**
+- Learn about [configuring the points system](./configuring-the-points-system.md) to set up point values
+- Explore [creating and assigning badges](./creating-&-assigning-badges.md) to recognize achievements
+- Set up [automating level-ups](./automating-level-ups.md) for seamless progression

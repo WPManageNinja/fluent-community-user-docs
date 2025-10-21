@@ -46,3 +46,8 @@ You can also set up your system to award badges automatically when a user reache
 
 > **✨ Note:**
 > Once a badge is assigned, it will be displayed prominently on the member's profile card and next to their name, providing immediate recognition for their achievement throughout the community.
+
+**Related Topics:**
+- Learn about [configuring the points system](./configuring-the-points-system.md) to set up automatic rewards
+- Explore [setting up leaderboards](./setting-up-leaderboards.md) to showcase top contributors
+- Set up [automating level-ups](./automating-level-ups.md) for seamless progression

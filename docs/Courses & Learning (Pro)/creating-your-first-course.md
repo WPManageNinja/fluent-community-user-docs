@@ -38,3 +38,8 @@ This screen is where you will define the main details and branding for your cour
 Once you have filled in these initial details, click the **Create Course** (or **Update Course**) button to save it. Your course is now created, and you can begin adding lessons to it.
 
 Your course is created! Now build out the learning experience.
+
+**Next Steps:**
+- Learn about [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize your content
+- Explore [adding videos and attachments](./adding-videos-&-attachments.md) to enrich your lessons
+- Set up [course layouts and enrollment](./course-layouts-&-enrollment.md) to control access

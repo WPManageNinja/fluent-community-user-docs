@@ -41,3 +41,8 @@ To the right and below the main growth chart, you will find several feeds that h
 By centralizing this data, the dashboard ensures you can stay informed and make data-driven decisions quickly and efficiently.
 
 The Global Feed gives you a great overview of your community's health.
+
+**Related Topics:**
+- Learn about [creating and managing spaces](../Community%20Hub/creating-a-new-space.md) to organize discussions
+- Explore [analytics and tracking](../Portal%20Settings/the-analytics-dashboard.md) for deeper insights
+- Set up [content moderation](../Community%20Hub/content-moderation.md) to maintain community quality
