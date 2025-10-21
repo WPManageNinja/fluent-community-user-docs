@@ -5,44 +5,52 @@ description: Get familiar with the FluentCommunity Admin Dashboard. Learn how th
 
 # Global Feed
 
-Welcome to your community center! The FluentCommunity **Global Feed** is the first page you see when you navigate to the Portal. It is designed to be a highly efficient hub, giving you a real-time overview of your entire community's health and activity.
+Welcome to your community's command center! The Feed is the main homepage and the heart of your FluentCommunity. It's where all the activity, discussions, and content come together in one central place.
 
-> **Use Case:** Imagine it's Monday morning and you want a quick 60-second update on your community's weekend activity. You can load the dashboard to instantly see how many new members joined, which discussions are trending, and which spaces saw the most engagement, all from one screen.
+When your members log in, this is the first page they'll see. It's designed to give them a real-time overview of everything happening in the community.
 
----
+![Global Feed](/docs/public/images/getting-started/global-feed/global-feed.png)
 
-[Screenshot: A full view of the FluentCommunity Admin Dashboard, showing the main statistics and activity widgets.]
+Let's explore the key areas of this page:
 
-### Key Areas of the Dashboard
+1.  **The Top Header Bar**
 
-The dashboard is organized into several key widgets to give you the most important information upfront.
+    This bar provides access to your main community modules and personal account options.
 
-#### 1. At a Glance Statistics
+    * **Main Navigation:** Quickly jump to the different parts of your community: **Feed**, **Spaces**, **Courses**, **Members**, and **Leaderboard**.
+    * **Action Icons (Right Side):**
+        * **Light/Dark Mode:** Click the sun/moon icon to instantly toggle the community's appearance between light mode and dark mode.
+        * **Search:** Click the magnifying glass icon to search the entire community.
+        * **Notifications:** The bell icon lights up when you have new notifications (like replies, follows, or invites).
+        * **Messages:** The chat bubble icon takes you to your private messages.
+        * **Profile Menu:** Click your own profile avatar in the top-right corner to access your profile, account settings, or log out.
 
-At the very top of the page, you will find four summary boxes that display your most important, high-level metrics:
+2.  **The Left Sidebar (Navigation & Groups)**
 
-* **Total Members:** The total number of users in your community.
-* **Total Spaces:** The total number of spaces you have created.
-* **Total Posts:** The total number of posts across all spaces.
-* **Total Comments:** The total number of comments on all posts.
+    This sidebar is your community's main navigation menu, and it is fully customizable by the site administrator. It is organized into "Groups" that you create.
 
-#### 2. Member Growth Chart
+    * **Main Feed Link:** A static link that always takes members back to this main feed.
+    * **Custom Groups:** The sections with bold headings are "Space Groups" created by the admin to organize content. In a new community, you might see a "Get Started" group with links like "Start Here" or "Say Hello" to help you get oriented. Admins can create any number of groups and add links to Spaces, Courses, or any custom URL.
+    * **Group Content:** Inside each group, an admin can add direct links to:
+        * Spaces (e.g., "Announcement," "Marketers Space")
+        * Courses (e.g., "Learn Python")
+        * Custom Links (e.g., "Link 1," "Link 2")
+    * This group system allows you to organize your community's navigation in a way that makes the most sense for your members.
+    * **Settings & Admin:** At the very bottom, members will find icons to access their personal front-end **Settings** or *(if they are an admin)* return to the WordPress admin dashboard.
 
-This is a large line chart that visually tracks the number of new members who have joined your community over a specific time period. It's the best way to see your community's growth trend at a glance.
+3.  **The Main Feed (Center Column)**
 
-#### 3. Recent Activity & Top Contributors
+    This is the primary content area where all discussions appear.
 
-To the right and below the main growth chart, you will find several feeds that highlight the latest and most popular activity:
+    * **Create Post Box:** At the very top, you'll find the "Create Post" box. This is your tool for sharing updates, asking questions, and starting a new discussion. You can add a title, write your content, and select which Space to post in. *(For a detailed guide on all the posting options, please see the "Creating a New Post" documentation.)*
+    * **Feed Controls:**
+        * **Sort By Filter:** Just below the post box, members can sort their feed. By default, it's set to **Latest**, but they can also sort by most popular, oldest, following, and more.
+        * **View Toggle:** The icon next to the sort filter allows members to switch between a **List View** (standard) and a **Grid View**.
+    * **The Activity Feed:** This is the main, scrollable list of all posts. Members can see who posted, what they said, and interact by liking, commenting, or clicking the three-dot menu on a post for more options (like edit, delete, or report).
 
-* **Recent Posts:** A live list of the most recent posts from across all your spaces, showing who posted it and in which space.
-* **Top Active Members:** A ranked list of your most engaged members based on the number of posts they've created.
-* **Top Active Spaces:** A ranked list showing which of your spaces are generating the most discussion.
+4.  **The Right Sidebar (Discovery)**
 
-By centralizing this data, the dashboard ensures you can stay informed and make data-driven decisions quickly and efficiently.
+    This sidebar helps members discover popular and recent content, keeping them engaged.
 
-The Global Feed gives you a great overview of your community's health.
-
-**Related Topics:**
-- Learn about [creating and managing spaces](../Community%20Hub/creating-a-new-space.md) to organize discussions
-- Explore [analytics and tracking](../Portal%20Settings/the-analytics-dashboard.md) for deeper insights
-- Set up [content moderation](../Community%20Hub/content-moderation.md) to maintain community quality
+    * **Complete Your Profile:** New members will often see a prompt, like "Complete your profile (60%)", with a button. Clicking this encourages you to fill out your profile details, which helps other members get to know you.
+    * **Recent Activities:** This widget shows a live feed of the very latest actions in the community, such as new posts or comments.
