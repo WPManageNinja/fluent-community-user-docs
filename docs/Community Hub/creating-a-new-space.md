@@ -7,49 +7,103 @@ description: Learn how to create a new Space in FluentCommunity. A Space acts as
 
 In FluentCommunity, **Spaces** are the foundational building blocks of your community. Think of them as individual groups, forums, or hubs where members can gather to discuss a specific topic. You can create as many Spaces as you need.
 
-> **Use Case:** You could create a "General Discussion" space for all members, a private "Beta Testers" space for product feedback, and another "Beginner's Guide" space for new users to ask questions.
+**Use Case:** You could create a "General Discussion" space for all members, a private "Beta Testers" space for product feedback, and another "Beginner's Guide" space for new users to ask questions.
 
 ## How to Create a Space
 
-1.  From your WordPress dashboard, navigate to **FluentCommunity → Spaces**.
-2.  Click the **Create a Space** button at the top of the page. This will open the space creation screen.
+You can create a new space directly from the front-end of your community portal.
 
-    [Screenshot: The main "Spaces" screen in the admin dashboard, with the "Create a Space" button highlighted.]
+1.  From the main community header, click on the **Spaces** tab.
+2.  On the "All Spaces" page, click the **New Space** button in the top-right corner.
 
-This screen is divided into several tabs for configuration, which we will cover below.
+![The "All Spaces" page with the "New Space" button highlighted](/docs/public/images/community-hub/create-new-space/create-new-space-1.png)
 
-### Step 1: Basic Details
+This will launch the space creation wizard.
 
-In the **General** tab, you will set up the core identity of your Space.
+### Step 1: Choose a Space Type
 
-* **Space Name:** Enter a clear and descriptive name for your Space (e.g., "Product Announcements").
-* **Description:** Add a short description that explains the purpose of the Space. This is visible to members and helps them decide whether to join.
+The first step is to choose what kind of space you want to create.
 
-    [Screenshot: The "General" tab of the Space creation screen, showing the Name and Description fields.]
+!["Choose a Space Type" modal](/docs/public/images/community-hub/create-new-space/create-new-space-2.png)
 
-### Step 2: Customization
+* **Discussion Space:** This is the standard and most common space type, perfect for discussions, questions, and sharing content.
+* **Course:** This creates a dedicated space for a FluentCommunity course.
+* **Link (Pro):** This Pro feature allows you to create a space that links directly to an external URL.
 
-Switch to the **Customization** tab to set the visual branding for the Space.
+For this guide, we will select **Discussion Space** and click **Next**.
 
-* **Cover Photo:** Upload a cover photo that represents the Space's topic. This appears as a banner at the top of the Space.
-* **Space Photo / Logo:** Upload a smaller icon or logo for the Space. This is used in the main Spaces directory and other lists.
+### Step 2: Basic Info & Access Control
 
-    [Screenshot: The "Customization" tab showing the upload areas for the Cover Photo and Space Photo.]
+This is where you'll set up the core identity and privacy for your new space.
 
-### Step 3: Settings
+#### Basic Info
 
-Switch to the **Settings** tab to configure the privacy and behavior of the Space. This is a crucial step for controlling access.
+* **Space Title:** Enter a clear and descriptive name (e.g., "General Space"). You can also click the rocket icon to choose an emoji or icon for your space.
+* **Slug (optional):** This is the URL-friendly version of your title. It's usually created automatically, but you can set a custom one here (e.g., `general-space`).
+* **Description:** Add a short description that explains the purpose of the Space. This helps members decide whether to join.
+* **Menu Group:** This is a key navigation feature. You can select a "Space Group" (which you create in the admin panel) to add a direct link to this space in the main left sidebar of your community.
 
-* **Privacy Type:** Choose who can see and join this Space.
-    * **Public:** Anyone can see and join this space
-    * **Private:** Only members can see content, but the space appears in directories
-    * **Secret:** Completely hidden from non-members
+#### Access Control
 
-For detailed information about privacy settings, see [Space Settings & Privacy](./space-settings-&-privacy.md).
+This is a crucial step for controlling your space's privacy.
 
-Your space is now created!
+* **Privacy:** Choose who can see and join this Space.
+    * **Public:** Anyone can see the space, its members, and its posts. You can also check "Allow users to request to join this Space" if you want to approve members first.
+    * **Private:** The space is listed in the directory, but only members can see the content. When you select "Private," a new "Lock Screen Type" option appears:
+        * [**Custom Lock Screen:**](/docs/Community%20Hub/customizing-the-lockscreen.md) This lets you create a custom message or design for what non-members see when they land on this space.
+        * **Default Lock Screen:** This will show a standard, default message that the space is private.
+        * **Redirect to an URL (Pro):** This Pro feature lets you redirect non-members to a different page entirely (like a sales or landing page).
+    * **Secret:** The space is completely hidden and invisible to non-members. It can only be accessed via a direct link by members who have been invited.
+* **Who can view space members:** This dropdown lets you decide who can see the list of members in this space, with options like *Members Only*, *Admin/Moderators Only*, or *Anyone*.
+
+Once you have configured these settings, click **Continue**.
+
+![Create a Discussion Space - Basic Info](/docs/public/images/community-hub/create-new-space/create-new-space-3.png)
+
+### Step 3: Customization & Features
+
+This final step lets you control the look, feel, and powerful features of your new space.
+
+#### Features Customizations
+
+* **Only admin or moderators can create post:** Check this to create an "announcement-style" space where regular members can only read and comment, not start new posts.
+* **Show Right Sidebar on Space:** This is enabled by default. The sidebar shows the "About" and "Recent Activities" widgets inside the space.
+* **Hide Members count...:** This is a privacy option to hide the total number of members from the main spaces page (when members don't have access).
+* **Enable File/Document Library for this space:** This feature adds a dedicated "Files" tab to your space where members can upload and share documents.
+
+#### Default Post Sort By
+
+* Choose how posts are sorted by default for new visitors (e.g., **Latest Posts Sort**).
+* **Disable Post Sort By Options:** You can check this box to lock your choice and prevent members from changing the sort order themselves.
+
+#### Layout
+
+* **Default Layout Styles:** Choose whether the posts in this space are displayed as a **Timeline** (a standard feed) or a **List**.
+
+#### Others
+
+* **Topic navigation:** This is a powerful feature to categorize posts within your space. You can select up to 20 topics from the dropdown. Members can then filter the space feed by these topics.
+    * **New:** Click the **"+ New"** button to create a new topic from this window.
+    * **Manage all topics:** Click this link to go to the main topic management page.
+* **Make members select a topic:** Check this box to require members to choose a topic before they can create a new post in this space.
+
+#### Group Chat?
+
+* **Enable group chat for this space members:** Check this box to create a dedicated, real-time group chat room for all members of this space.
+
+* **Thumbnail / Open Graph Image (1200x630):** This is the image used on the "All Spaces" page and when the space is shared on social media.
+* **Featured Image (1600x500) - Optional:** This is the large "cover photo" or banner that will be shown at the top of the space's homepage.
+
+![Create a Discussion Space - Basic Info](/docs/public/images/community-hub/create-new-space/create-new-space-4.png)
+
+### Step 4: You're Done!
+
+Click the **Create** button.
+
+You will be taken directly to your new, fully configured space, ready for its first post!
 
 **Next Steps:**
-- Configure [space settings and privacy](./space-settings-&-privacy.md) to control access
-- Learn about [managing user roles](./assigning-user-roles.md) within your space
-- Explore [posts and discussions](./posts-&-discussions.md) to engage your members
+
+* Make your first post to welcome new members.
+* Invite members to join your new space.
+* If you're an admin, you can always change these settings later by clicking the three-dot menu on the space's homepage.
