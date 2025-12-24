@@ -3,57 +3,75 @@ title: Space Settings & Privacy
 description: Learn how to configure the privacy, layout, and member access settings for your Spaces in FluentCommunity, including public, private, and secret types.
 ---
 
-# Space Settings & Privacy
+# Space Settings
 
-Each Space you create in FluentCommunity comes with its own set of powerful settings, allowing you to control exactly who can see and interact with its content. This guide covers the key options available in the **Settings** tab when creating or editing a Space.
+Every Space in FluentCommunity is highly customizable, giving you granular control over its visibility, appearance, and functionality. This guide walks you through the General Settings tab, where you define how your Space operates and who can access it.
 
-> **Use Case:** You might want a "News & Announcements" space to be **Public** so everyone can read it, but a "Product Team" space to be **Secret** so that only specific team members can access its confidential discussions.
+> **Use Case:** You might set an "Announcements" space to be Public and use a List layout for clarity, while keeping a "Premium Mastermind" space Private and monetizing it via the Paywall tab.
 
 ## Accessing Space Settings
 
-You can configure these settings when you first create a space or edit them later.
+You can configure these settings when first creating a space or by editing an existing one.
 
-1.  To edit an existing space, navigate to **FluentCommunity → Spaces** from your WordPress dashboard.
-2.  Hover over the Space you wish to edit and click the **Edit** link.
-3.  Click on the **Settings** tab.
+1.  Navigate to **FluentCommunity → Spaces** from your WordPress dashboard.
+2.  Hover over the Space you wish to edit and click the **Settings** icon/link.
+3.  Ensure you are on the **General Settings** tab.
 
-[Screenshot: The "Settings" tab of a Space, showing the various configuration options.]
+![General Settings Panel](Developer-Space-Premium-Zoro-12-24-2025_03_39_PM.jpg)
 
-## Privacy Types
+## 1. General Information
 
-This is the most important setting for controlling access to your Space.
+This section defines the basic identity of your Space within the community.
 
-* **Public:**
-    * **Who can see it?** Everyone, including non-members and website visitors.
-    * **Who can post?** Only members of the Space.
-    * **Best for:** General discussions, announcements, or public-facing content.
+* **Space Title:** The name of your Space as it appears to members.
+* **Slug:** The URL extension for the Space (e.g., `yourcommunity.com/spaces/zzz`). You can click **Change** to customize this.
+* **Description:** A brief summary explaining what the Space is about.
+* **Menu Group:** Assign the Space to a specific sidebar group to keep your community navigation organized.
 
-* **Private:**
-    * **Who can see it?** The Space will appear in public directories, but its content is hidden.
-    * **Who can post?** Only members who have been approved to join the Space.
-    * **Best for:** Paid membership groups, special interest clubs, or support forums where you want to control who participates.
+## 2. Access Control & Privacy
 
-* **Secret:**
-    * **Who can see it?** The Space is completely invisible to non-members. It will not appear in any directories.
-    * **Who can post?** Only members who have been directly invited by an admin.
-    * **Best for:** Internal teams, confidential projects, or invite-only mastermind groups.
+This is the most critical section for managing member entry and monetization.
 
-## Layout & Appearance Settings
+### Privacy
+* **Public:** Visible to everyone; anyone can see the content, but only members can post.
+* **Private:** The Space name is visible in the directory, but content is hidden behind a Lock Screen. This is the required setting for using Paywalls.
+* **Secret:** Completely invisible to non-members; access is by invitation only.
 
-You can further customize the look and feel of each Space.
+### Lock Screen Type
+*(Visible when Private/Secret is selected)*
+* **Custom:** Use the drag-and-drop builder to create a unique sales page.
+* **Default:** Use the standard community lock screen.
+* **Redirect to an URL:** Send non-members to an external landing page.
 
-* **Default Layout Style:** Choose how the posts within the Space are displayed.
-    * **Grid:** A visual, card-based layout.
-    * **List:** A compact, title-focused list.
-* **Show Right Sidebar:** Use this toggle to show or hide the right sidebar, which typically contains widgets like trending posts.
-* **Show Member Count:** Use this toggle to show or hide the total number of members in the Space header.
+**Who can view space members:** Control privacy by choosing between Everyone, Members Only, or Admins Only.
 
-> **✨ Note:**
-> Hiding the sidebar and member count can create a cleaner, more focused reading experience, which is great for announcement-focused Spaces.
+## 3. Features Customizations
 
-With your Space's privacy and settings configured, the next step is to customize what non-members see when they try to access it. **Next Up:** [Customizing the Lockscreen](./customizing-the-lockscreen.md)
+Tailor the interactive features of your Space to fit your goals.
 
-**Related Topics:**
-- Learn about [assigning user roles](./assigning-user-roles.md) to manage member permissions
-- Explore [content moderation](./content-moderation.md) to maintain community quality
-- Set up [member profiles](./managing-user-profiles.md) for better member management
+* **Posting Permissions:** Toggle "Only admin or moderators can create post" to turn the space into a read-only announcement channel for regular members.
+* **Show Right Sidebar:** Enable or disable the sidebar to create either a feature-rich or a distraction-free environment.
+* **File/Document Library:** Enable this to give your members a dedicated place to upload and share resources.
+* **Default Post Sort By:** Choose how members first see content (e.g., Latest Posts, Top Posts, or Recently Active).
+
+## 4. Layout & Visuals
+
+Control how your content is presented and how the Space looks in the directory.
+
+### Default Layout Styles
+* **Timeline:** A traditional "feed" style, best for active discussions.
+* **List:** A compact view, perfect for organized resources or FAQs.
+
+### Additional Features
+* **Topic Navigation:** Create specific tags (Topics) so members can filter posts easily.
+* **Group Chat:** Enable a dedicated real-time chat window for members of this Space.
+
+### Thumbnail & Featured Image
+* **Thumbnail:** *(Recommended 1200 x 630)* Used for social sharing and the space card.
+* **Featured Image:** *(Recommended 1600 x 500)* Appears at the top of the Space homepage.
+
+---
+
+### ✨ Pro-Tip: Monetizing Your Space
+
+If you have set your Space to **Private**, you will see the **Paywalls** tab at the top of the page. This is where you can link your **FluentCart** products to charge for access. Once a product is added there, you can return to the Lock Screen tab to design your sales page.
