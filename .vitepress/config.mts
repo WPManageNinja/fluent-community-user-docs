@@ -21,10 +21,9 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Documentation', link: '/getting-started/introduction-fluentcommunity' },
-      { text: 'FluentCommunity', link: 'https://fluentcommunity.co/' },
-      { text: 'Support', link: '/help-&-resources/how-to-contact-support' },
-      { text: 'FAQ', link: '/help-&-resources/frequently-asked-questions' }
+      { text: 'User Docs', link: '/getting-started/introduction-fluentcommunity' },
+      { text: 'Website', link: 'https://fluentcommunity.co/' },
+      { text: 'Support', link: '/help-&-resources/how-to-contact-support' }
     ],
 
     sidebar: [
