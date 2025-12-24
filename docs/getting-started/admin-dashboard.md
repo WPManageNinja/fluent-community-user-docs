@@ -4,7 +4,7 @@ Welcome to the command center for your new community! After installing and activ
 
 This page is designed to be your central hub, giving you quick and easy access to all the most important settings and management areas for your community.
 
-![FluentCommunity admin dashboard](/docs/public/images/getting-started/admin-dashboard/admin-dashboard-1.png)
+![FluentCommunity admin dashboard](/images/getting-started/admin-dashboard/admin-dashboard-1.png)
 
 ## The Welcome Banner
 

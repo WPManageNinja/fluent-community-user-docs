@@ -16,7 +16,7 @@ You can create a new space directly from the front-end of your community portal.
 1.  From the main community header, click on the **Spaces** tab.
 2.  On the "All Spaces" page, click the **New Space** button in the top-right corner.
 
-![The "All Spaces" page with the "New Space" button highlighted](/docs/public/images/community-hub/create-new-space/create-new-space-1.png)
+![The "All Spaces" page with the "New Space" button highlighted](/images/community-hub/create-new-space/create-new-space-1.png)
 
 This will launch the space creation wizard.
 
@@ -24,7 +24,7 @@ This will launch the space creation wizard.
 
 The first step is to choose what kind of space you want to create.
 
-!["Choose a Space Type" modal](/docs/public/images/community-hub/create-new-space/create-new-space-2.png)
+!["Choose a Space Type" modal](/images/community-hub/create-new-space/create-new-space-2.png)
 
 * **Discussion Space:** This is the standard and most common space type, perfect for discussions, questions, and sharing content.
 * **Course:** This creates a dedicated space for a FluentCommunity course.
@@ -58,7 +58,7 @@ This is a crucial step for controlling your space's privacy.
 
 Once you have configured these settings, click **Continue**.
 
-![Create a Discussion Space - Basic Info](/docs/public/images/community-hub/create-new-space/create-new-space-3.png)
+![Create a Discussion Space - Basic Info](/images/community-hub/create-new-space/create-new-space-3.png)
 
 ### Step 3: Customization & Features
 
@@ -94,7 +94,7 @@ This final step lets you control the look, feel, and powerful features of your n
 * **Thumbnail / Open Graph Image (1200x630):** This is the image used on the "All Spaces" page and when the space is shared on social media.
 * **Featured Image (1600x500) - Optional:** This is the large "cover photo" or banner that will be shown at the top of the space's homepage.
 
-![Create a Discussion Space - Basic Info](/docs/public/images/community-hub/create-new-space/create-new-space-4.png)
+![Create a Discussion Space - Basic Info](/images/community-hub/create-new-space/create-new-space-4.png)
 
 ### Step 4: You're Done!
 

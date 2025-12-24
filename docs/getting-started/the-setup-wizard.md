@@ -14,7 +14,7 @@ The first step is to give your community its unique identity and brand.
 
 Click **Continue to Next** to proceed.
 
-![Onboarding Settings](/docs/public/images/getting-started/setup-wizard/onboarding-setup-wizard.png)
+![Onboarding Settings](/images/getting-started/setup-wizard/onboarding-setup-wizard.png)
 
 ## Step 2: Pick a Fluent Community Template
 
@@ -27,7 +27,7 @@ Next, you'll choose a template that best fits your community's goal. This helps 
 
 Select your preferred template and click **Continue to Next**.
 
-![Onboarding Settings](/docs/public/images/getting-started/setup-wizard/onboarding-setup-wizard-1.png)
+![Onboarding Settings](/images/getting-started/setup-wizard/onboarding-setup-wizard-1.png)
 
 ## Step 3: Access & Features
 
@@ -43,7 +43,7 @@ This final step helps you configure your community's privacy and enable powerful
 
 Click **Save & Finish** to complete the setup.
 
-![Onboarding Settings](/docs/public/images/getting-started/setup-wizard/onboarding-setup-wizard-2.png)
+![Onboarding Settings](/images/getting-started/setup-wizard/onboarding-setup-wizard-2.png)
 
 ## What's Next?
 
