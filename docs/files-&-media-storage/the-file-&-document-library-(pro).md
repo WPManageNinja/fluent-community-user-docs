@@ -51,4 +51,4 @@ For greater control, you can restrict who can see specific files or folders. Thi
 **Related Topics:**
 - Learn about [storage configuration](./storage-configuration.md) for file management options
 - Explore [secure file URLs](./secure-file-urls-(pro).md) to protect premium content
-- Set up [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community
+- Set up [creating spaces](../community-hub/creating-a-new-space.md) to organize your community

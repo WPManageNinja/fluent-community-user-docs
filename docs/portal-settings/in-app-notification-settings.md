@@ -31,5 +31,5 @@ Each member can typically access their own notification settings from their prof
 
 **Related Topics:**
 - Learn about [customizing email templates](./customizing-email-templates-(pro).md) for email notifications
-- Explore [managing user profiles](../Community%20Hub/managing-user-profiles.md) for member administration
+- Explore [managing user profiles](../community-hub/managing-user-profiles.md) for member administration
 - Set up [communication settings](./communication.md) to configure notifications

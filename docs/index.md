@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: User Docs
-      link: /docs/Getting Started/introduction-fluentcommunity.md
+      link: /getting-started/introduction-fluentcommunity
     - theme: alt
       text: Dev Docs
       link: /
@@ -17,20 +17,20 @@ hero:
 features:
   - title: 🚀 Getting Started
     details: Learn the basics of FluentCommunity - installation, setup wizard, admin dashboard, and understanding the module system.
-    link: /docs/Getting Started/introduction-fluentcommunity.md
+    link: /getting-started/introduction-fluentcommunity
   - title: 🏘️ Community Hub
     details: Master community features including spaces, posts, members, profiles, and real-time chat functionality.
-    link: /docs/Community Hub/creating-a-new-space.md
+    link: /community-hub/creating-a-new-space
   - title: 🎓 Courses & Learning
     details: Create and manage courses, lessons, quizzes, and student tools for comprehensive learning experiences.
-    link: /docs/Courses & Learning (Pro)/creating-your-first-course.md
+    link: /courses-&-learning-(pro)/creating-your-first-course
   - title: ⚙️ Portal Settings
     details: Configure layout, appearance, communication settings, analytics, and customize your community platform.
-    link: /docs/Portal Settings/layout-&-appearance.md
+    link: /portal-settings/layout-&-appearance
   - title: 🔗 Integrations
     details: Connect with Fluent ecosystem tools, payment systems, automation tools, and other third-party services.
-    link: /docs/Integrations/fluent-ecosystem.md
+    link: /Integrations/fluent-ecosystem
   - title: ❓ Help & Resources
     details: Find answers to common questions, troubleshooting guides, and get support for your FluentCommunity setup.
-    link: /docs/Help & Resources/frequently-asked-questions.md
+    link: /help-&-resources/frequently-asked-questions
 ---

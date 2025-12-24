@@ -48,4 +48,4 @@ Click **Save Feed** to activate the integration. Now, whenever a user successful
 **Related Topics:**
 - Learn about [connecting with FluentCRM](./connecting-with-fluentcrm.md) for email automation
 - Explore [connecting with Paymattic](./connecting-with-paymattic.md) for monetization
-- Set up [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community
+- Set up [creating spaces](../community-hub/creating-a-new-space.md) to organize your community

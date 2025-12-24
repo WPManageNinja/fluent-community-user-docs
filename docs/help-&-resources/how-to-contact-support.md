@@ -46,9 +46,9 @@ Before contacting support, make sure you've checked these resources:
 * **FAQ:** [Frequently Asked Questions](./frequently-asked-questions.md) - Common questions and answers
 * **Troubleshooting:** [Troubleshooting Common Issues](./troubleshooting-common-issues.md) - Solutions to frequent problems
 * **Documentation:** Browse our complete documentation for step-by-step guides
-* **Admin Dashboard:** [Admin Dashboard](../Getting%20Started/admin-dashboard.md) - Check your plugin status and version
+* **Admin Dashboard:** [Admin Dashboard](../getting-started/admin-dashboard.md) - Check your plugin status and version
 
 **Get Started:**
-- Learn about [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community
-- Explore [admin dashboard](../Getting%20Started/admin-dashboard.md) to understand your controls
-- Set up [content moderation](../Community%20Hub/content-moderation.md) to maintain quality
+- Learn about [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
+- Explore [admin dashboard](../getting-started/admin-dashboard.md) to understand your controls
+- Set up [content moderation](../community-hub/content-moderation.md) to maintain quality

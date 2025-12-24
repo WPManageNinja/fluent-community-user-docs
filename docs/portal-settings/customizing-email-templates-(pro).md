@@ -41,4 +41,4 @@ It's important to remember that individual members can also control their own em
 **Related Topics:**
 - Learn about [in-app notification settings](./in-app-notification-settings.md) for real-time alerts
 - Explore [communication settings](./communication.md) to configure notifications
-- Set up [managing user profiles](../Community%20Hub/managing-user-profiles.md) for member administration
+- Set up [managing user profiles](../community-hub/managing-user-profiles.md) for member administration

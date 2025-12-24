@@ -32,5 +32,5 @@ By regularly reviewing these analytics, you can get a clear, data-driven picture
 
 **Related Topics:**
 - Learn about [tracking community growth](./tracking-community-growth.md) for deeper insights
-- Explore [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize discussions
-- Set up [content moderation](../Community%20Hub/content-moderation.md) to maintain quality
+- Explore [creating spaces](../community-hub/creating-a-new-space.md) to organize discussions
+- Set up [content moderation](../community-hub/content-moderation.md) to maintain quality

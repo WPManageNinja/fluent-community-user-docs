@@ -20,11 +20,11 @@ FluentCommunity is designed for a wide range of users and businesses. You'll fin
 
 FluentCommunity is packed with features designed to help you build and manage your community effectively. Here are some of the core components:
 
-* **Spaces:** These are the heart of your community. Create unlimited public, private, or secret spaces to organize discussions by topic, group, or access level. Learn more about [creating spaces](../Community%20Hub/creating-a-new-space.md) and [space settings](../Community%20Hub/space-settings-&-privacy.md).
-* **Posts & Discussions:** A rich activity feed where members can create posts, share updates, ask questions, and interact with each other through comments, replies, and reactions. Explore [creating posts](../Community%20Hub/creating-&-editing-posts.md) and [using comments](../Community%20Hub/using-comments-&-replies.md).
-* **Member Profiles:** Customizable member profiles and a complete member directory, allowing users to connect and learn more about each other. Learn about [managing profiles](../Community%20Hub/managing-user-profiles.md) and [the member directory](../Community%20Hub/the-member-directory.md).
-* **Courses (LMS):** A built-in Learning Management System that lets you create and offer courses with lessons and quizzes directly within your community. Get started with [creating your first course](../Courses%20&%20Learning%20(Pro)/creating-your-first-course.md).
-* **Gamification:** Boost engagement with a powerful gamification system. Award points for activities, create badges, and display leaderboards to encourage participation. Learn about [configuring the points system](../Gamification%20(Pro)/configuring-the-points-system.md).
+* **Spaces:** These are the heart of your community. Create unlimited public, private, or secret spaces to organize discussions by topic, group, or access level. Learn more about [creating spaces](../community-hub/creating-a-new-space.md) and [space settings](../community-hub/space-settings-&-privacy.md).
+* **Posts & Discussions:** A rich activity feed where members can create posts, share updates, ask questions, and interact with each other through comments, replies, and reactions. Explore [creating posts](../community-hub/creating-&-editing-posts.md) and [using comments](../community-hub/using-comments-&-replies.md).
+* **Member Profiles:** Customizable member profiles and a complete member directory, allowing users to connect and learn more about each other. Learn about [managing profiles](../community-hub/managing-user-profiles.md) and [the member directory](../community-hub/the-member-directory.md).
+* **Courses (LMS):** A built-in Learning Management System that lets you create and offer courses with lessons and quizzes directly within your community. Get started with [creating your first course](../courses-&-learning-(pro)/creating-your-first-course.md).
+* **Gamification:** Boost engagement with a powerful gamification system. Award points for activities, create badges, and display leaderboards to encourage participation. Learn about [configuring the points system](../gamification-(pro)/configuring-the-points-system.md).
 * **Powerful Integrations:** FluentCommunity works seamlessly with the entire Fluent Ecosystem (FluentCRM, Fluent Forms, Fluent Support, Paymattic) for unparalleled automation and power. Explore the [Fluent ecosystem](../Integrations/fluent-ecosystem.md).
 
 ## What Makes FluentCommunity Different?
@@ -35,6 +35,6 @@ FluentCommunity is packed with features designed to help you build and manage yo
 
 ## Getting Started
 
-Now that you have an overview of what FluentCommunity can do, you're ready to start building. The best place to begin is by exploring your [Admin Dashboard](./admin-dashboard.md) or creating your very first [Space](../Community%20Hub/creating-a-new-space.md).
+Now that you have an overview of what FluentCommunity can do, you're ready to start building. The best place to begin is by exploring your [Admin Dashboard](./admin-dashboard.md) or creating your very first [Space](../community-hub/creating-a-new-space.md).
 
 Dive into our other guides to learn how to configure and customize your new community!

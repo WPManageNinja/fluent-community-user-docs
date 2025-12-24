@@ -19,4 +19,4 @@ In the following articles, we will explore the different communication channels:
 **Related Topics:**
 - Learn about [layout and appearance](./layout-&-appearance.md) to customize your portal
 - Explore [analytics](./the-analytics-dashboard.md) to track engagement
-- Set up [content moderation](../Community%20Hub/content-moderation.md) to maintain quality
+- Set up [content moderation](../community-hub/content-moderation.md) to maintain quality

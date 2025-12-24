@@ -75,12 +75,12 @@ This action makes FluentCommunity the "live" and primary community engine for yo
 
 Congratulations! Your data is migrated. Here are the recommended next steps to get your new community ready for your members.
 
-* **Configure Your Spaces:** Go through each imported Space and review its settings. FluentCommunity has unique and powerful controls for privacy, content, and member permissions that you'll want to configure. Learn about [space settings](../Community%20Hub/space-settings-&-privacy.md).
-* **Customize Your Portal:** This is the fun part! Visit **FluentCommunity → Customization** to apply your brand's colors, logos, and layout preferences to your new community. Explore [layout and appearance](../Portal%20Settings/layout-&-appearance.md) options.
+* **Configure Your Spaces:** Go through each imported Space and review its settings. FluentCommunity has unique and powerful controls for privacy, content, and member permissions that you'll want to configure. Learn about [space settings](../community-hub/space-settings-&-privacy.md).
+* **Customize Your Portal:** This is the fun part! Visit **FluentCommunity → Customization** to apply your brand's colors, logos, and layout preferences to your new community. Explore [layout and appearance](../portal-settings/layout-&-appearance.md) options.
 * **Check Your Permalinks:** Go to **Settings → Permalinks** in WordPress and click "Save Changes" (even if you don't change anything). This simple action rebuilds your site's URL structure and is essential for ensuring all your new community pages load correctly.
 * **Announce the Upgrade to Your Members:** Your community will look and feel different—and much faster! Prepare your members for the change. Let them know about the new platform and highlight the benefits of the new, improved experience.
 
 **Next Steps:**
-- Learn about [creating new spaces](../Community%20Hub/creating-a-new-space.md) to expand your community
-- Explore [member management](../Community%20Hub/managing-user-profiles.md) features
-- Set up [content moderation](../Community%20Hub/content-moderation.md) to maintain quality
+- Learn about [creating new spaces](../community-hub/creating-a-new-space.md) to expand your community
+- Explore [member management](../community-hub/managing-user-profiles.md) features
+- Set up [content moderation](../community-hub/content-moderation.md) to maintain quality

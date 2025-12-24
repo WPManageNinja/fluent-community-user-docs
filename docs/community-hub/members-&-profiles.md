@@ -37,6 +37,6 @@ In the following articles, we will walk you through how to use each of these fea
 * **Chat Moderation:** [Moderating Chat Users (Pro)](./moderating-chat-users-(pro).md) - Manage chat interactions
 
 **Getting Started:**
-- Learn about [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community
-- Explore [content moderation](../Community%20Hub/content-moderation.md) to maintain quality
-- Set up [gamification](../Gamification%20(Pro)/configuring-the-points-system.md) to encourage engagement
+- Learn about [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
+- Explore [content moderation](../community-hub/content-moderation.md) to maintain quality
+- Set up [gamification](../gamification-(pro)/configuring-the-points-system.md) to encourage engagement

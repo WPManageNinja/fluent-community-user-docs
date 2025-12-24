@@ -45,4 +45,4 @@ After configuring the webhook, click **Save Webhook**. Now, every time the selec
 **Related Topics:**
 - Learn about [connecting with FluentCRM](./connecting-with-fluentcrm.md) for email automation
 - Explore [connecting with Fluent Forms](./connecting-with-fluent-forms.md) for custom registration
-- Set up [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community
+- Set up [creating spaces](../community-hub/creating-a-new-space.md) to organize your community

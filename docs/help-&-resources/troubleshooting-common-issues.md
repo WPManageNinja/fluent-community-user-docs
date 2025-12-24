@@ -23,4 +23,4 @@ If you have enabled a Pro module like Gamification or Courses but don't see the 
 **Related Topics:**
 - Learn about [contacting support](./how-to-contact-support.md) for additional help
 - Explore [frequently asked questions](./frequently-asked-questions.md) for common solutions
-- Check [admin dashboard](../Getting%20Started/admin-dashboard.md) for plugin status
+- Check [admin dashboard](../getting-started/admin-dashboard.md) for plugin status

@@ -16,7 +16,7 @@ In the following articles, we will cover how to customize key display elements:
 * **Adding Custom Sidebar Links:** Learn how to add your own links to the main community sidebar to direct users to important pages.
 
 **Get Started:**
-- Learn about [creating spaces](../Community%20Hub/creating-a-new-space.md) to organize your community
+- Learn about [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
 - Explore [communication settings](./communication.md) to configure notifications
 - Set up [analytics](./the-analytics-dashboard.md) to track community performance
 
