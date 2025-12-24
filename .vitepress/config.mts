@@ -8,6 +8,27 @@ export default defineConfig({
 
   head: [
     ['link', { rel: 'shortcut icon', type: 'image/png', href: '/images/brand/main_icon.png' }],
+    ['style', {}, `
+      .VPHomeHero {
+        text-align: center !important;
+      }
+      .VPHomeHero .name,
+      .VPHomeHero .text,
+      .VPHomeHero .tagline,
+      .VPHomeHero .clip {
+        text-align: center !important;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .VPHomeHero .actions {
+        justify-content: center !important;
+        display: flex !important;
+      }
+      .VPHomeHero .container {
+        text-align: center !important;
+      }
+    `],
   ],
 
   // Theme related configurations
@@ -211,20 +232,8 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/wpmanageninja' },
-      { icon: 'twitter', link: 'https://twitter.com/wpmanageninja' },
-      { icon: 'facebook', link: 'https://facebook.com/wpmanageninja' }
-    ],
-
     footer: {
-        message: 'Released under the GPL-2.0 License.',
-        copyright: 'Copyright © 2024-present WPManageNinja'
+        copyright: 'Copyright © 2025-present WPManageNinja'
     },
-    
-    editLink: {
-      pattern: 'https://github.com/your-repo/your-docs/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
-    }
   }
 })
