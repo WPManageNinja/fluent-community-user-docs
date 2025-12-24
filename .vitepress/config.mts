@@ -21,21 +21,21 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Documentation', link: '/docs/getting-started/introduction-fluentcommunity.md' },
+      { text: 'Documentation', link: '/getting-started/introduction-fluentcommunity' },
       { text: 'FluentCommunity', link: 'https://fluentcommunity.co/' },
-      { text: 'Support', link: '/docs/help-&-resources/how-to-contact-support.md' },
-      { text: 'FAQ', link: '/docs/help-&-resources/frequently-asked-questions.md' }
+      { text: 'Support', link: '/help-&-resources/how-to-contact-support' },
+      { text: 'FAQ', link: '/help-&-resources/frequently-asked-questions' }
     ],
 
     sidebar: [
       {
         text: 'Getting Started',
         items: [
-          { text: 'Introduction', link: '/docs/getting-started/introduction-fluentcommunity.md' },
-          { text: 'Installation & Activation', link: '/docs/getting-started/installation-&-activation.md' },
-          { text: 'The Setup Wizard', link: '/docs/getting-started/the-setup-wizard.md' },
-          { text: 'Admin Dashboard', link: '/docs/getting-started/admin-dashboard.md' },
-          { text: 'Global Feed', link: '/docs/getting-started/global-feed.md' },
+          { text: 'Introduction', link: '/getting-started/introduction-fluentcommunity' },
+          { text: 'Installation & Activation', link: '/getting-started/installation-&-activation' },
+          { text: 'The Setup Wizard', link: '/getting-started/the-setup-wizard' },
+          { text: 'Admin Dashboard', link: '/getting-started/admin-dashboard' },
+          { text: 'Global Feed', link: '/getting-started/global-feed' },
         ]
       },
       {
@@ -45,32 +45,32 @@ export default defineConfig({
             text: 'Spaces & Group Chat',
             collapsed: true,
             items: [
-              { text: 'Creating a New Space', link: '/docs/community-hub/creating-a-new-space.md' },
-              { text: 'Space Settings & Privacy', link: '/docs/community-hub/space-settings-&-privacy.md' },
-              { text: 'Customizing the Lockscreen', link: '/docs/community-hub/customizing-the-lockscreen.md' },
-              { text: 'Using Group Chat (Pro)', link: '/docs/community-hub/using-group-chat-(pro).md' },
+              { text: 'Creating a New Space', link: '/community-hub/creating-a-new-space' },
+              { text: 'Space Settings & Privacy', link: '/community-hub/space-settings-&-privacy' },
+              { text: 'Customizing the Lockscreen', link: '/community-hub/customizing-the-lockscreen' },
+              { text: 'Using Group Chat (Pro)', link: '/community-hub/using-group-chat-(pro)' },
             ]
           },
           {
             text: 'Posts & Discussions',
             collapsed: true,
             items: [
-              { text: 'Creating & Editing Posts', link: '/docs/community-hub/creating-&-editing-posts.md' },
-              { text: 'Using Comments & Replies', link: '/docs/community-hub/using-comments-&-replies.md' },
-              { text: 'Post Reactions & Mentions', link: '/docs/community-hub/post-reactions-&-mentions.md' },
-              { text: 'Using Emojis & GIFs (Pro)', link: '/docs/community-hub/using-emojis-&-gifs-(pro).md' },
-              { text: 'Content Moderation', link: '/docs/community-hub/content-moderation.md' },
+              { text: 'Creating & Editing Posts', link: '/community-hub/creating-&-editing-posts' },
+              { text: 'Using Comments & Replies', link: '/community-hub/using-comments-&-replies' },
+              { text: 'Post Reactions & Mentions', link: '/community-hub/post-reactions-&-mentions' },
+              { text: 'Using Emojis & GIFs (Pro)', link: '/community-hub/using-emojis-&-gifs-(pro)' },
+              { text: 'Content Moderation', link: '/community-hub/content-moderation' },
             ]
           },
           {
             text: 'Members & Profiles',
             collapsed: true,
             items: [
-              { text: 'The Member Directory', link: '/docs/community-hub/the-member-directory.md' },
-              { text: 'Managing User Profiles', link: '/docs/community-hub/managing-user-profiles.md' },
-              { text: 'Assigning User Roles', link: '/docs/community-hub/assigning-user-roles.md' },
-              { text: 'Direct Messaging (Pro)', link: '/docs/community-hub/direct-messaging-(pro).md' },
-              { text: 'Moderating Chat Users (Pro)', link: '/docs/community-hub/moderating-chat-users-(pro).md' },
+              { text: 'The Member Directory', link: '/community-hub/the-member-directory' },
+              { text: 'Managing User Profiles', link: '/community-hub/managing-user-profiles' },
+              { text: 'Assigning User Roles', link: '/community-hub/assigning-user-roles' },
+              { text: 'Direct Messaging (Pro)', link: '/community-hub/direct-messaging-(pro)' },
+              { text: 'Moderating Chat Users (Pro)', link: '/community-hub/moderating-chat-users-(pro)' },
             ]
           },
         ]
@@ -78,10 +78,10 @@ export default defineConfig({
       {
         text: 'Gamification (Pro)',
         items: [
-          { text: 'Configuring the Points System', link: '/docs/gamification-(pro)/configuring-the-points-system.md' },
-          { text: 'Setting Up Leaderboards', link: '/docs/gamification-(pro)/setting-up-leaderboards.md' },
-          { text: 'Creating & Assigning Badges', link: '/docs/gamification-(pro)/creating-&-assigning-badges.md' },
-          { text: 'Automating Level-Ups', link: '/docs/gamification-(pro)/automating-level-ups.md' },
+          { text: 'Configuring the Points System', link: '/gamification-(pro)/configuring-the-points-system' },
+          { text: 'Setting Up Leaderboards', link: '/gamification-(pro)/setting-up-leaderboards' },
+          { text: 'Creating & Assigning Badges', link: '/gamification-(pro)/creating-&-assigning-badges' },
+          { text: 'Automating Level-Ups', link: '/gamification-(pro)/automating-level-ups' },
         ]
       },
       {
@@ -91,18 +91,18 @@ export default defineConfig({
             text: 'Course Management',
             collapsed: true,
             items: [
-              { text: 'Creating Your First Course', link: '/docs/courses-&-learning-(pro)/creating-your-first-course.md' },
-              { text: 'Structuring Lessons & Modules', link: '/docs/courses-&-learning-(pro)/structuring-lessons-&-modules.md' },
-              { text: 'Course Layouts & Enrollment', link: '/docs/courses-&-learning-(pro)/course-layouts-&-enrollment.md' },
-              { text: 'Adding Videos & Attachments', link: '/docs/courses-&-learning-(pro)/adding-videos-&-attachments.md' },
+              { text: 'Creating Your First Course', link: '/courses-&-learning-(pro)/creating-your-first-course' },
+              { text: 'Structuring Lessons & Modules', link: '/courses-&-learning-(pro)/structuring-lessons-&-modules' },
+              { text: 'Course Layouts & Enrollment', link: '/courses-&-learning-(pro)/course-layouts-&-enrollment' },
+              { text: 'Adding Videos & Attachments', link: '/courses-&-learning-(pro)/adding-videos-&-attachments' },
             ]
           },
           {
             text: 'Student Tools',
             collapsed: true,
             items: [
-              { text: 'Enabling Lesson Previews', link: '/docs/courses-&-learning-(pro)/enabling-lesson-previews.md' },
-              { text: 'Using the Quiz Module', link: '/docs/courses-&-learning-(pro)/using-the-quiz-module.md' },
+              { text: 'Enabling Lesson Previews', link: '/courses-&-learning-(pro)/enabling-lesson-previews' },
+              { text: 'Using the Quiz Module', link: '/courses-&-learning-(pro)/using-the-quiz-module' },
             ]
           },
         ]
@@ -110,16 +110,16 @@ export default defineConfig({
       {
         text: 'Files & Media Storage',
         items: [
-          { text: 'The File & Document Library (Pro)', link: '/docs/files-&-media-storage/the-file-&-document-library-(pro).md' },
+          { text: 'The File & Document Library (Pro)', link: '/files-&-media-storage/the-file-&-document-library-(pro)' },
           {
             text: 'Storage Configuration',
             collapsed: true,
             items: [
-              { text: 'Using the Local Server', link: '/docs/files-&-media-storage/using-the-local-server.md' },
-              { text: 'Connecting Amazon S3 (Pro)', link: '/docs/files-&-media-storage/connecting-amazon-s3-(pro).md' },
-              { text: 'Connecting Cloudflare R2 (Pro)', link: '/docs/files-&-media-storage/connecting-cloudflare-r2-(pro).md' },
-              { text: 'CDN & Image Proxy Setup (Pro)', link: '/docs/files-&-media-storage/cdn-&-image-proxy-setup-(pro).md' },
-              { text: 'Secure File URLs (Pro)', link: '/docs/files-&-media-storage/secure-file-urls-(pro).md' },
+              { text: 'Using the Local Server', link: '/files-&-media-storage/using-the-local-server' },
+              { text: 'Connecting Amazon S3 (Pro)', link: '/files-&-media-storage/connecting-amazon-s3-(pro)' },
+              { text: 'Connecting Cloudflare R2 (Pro)', link: '/files-&-media-storage/connecting-cloudflare-r2-(pro)' },
+              { text: 'CDN & Image Proxy Setup (Pro)', link: '/files-&-media-storage/cdn-&-image-proxy-setup-(pro)' },
+              { text: 'Secure File URLs (Pro)', link: '/files-&-media-storage/secure-file-urls-(pro)' },
             ]
           },
         ]
@@ -131,23 +131,23 @@ export default defineConfig({
             text: 'Layout & Appearance',
             collapsed: true,
             items: [
-              { text: 'Adding Custom Sidebar Links', link: '/docs/portal-settings/adding-custom-sidebar-links.md' },
+              { text: 'Adding Custom Sidebar Links', link: '/portal-settings/adding-custom-sidebar-links' },
             ]
           },
           {
             text: 'Communication',
             collapsed: true,
             items: [
-              { text: 'In-App Notification Settings', link: '/docs/portal-settings/in-app-notification-settings.md' },
-              { text: 'Customizing Email Templates (Pro)', link: '/docs/portal-settings/customizing-email-templates-(pro).md' },
+              { text: 'In-App Notification Settings', link: '/portal-settings/in-app-notification-settings' },
+              { text: 'Customizing Email Templates (Pro)', link: '/portal-settings/customizing-email-templates-(pro)' },
             ]
           },
           {
             text: 'Analytics (Pro)',
             collapsed: true,
             items: [
-              { text: 'The Analytics Dashboard', link: '/docs/portal-settings/the-analytics-dashboard.md' },
-              { text: 'Tracking Community Growth', link: '/docs/portal-settings/tracking-community-growth.md' },
+              { text: 'The Analytics Dashboard', link: '/portal-settings/the-analytics-dashboard' },
+              { text: 'Tracking Community Growth', link: '/portal-settings/tracking-community-growth' },
             ]
           },
         ]
@@ -159,23 +159,23 @@ export default defineConfig({
             text: 'Fluent Ecosystem',
             collapsed: true,
             items: [
-              { text: 'Connecting with FluentCRM', link: '/docs/Integrations/connecting-with-fluentcrm.md' },
-              { text: 'Connecting with Fluent Forms', link: '/docs/Integrations/connecting-with-fluent-forms.md' },
-              { text: 'Connecting with Fluent Support', link: '/docs/Integrations/connecting-with-fluent-support.md' },
+              { text: 'Connecting with FluentCRM', link: '/integrations/connecting-with-fluentcrm' },
+              { text: 'Connecting with Fluent Forms', link: '/integrations/connecting-with-fluent-forms' },
+              { text: 'Connecting with Fluent Support', link: '/integrations/connecting-with-fluent-support' },
             ]
           },
           {
             text: 'Payments & Monetization',
             collapsed: true,
             items: [
-              { text: 'Connecting with Paymattic', link: '/docs/Integrations/connecting-with-paymattic.md' },
+              { text: 'Connecting with Paymattic', link: '/integrations/connecting-with-paymattic' },
             ]
           },
           {
             text: 'Automation Tools',
             collapsed: true,
             items: [
-              { text: 'Using Webhooks (Pro)', link: '/docs/Integrations/using-webhooks-(pro).md' },
+              { text: 'Using Webhooks (Pro)', link: '/integrations/using-webhooks-(pro)' },
             ]
           },
           {
@@ -190,24 +190,24 @@ export default defineConfig({
       {
         text: 'Migration',
         items: [
-        { text: 'BuddyPress Migration', link: '/docs/migration/buddypress-migration.md' },
-        { text: 'Buddyboss Migration', link: '/docs/migration/buddyboss-migration.md' },
+        { text: 'BuddyPress Migration', link: '/migration/buddypress-migration' },
+        { text: 'Buddyboss Migration', link: '/migration/buddyboss-migration' },
         ]
       },
       {
         text: 'Help & Resources',
         items: [
-          { text: 'Frequently Asked Questions', link: '/docs/help-&-resources/frequently-asked-questions.md' },
-          { text: 'Troubleshooting Common Issues', link: '/docs/help-&-resources/troubleshooting-common-issues.md' },
-          { text: 'How to Contact Support', link: '/docs/help-&-resources/how-to-contact-support.md' },
+          { text: 'Frequently Asked Questions', link: '/help-&-resources/frequently-asked-questions' },
+          { text: 'Troubleshooting Common Issues', link: '/help-&-resources/troubleshooting-common-issues' },
+          { text: 'How to Contact Support', link: '/help-&-resources/how-to-contact-support' },
         ]
       },
       {
         text: 'For Developers',
         items: [
-          { text: 'Using the REST API', link: '/docs/for-developers/using-the-rest-api.md' },
-          { text: 'Hooks & Filters Reference', link: '/docs/for-developers/hooks-&-filters-reference.md' },
-          { text: 'Adding Custom CSS', link: '/docs/for-developers/adding-custom-css.md' },
+          { text: 'Using the REST API', link: '/for-developers/using-the-rest-api' },
+          { text: 'Hooks & Filters Reference', link: '/for-developers/hooks-&-filters-reference' },
+          { text: 'Adding Custom CSS', link: '/for-developers/adding-custom-css' },
         ]
       }
     ],

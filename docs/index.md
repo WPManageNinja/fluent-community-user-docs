@@ -29,7 +29,7 @@ features:
     link: /portal-settings/layout-&-appearance
   - title: 🔗 Integrations
     details: Connect with Fluent ecosystem tools, payment systems, automation tools, and other third-party services.
-    link: /Integrations/fluent-ecosystem
+    link: /integrations/fluent-ecosystem
   - title: ❓ Help & Resources
     details: Find answers to common questions, troubleshooting guides, and get support for your FluentCommunity setup.
     link: /help-&-resources/frequently-asked-questions

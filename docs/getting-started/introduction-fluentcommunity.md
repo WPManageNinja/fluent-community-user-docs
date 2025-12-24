@@ -25,13 +25,13 @@ FluentCommunity is packed with features designed to help you build and manage yo
 * **Member Profiles:** Customizable member profiles and a complete member directory, allowing users to connect and learn more about each other. Learn about [managing profiles](../community-hub/managing-user-profiles.md) and [the member directory](../community-hub/the-member-directory.md).
 * **Courses (LMS):** A built-in Learning Management System that lets you create and offer courses with lessons and quizzes directly within your community. Get started with [creating your first course](../courses-&-learning-(pro)/creating-your-first-course.md).
 * **Gamification:** Boost engagement with a powerful gamification system. Award points for activities, create badges, and display leaderboards to encourage participation. Learn about [configuring the points system](../gamification-(pro)/configuring-the-points-system.md).
-* **Powerful Integrations:** FluentCommunity works seamlessly with the entire Fluent Ecosystem (FluentCRM, Fluent Forms, Fluent Support, Paymattic) for unparalleled automation and power. Explore the [Fluent ecosystem](../Integrations/fluent-ecosystem.md).
+* **Powerful Integrations:** FluentCommunity works seamlessly with the entire Fluent Ecosystem (FluentCRM, Fluent Forms, Fluent Support, Paymattic) for unparalleled automation and power. Explore the [Fluent ecosystem](../integrations/fluent-ecosystem.md).
 
 ## What Makes FluentCommunity Different?
 
 * **Blazing-Fast Performance:** Built with modern technology, FluentCommunity is optimized for speed, ensuring a smooth and responsive experience for your members.
 * **Modular by Design:** It's incredibly lightweight. You can enable only the features you need, keeping your site fast and bloat-free.
-* **Deep Fluent Ecosystem Integration:** The true power of FluentCommunity is unlocked when used with other Fluent plugins, allowing you to create automated workflows that are simply not possible with other tools. Learn more about [Fluent ecosystem integrations](../Integrations/fluent-ecosystem.md).
+* **Deep Fluent Ecosystem Integration:** The true power of FluentCommunity is unlocked when used with other Fluent plugins, allowing you to create automated workflows that are simply not possible with other tools. Learn more about [Fluent ecosystem integrations](../integrations/fluent-ecosystem.md).
 
 ## Getting Started
 
