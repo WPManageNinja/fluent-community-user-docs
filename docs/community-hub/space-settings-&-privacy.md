@@ -5,7 +5,7 @@ description: Learn how to configure the privacy, layout, and member access setti
 
 # Space Settings
 
-Every Space in FluentCommunity is highly customizable, giving you granular control over its visibility, appearance, and functionality. This guide walks you through the General Settings tab, where you define how your Space operates and who can access it.
+Every Space in FluentCommunity is highly customizable, giving you great control over its visibility, appearance, and functionality. This guide walks you through the General Settings tab, where you define how your Space operates and who can access it.
 
 > **Use Case:** You might set an "Announcements" space to be Public and use a List layout for clarity, while keeping a "Premium Mastermind" space Private and monetizing it via the Paywall tab.
 
@@ -14,10 +14,9 @@ Every Space in FluentCommunity is highly customizable, giving you granular contr
 You can configure these settings when first creating a space or by editing an existing one.
 
 1.  Navigate to **FluentCommunity → Spaces** from your WordPress dashboard.
-2.  Hover over the Space you wish to edit and click the **Settings** icon/link.
-3.  Ensure you are on the **General Settings** tab.
+2.  Go to the Space you wish to edit and click the three dot button in the top right corner then select the **Space Settings** option.
 
-![General Settings Panel](Developer-Space-Premium-Zoro-12-24-2025_03_39_PM.jpg)
+![Space Settings](/images/community-hub/space-settings-privacy/space-settings.webp)
 
 ## 1. General Information
 
@@ -39,20 +38,31 @@ This is the most critical section for managing member entry and monetization.
 
 ### Lock Screen Type
 *(Visible when Private/Secret is selected)*
-* **Custom:** Use the drag-and-drop builder to create a unique sales page.
+* **Custom:** Use the drag-and-drop builder to create a unique lock screen or sales page.
 * **Default:** Use the standard community lock screen.
 * **Redirect to an URL:** Send non-members to an external landing page.
 
 **Who can view space members:** Control privacy by choosing between Everyone, Members Only, or Admins Only.
 
+![Space Settings](/images/community-hub/space-settings-privacy/space-settings-1.webp)
+
 ## 3. Features Customizations
 
-Tailor the interactive features of your Space to fit your goals.
+This section allows you to tailor the interactive experience of your Space, from posting permissions to document management.
 
-* **Posting Permissions:** Toggle "Only admin or moderators can create post" to turn the space into a read-only announcement channel for regular members.
-* **Show Right Sidebar:** Enable or disable the sidebar to create either a feature-rich or a distraction-free environment.
-* **File/Document Library:** Enable this to give your members a dedicated place to upload and share resources.
-* **Default Post Sort By:** Choose how members first see content (e.g., Latest Posts, Top Posts, or Recently Active).
+* **Only admin or moderators can create post:** Enable this to turn your Space into an announcement-only channel where regular members can read but not create new posts.
+
+* **Show Right Sidebar on Space:** Toggle this to show or hide the sidebar, which contains Space-specific widgets and information.
+
+* **Hide Members count from spaces page (when members page access unavailable):** Check this to hide the total number of members from the public-facing Space card if you prefer to keep your community size private.
+
+* **Enable File/Document Library for this space:** This creates a dedicated "Documents" tab for your Space. When enabled, you can configure granular access:
+    * **Document Library Access (View & Download):** Define who can see and download files. Options include *Members of this space*, *Any Logged in users*, or *Public*.
+    * **Who can upload the documents?:** Control your library's growth by choosing between *Any Members* or *Admin/Moderators Only*.
+
+* **Default Post Sort By:** Set the initial order in which members see content. You can choose options like *Latest Posts Sort*, *Top Posts*, or *Recently Active*.
+
+* **Disable Post Sort By Options:** Check this if you want to lock the sorting order and prevent members from changing it on the front end.
 
 ## 4. Layout & Visuals
 
@@ -70,7 +80,7 @@ Control how your content is presented and how the Space looks in the directory.
 * **Thumbnail:** *(Recommended 1200 x 630)* Used for social sharing and the space card.
 * **Featured Image:** *(Recommended 1600 x 500)* Appears at the top of the Space homepage.
 
----
+![Space Settings](/images/community-hub/space-settings-privacy/space-settings-2.webp)
 
 ### ✨ Pro-Tip: Monetizing Your Space
 
