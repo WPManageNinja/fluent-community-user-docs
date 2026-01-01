@@ -15,7 +15,7 @@ Each Space has its own unique Lock Screen configuration.
 2.  Click the **three-dot (vertical ellipses) menu** in the top-right corner of the Space header.
 3.  Select **Space Settings** from the dropdown menu.
 
-![Space Settings](/docs/public/images/community-hub/customizing-lock-screen/customize-lock-screen-1.webp)
+![Space Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-1.webp)
 
 4.  Once the settings modal opens, click the **Lock Screen** tab at the top.
 
@@ -23,7 +23,7 @@ Each Space has its own unique Lock Screen configuration.
 
 On the left, you will see a list of active blocks like *Banner*, *Description*, and *Call to Action*. You can click on the **Pencil icon button** for these labels to jump directly to the settings for that section.
 
-![Lock Screen Settings](/docs/public/images/community-hub/customizing-lock-screen/customize-lock-screen-2.webp)
+![Lock Screen Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-2.webp)
 
 ## Building Your Lock Screen Page
 
@@ -47,7 +47,7 @@ When you click on the **Pencil icon button** to edit the Banner section, the lef
 * **Button Link:** Enter the destination URL (e.g., your FluentCart checkout page).
 * **Open In New Tab:** Use this toggle if you want to keep the current page open while the user goes to the checkout.
 
-![Lock Screen Settings](/docs/public/images/community-hub/customizing-lock-screen/customize-lock-screen-3.webp)
+![Lock Screen Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-3.webp)
 
 #### Designing the Visuals
 
@@ -58,7 +58,7 @@ The **Design** tab allows you to match the Lock Screen to your brand:
 * **Text & Heading Colors:** Adjust these colors to ensure high contrast against your background.
 * **Button Styling:** Change the **Button Background** color and the **Button Label** text color to make your Call to Action "pop".
 
-![Lock Screen Settings](/docs/public/images/community-hub/customizing-lock-screen/customize-lock-screen-4.webp)
+![Lock Screen Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-4.webp)
 
 ### 3. Call to Action Block
 
