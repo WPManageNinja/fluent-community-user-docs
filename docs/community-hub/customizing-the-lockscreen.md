@@ -5,36 +5,67 @@ description: Learn how to customize the lockscreen for your private and secret S
 
 # Customizing The Lockscreen
 
-For your **Private** and **Secret** Spaces, the lockscreen is the first thing a non-member will see. It's a powerful feature that allows you to create a custom landing page, encouraging visitors to join or request access.
+The Lock Screen is the "front door" to your gated content. When a non-member or a logged-out user tries to access a private Space, they won't see an "Access Denied" error; instead, they see this custom-designed page. It is your opportunity to explain the value of your Space and provide a clear path for users to join.
 
-> **Use Case:** Imagine you run a premium, members-only course space. You can use the lockscreen to display a compelling sales message, list the benefits of joining, and show a "Join Now" button that links directly to your payment page.
+## How to Access the Editor
 
-## How to Access the Lockscreen Editor
+Each Space has its own unique Lock Screen configuration.
 
-The lockscreen can be customized for each individual private or secret Space.
+1.  Navigate to the specific Space you want to edit.
+2.  Click the **three-dot (vertical ellipses) menu** in the top-right corner of the Space header.
+3.  Select **Space Settings** from the dropdown menu.
 
-1.  Navigate to **FluentCommunity → Spaces** from your WordPress dashboard.
-2.  Hover over a private or secret Space and click **Edit**.
-3.  In the space editor, click on the **Lockscreen** tab.
+![Space Settings](/docs/public/images/community-hub/customizing-lock-screen/customize-lock-screen-1.webp)
 
-[Screenshot: The space editor with the "Lockscreen" tab highlighted.]
+4.  Once the settings modal opens, click the **Lock Screen** tab at the top.
 
-## Customizing Your Lockscreen Content
+> **💡 Pro Tip:** If you don't see the Lock Screen tab, go to the **General Settings** tab and ensure **Privacy** is set to *Private* or *Secret*, and the **Lock Screen Type** is set to *Custom*.
 
-The lockscreen editor provides a simple block-based interface to build your custom page. You can add a banner, descriptive text, and call-to-action buttons.
+On the left, you will see a list of active blocks like *Banner*, *Description*, and *Call to Action*. You can click on the **Pencil icon button** for these labels to jump directly to the settings for that section.
 
-* **Banner Image:** Upload an engaging banner image that represents your community or the specific Space.
-* **Description:** This is the main content area. Use it to explain what the Space is about, who it's for, and the benefits of joining. You can use headings, lists, and other formatting to make your message clear and persuasive.
-* **Call-to-Action Buttons:** Add one or more buttons to guide user actions. You can customize the button text (e.g., "Request to Join," "Learn More," "Subscribe Now") and the URL it links to.
+![Lock Screen Settings](/docs/public/images/community-hub/customizing-lock-screen/customize-lock-screen-2.webp)
 
-[Screenshot: The lockscreen editor interface, showing the banner upload, description text area, and button configuration options.]
+## Building Your Lock Screen Page
 
-> **✨ Note:**
-> For a private Space, the default call-to-action is a "Request to Join" button that allows users to send a join request to the space moderators. You can override this with your own custom buttons. For a secret Space, there is no default button, as access is by direct invitation only.
+The Lock Screen uses a visual, block-based builder that allows you to see your changes in real-time.
 
-Once you have finished customizing your content, click the **Update Space** button to save your changes. Now, any non-member who tries to access this Space will see your custom lockscreen instead of the content.
+### 1. Gutenberg Supported Description Block
 
-**Related Topics:**
-- Learn about [space settings and privacy](./space-settings-&-privacy.md) to control access
-- Explore [managing user profiles](./managing-user-profiles.md) for member administration
-- Set up [content moderation](./content-moderation.md) to maintain community quality
+The Gutenberg Description is a great way to change your lock screen a lot! Because the description area uses the Gutenberg Editor, you can design your Lock Screen Page with any look you want.
+
+* **The (+) Plus Button:** Click this to open the block library. You can add Text (headings, paragraphs), Media (images, video covers), and Layout elements (columns, buttons).
+
+![Lock Screen Settings](/docs/public/images/community-hub/customizing-lock-screen/customize-lock-screen-5.webp)
+
+### 2. Banner Block
+
+When you click on the **Pencil icon button** to edit the Banner section, the left sidebar will show the **Content** tab:
+
+* **Heading:** Enter a catchy title.
+* **Description:** Use this space to list the benefits of joining, what members get, and why it's worth it.
+* **Button Label:** Customize the text on your action button, such as "Join Now," "Get Instant Access," or "Enroll Today".
+* **Button Link:** Enter the destination URL (e.g., your FluentCart checkout page).
+* **Open In New Tab:** Use this toggle if you want to keep the current page open while the user goes to the checkout.
+
+![Lock Screen Settings](/docs/public/images/community-hub/customizing-lock-screen/customize-lock-screen-3.webp)
+
+#### Designing the Visuals
+
+The **Design** tab allows you to match the Lock Screen to your brand:
+
+* **Background Image:** Upload a high-quality image that reflects your community's vibe.
+* **Overlay Color:** Add a semi-transparent color over your image to make sure your text stands out and is easy to read.
+* **Text & Heading Colors:** Adjust these colors to ensure high contrast against your background.
+* **Button Styling:** Change the **Button Background** color and the **Button Label** text color to make your Call to Action "pop".
+
+![Lock Screen Settings](/docs/public/images/community-hub/customizing-lock-screen/customize-lock-screen-4.webp)
+
+### 3. Call to Action Block
+
+The Call to Action section is mainly for the 'Call to Action' button on your Lock Screen.
+
+You can change the look of this section in the same way you change the Banner Block section. You will find the same settings for **Content** and **Design** here.
+
+## Saving Your Work
+
+Once you are happy with the layout and design, click the **Save Changes** button in the top right corner. Your custom landing page is now live and will be shown to every non-member who visits that Space URL.
