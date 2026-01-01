@@ -35,7 +35,7 @@ The Gutenberg Description is a great way to change your lock screen a lot! Becau
 
 * **The (+) Plus Button:** Click this to open the block library. You can add Text (headings, paragraphs), Media (images, video covers), and Layout elements (columns, buttons).
 
-![Lock Screen Settings](/docs/public/images/community-hub/customizing-lock-screen/customize-lock-screen-5.webp)
+![Lock Screen Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-5.webp)
 
 ### 2. Banner Block
 
