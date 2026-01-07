@@ -1,3 +1,8 @@
+---
+title: Introduction to FluentCommunity
+description: Learn about FluentCommunity - a powerful WordPress plugin for building online communities. Discover key features, use cases, and what makes it the perfect solution for course creators, businesses, and membership sites.
+---
+
 # Introduction to FluentCommunity
 
 Welcome to FluentCommunity!
@@ -10,11 +15,11 @@ Whether you're looking to build a social network, a support forum, a learning hu
 
 FluentCommunity is designed for a wide range of users and businesses. You'll find it to be a perfect fit if you are a:
 
-* **Course Creator or Educator** looking to build a learning community around your courses.
-* **Business or Brand** wanting to create a hub for customer engagement, feedback, and support.
-* **Membership Site Owner** who needs to add an exclusive, interactive area for your paying members.
-* **Coach or Consultant** building a private group for your clients.
-* **Hobbyist or Niche Expert** who wants to build a community around a shared interest.
+ * **Course Creator or Educator** looking to build a learning community around your courses.
+ * **Business or Brand** wanting to create a hub for customer engagement, feedback, and support.
+ * **Membership Site Owner** who needs to add an exclusive, interactive area for your paying members.
+ * **Coach or Consultant** building a private group for your clients.
+ * **Hobbyist or Niche Expert** who wants to build a community around a shared interest.
 
 ## Key Features at a Glance
 
