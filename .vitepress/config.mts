@@ -35,6 +35,9 @@ export default defineConfig({
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
     siteTitle: false,
+    search: {
+      provider: 'local'
+    },
     logo: {
       light: '/images/brand/main_logo.png',
       dark: '/images/brand/main_logo_inverted.png',

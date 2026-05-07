@@ -42,7 +42,7 @@ This is the most critical section for managing member entry and monetization.
 * **Default:** Use the standard community lock screen.
 * **Redirect to an URL:** Send non-members to an external landing page.
 
-**Who can view space members:** Control privacy by choosing between Everyone, Members Only, or Admins Only.
+**Who can view space members:** Control privacy by choosing between **Everyone, Members Only, or Admins Only**.
 
 ![Space Settings](/images/community-hub/space-settings-privacy/space-settings-1.webp)
 
