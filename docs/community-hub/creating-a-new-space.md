@@ -22,15 +22,15 @@ This will launch the space creation wizard.
 
 ### Step 1: Choose a Space Type
 
-The first step is to choose what kind of space you want to create.
-
-!["Choose a Space Type" modal](/images/community-hub/create-new-space/create-new-space-2.png)
+The first step is to choose what kind of space you want to create. A popu will appear. 
 
 * **Discussion Space:** This is the standard and most common space type, perfect for discussions, questions, and sharing content.
 * **Course:** This creates a dedicated space for a FluentCommunity course.
 * **Link (Pro):** This Pro feature allows you to create a space that links directly to an external URL.
 
 For this guide, we will select **Discussion Space** and click **Next**.
+
+!["Choose a Space Type" modal](/images/community-hub/create-new-space/create-new-space-2.png)
 
 ### Step 2: Basic Info & Access Control
 
