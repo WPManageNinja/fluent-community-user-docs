@@ -15,22 +15,22 @@ Group Chat is a feature that you enable on a per-space basis.
 
 1.  Navigate to **FluentCommunity → Spaces** from your WordPress dashboard.
 2.  Create a new Space or **Edit** an existing one.
-3.  Inside the space editor, go to the **Settings** tab.
-4.  Find the **Launch Group Chat** option and turn the toggle switch to the "On" position.
+3.  Inside the space editor, go to the **Space Settings** tab.
 
-    [Screenshot: The Space settings screen with the "Launch Group Chat" toggle switch highlighted.]
+    ![Enable Group Chat](/images/community-hub/group-chat/enable-group-chat-1.png)
 
-5.  Click the **Update Space** button to save your changes.
+4.  A popup will appear. Scroll Down and find the **Group Chat** option and turn the toggle switch to the "**On**" position.
+5.  Click the **Save Chages** button to save your changes.
+
+    ![Save Changes](/images/community-hub/group-chat/save-changes-2.png)
 
 ## The Member Experience
 
 Once Group Chat is enabled, members of that Space will see a new **Chat** tab in the Space navigation menu.
 
-[Screenshot: The front-end view of a Space, showing the "Chat" tab next to "Feed" and "Members".]
+> **Note:** Make sure the FluentCommunity chat is enabled.
+
+  ![Chat](/images/community-hub/group-chat/chat-3.png)
 
 Clicking on this tab will open the chat interface, where all members of the Space can send messages, emojis, and GIFs in real-time. This provides a dynamic and engaging layer to your community, separate from the more structured posts in the main feed.
 
-**Related Features:**
-- Learn about [direct messaging](./direct-messaging-(pro).md) for private conversations
-- Explore [space settings](./space-settings-&-privacy.md) to control chat access
-- Set up [content moderation](./content-moderation.md) to manage chat interactions
