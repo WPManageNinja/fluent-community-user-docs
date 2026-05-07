@@ -50,7 +50,7 @@ This is a crucial step for controlling your space's privacy.
 * **Privacy:** Choose who can see and join this Space.
     * **Public:** Anyone can see the space, its members, and its posts. You can also check "Allow users to request to join this Space" if you want to approve members first.
     * **Private:** The space is listed in the directory, but only members can see the content. When you select "Private," a new "Lock Screen Type" option appears:
-        * [**Custom Lock Screen:**](/docs/community-hub/customizing-the-lockscreen.md) This lets you create a custom message or design for what non-members see when they land on this space.
+        * [**Custom Lock Screen:**](/docs/community-hub/customizing-the-lockscreen) This lets you create a custom message or design for what non-members see when they land on this space.
         * **Default Lock Screen:** This will show a standard, default message that the space is private.
         * **Redirect to an URL (Pro):** This Pro feature lets you redirect non-members to a different page entirely (like a sales or landing page).
     * **Secret:** The space is completely hidden and invisible to non-members. It can only be accessed via a direct link by members who have been invited.
