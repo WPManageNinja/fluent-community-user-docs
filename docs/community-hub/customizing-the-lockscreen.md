@@ -9,7 +9,7 @@ The Lock Screen is the "front door" to your gated content. When a non-member or 
 
 ## How to Access the Editor
 
-Each Space has its own unique Lock Screen configuration.
+Each Space has its own unique **Lock Screen** configuration.
 
 1.  Navigate to the specific Space you want to edit.
 2.  Click the **three-dot (vertical ellipses) menu** in the top-right corner of the Space header.
@@ -29,15 +29,8 @@ On the left, you will see a list of active blocks like *Banner*, *Description*, 
 
 The Lock Screen uses a visual, block-based builder that allows you to see your changes in real-time.
 
-### 1. Gutenberg Supported Description Block
 
-The Gutenberg Description is a great way to change your lock screen a lot! Because the description area uses the Gutenberg Editor, you can design your Lock Screen Page with any look you want.
-
-* **The (+) Plus Button:** Click this to open the block library. You can add Text (headings, paragraphs), Media (images, video covers), and Layout elements (columns, buttons).
-
-![Lock Screen Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-5.webp)
-
-### 2. Banner Block
+### 1. Banner Block
 
 When you click on the **Pencil icon button** to edit the Banner section, the left sidebar will show the **Content** tab:
 
@@ -60,11 +53,22 @@ The **Design** tab allows you to match the Lock Screen to your brand:
 
 ![Lock Screen Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-4.webp)
 
+### 1. Gutenberg Supported Description Block
+
+The Gutenberg Description is a great way to change your lock screen a lot! Because the description area uses the Gutenberg Editor, you can design your Lock Screen Page with any look you want.
+
+* **The (+) Plus Button:** Click this to open the block library. You can add Text (headings, paragraphs), Media (images, video covers), and Layout elements (columns, buttons).
+
+![Lock Screen Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-5.webp)
+
 ### 3. Call to Action Block
 
 The Call to Action section is mainly for the 'Call to Action' button on your Lock Screen.
 
 You can change the look of this section in the same way you change the Banner Block section. You will find the same settings for **Content** and **Design** here.
+
+
+![Lock Screen Settings](/images/community-hub/customizing-lock-screen/call-to-action-5.webp)
 
 ## Saving Your Work
 
