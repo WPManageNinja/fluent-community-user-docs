@@ -17,7 +17,7 @@ When this feature is enabled, members will see a "Report" option in the three-do
 2.  A pop-up will appear, allowing them to select a reason for the report (e.g., "Spam," "Harassment") and add an optional explanation.
 3.  Once submitted, the content is flagged for review by moderators.
 
-[Screenshot: The "Report" option visible in the three-dot menu of a post.]
+  ![Report](/images/community-hub/Content-moderation/report-1.webp)
 
 ## Managing Reported Content
 
@@ -27,7 +27,21 @@ As a moderator or administrator, you have a centralized dashboard to view and ac
 2.  Click on the **Content Moderation** tab.
 3.  Here, you will find a list of all pending reports. The dashboard is typically organized into tabs such as "Pending," "Ignored," and "Unpublished."
 
-[Screenshot: The Content Moderation dashboard showing a list of reported items with options to review, ignore, or unpublish.]
+  ![Report Manage](/images/community-hub/Content-moderation/managing-report-2.webp)
+
+## Moderation Settings
+
+You can fine-tune how moderation works by opening **FluentCommunity → Settings → Content Moderation** and configuring these options:
+
+* **Enable Content Moderation:** Turns the moderation workflow on or off for your community.
+* **Profanity Filter:** Add blocked words (comma-separated) to automatically send matching content to review.
+* **Flag a post/comment after it's reported X times:** Automatically unpublish content after it reaches your report threshold.
+* **Mark all new posts as Pending:** Sends every new post to moderation before it becomes visible.
+* **Require approval for first post:** Holds a member's first post for review to reduce spam from new accounts.
+* **Mark all new posts as Pending in the given spaces:** Apply stricter moderation only to selected spaces.
+
+
+![Content Moderation Settings](/images/community-hub/Content-moderation/moderation-settings-3.webp)
 
 ### Moderation Actions
 
@@ -40,7 +54,3 @@ For each reported item, you have several options:
 > **⚠️ Important:**
 > To effectively use these tools, it is crucial to have clear and accessible community guidelines. Your members need to know what is considered acceptable behavior and what is not. This will empower them to report content appropriately and will help you moderate fairly.
 
-**Related Topics:**
-- Learn about [assigning user roles](./assigning-user-roles.md) to give moderators the right permissions
-- Explore [managing user profiles](./managing-user-profiles.md) for member administration
-- Set up [space settings](./space-settings-&-privacy.md) to control content visibility
