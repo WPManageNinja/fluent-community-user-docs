@@ -40,9 +40,7 @@ As an administrator, you must activate these modules from the backend settings b
 
 * **Configure Giphy Module:** Locate the **Giphy Module** and click its **Settings** button.
 
-In the popup, enter your **[Giphy API](https://developers.giphy.com/dashboard/)** Key. Check the **Enable Giphy Module** box.
-
-Click **Save** to apply the changes.
+In the popup, enter your **[Giphy API Key](https://developers.giphy.com/)**. Check the **Enable Giphy Module** box. Click **Save** to apply the changes.
 
 >[!Note]
 >If the Emoji and Giphy modules are not enabled in the backend, the corresponding icons will not appear in the community text editors.
