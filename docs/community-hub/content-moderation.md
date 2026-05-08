@@ -31,7 +31,7 @@ As a moderator or administrator, you have a centralized dashboard to view and ac
 
 ## Moderation Settings
 
-You can fine-tune how moderation works by opening **FluentCommunity → Settings → Content Moderation** and configuring these options:
+You can fine-tune how moderation works by opening **FluentCommunity → Settings → Content Moderation → Settings** and configuring these options:
 
 * **Enable Content Moderation:** Turns the moderation workflow on or off for your community.
 * **Profanity Filter:** Add blocked words (comma-separated) to automatically send matching content to review.
