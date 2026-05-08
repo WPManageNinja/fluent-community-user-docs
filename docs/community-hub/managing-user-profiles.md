@@ -5,47 +5,49 @@ description: Learn how members can edit their own profiles in FluentCommunity an
 
 # Managing User Profiles
 
-A member's profile is their personal space within the community. It's where they can share information about themselves, showcase their activity, and build their identity. This guide covers how users can manage their own profiles and how administrators can manage them from the back-end.
+A member profile is each user's personal identity page inside your community. It helps members introduce themselves, share social links, and build trust through visible activity. This guide explains how members can update their own profile and how admins can manage profiles from the back end.
+
+> **Use Case:** A member wants to update their bio and social links before joining active discussions, while an admin needs to verify that account and keep its access status set to **Active**.
 
 ## How Members Edit Their Profile
 
-Any logged-in member can easily edit their own profile information.
+Any logged-in member can quickly edit their own profile details from the community portal.
 
 1.  From the community portal, click on your **profile picture** in the top-right corner.
-2.  In the dropdown menu, select your name to go to your profile page.
-3.  Click the **Edit Profile** button.
+2.  Open your profile page from the dropdown menu.
+3.  Click the **Edit Profile** button from your profile header.
 
-This will open the profile editor, where a member can change their:
+![Edit Profile](/images/community-hub/managing-user-profile/edit-profile-1.webp)
+
+This opens the profile editor, where members can update:
 
 * **Profile Picture & Cover Photo:** Upload new images to personalize their page.
-* **Name & Bio:** Update their display name and write a short biography about themselves.
-* **Social Links:** Add links to their personal websites or social media accounts.
+* **Name, Username & Bio:** Keep profile identity details clear and up to date.
+* **Contact & Website Info:** Add relevant public profile details.
+* **Social Links:** Connect personal websites and social media accounts.
 
-[Screenshot: The front-end view of a user profile page, with the "Edit Profile" button highlighted.]
+![Edit Profile](/images/community-hub/managing-user-profile/edit-profile-2.webp)
 
 ## How Admins Manage Profiles
 
-As an administrator, you have additional control over every user's profile from the WordPress dashboard.
+As an administrator, you have additional controls for every user profile from the WordPress dashboard.
 
 1.  Navigate to **FluentCommunity → Members**.
-2.  Find the user you wish to manage and click the **Edit** link under their name.
+2.  Find the user you want to manage and click **Edit**.
 
-This will take you to the administrative view of their profile, where you can modify their details and access special admin-only features.
+This opens the admin profile editor, where you can update member details and apply admin-only actions.
 
 ### Administrative Actions
 
 From the back-end, you can perform several exclusive actions:
 
-* **Verify Account:** Check a box to add a "Verified" badge to the user's profile. This is useful for confirming the identity of official staff or notable members.
-* **Assign Badges (Pro):** If you use the Gamification module, you can manually assign custom badges to a user's profile to recognize their contributions or status. Learn more about [creating and assigning badges](../gamification-(pro)/creating-&-assigning-badges.md).
-* **Change Access Status:** Set a member's account status to "Active," "Pending," or "Blocked" to control their access to the community.
+* **Verify Account:** Mark trusted members or team accounts as verified.
+* **Change Access Status:** Set member status to **Active**, **Pending**, or **Blocked**.
+* **Manage Username & Profile Data:** Review and update profile data when needed for consistency or moderation.
+* **Assign Badges (Pro):** If Gamification is enabled, manually assign badges to recognize contribution and role. Learn more about [creating and assigning badges](../gamification-(pro)/creating-&-assigning-badges.md).
 
-[Screenshot: The admin view of a user's profile, showing the options for verifying an account and assigning a badge.]
 
 > **⚠️ Important:**
 > Modifying a user's profile information or access status should be done with care. Always ensure you are acting in accordance with your community's terms of service and privacy policy.
 
-**Related Topics:**
-- Learn about [assigning user roles](./assigning-user-roles.md) to control permissions
-- Explore [the member directory](./the-member-directory.md) for member discovery
-- Set up [content moderation](./content-moderation.md) to maintain community standards
+![Admin Action](/images/community-hub/managing-user-profile/admin-action-3.webp)
