@@ -25,14 +25,16 @@ You can change a user's role for any Space they are a member of.
 1.  Navigate to **FluentCommunity → Spaces** from your WordPress dashboard.
 2.  Click on the Space where you want to manage roles.
 3.  Inside the space editor, click on the **Members** tab. This will show you a list of all members in that specific Space.
-4.  Find the user whose role you want to change. In the **Role** column, you will see a dropdown menu with their current role.
-5.  Click the dropdown and select the new role you want to assign (e.g., "Moderator").
 
-[Screenshot: The "Members" tab within a Space's settings, showing a list of users with a dropdown menu in the "Role" column.]
+![Assign Member](/images/community-hub/assigning-user-role/edit-profile-1.webp)
+
+4.  Find the user whose role you want to change. Click the **three-dot** from the right side and click the **Change Membership** option.
+
+![Assign Member](/images/community-hub/assigning-user-role/change-membership-2.webp)
+
+5.  A popup will appear. Click the dropdown and select the new role you want to assign **Membership Role** (e.g., "Moderator").
+
+![Assign Member](/images/community-hub/assigning-user-role/role-change-3.webp)
 
 The change is saved automatically. The user will now have the new permissions the next time they visit that Space.
 
-**Related Topics:**
-- Learn about [managing user profiles](./managing-user-profiles.md) for member administration
-- Explore [content moderation](./content-moderation.md) to maintain community quality
-- Set up [space settings](./space-settings-&-privacy.md) to control access levels

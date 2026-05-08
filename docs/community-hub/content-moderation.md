@@ -17,7 +17,7 @@ When this feature is enabled, members will see a "Report" option in the three-do
 2.  A pop-up will appear, allowing them to select a reason for the report (e.g., "Spam," "Harassment") and add an optional explanation.
 3.  Once submitted, the content is flagged for review by moderators.
 
-  ![Report](/images/community-hub/Content-moderation/report-1.webp)
+  ![Report](/images/community-hub/content-moderation/report-1.webp)
 
 ## Managing Reported Content
 
@@ -27,7 +27,7 @@ As a moderator or administrator, you have a centralized dashboard to view and ac
 2.  Click on the **Content Moderation** tab.
 3.  Here, you will find a list of all pending reports. The dashboard is typically organized into tabs such as "Pending," "Ignored," and "Unpublished."
 
-  ![Report Manage](/images/community-hub/Content-moderation/managing-report-2.webp)
+  ![Report Manage](/images/community-hub/content-moderation/managing-report-2.webp)
 
 ## Moderation Settings
 
@@ -41,7 +41,7 @@ You can fine-tune how moderation works by opening **FluentCommunity → Settings
 * **Mark all new posts as Pending in the given spaces:** Apply stricter moderation only to selected spaces.
 
 
-![Content Moderation Settings](/images/community-hub/Content-moderation/moderation-settings-3.webp)
+![Content Moderation Settings](/images/community-hub/content-moderation/moderation-settings-3.webp)
 
 ### Moderation Actions
 
