@@ -5,37 +5,28 @@ description: Learn how to use reactions to express feedback on posts and mention
 
 # Post Reactions & Mentions
 
-Beyond structured comments, FluentCommunity provides two powerful features for quick engagement and direct communication: **Reactions** and **Mentions**.
+Beyond structured comments, FluentCommunity provides two powerful features for quick engagement and direct communication: **Reactions** and **Mentions**. These tools help foster a more interactive and connected environment for your members.
 
 ## Using Reactions
 
-Reactions are a quick, one-click way for members to express their feelings about a post without having to write a full comment.
+Reactions are a quick, one-click way for members to express their feelings about a post or a comment without having to write a full response.
 
-1.  Below any post, you will see a **Like** button, often represented by a thumbs-up icon.
-2.  Hovering over the Like button will reveal a set of additional emoji reactions (e.g., heart, laugh, surprise).
-3.  Click on any reaction to add it to the post.
+ * **Reacting to a Post:** Below any post in the feed, you will see a reaction icon (heart). Click it to express your appreciation for the content.
+ * **Reacting to Comments:** Similarly, you can react to individual comments by clicking the reaction icon located directly beneath the comment text.
+ * **Visual Feedback:** The total count of reactions is displayed on the post or comment, providing immediate visual feedback to the author and other members.
 
-The total count of each reaction will be displayed publicly on the post, giving the author and other members immediate visual feedback.
-
-[Screenshot: The reaction options (like, heart, etc.) appearing when a user hovers over the "Like" button on a post.]
+  ![Using reactions](/images/community-hub/post-reaction-and-mention/using-reaction-1.webp)
 
 ## Using Mentions (@) to Tag Members
 
-Mentions are the best way to get another member's attention or pull them into a specific conversation. When you mention a member, they will receive a direct notification.
+**Mentions** are the most effective way to get another member's attention or pull them into a specific conversation. When you mention a member, they receive a direct notification, ensuring they don't miss the update.
 
-1.  While writing a post or a comment, type the **`@`** symbol.
-2.  Begin typing the name of the member you want to mention.
-3.  A dropdown list of matching members will appear automatically.
-4.  Click on the correct member from the list to select them.
+ * **Initiate a Mention:** While writing a post, comment, or private message, type the @ symbol.
+ * **Search for Members:** Begin typing the name of the member you want to tag.
+ * **Select from Dropdown:** A dropdown list of matching members will appear automatically; simply click the correct member to select them.
+ * **Clickable Links:** Once published, the mentioned user's name appears as a clickable link. This is perfect for asking specific questions, giving credit, or highlighting important updates for key stakeholders.
 
-[Screenshot: The mention feature in action, showing the "@" symbol followed by a few letters, and a dropdown list of matching user names appearing.]
+>[!Note]
+>To maintain community standards and prevent spam, you can typically only mention users who are members of the same Space or conversation where you are currently posting.
 
-The mentioned user's name will appear as a clickable link in the post or comment. This is a highly effective way to ask a question to a specific person, give someone credit, or ensure a key stakeholder sees an important update.
-
-> **✨ Note:**
-> To prevent spam, you can typically only mention users who are members of the same Space where you are posting.
-
-**Related Features:**
-- Learn about [using comments and replies](./using-comments-&-replies.md) for deeper engagement
-- Explore [creating and editing posts](./creating-&-editing-posts.md) to start discussions
-- Set up [content moderation](./content-moderation.md) to manage community interactions
+  ![Usning Mention](/images/community-hub/post-reaction-and-mention/using-mention-2.webp)
