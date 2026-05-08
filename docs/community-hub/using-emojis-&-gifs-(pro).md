@@ -7,32 +7,44 @@ description: Learn how to use the built-in Emoji Picker and Giphy integration in
 
 Bring more personality and fun to your community conversations by using emojis and animated GIFs. FluentCommunity integrates directly with an emoji picker and the Giphy service to make your posts and comments more visual and engaging.
 
+
 ## Using the Emoji Picker
 
-You can add emojis to any post, comment, or chat message.
+You can add emojis to any post, comment, or private chat message to express yourself more clearly.
 
-1.  While writing in any text editor within FluentCommunity, look for the **smiley face icon**. It is typically located within or next to the text input area.
-2.  Click the icon to open the emoji picker.
-3.  You can browse through the categories or use the search bar at the top to find the perfect emoji.
-4.  Click on an emoji to insert it directly into your text.
+* **Locate the Icon:** While writing in any text editor or messaging box, look for the **smiley face icon**.
+* **Open the Picker:** Click the icon to open the emoji interface.
+* **Browse or Search:** You can browse through various categories or use the search bar to find the perfect emoji for your message.
+* **Insert:** Simply click on an emoji to insert it directly into your text.
 
-[Screenshot: The emoji picker interface open next to a comment box, showing various emoji categories.]
+![Emoji Picker](/images/community-hub/using-emoji-and-giphy/emoji-1.webp)
 
 ## Using Giphy for Animated GIFs
 
-Animated GIFs are a great way to add humor and motion to a discussion.
+Animated GIFs are a great way to add humor and motion to your community discussions.
 
-1.  In the post or comment editor, look for the **GIF** icon.
-2.  Clicking it will open the Giphy integration window.
-3.  You can search for a GIF by typing a keyword (e.g., "celebrate," "thank you").
-4.  Browse the results and click on the GIF you want to share. It will be automatically embedded into your post.
+* **Find the GIF Icon:** In the post or comment editor, look for the **GIF icon** located next to the emoji picker.
+* **Search for Content:** Click the icon to open the **Giphy** integration window and type a keyword (e.g., "celebrate" or "thank you") into the search bar.
+* **Select and Share:** Browse the search results and click on the **GIF** you want to share. It will be automatically embedded into your post or comment.
 
-[Screenshot: The Giphy integration window open, showing a search bar and a grid of animated GIF results.]
+![GIPHY](/images/community-hub/using-emoji-and-giphy/giphy-2.webp)
 
-> **✨ Note:**
-> The Emoji Picker and Giphy integration are Pro features. An administrator must have these modules enabled in the FluentCommunity settings for the icons to be visible. If you do not see these options, please contact your site administrator.
+### Enabling Emoji and Giphy Modules
 
-**Related Features:**
-- Learn about [post reactions and mentions](./post-reactions-&-mentions.md) for enhanced engagement
-- Explore [creating and editing posts](./creating-&-editing-posts.md) to share content
-- Set up [group chat](./using-group-chat-(pro).md) for real-time conversations
+As an administrator, you must activate these modules from the backend settings before members can use them.
+
+* **Access Features & Addons:** Navigate to the **Portal Settings** and select the **Features & Addons** tab from the left sidebar.
+* **Enable Emoji Module:** Locate the **Emoji Module** and click the **Settings** button. Ensure it is toggled to Enabled to allow a personal touch with emojis in articles, posts, or comments.
+
+![Emoji Module](/images/community-hub/using-emoji-and-giphy/emoji-module-3.webp)
+
+* **Configure Giphy Module:** Locate the **Giphy Module** and click its **Settings** button.
+
+In the popup, enter your **[Giphy API](https://developers.giphy.com/dashboard/)** Key. Check the **Enable Giphy Module** box.
+
+Click **Save** to apply the changes.
+
+>[!Note]
+>If the Emoji and Giphy modules are not enabled in the backend, the corresponding icons will not appear in the community text editors.
+
+![Giphy Module](/images/community-hub/using-emoji-and-giphy/giphy-module-4.webp)
