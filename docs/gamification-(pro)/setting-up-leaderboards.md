@@ -28,7 +28,7 @@ The leaderboard page itself will show a ranked list of members, displaying their
   ![Leaderboard](/images/gamification/display-leaderboard-1.webp)
 
 > **✨ Note:**
-> The Leaderboard is a core part of the Gamification module. If you do not see the "Leaderboard" tab, ensure that the **Gamification module** is enabled in your FluentCommunity settings.
+> The Leaderboard is a core part of the Gamification module. If you do not see the "Leaderboard" tab, ensure that the **Leadeaboard module** is enabled in your FluentCommunity settings.
 
 ## Resetting Leaderboards
 
