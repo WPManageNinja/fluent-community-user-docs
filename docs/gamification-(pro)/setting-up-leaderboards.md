@@ -23,20 +23,14 @@ The primary leaderboard options are:
 
 The main leaderboard is typically accessible via a **"Leaderboard"** tab in your community's main navigation menu. Members can click this tab to view the rankings.
 
-[Screenshot: The front-end view of the community with the "Leaderboard" tab highlighted in the main navigation.]
-
 The leaderboard page itself will show a ranked list of members, displaying their profile picture, name, and total points for the selected timeframe. Members can switch between the Weekly, Monthly, and All-Time views.
 
-[Screenshot: The main leaderboard page, showing a ranked list of users with their points and the tabs to switch between different timeframes.]
+  ![Leaderboard](/images/gamification/display-leaderboard-1.webp)
 
 > **✨ Note:**
-> The Leaderboard is a core part of the Gamification module. If you do not see the "Leaderboard" tab, ensure that the **Gamification (Pro)** module is enabled in your FluentCommunity settings.
+> The Leaderboard is a core part of the Gamification module. If you do not see the "Leaderboard" tab, ensure that the **Gamification module** is enabled in your FluentCommunity settings.
 
 ## Resetting Leaderboards
 
 The Weekly and Monthly leaderboards reset automatically. The All-Time leaderboard is persistent, but as an administrator, you may have options in the Gamification settings to manually reset all points if you wish to start a new season of competition.
 
-**Related Topics:**
-- Learn about [configuring the points system](./configuring-the-points-system.md) to set up point values
-- Explore [creating and assigning badges](./creating-&-assigning-badges.md) to recognize achievements
-- Set up [automating level-ups](./automating-level-ups.md) for seamless progression
