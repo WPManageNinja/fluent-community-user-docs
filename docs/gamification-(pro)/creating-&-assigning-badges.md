@@ -3,51 +3,61 @@ title: Creating & Assigning Badges
 description: Learn how to create custom badges in FluentCommunity and assign them to your members, either manually as an admin or automatically based on user actions.
 ---
 
-# Creating & Assigning Badges
+# Creating and Assigning User Badges
 
-Badges are visual icons that you can award to your members to recognize their status, achievements, or contributions. They appear on a user's profile and next to their name in discussions, making them a highly visible and prestigious reward.
+User Badges are visual labels that recognize a member's status, achievements, or contributions. These badges appear on user profiles and next to their names in discussions, providing immediate prestige and recognition within the community.
 
-> **Use Case:** You can create a "Founder" badge for your first 100 members, a "Top Contributor" badge for users who provide the most helpful answers, and a "Beta Tester" badge for members who help you test new features.
+**Use Case:** You can create "VIP," "Moderator," or "Alpha Tester" badges to distinguish your power users from the general membership.
 
-## How to Create a New Badge
+### Step 1: Enabling the Badge Module
 
-First, you need to create the badges that you want to award.
+Before creating badges, you must ensure the feature is active in your portal.
 
-1.  From your WordPress dashboard, navigate to **FluentCommunity → Settings**.
-2.  Click on the **Gamification** tab and then select the **Badges** sub-menu.
-3.  Click the **Create a Badge** button.
-4.  You will be prompted to provide the following details:
-    * **Badge Title:** The name of the badge (e.g., "Community Pioneer").
-    * **Badge Icon:** Upload a custom image for the badge. A small, square icon works best.
-    * **Description:** A short explanation of what the badge is for.
+1. Navigate to **Portal Settings** from your community sidebar.
+2. Select the **Features & Addons** tab.
+3. Locate **User Badges** and click the **Settings** button.
 
-    [Screenshot: The badge creation screen, showing fields for the title, icon upload, and description.]
+  ![User Badge](/images/gamification/creating-assign-badges/user-badge-1.webp)
 
-5.  Click **Create Badge** to save it. You can create as many different badges as you need.
+4. In the popup, check the box for **Enable User Badge Module**.
+5. Click **Save Settings**.
 
-## Assigning Badges to Members
+  ![User Badge](/images/gamification/creating-assign-badges/enable-user-badge-2.webp)
 
-There are two primary ways to award badges to your members.
 
-### Method 1: Manual Assignment (Admin)
+### Step 2: How to Create a New Badge
 
-As an administrator, you can manually assign any badge to any user at any time.
+Once the module is enabled, you can define the specific badges you want to award.
 
-1.  Navigate to **FluentCommunity → Members**.
-2.  Find the user you wish to award a badge to and click **Edit**.
-3.  In the user's profile editor, you will find a **Badges** section.
-4.  Select one or more badges from the list to assign them to the user.
+1. In the **User Badge Settings** window, click the **Add New** button.
+2. A configuration modal will appear with the following options:
+   * **Title:** Enter the name of the badge (e.g., "Silver Member").
+   * **Show Label on Badge:** Check this if you want the text title to appear within the badge UI.
+   * **Color & Background Color:** Choose custom colors for the text and the badge background.
 
-[Screenshot: The admin view of a user's profile with the "Badges" selection area highlighted.]
+>[!Note]
+>For the best UI experience, you can leave these empty to use default styling.
 
-### Method 2: Automatic Assignment (Level-Ups)
+3. Click **Save**. Your new badge will now appear in the "User Badges" list.
 
-You can also set up your system to award badges automatically when a user reaches a certain point threshold or "level." This is covered in more detail in our next guide.
+  ![Create Badge](/images/gamification/creating-assign-badges/edit-badge-3.webp)
 
-> **✨ Note:**
-> Once a badge is assigned, it will be displayed prominently on the member's profile card and next to their name, providing immediate recognition for their achievement throughout the community.
+4. You can also **Edit or Delete** this user badge here.
 
-**Related Topics:**
-- Learn about [configuring the points system](./configuring-the-points-system.md) to set up automatic rewards
-- Explore [setting up leaderboards](./setting-up-leaderboards.md) to showcase top contributors
-- Set up [automating level-ups](./automating-level-ups.md) for seamless progression
+  ![Edit Badge](/images/gamification/creating-assign-badges/edit-4.webp)
+
+### Step 3: Assigning Badges to Members
+
+Currently, badges are assigned manually by administrators through the member management interface.
+
+1. Go to the **Members** tab in your community navigation.
+2. Select the specific member you wish to recognize to open their profile.
+3. Scroll down to the **Admin Actions** section.
+4. Locate the **Profile Badges** dropdown menu.
+5. Select the desired badge from your created list.
+6. Click **Save Changes** at the bottom of the page.
+
+> **Pro Tip:** Assigned badges are updated in real-time. Once saved, the badge will immediately appear on the member's profile card, highlighting their status to the rest of the community.
+
+  ![Add Profile Badge](/images/gamification/creating-assign-badges/profile-badge-5.webp)
+
