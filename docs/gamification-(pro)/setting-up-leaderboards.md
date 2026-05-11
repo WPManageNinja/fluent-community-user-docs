@@ -25,7 +25,7 @@ The main leaderboard is typically accessible via a **"Leaderboard"** tab in your
 
 The leaderboard page itself will show a ranked list of members, displaying their profile picture, name, and total points for the selected timeframe. Members can switch between the Weekly, Monthly, and All-Time views.
 
-  ![Leaderboard](/images/gamification/display-leaderboard-1.webp)
+  ![Leaderboard](/images/gamification/setting-up-leaderboard/display-leaderboard-1.webp)
 
 > **✨ Note:**
 > The Leaderboard is a core part of the Gamification module. If you do not see the "Leaderboard" tab, ensure that the **Leadeaboard module** is enabled in your FluentCommunity settings.
