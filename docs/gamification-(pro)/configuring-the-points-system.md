@@ -9,15 +9,14 @@ Gamification is a powerful way to boost engagement, and the foundation of Fluent
 
 > **Use Case:** You can set up a system where members earn 10 points for creating a new post, 2 points for every comment they leave, and 1 point for every reaction they give. This incentivizes them to not just consume content, but to actively contribute to discussions.
 
-## Accessing Gamification Settings
+## Accessing Leaderboard/Gamification Settings
 
-All gamification features, including the points system, are managed from a central settings area.
+All leaderboard features, including the points system, are managed from a central settings area.
 
-1.  From your WordPress dashboard, navigate to **FluentCommunity → Settings**.
-2.  Click on the **Gamification** tab.
-3.  Ensure the **Gamification Module** toggle is enabled at the top of the page.
+1.  From your WordPress dashboard, navigate to **FluentCommunity → Settings → Features & Addons**.
+2.  Click on the **Leaderboard** tab.
+3.  Ensure the **Leaderboard Module** toggle is enabled at the top of the page.
 
-[Screenshot: The FluentCommunity settings page with the "Gamification" tab highlighted.]
 
 ## Setting Point Values
 
@@ -30,7 +29,8 @@ Key actions you can assign points to include:
 * **Receive a Reaction:** Award points to the *author* of a post or comment each time someone reacts to it.
 * **Give a Reaction:** Award points to the member who *gives* a reaction to someone else's content.
 
-[Screenshot: The Gamification settings page showing the list of actions and the input fields for assigning point values.]
+
+  ![Leaderboard](/images/gamification/configure-the-point/leaderboard-setting-1.webp)
 
 Enter the number of points you want to award for each action. If you want to disable points for a specific action, simply enter `0`.
 
@@ -41,7 +41,3 @@ Click the **Save Settings** button at the bottom of the page to apply your chang
 
 Now that you have points configured, explore more gamification features.
 
-**Next Steps:**
-- Learn about [creating and assigning badges](./creating-&-assigning-badges.md) to recognize achievements
-- Set up [leaderboards](./setting-up-leaderboards.md) to showcase top contributors
-- Explore [automating level-ups](./automating-level-ups.md) for seamless progression
