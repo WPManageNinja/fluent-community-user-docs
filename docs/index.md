@@ -12,7 +12,7 @@ hero:
       link: /getting-started/introduction-fluentcommunity
     - theme: alt
       text: Dev Docs
-      link: /
+      link: /for-developers/using-the-rest-api
 
 features:
   - title: 🚀 Getting Started
@@ -33,4 +33,13 @@ features:
   - title: ❓ Help & Resources
     details: Find answers to common questions, troubleshooting guides, and get support for your FluentCommunity setup.
     link: /help-&-resources/frequently-asked-questions
+  - title: 🏆 Gamification (Pro)
+    details: Drive engagement with points, leaderboards, badges, and automated level-up systems.
+    link: /gamification-(pro)/configuring-the-points-system
+  - title: 🔄 Migration
+    details: Step-by-step guides to migrate your existing community from BuddyPress or BuddyBoss.
+    link: /migration/buddypress-migration
+  - title: 🛠️ For Developers
+    details: REST API reference, hooks & filters, custom CSS, and integration development guides.
+    link: /for-developers/using-the-rest-api
 ---

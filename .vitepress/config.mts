@@ -56,6 +56,7 @@ export default defineConfig({
           { text: 'The Setup Wizard', link: '/getting-started/the-setup-wizard' },
           { text: 'Admin Dashboard', link: '/getting-started/admin-dashboard' },
           { text: 'Global Feed', link: '/getting-started/global-feed' },
+          { text: 'Understanding the Module System', link: '/getting-started/understanding-the-module-system' },
         ]
       },
       {
@@ -202,7 +203,9 @@ export default defineConfig({
             text: 'Other Integrations',
             collapsed: true,
             items: [
-              
+              { text: 'GamiPress', link: '/integrations/gamipress' },
+              { text: 'Better Messages', link: '/integrations/better-messages' },
+              { text: 'Uncanny Automator & Flowmattic', link: '/integrations/uncanny-automator-&-flowmattic' },
             ]
           },
         ]
