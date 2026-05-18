@@ -17,7 +17,7 @@ Use Space Links to point members to a resource library, an onboarding checklist,
 
 ![Space](/images/community-hub/space-links/space-1.png)
 
-2. Click the **⋮** (three-dot) menu in the top-right corner and select **Space Settings**.
+2. Click the **⋮** **(three-dot)** menu in the top-right corner and select **Space Settings**.
 
 ![Space Settings](/images/community-hub/space-links/space-2.png)
 
@@ -30,19 +30,16 @@ A popup form appears. Fill in the following fields:
 
 ### Custom Link Fields
 
-**Name of the Link**
-The label that appears in the Space navigation. Keep it short and descriptive (e.g., `Resources`, `Join Call`, `Worksheet`).
+**Name of the Link**: The label that appears in the Space navigation. Keep it short and descriptive (e.g., `Resources`, `Join Call`, `Worksheet`).
 
 You can optionally add an icon beside the link name:
 - Click the **empty box** to the left of the Name field.
 - An icon picker popup appears search or browse to select an icon.
 - Click the icon to apply it.
 
-**URL**
-The destination address for the link. Use a full URL including `https://` for external links, or a relative path for internal pages.
+**URL**: The destination address for the link. Use a full URL including `https://` for external links, or a relative path for internal pages.
 
-**Open in New Tab**
-Toggle this on if the link should open in a new browser tab. Recommended for external URLs so members don't lose their place in the community.
+**Open in New Tab**: Toggle this on if the link should open in a new browser tab. Recommended for external URLs so members don't lose their place in the community.
 
 5. Click **Save** to add the link.
 
@@ -58,9 +55,9 @@ Only Space Admins and Site Admins can add, edit, or delete Space Links. Regular 
 
 To edit or remove a link, return to **Space Settings → Space Links**. Each saved link in the list has action controls:
 
-- **Edit** — click the edit icon to reopen the form and update any field.
-- **Delete** — click the delete icon to permanently remove the link from the Space.
-- **Reorder** — drag links up or down to change the order they appear in the navigation.
+- **Edit**: Click the edit icon to reopen the form and update any field.
+- **Delete**: Click the delete icon to permanently remove the link from the Space.
+- **Reorder**: Drag links up or down to change the order they appear in the navigation.
 
 Click **Save Changes** after any edits to apply them.
 
