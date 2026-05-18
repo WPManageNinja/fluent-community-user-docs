@@ -108,4 +108,4 @@ Visible when the Space privacy is set to **Private**. Use this tab to link [Flue
 
 ## Space Links Tab
 
-Use this tab to manage external links associated with this Space. [Space Links](community-hub/space-links) appear in the Space's navigation for quick access to related resources.
+Use this tab to manage external links associated with this Space. [Space Links](/community-hub/space-links) appear in the Space's navigation for quick access to related resources.

@@ -13,7 +13,7 @@ Use Space Links to point members to a resource library, an onboarding checklist,
 
 ## How to Add a Link
 
-1. Navigate to the [Space](community-hub/creating-a-new-space) you want to add a link to.
+1. Navigate to the [Space](/community-hub/creating-a-new-space) you want to add a link to.
 
 ![Space](/images/community-hub/space-links/space-1.png)
 
