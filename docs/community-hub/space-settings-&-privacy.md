@@ -14,8 +14,10 @@ Every Space in FluentCommunity is highly customizable. This guide walks you thro
 Space Settings are managed from the community frontend, not the WordPress dashboard.
 
 1. Navigate to the Space you want to edit.
-2. Click the **⋮** (three-dot) menu in the top-right corner of the Space, next to the Posts, Members, and Chat tabs.
-3. Select **Space Settings** from the dropdown.
+2. Click the **⋮** **(three-dot)** menu in the top-right corner of the Space, next to the Posts, Members, and Chat tabs.
+
+3. Select **Space Settings** from the dropdown for customization or editing the space.
+4. You can **Delete** this space here by clicking this Delete icon.
 
 ![Accessing Space Settings from the three-dot menu](/images/community-hub/space-settings-privacy/space-settings.webp)
 
@@ -99,12 +101,11 @@ Controls how posts are displayed in this Space.
 
 ![Space Features, Layout, and Others settings](/images/community-hub/space-settings-privacy/space-settings-2.webp)
 
----
 
 ## Paywalls Tab
 
-Visible when the Space privacy is set to **Private**. Use this tab to link FluentCart products to charge for Space access. Once a product is added, return to the Lock Screen settings to design your sales page.
+Visible when the Space privacy is set to **Private**. Use this tab to link [FluentCart products](/integrations/connecting-with-fluentcart) to charge for Space access, allowing you to monetize physical products, digital downloads, and courses. Once a product is added, return to the Lock Screen settings to design your sales page.
 
 ## Space Links Tab
 
-Use this tab to manage external links associated with this Space. Space Links appear in the Space's navigation for quick access to related resources.
+Use this tab to manage external links associated with this Space. [Space Links](community-hub/space-links) appear in the Space's navigation for quick access to related resources.

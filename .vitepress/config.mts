@@ -35,6 +35,28 @@ export default defineConfig({
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
     siteTitle: false,
+
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: {
+            buttonText: 'Search docs...',
+            buttonAriaLabel: 'Search documentation'
+          },
+          modal: {
+            noResultsText: 'No results for',
+            resetButtonTitle: 'Clear search',
+            footer: {
+              selectText: 'to select',
+              navigateText: 'to navigate',
+              closeText: 'to close'
+            }
+          }
+        }
+      }
+    },
+
     logo: {
       light: '/images/brand/main_logo.png',
       dark: '/images/brand/main_logo_inverted.png',
@@ -69,6 +91,7 @@ export default defineConfig({
             items: [
               { text: 'Creating a New Space', link: '/community-hub/creating-a-new-space' },
               { text: 'Space Settings & Privacy', link: '/community-hub/space-settings-&-privacy' },
+              { text: 'Space Links', link: '/community-hub/space-links' },
               { text: 'Customizing the Lockscreen', link: '/community-hub/customizing-the-lockscreen' },
               { text: 'Using Group Chat (Pro)', link: '/community-hub/using-group-chat-(pro)' },
             ]
@@ -190,6 +213,7 @@ export default defineConfig({
             text: 'Payments & Monetization',
             collapsed: true,
             items: [
+              { text: 'Connecting with FluentCart', link: '/integrations/connecting-with-fluentcart' },
               { text: 'Connecting with Paymattic', link: '/integrations/connecting-with-paymattic' },
             ]
           },
