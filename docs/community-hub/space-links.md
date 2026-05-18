@@ -55,9 +55,8 @@ Only Space Admins and Site Admins can add, edit, or delete Space Links. Regular 
 
 To edit or remove a link, return to **Space Settings → Space Links**. Each saved link in the list has action controls:
 
-- **Edit**: Click the edit icon to reopen the form and update any field.
-- **Delete**: Click the delete icon to permanently remove the link from the Space.
-- **Reorder**: Drag links up or down to change the order they appear in the navigation.
+- **Edit**: Click the edit button to reopen the form and update any field.
+- **Delete**: Click the delete button to permanently remove the link from the Space.
 
 Click **Save Changes** after any edits to apply them.
 
