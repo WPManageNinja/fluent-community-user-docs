@@ -7,9 +7,9 @@ description: Learn how to add, manage, and organize custom links inside a Fluent
 
 Space Links allows you to add custom navigation links inside any Space. Each link appears in the Space's navigation bar, giving members quick access to related resources — external websites, internal pages, tools, or any URL relevant to that Space.
 
-::: tip
-Use Space Links to point members to a resource library, an onboarding checklist, a Zoom room link, or a related course without leaving the community.
-:::
+> **Use Case:** Use Space Links to point members to a resource library, an onboarding checklist, a Zoom room link, or a related course without leaving the community.
+
+> **Note:** For sidebar menu links created from the dashboard using the **Links** space type, see [Add Custom Links (Pro)](/community-hub/add-custom-links-(pro)).
 
 ## How to Add a Link
 

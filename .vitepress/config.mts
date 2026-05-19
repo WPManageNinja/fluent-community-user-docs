@@ -92,6 +92,7 @@ export default defineConfig({
               { text: 'Creating a New Space', link: '/community-hub/creating-a-new-space' },
               { text: 'Space Settings & Privacy', link: '/community-hub/space-settings-&-privacy' },
               { text: 'Space Links', link: '/community-hub/space-links' },
+              { text: 'Add Custom Links (Pro)', link: '/community-hub/add-custom-links-(pro)' },
               { text: 'Customizing the Lockscreen', link: '/community-hub/customizing-the-lockscreen' },
               { text: 'Using Group Chat (Pro)', link: '/community-hub/using-group-chat-(pro)' },
             ]
