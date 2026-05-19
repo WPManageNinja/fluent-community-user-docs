@@ -29,15 +29,7 @@ On the left, you will see a list of active blocks like *Banner*, *Description*, 
 
 The Lock Screen uses a visual, block-based builder that allows you to see your changes in real-time.
 
-### 1. Gutenberg Supported Description Block
-
-The Gutenberg Description is a great way to change your lock screen a lot! Because the description area uses the Gutenberg Editor, you can design your Lock Screen Page with any look you want.
-
-* **The (+) Plus Button:** Click this to open the block library. You can add Text (headings, paragraphs), Media (images, video covers), and Layout elements (columns, buttons).
-
-![Lock Screen Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-5.webp)
-
-### 2. Banner Block
+### 1. Banner Block
 
 When you click on the **Pencil icon button** to edit the Banner section, the left sidebar will show the **Content** tab:
 
@@ -60,12 +52,23 @@ The **Design** tab allows you to match the Lock Screen to your brand:
 
 ![Lock Screen Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-4.webp)
 
+### 2. Gutenberg Supported Description Block
+
+The Gutenberg Description is a great way to change your lock screen a lot! Because the description area uses the Gutenberg Editor, you can design your Lock Screen Page with any look you want.
+
+* **The (+) Plus Button:** Click this to open the block library. You can add Text (headings, paragraphs), Media (images, video covers), and Layout elements (columns, buttons).
+
+![Lock Screen Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-5.webp)
+
+
 ### 3. Call to Action Block
 
 The Call to Action section is mainly for the 'Call to Action' button on your Lock Screen.
 
 You can change the look of this section in the same way you change the Banner Block section. You will find the same settings for **Content** and **Design** here.
 
-## Saving Your Work
+![Lock Screen Settings](/images/community-hub/customizing-lock-screen/call-to-action-6.webp)
+
+#### Saving Your Work
 
 Once you are happy with the layout and design, click the **Save Changes** button in the top right corner. Your custom landing page is now live and will be shown to every non-member who visits that Space URL.

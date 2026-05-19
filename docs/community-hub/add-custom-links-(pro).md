@@ -52,13 +52,15 @@ Choose who can see the link:
 * **Logged-in Users Only:** Visible only to users who are signed in.
 * **By Space/Course Memberships:** Visible only to members of selected Spaces or Courses.
 
+![Create a Link](/images/community-hub/add-custom-link/create-a-link-3.png)
+
 #### Save the Link
 
 After entering all details, click **Create Link** to save.
 
 You will see a confirmation message when the link is created successfully. The link then appears in the menu group you selected and follows the visibility rules you configured.
 
-![Create a Link](/images/community-hub/add-custom-link/create-a-link-3.png)
+![Customized Links](/images/community-hub/add-custom-link/customize-links-4.webp)
 
 ## Custom Links vs. Space Links
 
