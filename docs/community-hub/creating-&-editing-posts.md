@@ -18,11 +18,11 @@ Any member of a Space can create a new post.
 5.  **Add Media:** Use the icons at the bottom of the editor to upload images, and videos, or embed links.
 6.  **Choose a Topic:** If Topics are enabled for the Space, you can select one to help organize the content.
 
-    [Screenshot: The post creation editor inside a Space, showing the title field, main content area, and icons for adding media.]
-
 Once you are finished, click the **Post** button to publish it to the Space's feed.
 
-## Formatting Your Posts
+  ![Create a new Post](/images/community-hub/creating-and-editing/create-a-new-post-1.png)
+
+### Formatting Your Posts
 
 FluentCommunity uses a rich text editor, allowing you to format your posts for clarity and emphasis. When writing, you can highlight text to bring up a formatting toolbar.
 
@@ -35,7 +35,15 @@ FluentCommunity uses a rich text editor, allowing you to format your posts for c
 > **✨ Note:**
 > Using formatting, especially headings and lists, is a great way to make longer posts easier to read and scan for other members.
 
-## Editing or Deleting a Post
+  ![Formatting Post](/images/community-hub/creating-and-editing/formate-post-2.png)
+
+### Share the Post
+
+You can also share the post with the link. To get the post link click on the **three-dot** button and you will find the link.
+
+  ![Share Post](/images/community-hub/creating-and-editing/share-link-3.png)
+
+### Editing or Deleting a Post
 
 If you need to make a change to a post after it has been published, you can easily edit it.
 
@@ -46,11 +54,7 @@ If you need to make a change to a post after it has been published, you can easi
 
 To remove a post permanently, you can select **Delete** from the same three-dot menu.
 
-[Screenshot: The three-dot menu on a published post, with the "Edit" and "Delete" options visible.]
+  ![Editing and Deleting Post](/images/community-hub/creating-and-editing/editing-and-delete-4.png)
 
 Now that you know how to create and edit posts, explore more community features.
 
-**Next Steps:**
-- Learn about [using comments and replies](./using-comments-&-replies.md) to engage in discussions
-- Explore [post reactions and mentions](./post-reactions-&-mentions.md) for quick feedback
-- Set up [content moderation](./content-moderation.md) to maintain community quality

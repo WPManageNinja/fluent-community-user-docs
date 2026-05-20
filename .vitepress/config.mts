@@ -5,6 +5,7 @@ export default defineConfig({
   title: "FluentCommunity",
   description: "The official documentation for the FluentCommunity WordPress plugin.",
   srcDir: 'docs',
+  cleanUrls: true,
 
   head: [
     ['link', { rel: 'shortcut icon', type: 'image/png', href: '/images/brand/main_icon.png' }],
