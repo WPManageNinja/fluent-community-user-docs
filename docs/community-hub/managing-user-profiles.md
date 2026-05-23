@@ -11,8 +11,8 @@ A member's profile is their personal space within the community. It's where they
 
 Any logged-in member can easily edit their own profile information.
 
-1.  From the community portal, click on your **profile picture** in the top-right corner.
-2.  In the dropdown menu, select your name to go to your profile page.
+1.  Navigate to the FluentCommunity dashboard and click on the **Member** section.
+2.  From the dropdown, select your name to access your profile page.
 
 ![Edit Member Profile](/images/community-hub/managing-user-profile/edit-profile-1.png)
 
