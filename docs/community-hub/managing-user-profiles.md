@@ -13,7 +13,12 @@ Any logged-in member can easily edit their own profile information.
 
 1.  From the community portal, click on your **profile picture** in the top-right corner.
 2.  In the dropdown menu, select your name to go to your profile page.
+
+![Edit Member Profile](/images/community-hub/managing-user-profile/edit-profile-1.png)
+
 3.  Click the **Edit Profile** button.
+
+![Edit Member Profile](/images/community-hub/managing-user-profile/edit-profile-2.png)
 
 This will open the profile editor, where a member can change their:
 
@@ -21,7 +26,7 @@ This will open the profile editor, where a member can change their:
 * **Name & Bio:** Update their display name and write a short biography about themselves.
 * **Social Links:** Add links to their personal websites or social media accounts.
 
-[Screenshot: The front-end view of a user profile page, with the "Edit Profile" button highlighted.]
+![Edit Profile](/images/community-hub/managing-user-profile/edit-profile-3.png)
 
 ## How Admins Manage Profiles
 
@@ -40,12 +45,8 @@ From the back-end, you can perform several exclusive actions:
 * **Assign Badges (Pro):** If you use the Gamification module, you can manually assign custom badges to a user's profile to recognize their contributions or status. Learn more about [creating and assigning badges](../gamification-(pro)/creating-&-assigning-badges.md).
 * **Change Access Status:** Set a member's account status to "Active," "Pending," or "Blocked" to control their access to the community.
 
-[Screenshot: The admin view of a user's profile, showing the options for verifying an account and assigning a badge.]
+![Administration Action](/images/community-hub/managing-user-profile/admin-actions-4.png)
 
 > **⚠️ Important:**
 > Modifying a user's profile information or access status should be done with care. Always ensure you are acting in accordance with your community's terms of service and privacy policy.
 
-**Related Topics:**
-- Learn about [assigning user roles](./assigning-user-roles.md) to control permissions
-- Explore [the member directory](./the-member-directory.md) for member discovery
-- Set up [content moderation](./content-moderation.md) to maintain community standards
