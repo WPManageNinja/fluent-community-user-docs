@@ -48,7 +48,7 @@ The moderation list is organized into tabs:
 
 Each row shows the **Title**, **Type** (post or comment), **Reporter**, **Date**, and **Reports** count. Use the **Settings** button in the top-right of the Moderation page to open **Moderation Settings** (profanity filter, auto-flag rules, and approval options).
 
-![Moderation dashboard with action menu](/images/community-hub/content-moderation/moderation-actions.png)
+![Moderation dashboard with action menu](/images/community-hub/content-moderation/moderation-actions-6.png)
 
 ### Moderation Actions
 
