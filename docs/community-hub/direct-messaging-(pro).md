@@ -1,42 +1,64 @@
 ---
 title: Direct Messaging (Pro)
-description: Learn how to use the Direct Messaging feature in FluentCommunity to allow members to have private, one-on-one conversations with each other.
+description: Learn how to use Direct Messaging in FluentCommunity to send private one-on-one messages, share media, and manage conversations with other members.
 ---
 
 # Direct Messaging (Pro)
 
-Direct Messaging (DM) allows your members to have private, one-on-one conversations with each other, right within your community platform. It's an essential feature for fostering personal connections and collaborations.
+**Direct Messaging (DM)** lets members have private, one-on-one conversations inside your community. It is ideal for follow-up questions, collaborations, and personal connections without posting on the public feed.
 
-> **Use Case:** A member sees a helpful post by another user and wants to ask a follow-up question privately. They can use the Direct Message feature to start a personal conversation without cluttering the public feed.
+> **Use Case:** A member sees a helpful post and wants to ask a follow-up question privately. They open Direct Messaging, start a chat with that member, and continue the conversation one-on-one.
 
-## How Direct Messaging Works
+> **Note:** Direct Messaging is a **Pro** feature. An administrator must enable it in **FluentCommunity settings > Features & Addons > FluentCommunity Chat**. If you do not see the Messages icon, contact your site administrator.
 
-When Direct Messaging is enabled, members can initiate a conversation from another user's profile.
+## Navigating the Chat Interface
 
-1.  Navigate to the profile of the member you wish to contact.
-2.  On their profile page, you will see a **Message** button.
-3.  Clicking this button will open the chat interface, where you can type and send your private message.
+To access chat in FluentCommunity, click the **Messages** (speech bubble) icon in the bottom-right corner of the community portal.
 
-[Screenshot: A user profile page with the "Message" button prominently displayed.]
+#### Message List:** Clicking the icon opens the messaging panel, where you can see all your recent conversations.
 
-## The Chat Interface
+#### Search Conversations
 
-FluentCommunity's chat system provides a familiar, real-time messaging experience.
+Use the search bar at the top of the message list to quickly find existing chats by typing a member's name or username.
 
-* **Conversation List:** On the left side, you'll see a list of all your ongoing conversations.
-* **Chat Window:** The main area displays the current conversation thread.
-* **Media Support:** Members can send text, emojis, and even attach images and GIFs to their private messages.
+## Starting a Conversation
 
-[Screenshot: The main direct messaging interface, showing the conversation list on the left and an active chat window on the right.]
+To reach out to a member, click the **+** (plus) icon or use the search bar inside the messaging panel to start a **New message**.
 
-> **✨ Note:**
-> Direct Messaging is a Pro feature and must be enabled by the site administrator in the FluentCommunity settings. If you do not see the "Message" button on user profiles, this feature may be disabled.
+![Message](/images/community-hub/direct-message/message-1.png)
 
-## Managing Your Messages
+1. Type the member's name or username in the **To:** field.
+2. Select the user from the dropdown list.
+3. The chat window opens and you can begin typing.
 
-Users have full control over their private conversations. They can mute notifications from specific chats or block users if necessary to maintain their privacy and safety.
+You can also start a conversation from a member's profile by clicking the **Message** button on their profile page.
 
-**Related Features:**
-- Learn about [group chat](./using-group-chat-(pro).md) for space-wide conversations
-- Explore [managing user profiles](./managing-user-profiles.md) for member administration
-- Set up [content moderation](./content-moderation.md) to maintain community standards
+![New Message](/images/community-hub/direct-message/new-message-2.png)
+
+## Sending Messages and Media
+
+In the **Type a message…** box at the bottom of the chat window, you can:
+
+* **Write your message**: Type text and use emojis like in posts and comments.
+* **Upload media**: Attach images or videos directly in the chat to share content with the other member.
+* **Send**: Click the **Send** icon when your message is ready.
+
+Messages appear in real time in the conversation thread.
+
+## Viewing User Profile Details & Actions
+
+Within a conversation, click the **Details (i)** icon or the member's name in the chat header to open the **Details** panel. From there you can:
+
+![Sending Message](/images/community-hub/direct-message/send-message-3.png)
+
+* **View Profile**: Open the member's full community profile page.
+* **Username**: See the member's **@username** for reference.
+* **Block User**: Under **More Actions**, block the member to prevent further messages from them.
+* **Delete Conversation**: Permanently remove the chat history with that user from your message list.
+
+![Sending Message](/images/community-hub/direct-message/view-profile-4.png)
+
+> **⚠️ Important:**
+> Blocking or deleting a conversation affects your private chat experience. Use these options when you need to maintain privacy or safety in your community.
+
+
