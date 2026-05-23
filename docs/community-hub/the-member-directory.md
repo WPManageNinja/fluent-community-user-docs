@@ -13,9 +13,7 @@ The **Member Directory** is a central hub where people in your community can dis
 
 For members, the directory is available from the front-end community navigation, usually under the **Members** tab.
 
-For administrators, member management is also available from the WordPress dashboard via **FluentCommunity → Members**.
-
-## What Members Can Do in the Directory
+For administrators, you can view and manage members from the back-end by navigating to **FluentCommunity → Members** in your WordPress dashboard.
 
 The Member Directory is more than a static user list. It includes tools that make discovery easy:
 
@@ -24,24 +22,45 @@ The Member Directory is more than a static user list. It includes tools that mak
 * **Quick Profile Context:** Each row/card gives useful at-a-glance context (name, username, joined date, and activity info).
 * **Follow and Connect:** Members can follow others directly from the directory to build meaningful connections.
 
-![Members](/images/community-hub/member-directory/members-1.webp)
+![Directory](/images/community-hub/member-directory/member-1.png)
 
 ## Directory Privacy Settings
 
-As an admin, you can fully control who can access member-related pages from:
+As an administrator, you control who can view the Member Directory and related member pages. Configure these options from your WordPress dashboard:
 
-**FluentCommunity → Settings → Privacy Settings**
+1. Go to **FluentCommunity → Settings**.
+2. Open the **Privacy Settings** tab.
+3. Adjust the visibility options below, then click **Save Settings**.
 
-Key options include:
+![Privacy Settings in Portal Settings](/images/community-hub/member-directory/member-privacy-settings-2.png)
 
-* **Who can view all members page:** Set access to **Everybody**, **Only logged-in members**, or **Only Admin/Moderators**.
-* **Who can view user profile page:** Control profile visibility with the same privacy levels.
-* **Who can view leaderboard top members:** Decide whether leaderboard members are visible publicly or only to restricted users.
-* **Who can view membership spaces on the user profile page:** Manage visibility of a user's joined spaces on profile pages.
+### Who Can View the Member Directory
 
-You can also configure additional profile/privacy controls such as username change permissions, email change permissions, and profile data sync behavior.
+**Who can view all members page?** controls access to the Member Directory itself:
 
-![Directory Privacy Settings](/images/community-hub/member-directory/privacy-settings-2.webp)
+* **Everybody**: Anyone can browse the full members list.
+* **Only logged-in members**: Only signed-in users can view the directory (recommended for private communities).
+* **Only Admin/Moderators**: Only staff can access the directory; members cannot browse all members publicly.
+
+### Related Profile & Community Visibility
+
+These settings work alongside the directory and affect how members appear across the community:
+
+**Who can view user profile page?**  
+Choose **Everybody**, **Only logged-in members**, or **Only Admin/Moderators**. Members can always view their own profile.
+
+**Who can view leaderboard top members?**  
+Control who can see top members on the leaderboard using the same visibility levels.
+
+**Who can view spaces and courses on the user profile page**  
+Control who can see the Spaces and Courses tabs on a member's profile.
+
+### Member Account Permissions
+
+* **Allow users to change their community username** — When enabled, members can update their own username. When disabled, only admins or moderators can change it.
+* **Allow users to change their account email address** — When enabled, members can update their WordPress account email from profile settings.
+
+> **Use Case:** For a private membership community, set **Who can view all members page?** to **Only logged-in members** so the directory is visible to members only, not public visitors.
 
 ## Best Practices
 

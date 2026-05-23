@@ -15,7 +15,7 @@ Reactions are a quick, one-click way for members to express their feelings about
  * **Reacting to Comments:** Similarly, you can react to individual comments by clicking the reaction icon located directly beneath the comment text.
  * **Visual Feedback:** The total count of reactions is displayed on the post or comment, providing immediate visual feedback to the author and other members.
 
-  ![Using reactions](/images/community-hub/post-reaction-and-mention/using-reaction-1.webp)
+![Reactions](/images/community-hub/ractions-and-mention/reacation-1.png)
 
 ## Using Mentions (@) to Tag Members
 
@@ -26,7 +26,7 @@ Reactions are a quick, one-click way for members to express their feelings about
  * **Select from Dropdown:** A dropdown list of matching members will appear automatically; simply click the correct member to select them.
  * **Clickable Links:** Once published, the mentioned user's name appears as a clickable link. This is perfect for asking specific questions, giving credit, or highlighting important updates for key stakeholders.
 
->[!Note]
->To maintain community standards and prevent spam, you can typically only mention users who are members of the same Space or conversation where you are currently posting.
+> **✨ Note:**
+> To prevent spam, you can typically only mention users who are members of the same Space where you are posting.
 
-  ![Usning Mention](/images/community-hub/post-reaction-and-mention/using-mention-2.webp)
+![Mentions](/images/community-hub/ractions-and-mention/mention-2.png)

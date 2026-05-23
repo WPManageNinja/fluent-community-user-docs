@@ -17,32 +17,26 @@ You can add emojis to any post, comment, or private chat message to express your
 * **Browse or Search:** You can browse through various categories or use the search bar to find the perfect emoji for your message.
 * **Insert:** Simply click on an emoji to insert it directly into your text.
 
-![Emoji Picker](/images/community-hub/using-emoji-and-giphy/emoji-1.webp)
+![Emoji](/images/community-hub/emoji-and-gif/emoji-1.png)
 
 ## Using Giphy for Animated GIFs
 
 Animated GIFs are a great way to add humor and motion to your community discussions.
 
-* **Find the GIF Icon:** In the post or comment editor, look for the **GIF icon** located next to the emoji picker.
+* **Find the GIF Icon:** In the post or comment editor, look for the **GIF** icon located next to the emoji picker.
 * **Search for Content:** Click the icon to open the **Giphy** integration window and type a keyword (e.g., "celebrate" or "thank you") into the search bar.
 * **Select and Share:** Browse the search results and click on the **GIF** you want to share. It will be automatically embedded into your post or comment.
 
-![GIPHY](/images/community-hub/using-emoji-and-giphy/giphy-2.webp)
+![GIPHY](/images/community-hub/emoji-and-gif/gify-2.png)
 
 ### Enabling Emoji and Giphy Modules
 
 As an administrator, you must activate these modules from the backend settings before members can use them.
 
-* **Access Features & Addons:** Navigate to the **Portal Settings** and select the **Features & Addons** tab from the left sidebar.
+* **Access Features & Addons:** Navigate to **Portal Settings** and select the **Features & Addons** tab from the left sidebar.
 * **Enable Emoji Module:** Locate the **Emoji Module** and click the **Settings** button. Ensure it is toggled to Enabled to allow a personal touch with emojis in articles, posts, or comments.
 
-![Emoji Module](/images/community-hub/using-emoji-and-giphy/emoji-module-3.webp)
+* **Configure Giphy Module:** Locate the **Giphy Module** and click its **Settings** button. Enter your **[Giphy API Key](https://developers.giphy.com/)**, check **Enable Giphy Module**, and click **Save**.
 
-* **Configure Giphy Module:** Locate the **Giphy Module** and click its **Settings** button.
-
-In the popup, enter your **[Giphy API Key](https://developers.giphy.com/)**. Check the **Enable Giphy Module** box. Click **Save** to apply the changes.
-
->[!Note]
->If the Emoji and Giphy modules are not enabled in the backend, the corresponding icons will not appear in the community text editors.
-
-![Giphy Module](/images/community-hub/using-emoji-and-giphy/giphy-module-4.webp)
+> **✨ Note:**
+> The Emoji and Giphy integrations are **Pro** features. If the modules are not enabled in the backend, the corresponding icons will not appear in the community text editors.

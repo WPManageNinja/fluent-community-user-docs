@@ -5,36 +5,52 @@ description: Learn about the different user roles in FluentCommunity, such as Ad
 
 # Assigning User Roles
 
-User roles are a fundamental part of managing your community, allowing you to grant different levels of permissions to different members. By default, FluentCommunity has a few core roles, and you can assign them on a per-space basis.
+User roles are a fundamental part of managing your community. They let you grant different levels of permissions to members on a per-Space basis, so trusted volunteers can help moderate without full site-wide access.
 
-> **Use Case:** You have a trusted, long-time member who is always helpful in your "General Discussion" space. You can promote them to be a **Moderator** for that specific space, giving them the ability to edit or delete posts and comments to help keep the conversation on track, without giving them full admin access to your entire site.
+> **Use Case:** You have a trusted, long-time member who is always helpful in your "General Discussion" Space. You can promote them to **Moderator** for that Space so they can help manage posts and comments, without giving them full admin access to your entire site.
 
 ## Understanding the Default Roles
 
 FluentCommunity's role system is designed to be simple and powerful.
 
-* **Member:** This is the standard role for all users who join a space. They can create posts, comment, and interact with content but cannot edit or delete anyone else's content.
-* **Moderator:** A step up from a Member. Moderators have all the abilities of a member, plus they can edit or delete any post or comment within the specific Space they moderate. This role is perfect for trusted community volunteers.
-* **Admin:** This role has the highest level of permission within a Space. An Admin can do everything a Moderator can, plus they can edit the Space's settings, manage its members (approve, remove, or block), and customize its appearance.
-* **Site Admin (WordPress Administrator):** This is not a FluentCommunity role, but a WordPress one. Users with the WordPress Administrator role have full control over the entire FluentCommunity plugin and all Spaces by default.
+* **Member:** The standard role for users who join a Space. Members can create posts, comment, and interact with content but cannot edit or delete other members' content.
+* **Moderator:** Has all Member abilities, plus permission to edit or delete any post or comment within that Space. Ideal for trusted community volunteers.
+* **Admin:** Has Moderator abilities, plus control over Space settings, member management (approve, remove, or block), and Space customization.
+* **Site Admin (WordPress Administrator):** A WordPress-level role, not a FluentCommunity Space role. WordPress Administrators have full control over FluentCommunity and all Spaces by default.
+
+## Viewing Your Role in a Space
+
+From the community front end, open **Spaces** to see all available Spaces. If you are already a member, your role appears as a badge on the Space card next to the title (for example, **Member** or **Admin**). Spaces you have not joined show a **Join** button instead of a role badge.
+
+![Space cards showing Member and Admin role badges](/images/community-hub/assigning-user-roles/spaces-role-badges.png)
 
 ## How to Assign or Change a User's Role in a Space
 
-You can change a user's role for any Space they are a member of.
+You can update a member's role from the Space's **Members** tab on the community portal.
 
-1.  Navigate to **FluentCommunity → Spaces** from your WordPress dashboard.
-2.  Click on the Space where you want to manage roles.
-3.  Inside the space editor, click on the **Members** tab. This will show you a list of all members in that specific Space.
+1. Navigate to the Space where you want to manage roles.
+2. Open the **Members** tab in the Space navigation.
+3. Use the **Search** bar to find the member, or browse the member list.
+4. Click the **three-dot (...)** menu on the member's card.
+5. Select **Change Membership** from the dropdown.
 
-![Assign Member](/images/community-hub/assigning-user-role/edit-profile-1.webp)
+![Change Membership option in the member menu](/images/community-hub/assigning-user-roles/change-membership-menu-2.png)
 
-4.  Find the user whose role you want to change. Click the **three-dot** from the right side and click the **Change Membership** option.
+The **Update Role** panel opens on the right.
 
-![Assign Member](/images/community-hub/assigning-user-role/change-membership-2.webp)
+6. Open the **Membership Role** dropdown and select the new role: **Member**, **Moderator**, or **Admin**.
 
-5.  A popup will appear. Click the dropdown and select the new role you want to assign **Membership Role** (e.g., "Moderator").
+7. Click **Update Role** to save.
 
-![Assign Member](/images/community-hub/assigning-user-role/role-change-3.webp)
+The member's role badge updates immediately, and their permissions apply the next time they visit that Space.
 
-The change is saved automatically. The user will now have the new permissions the next time they visit that Space.
+![Update Role panel with Membership Role dropdown](/images/community-hub/assigning-user-roles/update-role-modal-3.png)
+
+### Other Member Actions
+
+From the same **three-dot (...)** menu, you can also:
+
+* **Remove Member** — Remove the user from the Space entirely.
+
+Use **Add Member** or **Invitations** at the top of the Members tab to bring new users into the Space before assigning roles.
 

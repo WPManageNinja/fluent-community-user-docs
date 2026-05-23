@@ -13,20 +13,23 @@ A member profile is each user's personal identity page inside your community. It
 
 Any logged-in member can quickly edit their own profile details from the community portal.
 
-1.  From the community portal, click on your **profile picture** in the top-right corner.
-2.  Open your profile page from the dropdown menu.
-3.  Click the **Edit Profile** button from your profile header.
+1.  Navigate to the FluentCommunity dashboard and click on the **Member** section.
+2.  From the dropdown, select your name to access your profile page.
 
-![Edit Profile](/images/community-hub/managing-user-profile/edit-profile-1.webp)
+![Edit Member Profile](/images/community-hub/managing-user-profile/edit-profile-1.png)
 
-This opens the profile editor, where members can update:
+3.  Click the **Edit Profile** button.
+
+![Edit Member Profile](/images/community-hub/managing-user-profile/edit-profile-2.png)
+
+This will open the profile editor, where a member can change their:
 
 * **Profile Picture & Cover Photo:** Upload new images to personalize their page.
 * **Name, Username & Bio:** Keep profile identity details clear and up to date.
 * **Contact & Website Info:** Add relevant public profile details.
 * **Social Links:** Connect personal websites and social media accounts.
 
-![Edit Profile](/images/community-hub/managing-user-profile/edit-profile-2.webp)
+![Edit Profile](/images/community-hub/managing-user-profile/edit-profile-3.png)
 
 ## How Admins Manage Profiles
 
@@ -46,8 +49,7 @@ From the back-end, you can perform several exclusive actions:
 * **Manage Username & Profile Data:** Review and update profile data when needed for consistency or moderation.
 * **Assign Badges (Pro):** If Gamification is enabled, manually assign badges to recognize contribution and role. Learn more about [creating and assigning badges](../gamification-(pro)/creating-&-assigning-badges.md).
 
+![Administration Action](/images/community-hub/managing-user-profile/admin-actions-4.png)
 
 > **⚠️ Important:**
 > Modifying a user's profile information or access status should be done with care. Always ensure you are acting in accordance with your community's terms of service and privacy policy.
-
-![Admin Action](/images/community-hub/managing-user-profile/admin-action-3.webp)
