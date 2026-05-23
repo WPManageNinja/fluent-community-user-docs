@@ -15,7 +15,9 @@ description: Learn how to use Direct Messaging in FluentCommunity to send privat
 
 To access chat in FluentCommunity, click the **Messages** (speech bubble) icon in the bottom-right corner of the community portal.
 
-#### Message List:** Clicking the icon opens the messaging panel, where you can see all your recent conversations.
+#### Message List
+
+Clicking the icon opens the messaging panel, where you can see all your recent conversations.
 
 #### Search Conversations
 
@@ -40,7 +42,7 @@ You can also start a conversation from a member's profile by clicking the **Mess
 In the **Type a message…** box at the bottom of the chat window, you can:
 
 * **Write your message**: Type text and use emojis like in posts and comments.
-* **Upload media**: Attach images or videos directly in the chat to share content with the other member.
+* **Upload media**: Upload Image / Media: To the left of the Type a message... input box, you will find the Media icon (represented by an image card icon). Clicking this allows you to select and upload images or documents directly from your device into the private chat, making visual collaboration seamless.
 * **Send**: Click the **Send** icon when your message is ready.
 
 Messages appear in real time in the conversation thread.
@@ -57,6 +59,15 @@ Within a conversation, click the **Details (i)** icon or the member's name in th
 * **Delete Conversation**: Permanently remove the chat history with that user from your message list.
 
 ![Sending Message](/images/community-hub/direct-message/view-profile-4.png)
+
+### Managing Messages (Reply & Delete)
+
+When interacting within a conversation thread, hovering over or interacting with a specific message opens a quick-action menu (indicated by the three vertical dots icon) that allows you to manage that individual message.
+
+ * **Reply:** Click the **Reply** option (curved arrow icon) to quote a specific message. This helps maintain context in the conversation, especially when responding to older messages or multiple questions.
+ * **Delete:** Click the **Delete** option (trash can icon) to permanently remove your sent message from the conversation thread.
+
+![Reply](/images/community-hub/direct-message/reply-5.png)
 
 > **⚠️ Important:**
 > Blocking or deleting a conversation affects your private chat experience. Use these options when you need to maintain privacy or safety in your community.
