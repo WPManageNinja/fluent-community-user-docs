@@ -20,7 +20,3 @@ If you have enabled a Pro module like Gamification or Courses but don't see the 
 * **Check Your License:** Ensure your FluentCommunity Pro license is active and correctly entered in your site's settings. An expired license can sometimes disable pro features.
 * **Clear Your Cache:** If you're using a caching plugin, try clearing your cache to see if the feature appears.
 
-**Related Topics:**
-- Learn about [contacting support](./how-to-contact-support.md) for additional help
-- Explore [frequently asked questions](./frequently-asked-questions.md) for common solutions
-- Check [admin dashboard](../getting-started/admin-dashboard.md) for plugin status
