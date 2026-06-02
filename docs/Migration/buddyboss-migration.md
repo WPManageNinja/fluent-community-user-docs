@@ -11,7 +11,6 @@ This guide walks you through migrating your BuddyBoss community data into Fluent
 Create a **complete backup** of your WordPress files and database before running any migration. The CLI migration in particular may overwrite existing FluentCommunity data.
 :::
 
----
 
 ## What Gets Migrated
 
@@ -34,7 +33,6 @@ Create a **complete backup** of your WordPress files and database before running
 - BuddyBoss theme settings and configurations
 - Data from third-party BuddyBoss add-ons
 
----
 
 ## Method 1: Migrate Through the UI
 
@@ -58,7 +56,6 @@ When the migration finishes, a congratulatory notification confirms that the pro
 
 ![FluentCommunity BuddyBoss Migration - Completion notification](https://fluentcommunity.co/wp-content/uploads/2025/01/FlunetCommunity-BuddyBoss-Migration-3-scaled.webp)
 
----
 
 ## Method 2: Migrate Using WP-CLI (Recommended for Large Communities)
 
@@ -78,8 +75,6 @@ This command migrates:
 - Posts and interactions
 - Comments and reactions
 
----
-
 ## Verifying Your Migrated Data
 
 After migration completes, review the following to confirm everything transferred correctly.
@@ -96,13 +91,12 @@ All BuddyBoss Groups now appear as Spaces in FluentCommunity. Groups you mapped 
 
 ![FluentCommunity BuddyBoss Migration - Spaces preview](https://fluentcommunity.co/wp-content/uploads/2025/01/FlunetCommunity-BuddyBoss-Migration-5-scaled.webp)
 
----
 
 ## After Migration: Next Steps
 
-- **Review Space Settings** — Go through each imported Space and configure privacy, member permissions, and content settings. See [Space Settings & Privacy](/community-hub/space-settings-&-privacy).
-- **Rebuild Permalinks** — Go to **WordPress Admin → Settings → Permalinks** and click **Save Changes** to ensure all community URLs resolve correctly.
-- **Customize Your Portal** — Apply your branding, colors, and layout in **FluentCommunity → Portal Settings**. See [Adding Custom Sidebar Links](/portal-settings/adding-custom-sidebar-links).
-- **Announce the Change** — Let your members know the community has moved to a new platform and highlight what's improved.
+- **Review Space Settings**: Go through each imported Space and configure privacy, member permissions, and content settings. See [Space Settings & Privacy](/community-hub/space-settings-&-privacy).
+- **Rebuild Permalinks**: Go to **WordPress Admin → Settings → Permalinks** and click **Save Changes** to ensure all community URLs resolve correctly.
+- **Customize Your Portal**: Apply your branding, colors, and layout in **FluentCommunity → Portal Settings**. See [Adding Custom Sidebar Links](/portal-settings/adding-custom-sidebar-links).
+- **Announce the Change**: Let your members know the community has moved to a new platform and highlight what's improved.
 
 
