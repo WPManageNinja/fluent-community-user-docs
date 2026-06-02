@@ -140,7 +140,7 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 **Level** *(Pro)*: A membership tier earned by accumulating Points. Reaching a Level can automatically trigger role changes or badge awards via Level-Up automation.
 
-**Level-Up** *(Pro)*: An automated event that fires when a member reaches a defined Point milestone, optionally assigning a new role or badge. See also: [Automating Level-Ups](/gamification-(pro)/automating-level-ups).
+**Level-Up** *(Pro)*: An automated event that fires when a member reaches a defined Point milestone, optionally assigning a new role or badge. See also: [Setting Up Leaderboards](/gamification-(pro)/setting-up-leaderboards).
 
 **Link Space** *(Pro)*: A Space type that redirects members to an external URL instead of displaying community content. Useful for linking to external resources in the sidebar.
 
