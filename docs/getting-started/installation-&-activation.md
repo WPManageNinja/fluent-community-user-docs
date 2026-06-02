@@ -17,7 +17,7 @@ You can install FluentCommunity directly from your WordPress dashboard or by upl
 2.  In the search bar at the top right, type **"FluentCommunity"** and press Enter.
 3.  You will see FluentCommunity in the search results. Click the **Install Now**  and then the **Activate** button.
 
-![Install & Activate FluentCommunity](/images/getting-started/install-activation/install-activation-1.png)
+![Install & Activate FluentCommunity](/images/getting-started/install-activation/install-activation-1.webp)
 
 4.  WordPress will automatically download and install & activate the plugin.
 

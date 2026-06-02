@@ -19,7 +19,7 @@ Any member with access to a post can contribute to the discussion.
 
 Your comment will immediately appear below the post.
 
-![Add a Comment](/images/community-hub/using-comment-and-replies/add-a-comment-1.png)
+![Add a Comment](/images/community-hub/using-comment-and-replies/add-a-comment-1.webp)
 
 
 ## How to Reply to a Comment
@@ -33,7 +33,7 @@ To keep conversations organized, you can reply directly to a specific comment, w
 
 Nested replies ensure that the context of the conversation remains clear for all members.
 
-![Reply a Comment](/images/community-hub/using-comment-and-replies/reply-comment-2.png)
+![Reply a Comment](/images/community-hub/using-comment-and-replies/reply-comment-2.webp)
 
 ## Advanced Comment Management
 
@@ -46,7 +46,7 @@ FluentCommunity provides advanced options to help maintain community standards a
 * **Delete**: Click the **three-dot (...)** menu and choose **Delete** to permanently remove your comment.
 * **View More Comments**: If a post has many responses, click the **View more comments** link to open a dedicated pop-up modal with the full discussion.
 
-![Advanced Comment](/images/community-hub/using-comment-and-replies/advanced-comment-3.png)
+![Advanced Comment](/images/community-hub/using-comment-and-replies/advanced-comment-3.webp)
 
 ### Sorting Comments
 
@@ -57,4 +57,9 @@ Inside the pop-up modal, you can organize comments to find the most relevant con
 * **Earliest**
 * **Most Replied**
 
+<<<<<<< HEAD
 ![Sorting Comments](/images/community-hub/using-comment-and-replies/sorting-comments-4.png)
+=======
+![Sorting Comments](/images/community-hub/using-comment-and-replies/sorting-comments-4.webp)
+
+>>>>>>> DocTeam

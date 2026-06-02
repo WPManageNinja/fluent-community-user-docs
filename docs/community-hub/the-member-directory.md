@@ -22,7 +22,7 @@ The Member Directory is more than a static user list. It includes tools that mak
 * **Quick Profile Context:** Each row/card gives useful at-a-glance context (name, username, joined date, and activity info).
 * **Follow and Connect:** Members can follow others directly from the directory to build meaningful connections.
 
-![Directory](/images/community-hub/member-directory/member-1.png)
+![Directory](/images/community-hub/member-directory/member-1.webp)
 
 ## Directory Privacy Settings
 
@@ -32,7 +32,7 @@ As an administrator, you control who can view the Member Directory and related m
 2. Open the **Privacy Settings** tab.
 3. Adjust the visibility options below, then click **Save Settings**.
 
-![Privacy Settings in Portal Settings](/images/community-hub/member-directory/member-privacy-settings-2.png)
+![Privacy Settings in Portal Settings](/images/community-hub/member-directory/member-privacy-settings-2.webp)
 
 ### Who Can View the Member Directory
 

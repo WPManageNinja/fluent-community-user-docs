@@ -15,16 +15,16 @@ Space Links allows you to add custom navigation links inside any Space. Each lin
 
 1. Navigate to the [Space](/community-hub/creating-a-new-space) you want to add a link to.
 
-![Space](/images/community-hub/space-links/space-1.png)
+![Space](/images/community-hub/space-links/space-1.webp)
 
 2. Click the **⋮** **(three-dot)** menu in the top-right corner and select **Space Settings**.
 
-![Space Settings](/images/community-hub/space-links/space-2.png)
+![Space Settings](/images/community-hub/space-links/space-2.webp)
 
 3. Click the **Space Links** tab at the top of the settings panel.
 4. Click the **Add New Link** button.
 
-![Add New Links](/images/community-hub/space-links/add-new-links-3.png)
+![Add New Links](/images/community-hub/space-links/add-new-links-3.webp)
 
 A popup form appears. Fill in the following fields:
 
@@ -49,7 +49,7 @@ The link now appears in the Space's navigation bar for all members.
 Only Space Admins and Site Admins can add, edit, or delete Space Links. Regular members see the links but cannot manage them.
 :::
 
-![Custom Links](/images/community-hub/space-links/add-custom-links-4.png)
+![Custom Links](/images/community-hub/space-links/add-custom-links-4.webp)
 
 ## Managing Existing Links
 
@@ -60,4 +60,4 @@ To edit or remove a link, return to **Space Settings → Space Links**. Each sav
 
 Click **Save Changes** after any edits to apply them.
 
-![Edit or Delete](/images/community-hub/space-links/edit-or-delete-5.png)
+![Edit or Delete](/images/community-hub/space-links/edit-or-delete-5.webp)

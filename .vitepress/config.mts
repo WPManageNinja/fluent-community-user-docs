@@ -126,7 +126,6 @@ export default defineConfig({
           { text: 'Configuring the Points System', link: '/gamification-(pro)/configuring-the-points-system' },
           { text: 'Setting Up Leaderboards', link: '/gamification-(pro)/setting-up-leaderboards' },
           { text: 'Creating & Assigning Badges', link: '/gamification-(pro)/creating-&-assigning-badges' },
-          { text: 'Automating Level-Ups', link: '/gamification-(pro)/automating-level-ups' },
         ]
       },
       {

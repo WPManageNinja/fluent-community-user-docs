@@ -22,7 +22,7 @@ FluentCommunity's role system is designed to be simple and powerful.
 
 From the community front end, open **Spaces** to see all available Spaces. If you are already a member, your role appears as a badge on the Space card next to the title (for example, **Member** or **Admin**). Spaces you have not joined show a **Join** button instead of a role badge.
 
-![Space cards showing Member and Admin role badges](/images/community-hub/assigning-user-roles/spaces-role-badges.png)
+![Space cards showing Member and Admin role badges](/images/community-hub/assigning-user-roles/spaces-role-badges.webp)
 
 ## How to Assign or Change a User's Role in a Space
 
@@ -34,7 +34,7 @@ You can update a member's role from the Space's **Members** tab on the community
 4. Click the **three-dot (...)** menu on the member's card.
 5. Select **Change Membership** from the dropdown.
 
-![Change Membership option in the member menu](/images/community-hub/assigning-user-roles/change-membership-menu-2.png)
+![Change Membership option in the member menu](/images/community-hub/assigning-user-roles/change-membership-menu-2.webp)
 
 The **Update Role** panel opens on the right.
 
@@ -44,7 +44,7 @@ The **Update Role** panel opens on the right.
 
 The member's role badge updates immediately, and their permissions apply the next time they visit that Space.
 
-![Update Role panel with Membership Role dropdown](/images/community-hub/assigning-user-roles/update-role-modal-3.png)
+![Update Role panel with Membership Role dropdown](/images/community-hub/assigning-user-roles/update-role-modal-3.webp)
 
 ### Other Member Actions
 

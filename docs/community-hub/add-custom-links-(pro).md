@@ -18,11 +18,11 @@ You create custom links from the WordPress dashboard as a dedicated **Links** sp
 1. Go to your WordPress dashboard and open **FluentCommunity → Spaces**.
 2. Click the **New Space** button in the top-right corner.
 
-![New Space button on the All Spaces page](/images/community-hub/add-custom-link/create-new-space-1.png)
+![New Space button on the All Spaces page](/images/community-hub/add-custom-link/create-new-space-1.webp)
 
 3. In the popup, select **Links** and click **Next**.
 
-![Choose Link](/images/community-hub/add-custom-link/links-2.png)
+![Choose Link](/images/community-hub/add-custom-link/links-2.webp)
 
 ## Create a Custom Link
 
@@ -52,7 +52,7 @@ Choose who can see the link:
 * **Logged-in Users Only:** Visible only to users who are signed in.
 * **By Space/Course Memberships:** Visible only to members of selected Spaces or Courses.
 
-![Create a Link](/images/community-hub/add-custom-link/create-a-link-3.png)
+![Create a Link](/images/community-hub/add-custom-link/create-a-link-3.webp)
 
 #### Save the Link
 

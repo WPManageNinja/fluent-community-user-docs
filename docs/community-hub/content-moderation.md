@@ -15,15 +15,15 @@ When this feature is enabled, members will see a "Report" option in the three-do
 
 1.  A member clicks the **Report Post** option on a piece of content they believe is inappropriate.
 
-![Report](/images/community-hub/content-moderation/report-post-1.png)
+![Report](/images/community-hub/content-moderation/report-post-1.webp)
 
 2.  A pop-up will appear, allowing them to select a reason for the report (e.g., "Spam," "Harassment") and add an optional explanation.
 
-![Report](/images/community-hub/content-moderation/report-post-2.png)
+![Report](/images/community-hub/content-moderation/report-post-2.webp)
 
 3.  Once submitted, the content is flagged for review by moderators.
 
-![Review](/images/community-hub/content-moderation/review-3.png)
+![Review](/images/community-hub/content-moderation/review-3.webp)
 
 ## Managing Reported Content
 
@@ -35,7 +35,7 @@ As a moderator or administrator, you have a centralized dashboard to view and ac
 
 Each row displays the content **Title**, **Type** (post or comment), **Reporter**, **Date**, and **Reports** count.
 
-![Managing Reported Content](/images/community-hub/content-moderation/content-moderation-4.png)
+![Managing Reported Content](/images/community-hub/content-moderation/content-moderation-4.webp)
 
 ## Moderation Settings
 
@@ -52,13 +52,13 @@ In the modal, you can configure:
 
 Click **Update** to save your changes.
 
-![Moderation Settings modal](/images/community-hub/content-moderation/moderation-settings.png)
+![Moderation Settings modal](/images/community-hub/content-moderation/moderation-settings.webp)
 
 ### Moderation Actions
 
 For each reported item, click the **three-dot (...)** menu on the right side of the row:
 
-![Moderation actions menu](/images/community-hub/content-moderation/moderation-actions-6.png)
+![Moderation actions menu](/images/community-hub/content-moderation/moderation-actions-6.webp)
 
 * **Review Report** — View full report details, including who reported the content and why.
 * **Approve Post** — Approve the content and restore it to the feed (useful for items in **Unpublished** or **Flagged**).

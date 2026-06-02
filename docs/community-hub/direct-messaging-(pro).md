@@ -27,7 +27,7 @@ Use the search bar at the top of the message list to quickly find existing chats
 
 To reach out to a member, click the **+** (plus) icon or use the search bar inside the messaging panel to start a **New message**.
 
-![Message](/images/community-hub/direct-message/message-1.png)
+![Message](/images/community-hub/direct-message/message-1.webp)
 
 1. Type the member's name or username in the **To:** field.
 2. Select the user from the dropdown list.
@@ -35,7 +35,7 @@ To reach out to a member, click the **+** (plus) icon or use the search bar insi
 
 You can also start a conversation from a member's profile by clicking the **Message** button on their profile page.
 
-![New Message](/images/community-hub/direct-message/new-message-2.png)
+![New Message](/images/community-hub/direct-message/new-message-2.webp)
 
 ## Sending Messages and Media
 
@@ -51,14 +51,14 @@ Messages appear in real time in the conversation thread.
 
 Within a conversation, click the **Details (i)** icon or the member's name in the chat header to open the **Details** panel. From there you can:
 
-![Sending Message](/images/community-hub/direct-message/send-message-3.png)
+![Sending Message](/images/community-hub/direct-message/send-message-3.webp)
 
 * **View Profile**: Open the member's full community profile page.
 * **Username**: See the member's **@username** for reference.
 * **Block User**: Under **More Actions**, block the member to prevent further messages from them.
 * **Delete Conversation**: Permanently remove the chat history with that user from your message list.
 
-![Sending Message](/images/community-hub/direct-message/view-profile-4.png)
+![Sending Message](/images/community-hub/direct-message/view-profile-4.webp)
 
 ### Managing Messages (Reply & Delete)
 
@@ -67,7 +67,7 @@ When interacting within a conversation thread, hovering over or interacting with
  * **Reply:** Click the **Reply** option (curved arrow icon) to quote a specific message. This helps maintain context in the conversation, especially when responding to older messages or multiple questions.
  * **Delete:** Click the **Delete** option (trash can icon) to permanently remove your sent message from the conversation thread.
 
-![Reply](/images/community-hub/direct-message/reply-5.png)
+![Reply](/images/community-hub/direct-message/reply-5.webp)
 
 > **⚠️ Important:**
 > Blocking or deleting a conversation affects your private chat experience. Use these options when you need to maintain privacy or safety in your community.

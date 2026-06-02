@@ -11,7 +11,7 @@ We are here to help you succeed with FluentCommunity! If you've run into an issu
 
 To help us resolve your issue as quickly as possible, please take a moment to do the following:
 
-1.  **Check the Documentation:** Ensure you have reviewed the relevant articles in this knowledge base. The answer to your question may already be here.
+1.  **Check the Documentation:** Ensure you have reviewed the relevant articles in this knowledge base. The answer to your question may xalready be here.
 2.  **Check for Conflicts:** Temporarily deactivate other plugins to see if the issue persists. This helps determine if there is a conflict with another plugin.
 3.  **Enable Debugging (If Applicable):** If you are experiencing a critical error, enabling WordPress debugging can provide an error message that is extremely helpful for our team.
 
@@ -19,12 +19,12 @@ To help us resolve your issue as quickly as possible, please take a moment to do
 
 The official way to receive technical support is by creating a support ticket through our website.
 
-1.  Go to the **WPManageNinja support portal**.
+1.  Go to the **[WPManageNinja support portal](https://wpmanageninja.com/account/)**.
 2.  Log in to your account. You must have an active license for FluentCommunity Pro to receive priority support.
 3.  Find the "Create a New Ticket" or a similar button.
 4.  Fill out the form with as much detail as possible.
 
-[Screenshot: The support ticket creation form on the WPManageNinja website.]
+![Create a Support Ticket](/images/help-and-resource/support-1.png)
 
 ### What Information to Include
 
@@ -36,7 +36,7 @@ To ensure our support engineers can help you efficiently, please include the fol
 * **Screenshots or Screencasts:** A picture is worth a thousand words. Please include screenshots of the problem area. A short screen recording is even better.
 * **Your Site's Status:** It's helpful to include your PHP version and WordPress version.
 
-> **✨ Note:**
+> **Note:**
 > Providing detailed information upfront will significantly speed up the support process and reduce the back-and-forth communication needed to diagnose the problem.
 
 ## Related Resources
@@ -48,7 +48,3 @@ Before contacting support, make sure you've checked these resources:
 * **Documentation:** Browse our complete documentation for step-by-step guides
 * **Admin Dashboard:** [Admin Dashboard](../getting-started/admin-dashboard.md) - Check your plugin status and version
 
-**Get Started:**
-- Learn about [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
-- Explore [admin dashboard](../getting-started/admin-dashboard.md) to understand your controls
-- Set up [content moderation](../community-hub/content-moderation.md) to maintain quality
