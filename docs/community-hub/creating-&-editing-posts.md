@@ -20,13 +20,7 @@ Any member of a Space can create a new post to engage with others.
  * **Select a Space:** If you are posting from the main Feed, use the Posting in: Select Space dropdown to choose the correct destination for your post.
  * **Publish:** Once you are finished, click the **Post** button to publish it to the feed.
 
-<<<<<<< HEAD
-![Create a new Post](/images/community-hub/creating-and-editing/create-a-new-post-1.png)
-=======
-Once you are finished, click the **Post** button to publish it to the Space's feed.
-
-  ![Create a new Post](/images/community-hub/creating-and-editing/create-a-new-post-1.webp)
->>>>>>> DocTeam
+![Create a new Post](/images/community-hub/creating-and-editing/create-a-new-post-1.webp)
 
 ### Formatting Your Posts
 
@@ -59,13 +53,9 @@ If you need to make changes after publishing, you can easily modify or remove yo
 
 To remove a post permanently, you can select **Delete** from the same three-dot menu.
 
-<<<<<<< HEAD
-![Editing and Deleting Post](/images/community-hub/creating-and-editing/editing-and-delete-4.png)
-=======
-  ![Editing and Deleting Post](/images/community-hub/creating-and-editing/editing-and-delete-4.webp)
+![Editing and Deleting Post](/images/community-hub/creating-and-editing/editing-and-delete-4.webp)
 
 Now that you know how to create and edit posts, explore more community features.
->>>>>>> DocTeam
 
 > **✨ Note:**
 > Only administrators and moderators have the additional ability to **Pin to Top** or manage reported content to maintain community standards.

@@ -57,9 +57,4 @@ Inside the pop-up modal, you can organize comments to find the most relevant con
 * **Earliest**
 * **Most Replied**
 
-<<<<<<< HEAD
-![Sorting Comments](/images/community-hub/using-comment-and-replies/sorting-comments-4.png)
-=======
 ![Sorting Comments](/images/community-hub/using-comment-and-replies/sorting-comments-4.webp)
-
->>>>>>> DocTeam

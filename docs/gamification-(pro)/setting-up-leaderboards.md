@@ -24,14 +24,6 @@ Activate the gamification engine from your administrator dashboard to start trac
 
 ## Setup Level Tiers
 
-<<<<<<< HEAD
-The leaderboard page itself will show a ranked list of members, displaying their profile picture, name, and total points for the selected timeframe. Members can switch between the Weekly, Monthly, and All-Time views.
-
-  ![Leaderboard](/images/gamification/setting-up-leaderboard/display-leaderboard-1.webp)
-
-> **✨ Note:**
-> The Leaderboard is a core part of the Gamification module. If you do not see the "Leaderboard" tab, ensure that the **Leadeaboard module** is enabled in your FluentCommunity settings.
-=======
 Once you enable the module, the configuration drawer expands so you can build your custom rank progression system.
 
 For each specific level tier row, define the following settings:
@@ -41,18 +33,14 @@ For each specific level tier row, define the following settings:
 * **Minimum Points:** Input the exact point threshold a user must accumulate to unlock the level.
 
 > **💡 Tip:** Always set Level 1 to `0` points so new registrants join your initial tier automatically. Scale higher tiers progressively to maintain long-term momentum.
->>>>>>> DocTeam
 
 ## Exclude Users
 
 Maintain competitive fairness across your public directories by hiding administrative, moderator, or team accounts from the member rankings:
 
-<<<<<<< HEAD
-=======
 1. Scroll down to the **Exclude Users** section located at the bottom of the settings drawer.
 2. Click inside the search field labeled **Exclude selected users from the leaderboard**.
 3. Type and select the specific user profiles or team accounts you want to remove from the public standings.
 4. Click **Save Settings** to secure your changes.
 
 ![Setup Levels](/images/gamification/setting-up-leaderboard/setup-level-3.webp)
->>>>>>> DocTeam
