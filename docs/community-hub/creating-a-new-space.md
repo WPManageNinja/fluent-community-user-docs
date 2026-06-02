@@ -18,7 +18,7 @@ You can create a new space directly from the front-end of your community portal.
 
 This will launch the space creation wizard.
 
-![The "All Spaces" page with the "New Space" button highlighted](/images/community-hub/create-new-space/create-new-space-1.png)
+![The "All Spaces" page with the "New Space" button highlighted](/images/community-hub/create-new-space/create-new-space-1.webp)
 
 
 ### Step 1: Choose a Space Type
@@ -31,7 +31,7 @@ The first step is to choose what kind of space you want to create.
 
 For this guide, we will select **Discussion Space** and click **Next**.
 
-!["Choose a Space Type" modal](/images/community-hub/create-new-space/create-new-space-2.png)
+!["Choose a Space Type" modal](/images/community-hub/create-new-space/create-new-space-2.webp)
 
 ### Step 2: Basic Info & Access Control
 
@@ -61,7 +61,7 @@ This is a crucial step for controlling your space's privacy.
 
 Once you have configured these settings, click **Next**.
 
-![Create a Discussion Space - Basic Info](/images/community-hub/create-new-space/create-new-space-3.png)
+![Create a Discussion Space - Basic Info](/images/community-hub/create-new-space/create-new-space-3.webp)
 
 ### Step 3: Customization
 
@@ -107,7 +107,7 @@ This final step controls the look, features, and content organization of your ne
 * **Thumbnail / Open Graph Image (Recommended Size: 1200×630):** Used on the All Spaces card preview and when the Space URL is shared on social media.
 * **Featured Image (Recommended size: 1600×500) Optional:** Shown as a banner at the top of the Space homepage.
 
-![Create a Discussion Space - Customization](/images/community-hub/create-new-space/create-new-space-4.png)
+![Create a Discussion Space - Customization](/images/community-hub/create-new-space/create-new-space-4.webp)
 
 ### Step 4: You're Done!
 

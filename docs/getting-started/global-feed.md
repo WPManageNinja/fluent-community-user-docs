@@ -9,7 +9,7 @@ Welcome to your community's command center! The Feed is the main homepage and th
 
 When your members log in, this is the first page they'll see. It's designed to give them a real-time overview of everything happening in the community.
 
-![Global Feed](/images/getting-started/global-feed/global-feed.png)
+![Global Feed](/images/getting-started/global-feed/global-feed.webp)
 
 Let's explore the key areas of this page:
 

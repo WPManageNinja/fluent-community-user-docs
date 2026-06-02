@@ -27,4 +27,4 @@ Enter the number of points you want to award for each action. If you want to dis
 
 Click **Save Settings** to apply your changes. Your points system is now active.
 
-![Setting Point](/images/gamification/configure-the-point/settings-1.png)
+![Setting Point](/images/gamification/configure-the-point/settings-1.webp)

@@ -16,7 +16,7 @@ You can add emojis to any post, comment, or chat message.
 3.  You can browse through the categories or use the search bar at the top to find the perfect emoji.
 4.  Click on an emoji to insert it directly into your text.
 
-![Emoji](/images/community-hub/emoji-and-gif/emoji-1.png)
+![Emoji](/images/community-hub/emoji-and-gif/emoji-1.webp)
 
 ## Using Giphy for Animated GIFs
 
@@ -31,7 +31,7 @@ Animated GIFs are a great way to add humor and motion to a discussion.
 > **✨ Note:**
 > The Emoji and Giphy integration are **Pro** features. An administrator must have these modules enabled in the FluentCommunity settings for the icons to be visible. If you do not see these options, please contact your site administrator.
 
-![Emoji](/images/community-hub/emoji-and-gif/gify-2.png)
+![Emoji](/images/community-hub/emoji-and-gif/gify-2.webp)
 
 ## Content Moderation (Admin)
 
@@ -48,7 +48,7 @@ The moderation list is organized into tabs:
 
 Each row shows the **Title**, **Type** (post or comment), **Reporter**, **Date**, and **Reports** count. Use the **Settings** button in the top-right of the Moderation page to open **Moderation Settings** (profanity filter, auto-flag rules, and approval options).
 
-![Moderation dashboard with action menu](/images/community-hub/content-moderation/moderation-actions-6.png)
+![Moderation dashboard with action menu](/images/community-hub/content-moderation/moderation-actions-6.webp)
 
 ### Moderation Actions
 

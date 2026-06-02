@@ -23,7 +23,7 @@ The Member Directory is more than just a simple list. It includes several key fe
 * **Sorting & Filtering:** You can sort the directory by different criteria, such as "Last Active," "Newest Members," or "Alphabetical." This helps surface relevant profiles.
 * **Profile Cards:** The directory displays members in a clean, card-based layout, showing key information at a glance, such as their profile picture, name, and a short bio or status.
 
-![Directory](/images/community-hub/member-directory/member-1.png)
+![Directory](/images/community-hub/member-directory/member-1.webp)
 
 ## Directory Privacy Settings
 
@@ -33,7 +33,7 @@ As an administrator, you control who can view the Member Directory and related m
 2. Open the **Privacy Settings** tab.
 3. Adjust the visibility options below, then click **Save Settings**.
 
-![Privacy Settings in Portal Settings](/images/community-hub/member-directory/member-privacy-settings-2.png)
+![Privacy Settings in Portal Settings](/images/community-hub/member-directory/member-privacy-settings-2.webp)
 
 ### Who Can View the Member Directory
 

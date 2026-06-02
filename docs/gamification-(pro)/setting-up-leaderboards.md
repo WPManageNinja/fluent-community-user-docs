@@ -15,12 +15,12 @@ Activate the gamification engine from your administrator dashboard to start trac
 2. Click the **Features & Addons** tab from the left navigation panel.
 3. Locate the **Leaderboards Module** row and click the **Settings** button.
 
-![Settings](/images/gamification/setting-up-leaderboard/settings-1.png)
+![Settings](/images/gamification/setting-up-leaderboard/settings-1.webp)
 
 4. Check the box to **Enable Leaderboards Module** inside the side panel settings drawer.
 5. Click **Save Settings**.
 
-![Enable leaderboard Module](/images/gamification/setting-up-leaderboard/enable-leaderboard-2.png)
+![Enable leaderboard Module](/images/gamification/setting-up-leaderboard/enable-leaderboard-2.webp)
 
 ## Setup Level Tiers
 
@@ -43,4 +43,4 @@ Maintain competitive fairness across your public directories by hiding administr
 3. Type and select the specific user profiles or team accounts you want to remove from the public standings.
 4. Click **Save Settings** to secure your changes.
 
-![Setup Levels](/images/gamification/setting-up-leaderboard/setup-level-3.png)
+![Setup Levels](/images/gamification/setting-up-leaderboard/setup-level-3.webp)

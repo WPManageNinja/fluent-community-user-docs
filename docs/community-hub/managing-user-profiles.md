@@ -14,11 +14,11 @@ Any logged-in member can easily edit their own profile information.
 1.  Navigate to the FluentCommunity dashboard and click on the **Member** section.
 2.  From the dropdown, select your name to access your profile page.
 
-![Edit Member Profile](/images/community-hub/managing-user-profile/edit-profile-1.png)
+![Edit Member Profile](/images/community-hub/managing-user-profile/edit-profile-1.webp)
 
 3.  Click the **Edit Profile** button.
 
-![Edit Member Profile](/images/community-hub/managing-user-profile/edit-profile-2.png)
+![Edit Member Profile](/images/community-hub/managing-user-profile/edit-profile-2.webp)
 
 This will open the profile editor, where a member can change their:
 
@@ -26,7 +26,7 @@ This will open the profile editor, where a member can change their:
 * **Name & Bio:** Update their display name and write a short biography about themselves.
 * **Social Links:** Add links to their personal websites or social media accounts.
 
-![Edit Profile](/images/community-hub/managing-user-profile/edit-profile-3.png)
+![Edit Profile](/images/community-hub/managing-user-profile/edit-profile-3.webp)
 
 ## How Admins Manage Profiles
 
@@ -45,7 +45,7 @@ From the back-end, you can perform several exclusive actions:
 * **Assign Badges (Pro):** If you use the Gamification module, you can manually assign custom badges to a user's profile to recognize their contributions or status. Learn more about [creating and assigning badges](../gamification-(pro)/creating-&-assigning-badges.md).
 * **Change Access Status:** Set a member's account status to "Active," "Pending," or "Blocked" to control their access to the community.
 
-![Administration Action](/images/community-hub/managing-user-profile/admin-actions-4.png)
+![Administration Action](/images/community-hub/managing-user-profile/admin-actions-4.webp)
 
 > **⚠️ Important:**
 > Modifying a user's profile information or access status should be done with care. Always ensure you are acting in accordance with your community's terms of service and privacy policy.

@@ -20,7 +20,7 @@ Any member of a Space can create a new post.
 
 Once you are finished, click the **Post** button to publish it to the Space's feed.
 
-  ![Create a new Post](/images/community-hub/creating-and-editing/create-a-new-post-1.png)
+  ![Create a new Post](/images/community-hub/creating-and-editing/create-a-new-post-1.webp)
 
 ### Formatting Your Posts
 
@@ -35,13 +35,13 @@ FluentCommunity uses a rich text editor, allowing you to format your posts for c
 > **✨ Note:**
 > Using formatting, especially headings and lists, is a great way to make longer posts easier to read and scan for other members.
 
-  ![Formatting Post](/images/community-hub/creating-and-editing/formate-post-2.png)
+  ![Formatting Post](/images/community-hub/creating-and-editing/formate-post-2.webp)
 
 ### Share the Post
 
 You can also share the post with the link. To get the post link click on the **three-dot** button and you will find the link.
 
-  ![Share Post](/images/community-hub/creating-and-editing/share-link-3.png)
+  ![Share Post](/images/community-hub/creating-and-editing/share-link-3.webp)
 
 ### Editing or Deleting a Post
 
@@ -54,7 +54,7 @@ If you need to make a change to a post after it has been published, you can easi
 
 To remove a post permanently, you can select **Delete** from the same three-dot menu.
 
-  ![Editing and Deleting Post](/images/community-hub/creating-and-editing/editing-and-delete-4.png)
+  ![Editing and Deleting Post](/images/community-hub/creating-and-editing/editing-and-delete-4.webp)
 
 Now that you know how to create and edit posts, explore more community features.
 

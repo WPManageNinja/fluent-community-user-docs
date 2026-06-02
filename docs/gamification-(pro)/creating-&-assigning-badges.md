@@ -15,12 +15,12 @@ Activate the badge framework from your administrator settings dashboard to start
 2. Click the **Features & Addons** tab from the left navigation panel.
 3. Locate the **User Badges** row and click the **Settings** button.
 
-![Access Settings](/images/gamification/creating-assign-badges/user-badge-1.png)
+![Access Settings](/images/gamification/creating-assign-badges/user-badge-1.webp)
 
 4. Check the box to **Enable User Badge Module** inside the side panel settings drawer.
 5. Click **Save Settings**.
 
-![Enable the Badge Module](/images/gamification/creating-assign-badges/enable-user-badge-2.png)
+![Enable the Badge Module](/images/gamification/creating-assign-badges/enable-user-badge-2.webp)
 
 ## Create Custom Badges
 
@@ -40,7 +40,7 @@ Once you enable the module, you can build out your community's active badge dire
 >Leave these color parameters empty if you prefer the badge to automatically inherit clean default UI styling.
 3. Click **Save** to add the reward to your permanent inventory list.
 
-![Custom Badge](/images/gamification/creating-assign-badges/emoji-3.png)
+![Custom Badge](/images/gamification/creating-assign-badges/emoji-3.webp)
 
 ## Update or Delete Active Badges
 
@@ -49,4 +49,4 @@ Manage your existing badge catalog directly from your master inventory table:
 * **Edit Existing Badges:** Click the **Edit (Pencil)** icon next to any active badge row to open its custom styling options, update color hexes, or rename titles.
 * **Remove Badges:** Click the **Delete (Trash Can)** icon next to any active badge row to permanently strip that reward option from the system directory.
 
-![Update or Delete Badge](/images/gamification/creating-assign-badges/delete-4.png)
+![Update or Delete Badge](/images/gamification/creating-assign-badges/delete-4.webp)
