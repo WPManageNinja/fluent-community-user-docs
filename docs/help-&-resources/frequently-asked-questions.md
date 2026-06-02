@@ -143,7 +143,7 @@ Admins create badges and assign them manually to members, or set rules to award 
 
 **What triggers a level-up?**
 
-Level-ups are triggered when a member reaches a configured point threshold. Admins define the point ranges and labels for each level. See [Automating Level-Ups](/gamification-(pro)/automating-level-ups).
+Level-ups are triggered when a member reaches a configured point threshold. Admins define the point ranges and labels for each level in the Leaderboards module. See [Setting Up Leaderboards](/gamification-(pro)/setting-up-leaderboards).
 
 
 ## Courses & Learning
