@@ -5,23 +5,13 @@ description: Learn how to set up and configure the points system in FluentCommun
 
 # Configuring The Points System
 
-Gamification is a powerful way to boost engagement, and the foundation of FluentCommunity's gamification system is **Points**. You can automatically award points to members when they perform specific actions, encouraging them to participate more actively in the community.
+Gamification is a powerful engine for community retention. In FluentCommunity, you assign points to member actions such as posting, commenting, and reacting. Those points power leaderboard rankings and level progression.
 
 > **Use Case:** You can set up a system where members earn 10 points for creating a new post, 2 points for every comment they leave, and 1 point for every reaction they give. This incentivizes them to not just consume content, but to actively contribute to discussions.
 
-## Accessing Gamification Settings
-
-All gamification features, including the points system, are managed from a central settings area.
-
-1.  From your WordPress dashboard, navigate to **FluentCommunity → Settings**.
-2.  Click on the **Gamification** tab.
-3.  Ensure the **Gamification Module** toggle is enabled at the top of the page.
-
-[Screenshot: The FluentCommunity settings page with the "Gamification" tab highlighted.]
-
 ## Setting Point Values
 
-On this screen, you will see a list of actions that can be rewarded with points. You can enter a numerical value for each action.
+From **Portal Settings**, open **Features & Addons**, locate the **Leaderboards Module**, and click **Settings**. With the module enabled, you will see a list of actions that can be rewarded with points. Enter a numerical value for each action.
 
 Key actions you can assign points to include:
 
@@ -30,18 +20,11 @@ Key actions you can assign points to include:
 * **Receive a Reaction:** Award points to the *author* of a post or comment each time someone reacts to it.
 * **Give a Reaction:** Award points to the member who *gives* a reaction to someone else's content.
 
-[Screenshot: The Gamification settings page showing the list of actions and the input fields for assigning point values.]
-
 Enter the number of points you want to award for each action. If you want to disable points for a specific action, simply enter `0`.
 
 > **✨ Note:**
-> The points a user earns are cumulative and are displayed on their profile. These points are also used to determine a member's rank on the community leaderboards.
+> The points a user earns are cumulative and are displayed on their profile. These points are also used to determine a member's rank on the community leaderboards and their milestone level.
 
-Click the **Save Settings** button at the bottom of the page to apply your changes. Your points system is now active!
+Click **Save Settings** to apply your changes. Your points system is now active.
 
-Now that you have points configured, explore more gamification features.
-
-**Next Steps:**
-- Learn about [creating and assigning badges](./creating-&-assigning-badges.md) to recognize achievements
-- Set up [leaderboards](./setting-up-leaderboards.md) to showcase top contributors
-- Explore [automating level-ups](./automating-level-ups.md) for seamless progression
+![Setting Point](/images/gamification/configure-the-point/settings-1.png)
