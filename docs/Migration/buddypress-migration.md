@@ -1,78 +1,81 @@
-# Migrating from BuddyPress to FluentCommunity
+---
+title: BuddyPress Migration
+description: Learn how to migrate your BuddyPress groups, members, posts, and interactions into FluentCommunity using the built-in migration tool.
+---
 
-If you have an existing community built with BuddyPress, you can use our built-in migration tool to smoothly transition your members and content to our modern, high-performance platform.
+# FluentCommunity BuddyPress Migration
 
-This guide will walk you through the entire process, from pre-migration checks to the final steps after the import is complete.
+If you have a large number of members and their data stored in BuddyPress and want to migrate them to FluentCommunity, the process is quick and straightforward.
 
-## Important: Before You Begin
+In this article, we'll guide you through the steps to migrate your data from BuddyPress to FluentCommunity.
 
-Migrating your community is a significant change. To ensure a safe and successful process, please review these points carefully before starting.
+## Manage Migration Settings
 
-### 1. Create a Full Backup
-This is the most critical step. Before you do anything else, please create a **complete backup of your WordPress website**. This includes both your website's **files** and its **database**. A backup ensures that you can restore your site to its previous state if anything goes wrong. You can use your hosting provider's backup feature or a popular backup plugin.
+To migrate your BuddyPress data into FluentCommunity, start by navigating to your FluentCommunity dashboard. Click on the **Settings** button located at the bottom-right corner of the screen.
 
-### 2. Keep Both Plugins Active
-For the migration tool to work, both the **BuddyPress** plugin and the **FluentCommunity** plugin must be installed and active on your site at the same time.
+In the settings menu, select **Manage Migration** from the left sidebar and you'll find the **Migrate Data from Other Plugins** section. Here, you'll see the **BuddyPress Module** option. Simply click on it to initiate the migration process.
 
-### 3. What Data Will Be Migrated?
-Our tool is designed to import the most essential components of your community:
-* **BuddyPress Groups** will be converted into **FluentCommunity Spaces**.
-* **Group Memberships** will be migrated, so all your users will be in the correct new Spaces.
-* **Group Activity/Posts** will be imported into the corresponding Spaces.
-* **General Site-wide Activity** will be imported into the main community feed.
+Once you access the **BuddyPress Module**, you'll see the BuddyPress migration options.
 
-### 4. What Data Will NOT Be Migrated?
-Some BuddyPress data is unique to its platform and cannot be transferred:
-* **Private Messages** between members.
-* **Friend Connections** between members.
-* **Custom Profile Fields** and member profile data beyond the standard WordPress user info.
-* **Settings and data** from third-party BuddyPress add-ons.
+![Manage Migration settings and BuddyPress Module](/images/migration/buddypress/buddypress-migration-1.webp)
 
-## Step-by-Step Migration Guide
+### Key Notes for Migration
 
-Follow these steps to migrate your community data.
+Before proceeding, keep these important points in mind:
 
-### Step 1: Navigate to the Migration Tool
-Once you have FluentCommunity installed and activated (alongside BuddyPress), go to your WordPress dashboard.
-1.  Navigate to **FluentCommunity → Tools**.
-2.  Click on the **Migration** tab.
+#### Groups to Spaces
 
-[Screenshot: The FluentCommunity Tools -> Migration screen.]
+* BuddyPress Groups will be added to FluentCommunity as Spaces.
 
-### Step 2: Select BuddyPress and Start the Importer
-On the Migration screen, you will see an option for the BuddyPress importer.
-1.  Review the information to confirm you are ready.
-2.  Click the **Migrate from BuddyPress** button to begin the process.
+#### Members Migration
 
-[Screenshot: The BuddyPress importer section showing the "Migrate" button.]
+* All Group Members in BuddyPress will automatically become members of the corresponding Spaces in FluentCommunity.
+* All BuddyPress Members will be imported into FluentCommunity.
 
-### Step 3: Monitor the Process
-The migration will now begin. The tool will work in the background to copy your data from the BuddyPress database tables to the new FluentCommunity tables.
+#### Posts and Interactions
 
-> ✨ **Note:**
-> The migration process does **not** delete any of your original BuddyPress data. It only copies it. The time required will vary depending on the size of your community—larger communities with many groups and posts will take longer. Please be patient and do not close the browser tab while the migration is in progress.
+* All Posts from BuddyPress will be migrated to FluentCommunity.
+* Comments and reactions associated with these posts will also be migrated.
 
-You will see a confirmation message once the process is complete.
+#### Profile Pictures and Avatars
 
-### Step 4: Verify the Migrated Data
-After you see the "Success" message, it's time to check the results.
-1.  Go to **FluentCommunity → Spaces** to see if your former BuddyPress Groups are listed.
-2.  Click into a few Spaces to see if the members and activity posts have been imported correctly.
-3.  Visit your community's main front-end portal to see the activity feed.
+* Uploaded profile and space pictures will **not** migrate.
+* However, if a profile includes an avatar as the profile picture, it will migrate successfully.
 
-### Step 5: Deactivate BuddyPress
-Once you have confirmed that your data has been successfully migrated and everything looks correct, you can safely deactivate and delete the BuddyPress plugin from your site.
+These are the data elements that will be migrated during the migration process.
 
-## Post-Migration Checklist
+## Start the Migration
 
-Congratulations on your successful migration! Here are a few recommended next steps:
+Here, you can map BuddyPress Groups to specific groups in FluentCommunity, and they will appear under the designated groups within FluentCommunity.
 
-* **Configure Your Spaces:** Review the settings for each imported Space, as FluentCommunity offers different privacy and content controls. Learn about [space settings](../community-hub/space-settings-&-privacy.md).
-* **Customize Your Portal:** Go to **FluentCommunity → Customization** to adjust the look and feel of your new community to match your brand. Explore [layout and appearance](../portal-settings/layout-&-appearance.md) options.
-* **Check Permalinks:** Visit **Settings → Permalinks** in your WordPress dashboard and click "Save Changes" to ensure all your new community URLs are working correctly.
-* **Announce the Change:** Let your members know about the new and improved community platform!
+Once you're ready, click on the **Start Migrating Data** button to initiate the migration. Your BuddyPress data will now move to FluentCommunity with just a few clicks!
 
-**Next Steps:**
-- Learn about [creating new spaces](../community-hub/creating-a-new-space.md) to expand your community
-- Explore [member management](../community-hub/managing-user-profiles.md) features
-- Set up [content moderation](../community-hub/content-moderation.md) to maintain quality
+![Map groups and start migrating data](/images/migration/buddypress/buddypress-migration-2.webp)
+
+Upon migration completion, you will get a congratulatory notification for your migration.
+
+![Migration completion notification](/images/migration/buddypress/buddypress-migration-3.webp)
+
+### Feed Preview
+
+All the posts, along with their reactions and comments, have been successfully migrated from BuddyPress to FluentCommunity. You can now view them seamlessly within your FluentCommunity setup.
+
+![Feed preview after migration](/images/migration/buddypress/buddypress-migration-4.webp)
+
+### Space Preview
+
+All the BuddyPress Groups have been successfully migrated to the Space section of FluentCommunity. For the BuddyPress Groups you mapped to specific Groups in FluentCommunity, they will now appear under those designated Groups within FluentCommunity.
+
+![Space preview after migration](/images/migration/buddypress/buddypress-migration-5.webp)
+
+### Members Preview
+
+When you view the Members section of your FluentCommunity, you'll notice that all BuddyPress members have been successfully migrated. These members will also be assigned to the corresponding Spaces in FluentCommunity, mirroring their previous associations in BuddyPress Spaces.
+
+![Members preview after migration](/images/migration/buddypress/buddypress-migration-6.webp)
+
+This is how you can seamlessly migrate your BuddyPress data into FluentCommunity. If you have any further questions, suggestions, or inquiries, please [contact support](/help-&-resources/how-to-contact-support).
+
+**Related:**
+
+* [BuddyBoss Migration](/migration/buddyboss-migration)
