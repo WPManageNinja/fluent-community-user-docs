@@ -1,45 +1,60 @@
 ---
 title: Creating Your First Course
-description: Learn how to create your first course in FluentCommunity using the built-in LMS, including how to add a title, description, and promotional images.
+description: Enable the Course Module and create your first FluentCommunity course with a title, description, cover photo, and thumbnail.
 ---
 
 # Creating Your First Course
 
-The integrated Learning Management System (LMS) in FluentCommunity allows you to create and sell online courses directly from your community platform. This guide will walk you through the initial steps of creating a new course.
+FluentCommunity includes a built-in Learning Management System (LMS) so you can publish structured courses inside your community—without a separate platform. This guide walks you through enabling the Course Module and setting up your first course shell before you add lessons and media.
 
-> **Use Case:** You are an expert in your field and want to offer a structured, multi-part video series to your community members. You can use the Courses module to build a complete e-learning experience, with lessons, attachments, and progress tracking.
+> **Use Case:** You are an expert in your field and want to offer a multi-part video series to members. Enable the Course Module, create a course with a strong title and visuals, then build out sections, lessons, and enrollments in follow-up guides.
 
-## How to Create a New Course
+## Enable the Course Module
 
-1.  From your WordPress dashboard, navigate to **FluentCommunity → Courses (Pro)**.
-2.  Click the **Create a Course** button at the top of the page. This will open the course creation screen.
+The Courses feature is a **Pro** module. Turn it on before you create or manage any course content.
 
-[Screenshot: The main "Courses" screen in the admin dashboard, with the "Create a Course" button highlighted.]
+1. Navigate to **Portal Settings** from your community sidebar.
+2. Open the **Features & Addons** tab in the left panel.
+3. Find the **Course Module** row and click **Settings**.
+4. In the settings drawer, check **Enable Course Module** and click **Save**.
 
-This screen is where you will define the main details and branding for your course.
+![Enable Course Module](/images/course-and-learning/creating-first-course/enable-course-module-1.png)
 
-### Step 1: Add Course Details
+Once saved, course management options appear in your WordPress admin and on the community portal. You are ready to create your first course.
 
-* **Course Name:** Enter a clear and compelling title for your course (e.g., "Introduction to Digital Marketing").
-* **Description:** Write a detailed description of the course. This is a great place to outline what students will learn, who the course is for, and what the key benefits are. You can use the rich text editor to format this content.
+> [!Note]
+> If you do not see **Courses** in the portal or admin menu, confirm the module is enabled and that FluentCommunity Pro is active on your site. See [Understanding the Module System](/getting-started/understanding-the-module-system.md) for more on enabling features.
 
-[Screenshot: The top section of the course creation screen, showing the "Course Name" and "Description" fields.]
+## Create a New Course
 
-### Step 2: Set Course Images
+After the module is enabled, create the course record and its main branding from the WordPress dashboard.
 
-* **Cover Photo:** Upload a high-quality cover photo or banner image for your course. This will be displayed at the top of the main course page.
-* **Featured Image / Thumbnail:** Upload a smaller, square image that will act as the thumbnail for your course. This image will be used in the course directory and other listings.
+1. From your WordPress dashboard, go to **FluentCommunity → Courses (Pro)**.
+2. Click **New Course** at the top of the page to open the course editor.
 
-[Screenshot: The "Customization" or "Images" section of the course editor, showing the upload areas for the Cover Photo and Featured Image.]
+This screen is where you define how the course appears in listings and on its main page before you add structure and lessons.
 
-> **✨ Note:**
-> Investing time in a great course description and professional images is key to attracting students and encouraging enrollments.
+![Create a New Course](/images/course-and-learning/creating-first-course/create-a-new-course-2.png)
 
-Once you have filled in these initial details, click the **Create Course** (or **Update Course**) button to save it. Your course is now created, and you can begin adding lessons to it.
+### Add Course Details
 
-Your course is created! Now build out the learning experience.
+Give members a clear reason to enroll with a strong title and description.
 
-**Next Steps:**
-- Learn about [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize your content
-- Explore [adding videos and attachments](./adding-videos-&-attachments.md) to enrich your lessons
-- Set up [course layouts and enrollment](./course-layouts-&-enrollment.md) to control access
+* **Course Name:** Enter a concise, descriptive title (for example, *Introduction to Digital Marketing*).
+* **Description:** Explain what students will learn, who the course is for, and the main outcomes. Use the rich text editor for headings, lists, and emphasis where helpful.
+
+### Set Course Images
+
+Visual assets help your course stand out in the course directory and on its landing page.
+
+* **Cover Photo:** Upload a wide banner image shown at the top of the course page.
+* **Featured Image / Thumbnail:** Upload a smaller image used in course listings and cards across the community.
+
+> [!Note]
+>A clear description paired with professional cover and thumbnail images improves discovery and enrollment. You can update copy and images anytime from the same editor.
+
+### Save Your Course
+
+When the name, description, and images are in place, click **Create Course** (or **Update Course** when editing an existing course) to save. Your course shell is ready—you can now add sections, lessons, and access rules.
+
+
