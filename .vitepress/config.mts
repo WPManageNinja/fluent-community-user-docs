@@ -8,7 +8,7 @@ export default defineConfig({
   cleanUrls: true,
 
   head: [
-    ['link', { rel: 'shortcut icon', type: 'image/png', href: '/images/brand/main_icon.png' }],
+    ['link', { rel: 'shortcut icon', type: 'image/png', href: '/images/brand/fluentCommunity_primary_icon.png' }],
     ['style', {}, `
       .VPHomeHero {
         text-align: center !important;
@@ -59,8 +59,8 @@ export default defineConfig({
     },
 
     logo: {
-      light: '/images/brand/main_logo.png',
-      dark: '/images/brand/main_logo_inverted.png',
+      light: '/images/brand/fluentCommunity_primary_logo.png',
+      dark: '/images/brand/fluentCommunity_secondary_logo.png',
       alt: 'FluentCommunity'
     },
     nav: [
@@ -96,6 +96,7 @@ export default defineConfig({
               { text: 'Add Custom Links (Pro)', link: '/community-hub/add-custom-links-(pro)' },
               { text: 'Customizing the Lockscreen', link: '/community-hub/customizing-the-lockscreen' },
               { text: 'Using Group Chat (Pro)', link: '/community-hub/using-group-chat-(pro)' },
+              { text: 'Membership Invitations', link: '/community-hub/membership-invitations' },
             ]
           },
           {
@@ -107,6 +108,8 @@ export default defineConfig({
               { text: 'Post Reactions & Mentions', link: '/community-hub/post-reactions-&-mentions' },
               { text: 'Using Emojis & GIFs (Pro)', link: '/community-hub/using-emojis-&-gifs-(pro)' },
               { text: 'Content Moderation', link: '/community-hub/content-moderation' },
+              { text: 'Creating & Managing Polls', link: '/community-hub/creating-&-managing-polls' },
+              { text: 'Feed Views', link: '/community-hub/feed-views' },
             ]
           },
           {
@@ -118,6 +121,8 @@ export default defineConfig({
               { text: 'Assigning User Roles', link: '/community-hub/assigning-user-roles' },
               { text: 'Direct Messaging (Pro)', link: '/community-hub/direct-messaging-(pro)' },
               { text: 'Moderating Chat Users (Pro)', link: '/community-hub/moderating-chat-users-(pro)' },
+              { text: 'Following & Blocking Members', link: '/community-hub/following-&-blocking-members' },
+              { text: 'Assigning Managers', link: '/community-hub/assigning-managers' },
             ]
           },
         ]
@@ -141,6 +146,8 @@ export default defineConfig({
               { text: 'Structuring Lessons & Modules', link: '/courses-&-learning-(pro)/structuring-lessons-&-modules' },
               { text: 'Course Layouts & Enrollment', link: '/courses-&-learning-(pro)/course-layouts-&-enrollment' },
               { text: 'Adding Videos & Attachments', link: '/courses-&-learning-(pro)/adding-videos-&-attachments' },
+              { text: 'Course Privacy', link: '/courses-&-learning-(pro)/course-privacy' },
+              { text: 'Course Links', link: '/courses-&-learning-(pro)/course-links' },
             ]
           },
           {
@@ -157,6 +164,7 @@ export default defineConfig({
         text: 'Files & Media Storage',
         items: [
           { text: 'The File & Document Library (Pro)', link: '/files-&-media-storage/the-file-&-document-library-(pro)' },
+          { text: 'The Media Module', link: '/files-&-media-storage/the-media-module' },
           {
             text: 'Storage Configuration',
             collapsed: true,
@@ -178,6 +186,18 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Adding Custom Sidebar Links', link: '/portal-settings/adding-custom-sidebar-links' },
+              { text: 'Color Customization', link: '/portal-settings/color-customization' },
+              { text: 'Theme Compatibility', link: '/portal-settings/theme-compatibility' },
+              { text: 'Community as Homepage', link: '/portal-settings/community-as-homepage' },
+              { text: 'Sitemaps & SEO', link: '/portal-settings/sitemaps-&-seo' },
+            ]
+          },
+          {
+            text: 'Access & Registration',
+            collapsed: true,
+            items: [
+              { text: 'Portal Access Settings', link: '/portal-settings/portal-access-settings' },
+              { text: 'Customizing the Login/Signup Form', link: '/portal-settings/customizing-the-login-signup-form' },
             ]
           },
           {
@@ -199,6 +219,15 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Monetization',
+        items: [
+          { text: 'Monetizing Your Spaces', link: '/monetization/monetizing-your-spaces' },
+          { text: 'Monetizing Your Courses', link: '/monetization/monetizing-your-courses' },
+          { text: 'Monetizing with Paymattic', link: '/monetization/monetizing-with-paymattic' },
+          { text: 'Collecting Recurring Payments', link: '/monetization/collecting-recurring-payments' },
+        ]
+      },
+      {
         text: 'Integrations',
         items: [
           {
@@ -208,6 +237,9 @@ export default defineConfig({
               { text: 'Connecting with FluentCRM', link: '/integrations/connecting-with-fluentcrm' },
               { text: 'Connecting with Fluent Forms', link: '/integrations/connecting-with-fluent-forms' },
               { text: 'Connecting with Fluent Support', link: '/integrations/connecting-with-fluent-support' },
+              { text: 'Connecting with FluentPlayer', link: '/integrations/connecting-with-fluentplayer' },
+              { text: 'Connecting with FluentSocket', link: '/integrations/connecting-with-fluentsocket' },
+              { text: 'Managing Access with FluentCRM Tags', link: '/integrations/managing-access-with-fluentcrm-tags' },
             ]
           },
           {
@@ -229,6 +261,7 @@ export default defineConfig({
             text: 'Other Integrations',
             collapsed: true,
             items: [
+              { text: 'Connecting with Pusher', link: '/integrations/connecting-with-pusher' },
               { text: 'GamiPress', link: '/integrations/gamipress' },
               { text: 'Better Messages', link: '/integrations/better-messages' },
               { text: 'Uncanny Automator & Flowmattic', link: '/integrations/uncanny-automator-&-flowmattic' },
@@ -256,7 +289,7 @@ export default defineConfig({
         items: [
           { text: 'Using the REST API', link: '/for-developers/using-the-rest-api' },
           { text: 'Hooks & Filters Reference', link: '/for-developers/hooks-&-filters-reference' },
-          { text: 'Adding Custom CSS', link: '/for-developers/adding-custom-css' },
+          { text: 'Adding Custom CSS & JavaScript', link: '/for-developers/adding-custom-css' },
         ]
       }
     ],
