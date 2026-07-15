@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: 🚀 Getting Started
-    details: Learn the basics of FluentCommunity - installation, setup wizard, admin dashboard, and understanding the module system.
+    details: Learn the basics of FluentCommunity - installation, setup wizard, admin dashboard, and navigating the global feed.
     link: /getting-started/introduction-fluentcommunity
   - title: 🏘️ Community Hub
     details: Master community features including spaces, posts, members, profiles, and real-time chat functionality.
