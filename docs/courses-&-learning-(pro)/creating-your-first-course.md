@@ -23,7 +23,7 @@ The Courses feature is a **Pro** module. Turn it on before you create or manage 
 Once saved, course management options appear in your WordPress admin and on the community portal. You are ready to create your first course.
 
 > [!Note]
-> If you do not see **Courses** in the portal or admin menu, confirm the module is enabled and that FluentCommunity Pro is active on your site. See [Understanding the Module System](/getting-started/understanding-the-module-system.md) for more on enabling features.
+> If you do not see **Courses** in the portal or admin menu, confirm the module is enabled from the **Features & Modules** section and that FluentCommunity Pro is active on your site.
 
 ## Create a New Course
 

@@ -21,7 +21,7 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 **Activity Feed**: A chronological stream of community events new posts, comments, reactions, and member joins. Displayed on the Global Feed and within individual Spaces.
 
-**Add-ons**: Optional feature modules that extend FluentCommunity beyond its core set. Enabled or disabled individually from the **Modules** tab in the admin dashboard. See also: [Understanding the Module System](/getting-started/understanding-the-module-system).
+**Add-ons**: Optional feature modules that extend FluentCommunity beyond its core set. Enabled or disabled individually from the **Features & Modules** section in the admin dashboard.
 
 **Admin Dashboard**: The command center for managing your community. Accessible from **FluentCommunity** in the WordPress admin menu. Contains sections for Portal Settings, Modules, Courses, and analytics.
 
@@ -56,7 +56,7 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 **Content Reporting**: A system that lets members flag Posts or Comments as inappropriate. Flagged content appears in the admin moderation queue for review. See also: [Content Moderation](/community-hub/content-moderation).
 
-**Core Modules**: The foundational features of FluentCommunity that are always active. Distinct from Add-ons, which are optional. See also: [Understanding the Module System](/getting-started/understanding-the-module-system).
+**Core Modules**: The foundational features of FluentCommunity that are always active. Distinct from Add-ons, which are optional.
 
 **Course** *(Pro)*: A structured learning container made up of Modules and Lessons. Each Course can have its own enrollment settings, layout, and access control. See also: [Creating Your First Course](/courses-&-learning-(pro)/creating-your-first-course).
 
@@ -159,7 +159,7 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 **Modern Layout** *(Pro)*: A card-based Course presentation style. Chosen in **Course Settings → Layout**. See also: [Course Layouts & Enrollment](/courses-&-learning-(pro)/course-layouts-&-enrollment).
 
-**Module**: A self-contained feature component that can be enabled or disabled independently in the admin dashboard. Examples: Gamification, Courses, File Library, Group Chat. See also: [Understanding the Module System](/getting-started/understanding-the-module-system).
+**Module**: A self-contained feature component that can be enabled or disabled independently in the admin dashboard. Examples: Gamification, Courses, File Library, Group Chat.
 
 **Moderator**: A member role with permissions to edit and delete Posts and Comments within a specific Space. Cannot change Space settings or manage other Moderators. See also: [Assigning User Roles](/community-hub/assigning-user-roles).
 
