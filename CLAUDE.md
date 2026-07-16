@@ -6,6 +6,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A [VitePress](https://vitepress.dev) documentation site — the official user & developer docs for the **FluentCommunity** WordPress plugin (by WPManageNinja). It is a content repository: nearly all work is authoring/editing Markdown articles, adding screenshots, and wiring pages into the sidebar. There is no application code.
 
+## Skills
+
+This repo ships project skills under `.claude/skills/` for the common doc workflows — prefer them over ad-hoc edits:
+
+- **`write-fluentcommunity-doc`** — scaffold a NEW page end-to-end (file + image folder + sidebar entry + build).
+- **`edit-fluentcommunity-doc`** — in-place content edits to an existing page; also fixes known issues in the file it touches.
+- **`restructure-fluentcommunity-docs`** — rename/move/delete/merge/reorder pages, keeping file, image folder, sidebar, and inbound links in sync.
+- **`audit-fluentcommunity-docs`** — read-only quality gate (build, dead links, placeholder/frontmatter/acronym/remote-image scans).
+
 ## Commands
 
 ```bash
