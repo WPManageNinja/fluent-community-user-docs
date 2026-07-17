@@ -21,12 +21,12 @@ To use quizzes, you first need to create a new course or edit an existing one. I
 2. Click the **Add New** button.
 3. Select **Quiz** from the dropdown menu.
 
-![Selecting Quiz from the Add New dropdown in the course editor](/images/courses-&-learning-(pro)/using-the-quiz-module/add-new-course-1-scaled.webp)
+![Selecting Quiz from the Add New dropdown in the course editor](/images/course-and-learning/using-the-quiz-module/add-new-course-1-scaled.webp)
 
 4. Type your quiz name in the **Quiz Title** pop-up box.
 5. Click **Add & Edit** to open the quiz builder.
 
-![Entering a quiz title in the Add Quiz pop-up](/images/courses-&-learning-(pro)/using-the-quiz-module/quiz-title-2.webp)
+![Entering a quiz title in the Add Quiz pop-up](/images/course-and-learning/using-the-quiz-module/quiz-title-2.webp)
 
 ## Configure Quiz Settings
 
@@ -41,7 +41,7 @@ The right side of the quiz editor holds your settings panel. This is your contro
 * **Featured Image:** Click **Upload Image** to add a thumbnail graphic for your main course page.
 * **Documents & Files:** Drag and drop extra materials, like PDF study guides, for students to download before they start.
 
-![The quiz settings panel showing features, featured media, duration, and file options](/images/courses-&-learning-(pro)/using-the-quiz-module/configure-quiz-settings-3-scaled.webp)
+![The quiz settings panel showing features, featured media, duration, and file options](/images/course-and-learning/using-the-quiz-module/configure-quiz-settings-3-scaled.webp)
 
 ## Build Your Questions
 
@@ -49,7 +49,7 @@ The quiz editor is fast, clean, and fully keyboard-accessible — you can add an
 
 1. Click the **+ Add Question** button at the bottom of the screen.
 
-![The Add Question button at the bottom of the quiz editor](/images/courses-&-learning-(pro)/using-the-quiz-module/add-question-4-scaled.webp)
+![The Add Question button at the bottom of the quiz editor](/images/course-and-learning/using-the-quiz-module/add-question-4-scaled.webp)
 
 2. Toggle **Image** on if you want to upload a picture at the top of the question.
 3. Choose your question **Type**: **Single Choice** (one right answer) or **Multiple Choice** (more than one right answer).
@@ -59,7 +59,7 @@ The quiz editor is fast, clean, and fully keyboard-accessible — you can add an
 7. Type a hint in the **Help Text** box if you want to give students a clue.
 8. Click **Add Question** to save it to the list.
 
-![Building a multiple-choice question with responses and help text](/images/courses-&-learning-(pro)/using-the-quiz-module/add-question-5-scaled.webp)
+![Building a multiple-choice question with responses and help text](/images/course-and-learning/using-the-quiz-module/add-question-5-scaled.webp)
 
 Repeat this process to add as many questions as your quiz needs.
 
@@ -71,7 +71,7 @@ It is easy to organize your quiz layout directly from the editor.
 * **Edit or Delete:** Click the **three-dot menu** next to any question to edit its text, temporarily disable it, or delete it permanently.
 * **Duplicate a Question:** Click the **three-dot menu** and select **Duplicate**. This instantly copies the question and its exact answers. The new copy will glow so you spot it instantly, letting you tweak just a few words for your next question.
 
-![Managing questions with the three-dot menu](/images/courses-&-learning-(pro)/using-the-quiz-module/manage-question-6-scaled.webp)
+![Managing questions with the three-dot menu](/images/course-and-learning/using-the-quiz-module/manage-question-6-scaled.webp)
 
 ## Save and Preview Your Quiz
 
@@ -81,7 +81,7 @@ When students take the quiz, they will see their results right away after submit
 Before students can see or take the quiz, make sure you **publish your quiz questions**.
 :::
 
-![The student-facing quiz view showing results after submission](/images/courses-&-learning-(pro)/using-the-quiz-module/save-and-preview-10-scaled.webp)
+![The student-facing quiz view showing results after submission](/images/course-and-learning/using-the-quiz-module/save-and-preview-10-scaled.webp)
 
 **Related Topics:**
 - Learn about [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
