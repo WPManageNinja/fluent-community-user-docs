@@ -1,166 +1,139 @@
 ---
 title: Connecting with FluentCart
-description: Learn how to monetize your FluentCommunity Spaces and Courses by connecting FluentCart to gate access behind a product purchase.
+description: Learn how to monetize your FluentCommunity Courses and Spaces by selling access through a deep, seamless integration with FluentCart.
 ---
 
 # Connecting with FluentCart
 
-FluentCart integrates with FluentCommunity to let you sell access to private Spaces and Courses. When a customer purchases a linked product, FluentCommunity automatically grants them access — no manual steps required.
+This feature allows you to monetize your hard work by selling access to your premium **Courses** and **Spaces**. It's powered by a deep and seamless integration with **FluentCart**, our powerful e-commerce solution.
 
-::: info
-This integration works for both **Spaces** and **Courses**. The setup process is identical for both.
+This guide will walk you through every step of the setup. While we use a **Course** as our main example, the setup process is **absolutely identical** for monetizing a **Space**.
+
+::: info Prerequisites
+To use the Paywall, you must have both **FluentCommunity** and **FluentCart** installed and activated on your WordPress site.
 :::
-
----
-
-## Prerequisites
-
-Before you begin, confirm the following:
-
-- **FluentCommunity** is installed and activated on your WordPress site.
-- **FluentCart** is installed and activated on the same WordPress site.
-- You have at least one Space or Course created in FluentCommunity.
-- You have WordPress **Admin** access.
-
----
 
 ## How It Works
 
-When you link a FluentCart product to a private Space or Course, FluentCommunity automatically creates an integration feed inside FluentCart. This feed grants access to the content the moment a customer completes their purchase. You configure everything from inside FluentCommunity — no manual setup inside FluentCart is needed for the basic flow.
+You don't need to be an e-commerce expert. When you link a product to your private course, FluentCommunity automatically creates an integration feed in FluentCart for you. This "feed" is the magic link that grants your customers access to the course immediately after they pay.
 
-The setup has three stages:
+You only need to set it up here in your FluentCommunity settings, and all the e-commerce parts are handled for you.
 
-1. Set your content to **Private** or **Secret**
-2. Link a **FluentCart product** to the Paywall
-3. Configure the **Lock Screen** — what non-members see before purchasing
+The process involves three main stages:
 
----
+1. **Set your content to private** — this tells FluentCommunity the content is not public.
+2. **Link a product** — this is the product your customers will buy.
+3. **Configure the lock screen** — this is the sales page your customers will see.
 
-## Configuration Steps
+Let's begin.
 
-### Step 1: Set Your Content to Private
+## Step 1: Set Your Course or Space to Private
 
-Content must be Private or Secret before paywall options become available.
+You can only charge for content that isn't public. This first step is the key that unlocks all the paywall options.
 
-**For a Space:**
-1. Navigate to the Space you want to monetize.
-2. Click the **⋮** (three-dot) menu in the top-right corner and select **Space Settings**.
-3. In the **General Settings** tab, scroll to **Access Control**.
-4. Click the **Privacy** dropdown and select **Private** or **Secret**.
-5. Click **Save Changes**.
+1. Navigate to the Course or Space you want to sell.
+   - For a **Course**, navigate to it and click the **Edit info** link.
+   - For a **Space**, go to the Space, click the **⋮** (three-dot) menu, then select **Settings**.
+2. In the **General Settings** tab, scroll down to the **Access Control** section.
+3. Click the [Privacy](../community-hub/space-settings-&-privacy.md) dropdown and select **Private** or **Secret**.
 
-**For a Course:**
-1. Navigate to the Course and click **Edit info**.
-2. In the **General Settings** tab, scroll to **Access Control**.
-3. Set **Privacy** to **Private** or **Secret**.
-4. Click **Save Changes**.
+![Setting the content privacy in Access Control](/images/integrations/connecting-with-fluentcart/paywall-3-scaled.webp)
 
-Once saved, two new tabs appear at the top of the settings window: **Paywalls** and **Lock Screen**.
+Once you set the privacy, new tabs appear at the top of the settings window, including **Paywalls** and **Lock Screen**. For a deeper look at the privacy options for courses, see [Course Privacy](../courses-&-learning-(pro)/course-privacy.md).
 
-### Step 2: Link a Product to the Paywall
+![New Paywalls and Lock Screen tabs appear after setting privacy](/images/integrations/connecting-with-fluentcart/paywall-4-scaled.webp)
+
+## Step 2: Link a Product to Your Paywall
+
+Now that your content is private, you need to link a product to it. This is the item your customers will add to their cart and purchase.
 
 1. Click the **Paywalls** tab at the top of the settings window.
-2. Click **Add Paywall**. A product selection popup appears with two options:
+2. This screen shows all products that grant access. Since it's new, it will be empty. Click the **Add Paywall** button.
+
+![The empty Paywalls tab with the Add Paywall button](/images/integrations/connecting-with-fluentcart/paywall-5-scaled.webp)
+
+A pop-up window will appear, giving you two easy options:
 
 **Option A: Link an existing FluentCart product**
-- Type the product name in the **Search Product** field.
-- Select it from the list when it appears.
 
-**Option B: Create a new product on the spot**
-- Click **+ New**.
-- Enter a **Title** (e.g., `Premium Space Access`) and a **Price**.
-- Click **Create**.
+If you have already created your product in FluentCart, simply start typing its name in the **Search Product** bar. Select it from the list when it appears.
 
-FluentCommunity automatically creates the product in FluentCart and links it. The product now appears on the Paywalls page.
+**Option B: Create a new product on the fly**
 
-::: tip
-You can link multiple products to the same Space or Course — useful for offering different pricing tiers (e.g., monthly vs. annual access).
-:::
+You can create a new product without ever leaving this screen.
 
-### Step 3: Configure the Lock Screen
+- Click the **+ New** button.
+- A form will appear. Enter a **Title** (e.g., "Learn Python Basic Access") and a **Price**.
+- Click the **Create** button.
 
-The Lock Screen is what non-members see when they visit your private content. Choose one of two methods:
+![Creating a new FluentCart product from the paywall popup](/images/integrations/connecting-with-fluentcart/paywall-6-scaled.webp)
 
-#### Method 1: Default Lock Screen (Quickest)
+This will *automatically* create a new, simple product in FluentCart for you and link it. After adding your product, it will be listed on the Paywalls page. You have now successfully linked a purchasable product.
 
-1. Go back to the **General Settings** tab.
-2. Under **Access Control**, set **Lock Screen Type** to **Default**.
-3. Check the **Show Paywalls in the default lock screen** checkbox.
-4. Click **Save Changes & Close**.
+## Step 3: Configure Your Lock Screen
 
-The standard lock screen now includes a "Buy Now" section showing your linked product.
+The Lock Screen is your sales page. It's what non-members or logged-out users will see when they try to access your private content. You have two methods to set this up.
 
-#### Method 2: Custom Builder (Full Visual Control)
+To choose your method, go back to the **General Settings** tab.
 
-1. In the **General Settings** tab, set **Lock Screen Type** to **Custom**.
-2. Click the **Lock Screen** tab at the top of the settings window.
-3. In the visual page builder, locate the **Paywalls** block in the left sidebar under **Page Blocks**.
-4. Click the **Eye** icon on the Paywalls block to make it visible on the page.
-5. Click the **Pencil** icon to edit the block's content and design:
-   - **Content tab:** Edit the description shown alongside your product.
-   - **Design tab:** Change the **Button Label** (e.g., "Enroll Today"), toggle the paywall description visibility, and set background color, text color, and button colors.
-6. Click **Save Changes & Close**.
+### Method 1: The Easy Way (Default Lock Screen)
 
----
+This is the quickest way to get your paywall live. It automatically adds a "Buy Now" section to the standard "This content is private" page.
 
-## Advanced Configuration in FluentCart
+1. In the **General Settings** tab, find the **Access Control** section.
+2. Set the **Lock Screen Type** to **Default**.
+3. A new checkbox will appear. Check this box: **Show Paywalls in the default lock screen**.
 
-For more control over access rules, edit the integration directly inside FluentCart.
+![Enabling paywalls on the default lock screen](/images/integrations/connecting-with-fluentcart/paywall-2-scaled.webp)
 
-1. Go to the **Paywalls** tab in your Space or Course settings.
-2. Click the **⋮** menu next to your product and select **Edit Product**.
-3. Inside FluentCart, click the **Integrations** tab.
-4. Find the **FluentCommunity Integration** entry (auto-created) and click the **pencil** icon to open its settings.
+That's it. Click **Save Changes & Close**. Your paywall is now active.
 
-From here you can configure:
+### Method 2: The Custom Builder (Full Visual Control)
 
-| Rule | What it does |
-|---|---|
-| **Add to Spaces/Courses** | Automatically add the buyer to additional Spaces or Courses on purchase |
-| **Remove from Spaces/Courses** | Remove access if the order is refunded or a subscription expires |
-| **Mark profile as verified** | Add a Verified badge to the customer's community profile |
-| **Event Trigger** | Change when access is granted — e.g., *Order Paid* vs *Order Completed* |
+This method lets you build a custom sales page using a drag-and-drop builder, all without leaving this screen.
 
-::: warning
-If you use subscription products, always configure the **Remove from Spaces/Courses** rule to revoke access when a subscription expires or is cancelled. Without it, customers retain access indefinitely after cancellation.
-:::
+1. In the **General Settings** tab, set the **Lock Screen Type** to **Custom**.
+2. Go to the main **Lock Screen** tab at the top of the settings window.
+3. This opens a visual page builder. On the left side, under **Page Blocks**, you will see a block named **Paywalls**.
+4. Click the **Eye** icon on the Paywalls block from the left sidebar to make it appear.
 
----
+![Adding the Paywalls block in the custom lock screen builder](/images/integrations/connecting-with-fluentcart/paywall-8-scaled.webp)
 
-## Verification
+5. **Customize your paywall:** Click the **Pencil** icon on the Paywall block to edit its content and design.
+   - **Content tab:** Add or edit the description that appears with your product.
+   - **Design tab:** Change the **Button Label** (e.g., from "Buy Now" to "Join" or "Enroll Today"), choose to show or hide the paywall description, and change the colors for the block's **Background Color**, **Text Color**, **Button Label** color, and **Button Background**.
 
-After completing setup, confirm the integration is working:
+![Editing the paywall block content and design](/images/integrations/connecting-with-fluentcart/paywall-9-scaled.webp)
 
-1. Log out of WordPress (or open a private browser window).
-2. Navigate directly to your private Space or Course URL.
-3. Confirm the Lock Screen appears — either the default paywall block or your custom page.
-4. Click the purchase button and complete a test order using FluentCart's test mode.
-5. After purchase, confirm you are redirected to or can now access the Space or Course content.
-6. In WordPress, go to **FluentCart → Orders** and verify the order shows as paid.
+When you are finished designing your sales page, click **Save Changes & Close**.
 
----
+## Advanced Customization in FluentCart
 
-## Troubleshooting
+Your setup is complete. However, if you are a power user, you can access even more settings for the integration.
 
-**Paywalls tab does not appear after setting content to Private**
-The Privacy setting was not saved. Click **Save Changes** after selecting Private or Secret, then reload the settings panel — the Paywalls tab appears after saving.
+1. Go back to the **Paywalls** tab in your Course/Space settings.
+2. Click the **⋮** (three-dot) menu next to your product and select **Edit Product**.
 
-**Customers can still access content after purchasing**
-The FluentCart integration feed was not created correctly. Go to **FluentCart → Products → [your product] → Integrations** and confirm a FluentCommunity integration entry exists. If missing, remove and re-add the product in the Paywalls tab.
+![Opening Edit Product from the Paywalls tab](/images/integrations/connecting-with-fluentcart/paywall-12-scaled.webp)
 
-**Lock Screen shows but no product/Buy Now button appears**
-The **Show Paywalls in the default lock screen** checkbox is unchecked. Go to **General Settings → Access Control**, check that box, and save.
+3. This takes you directly to the product's edit page inside FluentCart. Click the **Integrations** tab.
 
-**Access is not revoked after a refund**
-The **Remove from Spaces/Courses** rule is not configured. Go to the product's Integrations tab in FluentCart, edit the FluentCommunity integration, and add a Remove rule triggered on refund or subscription expiry.
+![The Integrations tab on the FluentCart product](/images/integrations/connecting-with-fluentcart/paywall-13-scaled.webp)
 
-**Custom Lock Screen builder shows a blank page**
-The Paywalls block is hidden. In the custom builder, click the **Eye** icon next to the Paywalls block in the left sidebar to make it visible.
+4. You will see the **FluentCommunity Integration** that was automatically created for you. Click the edit icon (a small pencil) to open its settings.
 
----
+![Editing the auto-created FluentCommunity integration in FluentCart](/images/integrations/connecting-with-fluentcart/paywall-15-scaled.webp)
 
-## Related Documentation
+From here, you can add advanced rules, such as:
 
-- [Space Settings & Privacy](/community-hub/space-settings-&-privacy) — how to set a Space to Private and configure the Lock Screen
-- [Course Layouts & Enrollment](/courses-&-learning-(pro)/course-layouts-&-enrollment) — course access control options
-- [Connecting with Paymattic](/integrations/connecting-with-paymattic) — alternative payment integration
+- **Add to Spaces/Courses:** Automatically add the buyer to other Spaces or Courses when they buy this one.
+- **Remove from Spaces/Courses:** Automatically remove the user from the content if they get a refund or their subscription expires.
+- **Mark the community profile as verified:** Give your paying customers a "Verified" checkmark on their profile.
+- **Event Trigger:** Change the event that grants access (e.g., from "Order Paid" to "Order Completed").
+
+This advanced panel gives you full, granular control over the e-commerce automation, but for most users, the automatic setup is all you will ever need.
+
+**Related Topics:**
+- Set up [Space Settings & Privacy](../community-hub/space-settings-&-privacy.md) to make content private
+- Review [Course Privacy](../courses-&-learning-(pro)/course-privacy.md) options
+- Explore [Connecting with Paymattic](./connecting-with-paymattic.md) as an alternative payment integration
