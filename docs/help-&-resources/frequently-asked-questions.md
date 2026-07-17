@@ -199,11 +199,11 @@ Yes. You can sync community membership, trigger automation, and segment contacts
 
 **Does FluentCommunity work with WooCommerce?**
 
-FluentCommunity's native payment integrations are FluentCart and Paymattic. For WooCommerce, use Uncanny Automator or Flowmattic to bridge the two. See [Uncanny Automator & Flowmattic](/integrations/uncanny-automator-&-flowmattic).
+FluentCommunity's native payment integrations are FluentCart and Paymattic. For WooCommerce, use an automation tool such as Uncanny Automator or Flowmattic to bridge the two.
 
 **Can I use webhooks to connect FluentCommunity to external tools?**
 
-Yes, with FluentCommunity Pro. Webhooks fire on community events (new member, post created, course completed, etc.) and can connect to Zapier, Make, or any webhook-compatible service. See [Using Webhooks (Pro)](/integrations/using-webhooks-(pro)).
+Yes. FluentCommunity provides an **Incoming Webhook**: you generate a webhook URL and external systems (CRMs, email tools, automation platforms, etc.) send data to it to add users to Spaces or Courses in real time. See [Incoming Webhook](/integrations/incoming-webhook).
 
 
 ## Migration

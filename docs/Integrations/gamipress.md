@@ -1,7 +1,0 @@
----
-title: Gamipress
----
-
-# Gamipress
-
-
