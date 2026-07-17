@@ -61,6 +61,25 @@ If you want to add another group click on the **Add Another Group** button place
 
 ![The Bottom Links section with grouped links](/images/portal-settings/menu-settings/Menu-Settings-8.webp)
 
+## Feed Links
+
+The global feed carries its own set of links, managed from the feed itself rather than the Menu Settings screen. Click the **Feed Link** button on your [global feed](../getting-started/global-feed.md), then select **Add New Link**.
+
+![The Feed Link button on the global feed](/images/portal-settings/menu-settings/FluentCommunity-Feed-Link-1-scaled.webp)
+
+A pop-up will appear where you can enter your link details. The fields match the Add Link pop-up above, with one addition:
+
+- **Link Name** – Give your link a name. You can also add an emoji by clicking on the box beside the name field.
+- **URL** – Enter the URL in the designated field.
+- **Enable This Link** – By default, the link stays as a draft. To make it live, check the **Enable This Link** box.
+- **Open in a New Tab** – If you want the link to open in a new tab, check this option.
+
+![The Add New Link pop-up for feed links](/images/portal-settings/menu-settings/FluentCommunity-Feed-Link-2-scaled.webp)
+
+Once saved, your link will appear in the **Global Feed**, just like in the example below.
+
+![The custom link shown on the global feed](/images/portal-settings/menu-settings/FluentCommunity-Feed-Link-3-scaled.webp)
+
 ## Organizing Menu Items
 
 **Drag-and-Drop:** You can arrange items in each section by dragging and dropping them into the desired order.
@@ -69,5 +88,5 @@ This flexibility helps ensure that your community's menus are tailored to your p
 
 **Related Topics:**
 - Configure [General Settings](./general-settings.md) for your community title and logos
-- Add a [Welcome Banner](./welcome-banner.md) and feed links to your global feed
+- Add a [Welcome Banner](./welcome-banner.md) to your global feed
 - Explore [Add Custom Links (Pro)](../community-hub/add-custom-links-(pro).md) for the Links space type

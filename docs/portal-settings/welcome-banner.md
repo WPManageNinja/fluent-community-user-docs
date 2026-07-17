@@ -69,31 +69,13 @@ You will see the logged-out banner like the screenshot below.
 
 ![The Welcome Banner as seen by logged-out visitors](/images/portal-settings/welcome-banner/image-1.png)
 
-## Manage Feed Links
-
-If you want to add a link to your **Global Feed** then click on the **Feed Link** button and select the **Add New Link** button to start adding your custom link.
-
-![The Feed Link button on the global feed](/images/portal-settings/welcome-banner/FluentCommunity-Feed-Link-1-scaled.webp)
-
-A pop-up will appear where you can enter your link details:
-
-- **Link Name** – Give your link a name. You can also add an emoji by clicking on the box beside the name field.
-
-- **URL** – Enter the URL in the designated field.
-
-- **Enable This Link** – By default, the link stays as a draft. To make it live, check the **Enable This Link** box.
-
-- **Open in a New Tab** – If you want the link to open in a new tab, check this option.
-
-![The Add New Link pop-up for feed links](/images/portal-settings/welcome-banner/FluentCommunity-Feed-Link-2-scaled.webp)
-
-Once saved, your link will appear in the **Global Feed**, just like in the example below.
-
-![The custom link shown on the global feed](/images/portal-settings/welcome-banner/FluentCommunity-Feed-Link-3-scaled.webp)
-
 With this guide, you can easily create Welcome Banners for your community feed.
+
+::: tip Adding links to the feed
+The global feed can also carry its own custom links, added via the **Feed Link** button. Those are documented alongside the other menu surfaces in [Menu Settings](./menu-settings.md#feed-links).
+:::
 
 **Related Topics:**
 - Explore [the Global Feed](../getting-started/global-feed.md) to see where the banner appears
-- Configure [Menu Settings](./menu-settings.md) to organize your sidebar and top menus
+- Configure [Menu Settings](./menu-settings.md) to organize your sidebar, top menu, and feed links
 - Set up [Feed Sorting](./feed-sorting.md) to control how posts are ordered
