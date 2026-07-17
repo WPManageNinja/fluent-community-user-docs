@@ -1,51 +1,72 @@
 ---
-title: Connecting With Fluent Forms
-description: Learn how to integrate FluentCommunity with Fluent Forms to create powerful custom registration forms and automatically assign users to Spaces or Courses upon submission.
+title: Connecting with Fluent Forms
+description: Learn how to integrate FluentCommunity with Fluent Forms to add members to your Spaces or Courses and collect payments directly through form submissions.
 ---
 
-# Connecting With Fluent Forms
+# Connecting with Fluent Forms
 
-The integration between FluentCommunity and **Fluent Forms** allows you to create highly customizable forms that can register new users and automatically add them to specific Spaces or Courses. This is perfect for creating bespoke onboarding experiences.
+Fluent Forms integrates with FluentCommunity, making it easy to add members to your **Spaces** or **Courses**. You can also collect payments for your Spaces and Courses using this integration. This guide shows you how to integrate and make the most of your community features.
 
-> **Use Case:** You can design a detailed registration form for a "Graphic Design" course that not only signs the user up for your site but also automatically enrolls them into the course and adds them to a private "Design Students" space upon submission.
+::: tip
+Make sure to install the free version of **Fluent Forms** to set up this integration.
+:::
 
-## How the Integration Works
+## FluentCommunity Module in Fluent Forms
 
-When a user submits a form created with Fluent Forms, you can configure a special "FluentCommunity Feed" to trigger actions within your community.
+To access the **FluentCommunity Integration Feed** in your forms, you must activate the **FluentCommunity module** in Fluent Forms.
 
-### Step 1: Create Your Form
+Go to the Fluent Forms dashboard and click **Integration** in the navigation bar. Locate the **FluentCommunity** module and enable it by toggling the switch.
 
-First, you need to create the form you want to use for registration or enrollment.
+![Enabling the FluentCommunity module in Fluent Forms](/images/integrations/connecting-with-fluent-forms/FluentCommunity-Module-scaled.webp)
 
-1.  From your WordPress dashboard, navigate to **Fluent Forms → New Form**.
-2.  Design your form with all the necessary fields, such as Name, Email, and Password. You can also add custom fields to collect additional information.
+## FluentCommunity Integration Feed
 
-[Screenshot: The Fluent Forms editor showing a sample registration form being built.]
+Go to your Fluent Forms and create a new form or use any existing form to integrate. To create a new form, click the **Add New Form** button.
 
-### Step 2: Configure the FluentCommunity Feed
+![Adding a new form in Fluent Forms](/images/integrations/connecting-with-fluent-forms/ff-1-scaled.webp)
 
-This is where you connect the form submission to actions in your community.
+Edit and add the fields your members need, then go to **Settings & Integrations** for the form.
 
-1.  While editing your form, go to the **Settings & Integrations** tab.
-2.  Select **Marketing & CRM Integrations** from the left sidebar.
-3.  Click the **Add New Integration** button and select **FluentCommunity Integration** from the list.
+![Opening Settings & Integrations for the form](/images/integrations/connecting-with-fluent-forms/ff-2-scaled.webp)
 
-[Screenshot: The Fluent Forms integrations screen with the "FluentCommunity Integration" option highlighted.]
+From the left sidebar, click **Configure Integration**, then click **Add New Integration**. From the dropdown, select the **FluentCommunity Integration Feed**.
 
-### Step 3: Map Your Fields and Actions
+![Selecting the FluentCommunity Integration Feed](/images/integrations/connecting-with-fluent-forms/FFIntegration-1-scaled.webp)
 
-Now you need to tell the integration what to do with the form data.
+Now you'll see the **FluentCommunity Integration Feed**. Configure it step by step:
 
-1.  Give the new feed a name.
-2.  **Select Action:** Choose the action you want to perform. The primary action is **User Registration**, which will create a new user account in WordPress.
-3.  **Map Fields:** Match the fields from your form to the corresponding user fields (e.g., map your "Email" form field to the "User Email" field).
-4.  **Assign to Spaces/Courses:** Below the field mapping, you can select one or more Spaces or Courses to automatically add the user to upon successful registration.
+- **Name:** Provide a name for your feed to easily identify it later.
+- **Select Space or Course to Enroll:** Use the dropdown to select the Space or Course where members will be added. Both Secret Spaces and Secret Courses appear in the list for selection.
 
-[Screenshot: The FluentCommunity feed configuration screen in Fluent Forms, showing field mapping and the dropdown to select a Space.]
+**Map Fields**
 
-Click **Save Feed** to activate the integration. Now, whenever a user successfully submits this form, a new user account will be created and they will be automatically added to the Spaces or Courses you selected.
+- **Email Address:** Select the email field from the dropdown to map users' email addresses.
+
+**For New Users Outside WordPress**
+
+- **Full Name:** Map the name field for new users. You can also use shortcodes for mapping.
+- **Password:** Link the password field from the form to allow users to set a login password for your community. You can also use shortcodes for mapping the password.
+
+**Additional Options**
+
+- **Allow the user to log in automatically after form submission:** Check this box to log users in automatically after form submission.
+- **Send Welcome Emails:** Check this box to send WordPress's default welcome email to new users after registration.
+
+Click the **Save Feed** button to save your configuration.
+
+![Configuring the FluentCommunity Integration Feed](/images/integrations/connecting-with-fluent-forms/FFIntegration-2-scaled.webp)
+
+Publish the form to start adding members to your community Spaces or Courses directly.
+
+::: info
+You can use Fluent Forms to enroll users into your FluentCommunity Spaces and Courses upon form submission. While the core integration is free, advanced features like **Conditional Logic** and the ability to **Import Entries** require upgrading to **Fluent Forms Pro**.
+
+For more details on monetizing Spaces and Courses, see [Monetizing Your Courses](../monetization/monetizing-your-courses.md) and [Monetizing Your Spaces](../monetization/monetizing-your-spaces.md).
+:::
+
+That is how the Fluent Forms integration works with FluentCommunity.
 
 **Related Topics:**
-- Learn about [connecting with FluentCRM](./connecting-with-fluentcrm.md) for email automation
-- Explore [connecting with Paymattic](./connecting-with-paymattic.md) for monetization
+- Explore [Connecting with FluentCRM](./connecting-with-fluentcrm.md) for email automation
+- Explore [Connecting with Paymattic](./connecting-with-paymattic.md) for monetization
 - Set up [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
