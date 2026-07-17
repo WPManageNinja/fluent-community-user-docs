@@ -253,7 +253,7 @@ export default defineConfig({
             text: 'Automation Tools',
             collapsed: true,
             items: [
-              { text: 'Using Webhooks (Pro)', link: '/integrations/using-webhooks-(pro)' },
+              { text: 'Incoming Webhook', link: '/integrations/incoming-webhook' },
             ]
           },
           {
@@ -261,9 +261,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Connecting with Pusher', link: '/integrations/connecting-with-pusher' },
-              { text: 'GamiPress', link: '/integrations/gamipress' },
-              { text: 'Better Messages', link: '/integrations/better-messages' },
-              { text: 'Uncanny Automator & Flowmattic', link: '/integrations/uncanny-automator-&-flowmattic' },
             ]
           },
         ]

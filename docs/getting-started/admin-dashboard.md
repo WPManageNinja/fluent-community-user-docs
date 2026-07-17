@@ -9,8 +9,6 @@ Welcome to the command center for your new community! After installing and activ
 
 This page is designed to be your central hub, giving you quick and easy access to all the most important settings and management areas for your community.
 
-![FluentCommunity admin dashboard](/images/getting-started/admin-dashboard/admin-dashboard-1.webp)
-
 ## The Welcome Banner
 
 At the very top of the page, you'll find a welcome banner that confirms your community is ready to go. It contains three important action buttons:
@@ -19,6 +17,7 @@ At the very top of the page, you'll find a welcome banner that confirms your com
  * **License Management:** Click this button to view your license details, activate your pro license key, or manage your activated sites.
  * **Join Official Community:** This link takes you to the official FluentCommunity user group, where you can ask questions, get help from the community, and connect with the development team.
 
+![FluentCommunity admin dashboard](/images/getting-started/admin-dashboard/admin-dashboard-1.webp)
 
 ## Dashboard Navigation
 

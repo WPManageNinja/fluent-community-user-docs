@@ -240,7 +240,7 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 ## W
 
-**Webhook** *(Pro)*: An HTTP callback that sends data to an external URL when a specific community event occurs (e.g., a user joins a Space). Used to connect FluentCommunity with third-party services and automation tools. See also: [Using Webhooks (Pro)](/integrations/using-webhooks-(pro)).
+**Webhook**: An HTTP endpoint used to pass data between systems. FluentCommunity's **Incoming Webhook** gives you a URL that external services can send data to, automatically adding users to Spaces or Courses. See also: [Incoming Webhook](/integrations/incoming-webhook).
 
 **Welcome Banner**: A dismissible message displayed at the top of the admin dashboard on first use, guiding admins through initial setup steps.
 
