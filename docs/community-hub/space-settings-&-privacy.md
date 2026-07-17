@@ -17,11 +17,10 @@ Space Settings are managed from the community frontend, not the WordPress dashbo
 2. Click the **⋮** **(three-dot)** menu in the top-right corner of the Space, next to the Posts, Members, and Chat tabs.
 
 3. Select **Space Settings** from the dropdown for customization or editing the space.
-4. You can **Delete** this space here by clicking this Delete icon.
 
 ![Accessing Space Settings from the three-dot menu](/images/community-hub/space-settings-privacy/space-settings.webp)
 
-The settings panel opens with three tabs at the top: **General Settings**, **Paywalls**, and **Space Links**. Click **Save Changes** in the top-right to apply any edits.
+The settings panel opens with three tabs at the top: **General Settings**, **Paywalls**, and **Space Links**. Click **Update info** in the top-right to apply any edits.
 
 ## General Settings Tab
 
@@ -109,3 +108,16 @@ Visible when the Space privacy is set to **Private**. Use this tab to link [Flue
 ## Space Links Tab
 
 Use this tab to manage external links associated with this Space. [Space Links](/community-hub/space-links) appear in the Space's navigation for quick access to related resources.
+
+## Deleting a Space
+
+Deleting a Space is done from the same **⋮ (three-dot)** menu you use to open Space Settings — not from inside the settings panel.
+
+1. Navigate to the Space you want to remove.
+2. Click the **⋮ (three-dot)** menu in the top-right corner.
+3. Select **Delete** from the dropdown.
+4. Confirm your choice in the pop-up that appears.
+
+::: warning This cannot be undone
+Deleting a Space is permanent. Its posts, comments, and member list go with it — so export anything you need first.
+:::

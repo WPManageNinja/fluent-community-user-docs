@@ -42,7 +42,7 @@ This is where you'll set up the core identity and privacy for your new space.
 * **Space Title:** Enter a clear and descriptive name (e.g., "General Space"). You can also click the rocket icon to choose an emoji or icon for your space.
 * **Slug (optional):** This is the URL-friendly version of your title. It's usually created automatically, but you can set a custom one here (e.g., `general-space`).
 * **Description:** Add a short description that explains the purpose of the Space. This helps members decide whether to join.
-* **Menu Group:** This is a key navigation feature. You can select a "Space Group" (which you create in the admin panel) to add a direct link to this space in the main left sidebar of your community.
+* **Menu Group:** This is a key navigation feature. You can select a "Space Group" (which you create in [Space Groups](/community-hub/space-groups)) to add a direct link to this space in the main left sidebar of your community.
 
 #### Access Control
 
