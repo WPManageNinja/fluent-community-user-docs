@@ -11,7 +11,7 @@ Portal Access Settings let you control how members reach and interact with your 
 
 ## How to Configure Portal Access Settings
 
-In your WordPress dashboard, go to **FluentCommunity**, then open the [**General Settings**](/portal-settings/portal-access-settings) tab. Within General Settings, find the **Portal Access Settings** section.
+In your WordPress dashboard, go to **FluentCommunity**, then open the [**General Settings**](/portal-settings/general-settings) tab. Within General Settings, find the **Portal Access Settings** section.
 
 ![The Portal Access Settings section in General Settings](/images/portal-settings/portal-access-settings/Portal-Access-1--scaled.webp)
 

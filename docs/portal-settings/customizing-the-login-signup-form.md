@@ -12,7 +12,7 @@ You can fully customize the login and signup page your members see, from the ban
 ## How to Open the Login Page Customizer
 
 1.  Go to **FluentCommunity** and click the **Settings** button.
-2.  Open the [**General Settings**](/portal-settings/portal-access-settings) tab from the left sidebar.
+2.  Open the [**General Settings**](/portal-settings/general-settings) tab from the left sidebar.
 3.  Scroll down to **Customize Login/Signup Form** and click the **Customize** button.
 
 ![The Customize Login/Signup Form setting](/images/portal-settings/customizing-the-login-signup-form/Customizing-settings-1-scaled.webp)

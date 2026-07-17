@@ -60,4 +60,4 @@ To style the dark theme, switch to the **Dark Mode** tab in the color customizer
 
 ## Related Documentation
 - [Layout & Appearance](/portal-settings/layout-&-appearance) — control the overall look and structure of your portal.
-- [Adding Custom Sidebar Links](/portal-settings/adding-custom-sidebar-links) — extend your portal's navigation with custom links.
+- [Menu Settings](/portal-settings/menu-settings) — organize your sidebar and top menus.
