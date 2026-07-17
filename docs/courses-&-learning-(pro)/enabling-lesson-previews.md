@@ -1,39 +1,31 @@
 ---
 title: Enabling Lesson Previews
-description: Learn how to enable free lesson previews in FluentCommunity, allowing prospective students to sample your course content before they enroll.
+description: Learn how to use the Free Preview Lesson option in FluentCommunity to let public users view a lesson without enrolling in the course.
 ---
 
 # Enabling Lesson Previews
 
-Offering a free preview is a highly effective marketing strategy for online courses. It gives potential students a glimpse of your teaching style and the quality of your content, which can significantly increase enrollment rates. FluentCommunity allows you to make specific lessons available for free public viewing.
+Offering a free preview is an effective way to market an online course. It gives potential students a glimpse of your teaching style and the quality of your content before they commit. In FluentCommunity, you can open up individual lessons to the public using the **Free Preview Lesson** option.
 
-> **Use Case:** You can set the first 1-2 lessons of your course, such as the "Welcome" video and the "Course Outline," as free previews. This allows interested visitors to see what the course is about and who it's for, helping them make an informed purchasing decision.
+::: info Use Case
+Set the first lesson of your course — such as a "Welcome" video or the course outline — as a free preview. Interested visitors can then see what the course covers and who it's for, helping them make an informed decision about enrolling.
+:::
 
 ## How to Enable a Lesson Preview
 
-You can enable previews on a per-lesson basis.
+Previews are set on a per-lesson basis, from the lesson's own settings.
 
-1.  Navigate to the course and lesson you wish to make available as a preview.
-2.  Open the lesson in the editor.
-3.  In the lesson's settings sidebar, look for a toggle switch labeled **"Allow Free Preview Access"** or **"Enable Free Preview."**
-4.  Turn this toggle switch to the "On" position.
+1. Open the course editor and select the lesson you want to make available as a preview.
+2. In the lesson settings, check the **Free Preview Lesson** checkbox.
+3. Save the lesson.
 
-[Screenshot: The lesson editor settings sidebar with the "Allow Free Preview Access" toggle switch highlighted and enabled.]
+Once enabled, public users can view that lesson without enrolling in the course. Every other lesson stays restricted to enrolled students.
 
-5.  Click the **Update** button to save your changes.
-
-## The Student Experience
-
-Once a lesson is marked as a preview, it will be clearly labeled as **"Free"** or **"Preview"** in the main course outline that is visible to non-enrolled students.
-
-Visitors can click on this lesson and view its full content without needing to log in or enroll in the course. All other lessons will remain locked and will prompt the user to enroll.
-
-[Screenshot: The front-end view of a course outline, showing one lesson marked with a "Free Preview" badge, while other lessons have a "lock" icon.]
-
-> **✨ Note:**
-> It's a best practice to choose lessons for your preview that are engaging and clearly demonstrate the value of your course. Your introduction, a high-value concept, or a particularly well-produced video are all excellent candidates for a free preview.
+::: tip
+Choose preview lessons that are engaging and clearly demonstrate the value of your course. An introduction, a high-value concept, or a particularly well-produced video all make strong candidates.
+:::
 
 **Related Topics:**
 - Learn about [creating your first course](./creating-your-first-course.md) to get started
 - Explore [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
-- Set up [course layouts and enrollment](./course-layouts-&-enrollment.md) to control access
+- Set up [course privacy](./course-privacy.md) to control who can access your course
