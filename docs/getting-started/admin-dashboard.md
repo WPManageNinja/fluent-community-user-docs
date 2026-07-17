@@ -33,7 +33,7 @@ Dive in here to control the look and feel of your community portal. You can adju
 
 ### 3. Advanced Features
 
-This section unlocks the full power of FluentCommunity. You can manage powerful add-ons, enable or disable core modules (like [Gamification](../gamification-(pro)/configuring-the-points-system.md) or [Courses](../courses-&-learning-(pro)/creating-your-first-course.md)) from the **Features & Modules** section, and configure other advanced settings.
+This section unlocks the full power of FluentCommunity. You can manage powerful add-ons, enable or disable core modules (like [Gamification](../gamification-(pro)/configuring-the-points-system.md) or [Courses](../courses-&-learning-(pro)/creating-your-first-course.md)) from the **Features & Addons** section, and configure other advanced settings.
 
 ### 4. Manage Courses
 

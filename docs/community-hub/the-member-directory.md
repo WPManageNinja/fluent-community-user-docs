@@ -44,21 +44,7 @@ As an administrator, you control who can view the Member Directory and related m
 
 ### Related Profile & Community Visibility
 
-These settings work alongside the directory and affect how members appear across the community:
-
-**Who can view user profile page?**  
-Choose **Everybody**, **Only logged-in members**, or **Only Admin/Moderators**. Members can always view their own profile.
-
-**Who can view leaderboard top members?**  
-Control who can see top members on the leaderboard using the same visibility levels.
-
-**Who can view spaces and courses on the user profile page**  
-Control who can see the Spaces and Courses tabs on a member's profile.
-
-### Member Account Permissions
-
-* **Allow users to change their community username** — When enabled, members can update their own username. When disabled, only admins or moderators can change it.
-* **Allow users to change their account email address** — When enabled, members can update their WordPress account email from profile settings.
+The same Privacy Settings tab also controls who can view member profile pages, leaderboard top members, and the membership spaces listed on a profile — plus what account details members may change themselves. For the full reference, see [Privacy Settings](../portal-settings/privacy-settings.md).
 
 > **Use Case:** For a private membership community, set **Who can view all members page?** to **Only logged-in members** so the directory is visible to members only, not public visitors.
 

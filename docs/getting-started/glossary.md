@@ -72,7 +72,7 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 **Dark Mode**: A display preference that switches the community interface to a dark color scheme. Controlled by the member's profile settings.
 
-**Default Post Sort By**: A Space-level setting that controls how Posts are ordered for all members when they first load the Space. Options: *Latest Posts*, *Most Popular*, *Oldest*.
+**Default Post Sort By**: A Space-level setting that controls how Posts are ordered for all members when they first load the Space. It overrides the portal-wide default set in [Feed Sorting](/portal-settings/feed-sorting), whose options are *New Activity*, *Latest*, *Oldest*, *Popular*, *Likes*, *Alphabetical*, and *Unanswered*.
 
 **Direct Messaging (DM)** *(Pro)*: Private one-on-one text conversations between community members. Accessed via the chat bubble icon in the navigation bar. See also: [Direct Messaging (Pro)](/community-hub/direct-messaging-(pro)).
 
@@ -219,7 +219,7 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 **Space**: The core organizational unit of FluentCommunity — a dedicated area for a specific topic, group, or course. Similar to a forum category, Facebook Group, or Slack channel. See also: [Creating a New Space](/community-hub/creating-a-new-space).
 
-**Space Group**: A labeled folder in the left sidebar used to organize related Spaces. Purely navigational — does not affect permissions.
+**Space Group**: A labeled folder in the left sidebar used to organize related Spaces. Mainly navigational, but a group's **Show Spaces Even if the User is not a Member of any Space** setting affects whether its Spaces are visible to non-members. See [Space Groups](/community-hub/space-groups).
 
 **Space Slug**: The URL-friendly version of a Space's title, used in its web address (e.g., `/community/general-discussion`).
 
@@ -242,7 +242,7 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 **Webhook**: An HTTP endpoint used to pass data between systems. FluentCommunity's **Incoming Webhook** gives you a URL that external services can send data to, automatically adding users to Spaces or Courses. See also: [Incoming Webhook](/integrations/incoming-webhook).
 
-**Welcome Banner**: A dismissible message displayed at the top of the admin dashboard on first use, guiding admins through initial setup steps.
+**Welcome Banner**: A banner shown on the global feed to logged-in and/or logged-out visitors, with image or video media, a title, description, and call-to-action buttons. Optionally dismissible. See [Welcome Banner](/portal-settings/welcome-banner).
 
 **WordPress Administrator**: The highest WordPress user role. Has unrestricted access to all FluentCommunity admin settings, Spaces, and member data.
 
