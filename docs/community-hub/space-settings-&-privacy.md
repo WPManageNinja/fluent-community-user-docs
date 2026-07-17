@@ -53,7 +53,7 @@ When **Private** is selected, a **Lock Screen Type** option appears:
 
 **Show Paywalls in Default Lock Screen:** When using the Default Lock Screen, check this to display paywall content to non-members.
 
-**Who can view space members:** Controls who can see the member list for this Space. Options: *Anyone*, *Members Only*, or *Admin/Moderators Only*.
+**Who can view space members:** Controls who can see the member list for this Space. Options: *Member Only*, *Admin/Moderator Only*, *Any Logged-in User*, or *Anyone*.
 
 ![Space General Settings and Access Control](/images/community-hub/space-settings-privacy/space-settings-1.webp)
 

@@ -53,11 +53,11 @@ This is a crucial step for controlling your space's privacy.
     * **Private:** The space is listed in the directory, but only members can see the content. When you select "Private," a new "Lock Screen Type" option appears:
         * [**Custom Lock Screen:**](/community-hub/customizing-the-lockscreen) This lets you create a custom message or design for what non-members see when they land on this space.
         * **Default Lock Screen:** This will show a standard, default message that the space is private.
-        * **Redirect to an URL (Pro):** This Pro feature lets you redirect non-members to a different page entirely (like a sales or landing page).
+        * **Redirect to an URL:** Redirects non-members to a different page entirely (like a sales or landing page).
     * **Secret:** The space is completely hidden and invisible to non-members. It can only be accessed via a direct link by members who have been invited.
 * **Show Paywalls in Default Lock Screen:** When using the Default Lock Screen, check this to display any configured paywall content to non-members.
 * **Allow users to request to join this Space:** 
-* **Who can view space members:** Controls who can see the member list for this Space. Options: *Members Only*, *Admin/Moderators Only*, or *Anyone*.
+* **Who can view space members:** Controls who can see the member list for this Space. Options: *Member Only*, *Admin/Moderator Only*, *Any Logged-in User*, or *Anyone*.
 
 Once you have configured these settings, click **Next**.
 

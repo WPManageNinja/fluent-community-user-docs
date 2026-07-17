@@ -25,7 +25,7 @@ To create a new group, click the **Create New Group** button. A pop-up will appe
 
 **Set Group Visibility**
 
-You can choose the [visibility](./space-settings-&-privacy.md) of the group from **Appearance** by selecting the **Show Spaces Even if the User is not a Member of any Space** checkbox.
+You can choose the visibility of the group from **Appearance** by selecting the **Show Spaces Even if the User is not a Member of any Space** checkbox. This is a group-level setting, distinct from an individual [Space's privacy](./space-settings-&-privacy.md).
 
 Once you've filled in the details and set the visibility, click the **Create** button to create the group.
 

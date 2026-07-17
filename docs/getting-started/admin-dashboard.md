@@ -9,7 +9,7 @@ Welcome to the command center for your new community! After installing and activ
 
 This page is designed to be your central hub, giving you quick and easy access to all the most important settings and management areas for your community.
 
-## The Welcome Banner
+## The Dashboard Header
 
 At the very top of the page, you'll find a welcome banner that confirms your community is ready to go. It contains three important action buttons:
 

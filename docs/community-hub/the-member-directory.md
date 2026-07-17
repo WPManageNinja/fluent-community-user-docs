@@ -26,11 +26,7 @@ The Member Directory is more than a static user list. It includes tools that mak
 
 ## Directory Privacy Settings
 
-As an administrator, you control who can view the Member Directory and related member pages. Configure these options from your WordPress dashboard:
-
-1. Go to **FluentCommunity → Settings**.
-2. Open the **Privacy Settings** tab.
-3. Adjust the visibility options below, then click **Save Settings**.
+As an administrator, you control who can view the Member Directory and related member pages. Open the FluentCommunity **Settings** tab in the bottom-left corner of the dashboard, click **Privacy Settings**, adjust the option below, then click **Save Settings**.
 
 ![Privacy Settings in Portal Settings](/images/community-hub/member-directory/member-privacy-settings-2.webp)
 

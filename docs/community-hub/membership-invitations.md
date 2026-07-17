@@ -23,7 +23,7 @@ First, open the invitation dashboard for the Space you want to grow.
 ![The Spaces page with the View Space button](/images/community-hub/membership-invitations/member-invitation-1-scaled.webp)
 
 3.  Inside the Space, click the **Members** tab in the top-right menu.
-4.  Click the **Invitations** button, located right next to the [**Add Member**](/community-hub/assigning-user-roles) button.
+4.  Click the **Invitations** button, located right next to the [**Add Member**](/community-hub/adding-members-to-a-space) button.
 
 ![The Members tab with the Invitations button](/images/community-hub/membership-invitations/member-invitation-2-scaled.webp)
 
