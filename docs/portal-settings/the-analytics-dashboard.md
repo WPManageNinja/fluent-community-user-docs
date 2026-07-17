@@ -31,6 +31,5 @@ The dashboard provides several key insights into your community's performance.
 By regularly reviewing these analytics, you can get a clear, data-driven picture of what's working in your community and where you might need to focus your efforts to stimulate growth and engagement.
 
 **Related Topics:**
-- Learn about [tracking community growth](./tracking-community-growth.md) for deeper insights
 - Explore [creating spaces](../community-hub/creating-a-new-space.md) to organize discussions
 - Set up [content moderation](../community-hub/content-moderation.md) to maintain quality

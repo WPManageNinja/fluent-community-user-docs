@@ -212,7 +212,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'The Analytics Dashboard', link: '/portal-settings/the-analytics-dashboard' },
-              { text: 'Tracking Community Growth', link: '/portal-settings/tracking-community-growth' },
             ]
           },
         ]

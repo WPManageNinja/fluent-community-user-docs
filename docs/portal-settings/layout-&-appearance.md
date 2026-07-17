@@ -25,4 +25,3 @@ In the following articles, we will cover how to customize key display elements:
 * **Communication Settings:** [In-App Notification Settings](./in-app-notification-settings.md) - Configure how users receive notifications
 * **Email Templates:** [Customizing Email Templates (Pro)](./customizing-email-templates-(pro).md) - Brand your email communications
 * **Analytics:** [The Analytics Dashboard](./the-analytics-dashboard.md) - Track community performance
-* **Growth Tracking:** [Tracking Community Growth](./tracking-community-growth.md) - Monitor member engagement
