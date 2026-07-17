@@ -91,6 +91,8 @@ export default defineConfig({
             items: [
               { text: 'Creating a New Space', link: '/community-hub/creating-a-new-space' },
               { text: 'Space Settings & Privacy', link: '/community-hub/space-settings-&-privacy' },
+              { text: 'Space Groups', link: '/community-hub/space-groups' },
+              { text: 'Adding Members to a Space', link: '/community-hub/adding-members-to-a-space' },
               { text: 'Space Links', link: '/community-hub/space-links' },
               { text: 'Add Custom Links (Pro)', link: '/community-hub/add-custom-links-(pro)' },
               { text: 'Customizing the Lockscreen', link: '/community-hub/customizing-the-lockscreen' },
@@ -117,7 +119,9 @@ export default defineConfig({
             items: [
               { text: 'The Member Directory', link: '/community-hub/the-member-directory' },
               { text: 'Managing User Profiles', link: '/community-hub/managing-user-profiles' },
+              { text: 'Social Links Customization', link: '/community-hub/social-links-customization' },
               { text: 'Assigning User Roles', link: '/community-hub/assigning-user-roles' },
+              { text: 'Add Users to Spaces & Courses from a Profile', link: '/community-hub/add-users-from-profile' },
               { text: 'Direct Messaging (Pro)', link: '/community-hub/direct-messaging-(pro)' },
               { text: 'Moderating Chat Users (Pro)', link: '/community-hub/moderating-chat-users-(pro)' },
               { text: 'Following & Blocking Members', link: '/community-hub/following-&-blocking-members' },
@@ -180,11 +184,14 @@ export default defineConfig({
       {
         text: 'Portal Settings',
         items: [
+          { text: 'General Settings', link: '/portal-settings/general-settings' },
           {
             text: 'Layout & Appearance',
             collapsed: true,
             items: [
-              { text: 'Adding Custom Sidebar Links', link: '/portal-settings/adding-custom-sidebar-links' },
+              { text: 'Menu Settings', link: '/portal-settings/menu-settings' },
+              { text: 'Welcome Banner', link: '/portal-settings/welcome-banner' },
+              { text: 'Feed Sorting', link: '/portal-settings/feed-sorting' },
               { text: 'Color Customization', link: '/portal-settings/color-customization' },
               { text: 'Theme Compatibility', link: '/portal-settings/theme-compatibility' },
               { text: 'Community as Homepage', link: '/portal-settings/community-as-homepage' },
@@ -196,6 +203,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Portal Access Settings', link: '/portal-settings/portal-access-settings' },
+              { text: 'Privacy Settings', link: '/portal-settings/privacy-settings' },
               { text: 'Customizing the Login/Signup Form', link: '/portal-settings/customizing-the-login-signup-form' },
             ]
           },
