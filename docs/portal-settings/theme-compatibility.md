@@ -85,8 +85,3 @@ You can also enable the **Disable Dark Mode** option. This ensures that even if 
 For deeper customization, add [custom CSS](/for-developers/adding-custom-css) in the **Advanced** section to further tweak your template as needed.
 
 ![The Layout Settings and Advanced options in the right sidebar](/images/portal-settings/theme-compatibility/Theme-Compatibility-10-scaled.webp)
-
-## Related Documentation
-- [Layout & Appearance](/portal-settings/layout-&-appearance) — configure the overall look of your community portal.
-- [Adding Custom CSS](/for-developers/adding-custom-css) — apply your own styling to portal pages.
-- [Color Customization](/portal-settings/color-customization) — set portal colors for Light and Dark modes.

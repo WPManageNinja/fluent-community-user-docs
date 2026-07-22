@@ -58,8 +58,3 @@ This option restricts access to specific user roles (such as Admins, Members, or
 ![The Only Selected User Roles access option](/images/portal-settings/portal-access-settings/Portal-Access-3.webp)
 
 Always click the **Save Settings** button after making changes to ensure your Portal Access Settings are applied.
-
-## Related Documentation
-- [Customizing the Login/Signup Form](/portal-settings/customizing-the-login-signup-form) — design the login and signup experience your members see.
-- [Community as Homepage](/portal-settings/community-as-homepage) — make your accessible portal the front door of your site.
-- [Sitemaps & SEO](/portal-settings/sitemaps-&-seo) — a public portal is required for search engines to index your content.

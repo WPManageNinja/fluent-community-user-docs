@@ -68,7 +68,3 @@ Go to the **FluentCommunity Dashboard** and scroll down to [**Portal Access Sett
 Navigate to the **Tools** section under **Portal Settings**. Here you'll see that your portal's sitemap is already created and configured automatically. You can view it from the **Sitemap URL**, which is now ready and easily indexable by Google.
 
 ![The automatically created sitemap and its URL](/images/portal-settings/sitemaps-and-seo/sitemap-created-02-scaled.webp)
-
-## Related Documentation
-- [Portal Access Settings](/portal-settings/portal-access-settings) — set your portal to public so search engines can index it.
-- [Community as Homepage](/portal-settings/community-as-homepage) — give your indexable community a clean, top-level URL.
