@@ -27,16 +27,3 @@ The directory is a central, searchable list of everyone in your community. It's 
 To help you manage your community effectively, FluentCommunity uses a simple but powerful role-based system. You can assign different roles to users within each **Space**, giving them specific permissions. The primary roles are **Member**, **Moderator**, and **Admin**.
 
 In the following articles, we will walk you through how to use each of these features in detail.
-
-## Related Topics
-
-* **Member Directory:** [The Member Directory](./the-member-directory.md) - Browse and search community members
-* **User Profiles:** [Managing User Profiles](./managing-user-profiles.md) - Customize member profile settings
-* **User Roles:** [Assigning User Roles](./assigning-user-roles.md) - Control permissions and access levels
-* **Direct Messaging:** [Direct Messaging (Pro)](./direct-messaging-(pro).md) - Enable private member communication
-* **Chat Moderation:** [Moderating Chat Users (Pro)](./moderating-chat-users-(pro).md) - Manage chat interactions
-
-**Getting Started:**
-- Learn about [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
-- Explore [content moderation](../community-hub/content-moderation.md) to maintain quality
-- Set up [gamification](../gamification-(pro)/configuring-the-points-system.md) to encourage engagement

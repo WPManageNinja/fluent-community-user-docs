@@ -21,9 +21,3 @@ In the following articles, we will cover how to customize key display elements:
 - Learn about [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
 - Explore [communication settings](./communication.md) to configure notifications
 - Set up [analytics](./the-analytics-dashboard.md) to track community performance
-
-## Related Topics
-
-* **Communication Settings:** [In-App Notification Settings](./in-app-notification-settings.md) - Configure how users receive notifications
-* **Email Templates:** [Customizing Email Templates (Pro)](./customizing-email-templates-(pro).md) - Brand your email communications
-* **Analytics:** [The Analytics Dashboard](./the-analytics-dashboard.md) - Track community performance
