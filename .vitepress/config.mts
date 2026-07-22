@@ -67,7 +67,8 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'User Docs', link: '/getting-started/introduction-fluentcommunity' },
       { text: 'Website', link: 'https://fluentcommunity.co/' },
-      { text: 'Support', link: '/help-&-resources/how-to-contact-support' }
+      { text: 'Support', link: '/help-&-resources/how-to-contact-support' },
+      { text: 'Changelog', link: '/changelog/changelog' }
     ],
 
     sidebar: [
@@ -294,11 +295,17 @@ export default defineConfig({
           { text: 'Hooks & Filters Reference', link: '/for-developers/hooks-&-filters-reference' },
           { text: 'Adding Custom CSS & JavaScript', link: '/for-developers/adding-custom-css' },
         ]
+      },
+      {
+        text: 'Changelog',
+        items: [
+          { text: 'Changelog', link: '/changelog/changelog' },
+        ]
       }
     ],
 
     footer: {
-        copyright: 'Copyright © 2025-present WPManageNinja'
+        copyright: 'Copyright © 2026 WPManageNinja'
     },
   }
 })
