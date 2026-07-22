@@ -44,7 +44,3 @@ Once you post the poll, it appears in the feed like this.
 You can create a poll from a [specific Space](/community-hub/creating-a-new-space) in the same way. Head to the Space where you want the poll, click the **Poll** button, and configure the rest of the settings exactly as above.
 
 ![Creating a poll from within a Space](/images/community-hub/creating-and-managing-polls/FluentCommunity-Poll-4-scaled.webp)
-
-## Related Documentation
-- [Creating A New Space](/community-hub/creating-a-new-space) — set up the Space you'll post polls in.
-- [Feed Views](/community-hub/feed-views) — choose how posts and polls display in your feed.

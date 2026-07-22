@@ -40,7 +40,3 @@ Open **FluentCommunity > Settings**, then click **Managers** in the left sidebar
 ![The Managers list with Edit and Delete buttons](/images/community-hub/assigning-managers/Managers-3-scaled.webp)
 
 This gives you the flexibility to assign, edit, or remove managers whenever your team needs to change.
-
-## Related Documentation
-- [Creating A New Space](/community-hub/creating-a-new-space) — set up the Spaces your managers will oversee.
-- [Assigning User Roles](/community-hub/assigning-user-roles) — manage member-level roles within an individual Space.

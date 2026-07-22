@@ -84,7 +84,3 @@ For added privacy and safety, members can block other users. The block is silent
 3.  Review everyone you've blocked and unblock them from here.
 
 ![The Blocked tab listing blocked members](/images/community-hub/following-and-blocking-members/follow-module-6-scaled.webp)
-
-## Related Documentation
-- [The Member Directory](/community-hub/the-member-directory) — browse member profiles and cards where the Follow button appears.
-- [Feed Views](/community-hub/feed-views) — change how your curated feed is displayed.

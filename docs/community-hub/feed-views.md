@@ -35,7 +35,3 @@ Card View is also available as a default layout option in the [**Space Settings*
 ![Timeline View layout of the activity feed](/images/community-hub/feed-views/Content-View-Feed--scaled.webp)
 
 Each view lets members choose the style that best fits how they like to keep up with a Space's activity.
-
-## Related Documentation
-- [Space Settings & Privacy](/community-hub/space-settings-&-privacy) — set a default layout style for a Space.
-- [Creating & Managing Polls](/community-hub/creating-&-managing-polls) — add interactive posts to your feed.
