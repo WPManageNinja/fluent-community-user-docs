@@ -76,7 +76,3 @@ Click the **Pencil** icon next to the Form to customize the login form section.
 ![The Login Form Design settings](/images/portal-settings/customizing-the-login-signup-form/Customization-8-scaled.webp)
 
 When you're finished, click the **Save Changes** button to apply your customizations.
-
-## Related Documentation
-- [Portal Access Settings](/portal-settings/portal-access-settings) — choose which login and signup pages your members use.
-- [Color Customization](/portal-settings/color-customization) — extend your branding to the rest of the portal.

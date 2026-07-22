@@ -57,7 +57,3 @@ Open the **General** group to change the colors of the areas shown below.
 To style the dark theme, switch to the **Dark Mode** tab in the color customizer. The process is exactly the same as Light Mode: pick a pre-built template or choose **Custom** to set the **Header**, **Sidebar**, and **General** colors, then click **Save Settings**.
 
 ![The Dark Mode Color Schema field](/images/portal-settings/color-customization/7.-Dark-Mode-Color-Schema-field-scaled.webp)
-
-## Related Documentation
-- [Layout & Appearance](/portal-settings/layout-&-appearance) — control the overall look and structure of your portal.
-- [Menu Settings](/portal-settings/menu-settings) — organize your sidebar and top menus.

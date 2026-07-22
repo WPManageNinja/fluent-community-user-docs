@@ -98,7 +98,3 @@ That's it. Your community now has a clean, custom URL.
 
 * **Blank white page after editing wp-config.php:** This almost always means a small typo in the code. Re-open `wp-config.php`, check the line you added, and correct it. If you can't find the issue, restore your backup.
 * **"Page Not Found" error after changing the URL:** Refresh your permalinks. Go to **Settings → Permalinks** and click **Save Changes**. This resolves it in nearly all cases.
-
-## Related Documentation
-- [Portal Access Settings](/portal-settings/portal-access-settings) — control who can reach your community portal.
-- [Layout & Appearance](/portal-settings/layout-&-appearance) — shape the look of your portal once it's your homepage.
