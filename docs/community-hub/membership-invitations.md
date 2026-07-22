@@ -59,8 +59,3 @@ Once the link is created, copy it and share it via email, social media, or direc
 > When someone clicks your invitation link, the system handles the rest. If they're already logged into your community, they're instantly added to the Space. If they're brand new, they're prompted with a friendly [Login/Signup form](/portal-settings/customizing-the-login-signup-form) to create their account before joining.
 
 ![The Login or Signup form shown to new members](/images/community-hub/membership-invitations/10.-Login-or-Signup-form-.webp)
-
-## Related Documentation
-- [Assigning User Roles](/community-hub/assigning-user-roles) — add members and manage their roles inside a Space.
-- [Space Settings & Privacy](/community-hub/space-settings-&-privacy) — control who can see and join your Space.
-- [Customizing the Login/Signup Form](/portal-settings/customizing-the-login-signup-form) — shape the sign-up experience new invitees see.

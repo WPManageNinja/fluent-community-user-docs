@@ -87,10 +87,3 @@ The course is completely hidden from everyone. Only invited students can view an
 After choosing your privacy level, always click **Save Changes & Close** to apply your settings.
 
 ![Selecting the Secret option and saving changes](/images/course-and-learning/course-privacy/10.-Secret-option-and-Save-Changes-button-scaled.webp)
-
-## Related Documentation
-
-- [Creating Your First Course](/courses-&-learning-(pro)/creating-your-first-course) — build a course before setting its privacy.
-- [Customizing the Lockscreen](/community-hub/customizing-the-lockscreen) — design what non-members see on private content.
-- [Course Layouts & Enrollment](/courses-&-learning-(pro)/course-layouts-&-enrollment) — control how students enroll and access your course.
-- [Monetizing Your Courses](/monetization/monetizing-your-courses) — charge a fee for access to private courses.

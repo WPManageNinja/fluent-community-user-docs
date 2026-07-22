@@ -56,8 +56,3 @@ Once your links are added, click **Save Changes & Close** to apply them to the c
 Your links now appear in the top navbar of the course, ready for students to use.
 
 ![Preview of course links in the top navbar](/images/course-and-learning/course-links/8.-preview-of-course-link.webp)
-
-## Related Documentation
-
-- [Creating Your First Course](/courses-&-learning-(pro)/creating-your-first-course) — set up a course before adding links to it.
-- [Course Privacy](/courses-&-learning-(pro)/course-privacy) — control visibility of courses and space-based link access.
