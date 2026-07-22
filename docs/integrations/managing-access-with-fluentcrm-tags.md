@@ -103,7 +103,3 @@ You can also review added contacts from the **Members** section in the top navba
 From this user profile, you can also view every Space or Course the member joined through FluentCRM tags.
 
 ![Spaces joined through FluentCRM tags on a user profile](/images/integrations/managing-access-with-fluentcrm-tags/8.-Spaces-in-a-specific-User-Profile-.webp)
-
-## Related Documentation
-- [Connecting with FluentCRM](/integrations/connecting-with-fluentcrm) — set up the core FluentCRM integration that powers tag-based access.
-- [Assigning User Roles](/community-hub/assigning-user-roles) — manage what members can do once they're inside a Space.

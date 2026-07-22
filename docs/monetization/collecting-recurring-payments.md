@@ -62,10 +62,3 @@ With your Space or course added, publish the subscription form and link its URL 
 Once the subscription form is published and its URL is linked to your Space or course, you're ready to collect recurring payments. Visitors see the Lock Screen with your CTA button pointing to the subscription form, and paying subscribers are enrolled and billed automatically on schedule.
 
 For managing subscriptions afterward, Paymattic covers how to [manage your subscriptions](https://paymattic.com/docs/) and how to cancel a subscription manually in its own documentation.
-
-## Related Documentation
-
-- [Monetizing with Paymattic](/monetization/monetizing-with-paymattic) — set up one-time Paymattic payments before adding recurring billing.
-- [Connecting with Paymattic](/integrations/connecting-with-paymattic) — integrate Paymattic with FluentCommunity.
-- [Space Settings & Privacy](/community-hub/space-settings-&-privacy) — make a Space private before monetizing it.
-- [Course Privacy](/courses-&-learning-(pro)/course-privacy) — make a course private before monetizing it.

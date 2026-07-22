@@ -55,7 +55,3 @@ Now plug your Pusher credentials into your community settings to bring your chat
 6.  Click the **Save Settings** button at the bottom of the screen.
 
 ![The FluentCommunity messaging settings with Pusher selected as the driver](/images/integrations/connecting-with-pusher/pusher-realtime-chat-5-scaled.webp)
-
-## Related Documentation
-- [Using Group Chat (Pro)](/community-hub/using-group-chat-(pro)) — enable and use the real-time chat this integration powers.
-- [Connecting with FluentSocket](/integrations/connecting-with-fluentsocket) — a self-hosted real-time driver if you prefer not to use a cloud service.
