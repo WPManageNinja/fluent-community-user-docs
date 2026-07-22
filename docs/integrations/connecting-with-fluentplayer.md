@@ -75,7 +75,3 @@ The most powerful part of this integration is controlling how videos are added t
 ![FluentPlayer video upload and embed settings](/images/integrations/connecting-with-fluentplayer/fluent-player-integration-4-scaled.webp)
 
 Once you've configured your preferences, click the **Save Settings** button at the bottom of the panel.
-
-## Related Documentation
-- [Creating a New Space](/community-hub/creating-a-new-space) — set up the Spaces where your video content lives.
-- [Using Group Chat (Pro)](/community-hub/using-group-chat-(pro)) — add real-time conversation alongside your video content.

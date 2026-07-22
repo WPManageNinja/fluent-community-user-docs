@@ -60,7 +60,3 @@ Now plug your credentials into your WordPress site.
 ![The FluentCommunity messaging settings with FluentSocket selected as the driver](/images/integrations/connecting-with-fluentsocket/fluentsocket-4-scaled.webp)
 
 After saving, you should see a success notification — your community is now powered by FluentSocket. To test it, open your portal in two different browser windows; a message sent in one should appear instantly in the other, with no lag.
-
-## Related Documentation
-- [Using Group Chat (Pro)](/community-hub/using-group-chat-(pro)) — enable and use the real-time chat this integration powers.
-- [Connecting with Pusher](/integrations/connecting-with-pusher) — an alternative real-time driver if you prefer a cloud-hosted service.

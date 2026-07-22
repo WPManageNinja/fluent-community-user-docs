@@ -106,8 +106,3 @@ add_action('fluent_community/portal_footer', function() {
 * **CSS or JS doesn't work?** Clear your browser cache and any caching plugins on your site first.
 * **Site looks broken after adding a snippet?** Deactivate the last snippet you added, the culprit is usually a small typo.
 * **Code in a snippet not working?** Double-check that you created a **PHP Snippet** and that your code sits correctly inside the `<style>` or `<script>` tags.
-
-## Related Documentation
-
-- [Hooks & Filters Reference](/for-developers/hooks-&-filters-reference) — explore the action and filter hooks available to snippets.
-- [Layout & Appearance](/portal-settings/layout-&-appearance) — adjust your portal's design without writing code.
