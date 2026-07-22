@@ -93,10 +93,3 @@ Return to your Lock Screen's CTA button and paste the landing page URL into the 
 ## Start Selling Your Space
 
 That's it — your Space is ready to sell. When visitors land on it, they'll see the Lock Screen with your CTA button pointing to the payment form. Once they complete payment, you can grant them access, and your Fluent Forms feed handles enrollment for you.
-
-## Related Documentation
-
-- [Space Settings & Privacy](/community-hub/space-settings-&-privacy) — set a Space to Private and design its Lock Screen before monetizing.
-- [Creating a New Space](/community-hub/creating-a-new-space) — build the Space you want to sell.
-- [Connecting with Fluent Forms](/integrations/connecting-with-fluent-forms) — activate the FluentCommunity module in Fluent Forms.
-- [Monetizing with Paymattic](/monetization/monetizing-with-paymattic) — an alternative payment setup using the Paymattic plugin.

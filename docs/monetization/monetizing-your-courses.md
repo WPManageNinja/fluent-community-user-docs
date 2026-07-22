@@ -89,10 +89,3 @@ Return to your Lock Screen's CTA button and paste the landing page URL into the 
 ## Start Selling Your Course
 
 Your course is now ready to sell. When visitors reach it, they'll see the Lock Screen with your CTA button pointing to the payment form. Once they complete payment, you can grant them access, and your Fluent Forms feed handles enrollment automatically.
-
-## Related Documentation
-
-- [Course Privacy](/courses-&-learning-(pro)/course-privacy) — set a course to Private and design its Lock Screen before monetizing.
-- [Creating Your First Course](/courses-&-learning-(pro)/creating-your-first-course) — build the course you want to sell.
-- [Connecting with Fluent Forms](/integrations/connecting-with-fluent-forms) — activate the FluentCommunity module in Fluent Forms.
-- [Monetizing with Paymattic](/monetization/monetizing-with-paymattic) — an alternative payment setup using the Paymattic plugin.

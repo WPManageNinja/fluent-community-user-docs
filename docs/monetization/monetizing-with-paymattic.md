@@ -137,10 +137,3 @@ After a user fills out the form and clicks **submit**, they land on the **Paymat
 ## Start Selling Your Space or Course
 
 Your Space or course is ready to sell. When visitors reach it, they'll see the Lock Screen with your CTA button pointing to the Paymattic form. Once they complete payment, the integration enrolls them automatically.
-
-## Related Documentation
-
-- [Connecting with Paymattic](/integrations/connecting-with-paymattic) — integrate Paymattic with FluentCommunity before you sell.
-- [Collecting Recurring Payments](/monetization/collecting-recurring-payments) — charge subscriptions for private Spaces and courses with Paymattic.
-- [Space Settings & Privacy](/community-hub/space-settings-&-privacy) — set a Space to Private and design its Lock Screen.
-- [Course Privacy](/courses-&-learning-(pro)/course-privacy) — set a course to Private and design its Lock Screen.
