@@ -82,8 +82,3 @@ Before students can see or take the quiz, make sure you **publish your quiz ques
 :::
 
 ![The student-facing quiz view showing results after submission](/images/course-and-learning/using-the-quiz-module/save-and-preview-10-scaled.webp)
-
-**Related Topics:**
-- Learn about [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
-- Explore [adding videos and attachments](./adding-videos-&-attachments.md) to enrich lessons
-- Set up [course layouts and enrollment](./course-layouts-&-enrollment.md) to control access

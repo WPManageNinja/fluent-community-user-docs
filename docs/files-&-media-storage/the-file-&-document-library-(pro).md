@@ -165,8 +165,3 @@ Want to see how everything looks from a student's perspective? Click the **Eye I
 When your students open the lesson, they will find all your uploaded materials right there waiting for them. A dedicated **Documents & Files** section appears within the lesson, where students can simply click to **download** any file directly to their device.
 
 The interface is fully responsive — students can easily access and download their resources whether they are on a desktop, tablet, or mobile phone.
-
-**Related Topics:**
-- Explore [the Media Module](./the-media-module.md) to choose where your files are stored
-- Set up [secure file URLs](./secure-file-urls-(pro).md) to protect premium content
-- Learn about [space settings and privacy](../community-hub/space-settings-&-privacy.md) to control access

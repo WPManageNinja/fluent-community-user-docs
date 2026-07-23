@@ -34,8 +34,3 @@ This feature typically works in conjunction with a third-party storage service l
 
 > **⚠️ Important:**
 > This is an advanced security feature. It is most effective for protecting high-value, private content. It is generally not necessary for public images or non-sensitive files. Ensure your storage provider (S3 or R2) is correctly configured with the necessary permissions to allow URL signing.
-
-**Related Topics:**
-- Learn about [connecting Amazon S3](./connecting-amazon-s3-(pro).md) for cloud storage setup
-- Explore [connecting Cloudflare R2](./connecting-cloudflare-r2-(pro).md) for high-performance storage
-- Set up [the file and document library](./the-file-&-document-library-(pro).md) to manage resources
