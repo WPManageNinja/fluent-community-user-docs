@@ -108,8 +108,3 @@ The Paymattic User Dashboard requires the **Paymattic Pro** plugin.
 Once your users fill in the form, the user dashboard will look like the screenshot below.
 
 ![The Paymattic User Dashboard showing Spaces & Courses](/images/integrations/connecting-with-paymattic/11.-Paymattic-User-Dashboard.webp)
-
-**Related Topics:**
-- Explore [Connecting with FluentCart](./connecting-with-fluentcart.md) as an alternative payment integration
-- Learn about [Monetizing with Paymattic](../monetization/monetizing-with-paymattic.md)
-- Set up [creating spaces](../community-hub/creating-a-new-space.md) to organize your community

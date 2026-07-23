@@ -130,8 +130,3 @@ Click the **+ Add** button to start filtering. You will get two options for Flue
 This allows you to directly select specified Space/Course members to include or exclude as recipients using the dropdown arrow. You can add more filters by clicking **+ Add**, add filters against an existing filter by clicking **+ OR**, and delete any existing filter by clicking the **Trash** icon.
 
 ![Selecting recipients by Advanced Filter](/images/integrations/connecting-with-fluentcrm/12.-Selecting-Email-Campaigns-Recipients-by-Advanced-Filter.webp)
-
-**Related Topics:**
-- Manage access with [FluentCRM tags](./managing-access-with-fluentcrm-tags.md)
-- Create and assign [badges](../gamification-(pro)/creating-&-assigning-badges.md) through automation
-- Explore [Connecting with Fluent Forms](./connecting-with-fluent-forms.md) for custom registration

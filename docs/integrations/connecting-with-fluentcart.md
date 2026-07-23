@@ -132,8 +132,3 @@ From here, you can add advanced rules, such as:
 - **Event Trigger:** Change the event that grants access (e.g., from "Order Paid" to "Order Completed").
 
 This advanced panel gives you full, granular control over the e-commerce automation, but for most users, the automatic setup is all you will ever need.
-
-**Related Topics:**
-- Set up [Space Settings & Privacy](../community-hub/space-settings-&-privacy.md) to make content private
-- Review [Course Privacy](../courses-&-learning-(pro)/course-privacy.md) options
-- Explore [Connecting with Paymattic](./connecting-with-paymattic.md) as an alternative payment integration
