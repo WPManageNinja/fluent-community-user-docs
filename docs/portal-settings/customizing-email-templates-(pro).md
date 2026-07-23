@@ -37,8 +37,3 @@ After making your changes, click the **Save Settings** or **Update Template** bu
 ## User Email Preferences
 
 It's important to remember that individual members can also control their own email preferences from their profile settings. They can choose to opt-out of certain non-essential notifications. Your customizations will apply to the emails they *do* choose to receive.
-
-**Related Topics:**
-- Learn about [in-app notification settings](./in-app-notification-settings.md) for real-time alerts
-- Explore [communication settings](./communication.md) to configure notifications
-- Set up [managing user profiles](../community-hub/managing-user-profiles.md) for member administration

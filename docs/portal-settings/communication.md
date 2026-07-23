@@ -15,8 +15,3 @@ In the following articles, we will explore the different communication channels:
 
 * **In-App Notification Settings:** Learn about the real-time, on-site notification center that alerts users to direct interactions.
 * **Customizing Email Templates (Pro):** Discover how to edit and brand the automated emails that are sent to your members.
-
-**Related Topics:**
-- Learn about [layout and appearance](./layout-&-appearance.md) to customize your portal
-- Explore [analytics](./the-analytics-dashboard.md) to track engagement
-- Set up [content moderation](../community-hub/content-moderation.md) to maintain quality

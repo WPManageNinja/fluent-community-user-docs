@@ -44,8 +44,3 @@ To sort posts, go to any community feed or **space**. In the top-right corner of
 ![The Sort by dropdown in the top-right corner of a feed](/images/portal-settings/feed-sorting/sort-by-02.webp)
 
 That's it.
-
-**Related Topics:**
-- Explore [Feed Views](../community-hub/feed-views.md) to change how posts are laid out
-- Configure [Space Settings & Privacy](../community-hub/space-settings-&-privacy.md) to override sorting per Space
-- Learn about [the Global Feed](../getting-started/global-feed.md)
