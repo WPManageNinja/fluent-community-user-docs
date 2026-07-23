@@ -13,7 +13,7 @@ description: Learn how to monetize your Spaces and courses in FluentCommunity us
 
 ### Create or Edit a Space
 
-Open the Space you want to monetize — either a new one or an existing one. For the full walkthrough on building a Space, see [Creating a New Space](/community-hub/creating-a-new-space).
+Open the Space you want to monetize — either a new one or an existing one. For the full walkthrough on building a Space, see [Creating a New Space](/creating-a-new-space).
 
 ### Set the Space to Private
 
@@ -27,7 +27,7 @@ Set **Privacy** to **Private** and select **Custom Lock Screen**. The **Custom L
 
 ### Enable the Space Lock Screen
 
-On the Lock Screen, open the **Call to Action (CTA)** editor by clicking the **Pencil Icon** in the left menu. For more on customizing the Lock Screen, see [Space Settings & Privacy](/community-hub/space-settings-&-privacy).
+On the Lock Screen, open the **Call to Action (CTA)** editor by clicking the **Pencil Icon** in the left menu. For more on customizing the Lock Screen, see [Space Settings & Privacy](/space-settings-&-privacy).
 
 ![CTA editor for the Space Lock Screen](/images/monetization/monetizing-with-paymattic/3.-CTA-editor-of-Space-scaled.webp)
 
@@ -39,7 +39,7 @@ In the **Button Link** field, paste the **Paymattic Form URL** you want members 
 
 ### Create or Edit a Course
 
-Open the course you want to monetize — a new one or an existing one. For the full walkthrough, see [Creating Your First Course](/courses-&-learning-(pro)/creating-your-first-course).
+Open the course you want to monetize — a new one or an existing one. For the full walkthrough, see [Creating Your First Course](/creating-your-first-course).
 
 ### Set the Course to Private
 
@@ -49,7 +49,7 @@ On the course you want to monetize, open its **General Settings**. Set **Privacy
 
 ### Enable the Course Lock Screen
 
-On the Lock Screen, open the **Call to Action (CTA)** editor by clicking the **Pencil Icon** in the left menu. For more on customizing the Lock Screen, see [Course Privacy](/courses-&-learning-(pro)/course-privacy).
+On the Lock Screen, open the **Call to Action (CTA)** editor by clicking the **Pencil Icon** in the left menu. For more on customizing the Lock Screen, see [Course Privacy](/course-privacy).
 
 ![CTA editor for the course Lock Screen](/images/monetization/monetizing-with-paymattic/6.-CTA-Editor-of-Course-scaled.webp)
 
@@ -63,7 +63,7 @@ To generate the form URL, you build a Paymattic payment form, add your Space or 
 
 ### Integrate Paymattic with FluentCommunity
 
-First, connect Paymattic to FluentCommunity. This integration lets you collect payments and add members to your premium **Spaces** and **Courses** directly through Paymattic forms. For the full setup, see [Connecting with Paymattic](/integrations/connecting-with-paymattic).
+First, connect Paymattic to FluentCommunity. This integration lets you collect payments and add members to your premium **Spaces** and **Courses** directly through Paymattic forms. For the full setup, see [Connecting with Paymattic](/connecting-with-paymattic).
 
 ### Add Your Space or Course to a Paymattic Form
 

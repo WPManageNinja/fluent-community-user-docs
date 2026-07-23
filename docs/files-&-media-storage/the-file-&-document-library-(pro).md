@@ -17,7 +17,7 @@ The library works in **two places**, and they behave a little differently:
 | **Who can upload** | Your choice: any member, or admins/moderators only | Admins and instructors, via the lesson editor |
 
 ::: tip
-Both features require the [FluentCommunity Pro version](../getting-started/installation-&-activation.md) installed and activated.
+Both features require the [FluentCommunity Pro version](/installation-&-activation) installed and activated.
 :::
 
 Pick the section below that matches what you're setting up.
@@ -30,13 +30,13 @@ FluentCommunity enables you to securely upload and manage documents for specific
 
 ### Enable the Documents Feature
 
-Go to the **Spaces** section from the FluentCommunity navbar. Open the desired Space where you want to enable the document feature. Click the **three-dot menu** in the top-right corner and select [**Space Settings**](../community-hub/creating-a-new-space.md).
+Go to the **Spaces** section from the FluentCommunity navbar. Open the desired Space where you want to enable the document feature. Click the **three-dot menu** in the top-right corner and select [**Space Settings**](/creating-a-new-space).
 
 ![Opening Space Settings from the three-dot menu](/images/files-media-storage/the-file-document-library/space-01-enable-feature.webp)
 
 **Enable Document Library:** Scroll down to the **Enable File/Document Library for this Space** option. Check the box to activate the feature.
 
-**Document Library Access:** Under **Document Library Access**, you can [choose who can view and download the uploaded documents](../community-hub/space-settings-&-privacy.md):
+**Document Library Access:** Under **Document Library Access**, you can [choose who can view and download the uploaded documents](/space-settings-&-privacy):
 
 - Members of this Space: Only members of the Space can access the documents.
 
@@ -103,7 +103,7 @@ With the Secure Documents Feature, you can upload, manage, and share files withi
 FluentCommunity makes it incredibly easy to share downloadable resources — like PDFs, worksheets, or reference files — directly inside your course lessons. These files are strictly protected and accessible only to enrolled students, ensuring your premium content stays secure.
 
 ::: info Unlike Spaces
-Unlike Spaces, where you need to manually enable the document feature from the Space Settings, Course Documents are **enabled by default**. There are no extra settings to toggle — you simply need the [FluentCommunity Pro version](../getting-started/installation-&-activation.md) installed and activated to start using this feature.
+Unlike Spaces, where you need to manually enable the document feature from the Space Settings, Course Documents are **enabled by default**. There are no extra settings to toggle — you simply need the [FluentCommunity Pro version](/installation-&-activation) installed and activated to start using this feature.
 :::
 
 ### Step 1: Open the Course

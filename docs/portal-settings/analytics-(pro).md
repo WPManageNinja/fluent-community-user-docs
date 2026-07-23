@@ -17,6 +17,6 @@ In the following articles, we will explore the different reports available:
 * **Tracking Community Growth:** Learn how to use specific charts to monitor new member acquisition and identify trends over time.
 
 **Get Started:**
-- Learn about [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
-- Explore [content moderation](../community-hub/content-moderation.md) to maintain quality
-- Set up [gamification](../gamification-(pro)/configuring-the-points-system.md) to encourage engagement
+- Learn about [creating spaces](/creating-a-new-space) to organize your community
+- Explore [content moderation](/content-moderation) to maintain quality
+- Set up [gamification](/configuring-the-points-system) to encourage engagement

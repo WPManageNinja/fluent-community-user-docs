@@ -94,9 +94,9 @@ All BuddyBoss Groups now appear as Spaces in FluentCommunity. Groups you mapped 
 
 ## After Migration: Next Steps
 
-- **Review Space Settings**: Go through each imported Space and configure privacy, member permissions, and content settings. See [Space Settings & Privacy](/community-hub/space-settings-&-privacy).
+- **Review Space Settings**: Go through each imported Space and configure privacy, member permissions, and content settings. See [Space Settings & Privacy](/space-settings-&-privacy).
 - **Rebuild Permalinks**: Go to **WordPress Admin → Settings → Permalinks** and click **Save Changes** to ensure all community URLs resolve correctly.
-- **Customize Your Portal**: Apply your branding, colors, and layout in **FluentCommunity → Portal Settings**. See [Menu Settings](/portal-settings/menu-settings).
+- **Customize Your Portal**: Apply your branding, colors, and layout in **FluentCommunity → Portal Settings**. See [Menu Settings](/menu-settings).
 - **Announce the Change**: Let your members know the community has moved to a new platform and highlight what's improved.
 
 

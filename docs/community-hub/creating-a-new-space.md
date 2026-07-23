@@ -42,7 +42,7 @@ This is where you'll set up the core identity and privacy for your new space.
 * **Space Title:** Enter a clear and descriptive name (e.g., "General Space"). You can also click the rocket icon to choose an emoji or icon for your space.
 * **Slug (optional):** This is the URL-friendly version of your title. It's usually created automatically, but you can set a custom one here (e.g., `general-space`).
 * **Description:** Add a short description that explains the purpose of the Space. This helps members decide whether to join.
-* **Menu Group:** This is a key navigation feature. You can select a "Space Group" (which you create in [Space Groups](/community-hub/space-groups)) to add a direct link to this space in the main left sidebar of your community.
+* **Menu Group:** This is a key navigation feature. You can select a "Space Group" (which you create in [Space Groups](/space-groups)) to add a direct link to this space in the main left sidebar of your community.
 
 #### Access Control
 
@@ -51,7 +51,7 @@ This is a crucial step for controlling your space's privacy.
 * **Privacy:** Choose who can see and join this Space.
     * **Public:** Anyone can see the space, its members, and its posts. You can also check "Allow users to request to join this Space" if you want to approve members first.
     * **Private:** The space is listed in the directory, but only members can see the content. When you select "Private," a new "Lock Screen Type" option appears:
-        * [**Custom Lock Screen:**](/community-hub/customizing-the-lockscreen) This lets you create a custom message or design for what non-members see when they land on this space.
+        * [**Custom Lock Screen:**](/customizing-the-lockscreen) This lets you create a custom message or design for what non-members see when they land on this space.
         * **Default Lock Screen:** This will show a standard, default message that the space is private.
         * **Redirect to an URL:** Redirects non-members to a different page entirely (like a sales or landing page).
     * **Secret:** The space is completely hidden and invisible to non-members. It can only be accessed via a direct link by members who have been invited.

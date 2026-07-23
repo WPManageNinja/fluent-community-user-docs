@@ -15,7 +15,7 @@ At the end of a module on "Social Media Marketing," add a short quiz with multip
 
 ## Add a New Quiz
 
-To use quizzes, you first need to create a new course or edit an existing one. If you're not sure how to make a course, see [Creating Your First Course](./creating-your-first-course.md).
+To use quizzes, you first need to create a new course or edit an existing one. If you're not sure how to make a course, see [Creating Your First Course](/creating-your-first-course).
 
 1. Open your course editor.
 2. Click the **Add New** button.

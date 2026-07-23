@@ -10,7 +10,7 @@ The Post Sorting feature in FluentCommunity allows users to organize content by 
 This guide will walk you through how to sort community posts in FluentCommunity.
 
 ::: info Portal-wide vs. per-Space
-The setting below is the **portal-wide default** for your whole community. Individual Spaces have their own **Default Post Sort By** option that overrides it — see [Space Settings & Privacy](../community-hub/space-settings-&-privacy.md).
+The setting below is the **portal-wide default** for your whole community. Individual Spaces have their own **Default Post Sort By** option that overrides it — see [Space Settings & Privacy](/space-settings-&-privacy).
 :::
 
 ## Customize the Feed Sorting

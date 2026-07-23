@@ -35,7 +35,7 @@ Once all desired links are added, click the **Save Changes** button.
 
 ## Customizing Social Links
 
-If you want to edit or customize your social links, go to the [**Profile's About** section](./managing-user-profiles.md). Here, you can view your social media links.
+If you want to edit or customize your social links, go to the [**Profile's About** section](/managing-user-profiles). Here, you can view your social media links.
 
 Now, locate the **Social Links** dropdown and click the **Social Icon** of the platform you want to customize. Next, modify your username or profile **URL**.
 

@@ -43,7 +43,7 @@ The **Global Post Status** in FluentCommunity lets you display a post on the mai
 
 ## Portal Access Settings
 
-**Portal Access Settings** in FluentCommunity lets you control who can join and participate in your community. In Portal Access Settings, you have three audience control options for your community. To learn more, see [Portal Access Settings](./portal-access-settings.md).
+**Portal Access Settings** in FluentCommunity lets you control who can join and participate in your community. In Portal Access Settings, you have three audience control options for your community. To learn more, see [Portal Access Settings](/portal-access-settings).
 
 ![The Portal Access Settings section](/images/portal-settings/general-settings/Portal-5.webp)
 

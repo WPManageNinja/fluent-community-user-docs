@@ -15,11 +15,11 @@ Navigate to the FluentCommunity **Settings** tab located in the bottom left corn
 
 These options control who has access to view various parts of your community. For each, you can select from **Everybody**, **Only logged-in members**, or **Only Admin/Moderators**:
 
-- **Who can view all members page?** Determines who can access the main [member directory](../community-hub/the-member-directory.md) list.
+- **Who can view all members page?** Determines who can access the main [member directory](/the-member-directory) list.
 
-- **Who can view user profile page?** Controls the visibility of individual [member profile pages](../community-hub/managing-user-profiles.md).
+- **Who can view user profile page?** Controls the visibility of individual [member profile pages](/managing-user-profiles).
 
-- **Who can view [leaderboard](../gamification-(pro)/setting-up-leaderboards.md) top members?** Sets the visibility for the community leaderboard and its top-ranked members.
+- **Who can view [leaderboard](/setting-up-leaderboards) top members?** Sets the visibility for the community leaderboard and its top-ranked members.
 
 - **Who can view membership spaces on the user profile page?** Determines who can see the list of spaces a member has joined when viewing their profile.
 

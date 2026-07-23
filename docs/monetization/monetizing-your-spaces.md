@@ -13,7 +13,7 @@ FluentCommunity lets you turn any Space into a paid, members-only area. The idea
 
 ### Create or Edit a Space
 
-Start with a new Space or an existing one. If you need a hand creating one, see [Creating a New Space](/community-hub/creating-a-new-space).
+Start with a new Space or an existing one. If you need a hand creating one, see [Creating a New Space](/creating-a-new-space).
 
 ### Set the Space to Private
 
@@ -27,7 +27,7 @@ Set **Privacy** to **Private** and select **Custom Lock Screen**. The **Custom L
 
 ### Enable the Lock Screen
 
-On the Lock Screen editor, design what non-members will see and add a **Call to Action (CTA)** button. For layout and design tips, see [Space Settings & Privacy](/community-hub/space-settings-&-privacy).
+On the Lock Screen editor, design what non-members will see and add a **Call to Action (CTA)** button. For layout and design tips, see [Space Settings & Privacy](/space-settings-&-privacy).
 
 ![Lock Screen editor with a Call to Action button](/images/monetization/monetizing-your-spaces/Space-3-scaled.webp)
 
@@ -43,7 +43,7 @@ In Fluent Forms, create a new payment form with the fields you need plus a [**Pa
 ### Configure the FluentCommunity Integration Feed
 
 > **✨ Note:**
-> To use the FluentCommunity Integration Feed, first [activate the FluentCommunity module](/integrations/connecting-with-fluent-forms) in Fluent Forms.
+> To use the FluentCommunity Integration Feed, first [activate the FluentCommunity module](/connecting-with-fluent-forms) in Fluent Forms.
 
 Open the form's **Settings & Integration** tab, choose **Configure Integration** from the left sidebar, click **Add New Integration**, and select **FluentCommunity Integration Feed**.
 

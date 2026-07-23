@@ -5,7 +5,7 @@ description: Learn how to connect Pusher with FluentCommunity to power real-time
 
 # Connecting with Pusher
 
-**Pusher** is a powerful, cloud-based service that handles real-time data delivery. It's one of the real-time drivers that powers your community's [group chat](/community-hub/using-group-chat-(pro)) — connecting it lets your members enjoy a seamless, live conversation experience without ever refreshing their page.
+**Pusher** is a powerful, cloud-based service that handles real-time data delivery. It's one of the real-time drivers that powers your community's [group chat](/using-group-chat-(pro)) — connecting it lets your members enjoy a seamless, live conversation experience without ever refreshing their page.
 
 > **Use Case:** You want reliable real-time chat but would rather not run your own socket server, so you connect Pusher's managed cloud service to handle message delivery for you.
 
@@ -48,7 +48,7 @@ Once your app is created, Pusher generates a set of unique security keys. You'll
 Now plug your Pusher credentials into your community settings to bring your chat to life.
 
 1.  Go to your WordPress dashboard and navigate to **FluentCommunity > Settings**.
-2.  Click **Features & Addons** in the left sidebar, locate the [Group Chat module](/community-hub/using-group-chat-(pro)), and click the **Messaging Settings** button.
+2.  Click **Features & Addons** in the left sidebar, locate the [Group Chat module](/using-group-chat-(pro)), and click the **Messaging Settings** button.
 3.  Find the **Enable Real-Time Messaging** toggle and switch it **On**.
 4.  From the driver dropdown menu, select **Pusher**.
 5.  Paste your **App ID**, **App Key**, **App Secret**, and **Cluster** into their matching fields.

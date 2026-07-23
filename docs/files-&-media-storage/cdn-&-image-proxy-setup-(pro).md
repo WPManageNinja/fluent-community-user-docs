@@ -11,7 +11,7 @@ This guide covers two ways to configure BunnyCDN with FluentCommunity: through t
 
 ## Bunny Settings in FluentCommunity
 
-Navigate to FluentCommunity **Settings**, then click on **Features and Addons** from the left sidebar. Find the [**Media Module**](./the-media-module.md) and click the **Configure** button next to it.
+Navigate to FluentCommunity **Settings**, then click on **Features and Addons** from the left sidebar. Find the [**Media Module**](/the-media-module) and click the **Configure** button next to it.
 
 ![The Media Module under Features and Addons](/images/files-media-storage/cdn-image-proxy-setup/Features-and-Addon-1-scaled.webp)
 

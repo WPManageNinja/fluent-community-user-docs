@@ -47,7 +47,7 @@ Here's what each field in the popup does:
 * **Visibility:** Choose who can see the link:
     * **Everyone:** Visible to all users.
     * **Logged-in Users Only:** Visible only to users who are logged into the platform.
-    * **By Space/Course Memberships:** Visible only to [members of the courses or spaces you select](/courses-&-learning-(pro)/course-privacy).
+    * **By Space/Course Memberships:** Visible only to [members of the courses or spaces you select](/course-privacy).
 
 Once your links are added, click **Save Changes & Close** to apply them to the course. You can **Edit** or **Delete** any link at any time using its edit/delete controls.
 

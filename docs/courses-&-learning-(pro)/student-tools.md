@@ -17,6 +17,6 @@ In the following articles, we will cover key features that enhance the student j
 * **Using the Quiz Module:** Discover how to create and manage quizzes to assess knowledge and reinforce key concepts.
 
 **Get Started:**
-- Learn about [creating your first course](./creating-your-first-course.md) to get started
-- Explore [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
-- Set up [enabling lesson previews](./enabling-lesson-previews.md) to attract students
+- Learn about [creating your first course](/creating-your-first-course) to get started
+- Explore [structuring lessons and modules](/structuring-lessons-&-modules) to organize content
+- Set up [enabling lesson previews](/enabling-lesson-previews) to attract students

@@ -91,7 +91,7 @@ You will now see your **Access Key ID** and **Secret Access Key**. **Copy them i
 
 ## Configure FluentCommunity
 
-Now access FluentCommunity and go to **Settings > Features & Addons**. Here you will see the [**Media Module**](./the-media-module.md) section and click on the **Configure** button.
+Now access FluentCommunity and go to **Settings > Features & Addons**. Here you will see the [**Media Module**](/the-media-module) section and click on the **Configure** button.
 
 ![The Media Module section under Features & Addons](/images/files-media-storage/connecting-cloudflare-r2/Media-Module-1-1-scaled.webp)
 

@@ -35,11 +35,11 @@ You can only charge for content that isn't public. This first step is the key th
    - For a **Course**, navigate to it and click the **Edit info** link.
    - For a **Space**, go to the Space, click the **⋮** (three-dot) menu, then select **Settings**.
 2. In the **General Settings** tab, scroll down to the **Access Control** section.
-3. Click the [Privacy](../community-hub/space-settings-&-privacy.md) dropdown and select **Private** or **Secret**.
+3. Click the [Privacy](/space-settings-&-privacy) dropdown and select **Private** or **Secret**.
 
 ![Setting the content privacy in Access Control](/images/integrations/connecting-with-fluentcart/paywall-3-scaled.webp)
 
-Once you set the privacy, new tabs appear at the top of the settings window, including **Paywalls** and **Lock Screen**. For a deeper look at the privacy options for courses, see [Course Privacy](../courses-&-learning-(pro)/course-privacy.md).
+Once you set the privacy, new tabs appear at the top of the settings window, including **Paywalls** and **Lock Screen**. For a deeper look at the privacy options for courses, see [Course Privacy](/course-privacy).
 
 ![New Paywalls and Lock Screen tabs appear after setting privacy](/images/integrations/connecting-with-fluentcart/paywall-4-scaled.webp)
 

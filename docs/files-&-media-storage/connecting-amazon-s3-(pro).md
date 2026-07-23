@@ -11,7 +11,7 @@ This guide will walk you through the easy steps to set up Amazon S3 with FluentC
 
 ## Steps to Configure Amazon S3
 
-First, navigate to the **Settings** of your FluentCommunity. From the left sidebar, click on **Features & Addons**, then select [**Media Module**](./the-media-module.md) **Settings**.
+First, navigate to the **Settings** of your FluentCommunity. From the left sidebar, click on **Features & Addons**, then select [**Media Module**](/the-media-module) **Settings**.
 
 ![The Features & Addons section with the Media Module settings](/images/files-media-storage/connecting-amazon-s3/Features-and-Addons-01-scaled.webp)
 

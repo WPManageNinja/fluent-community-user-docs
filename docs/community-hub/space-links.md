@@ -9,11 +9,11 @@ Space Links allows you to add custom navigation links inside any Space. Each lin
 
 > **Use Case:** Use Space Links to point members to a resource library, an onboarding checklist, a Zoom room link, or a related course without leaving the community.
 
-> **Note:** For sidebar menu links created from the dashboard using the **Links** space type, see [Add Custom Links (Pro)](/community-hub/add-custom-links-(pro)).
+> **Note:** For sidebar menu links created from the dashboard using the **Links** space type, see [Add Custom Links (Pro)](/add-custom-links-(pro)).
 
 ## How to Add a Link
 
-1. Navigate to the [Space](/community-hub/creating-a-new-space) you want to add a link to.
+1. Navigate to the [Space](/creating-a-new-space) you want to add a link to.
 
 ![Space](/images/community-hub/space-links/space-1.webp)
 

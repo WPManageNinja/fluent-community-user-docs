@@ -13,7 +13,7 @@ FluentCommunity lets you sell access to your courses just as easily as your Spac
 
 ### Create or Edit a Course
 
-Start with a new course or an existing one. For the full walkthrough, see [Creating Your First Course](/courses-&-learning-(pro)/creating-your-first-course).
+Start with a new course or an existing one. For the full walkthrough, see [Creating Your First Course](/creating-your-first-course).
 
 ### Set the Course to Private
 
@@ -23,7 +23,7 @@ Open the course you want to monetize, go to its **Edit** option, and set its **P
 
 ### Enable the Lock Screen
 
-Design what non-students will see and add a **Call to Action (CTA)** button. For design tips, see [Course Privacy](/courses-&-learning-(pro)/course-privacy).
+Design what non-students will see and add a **Call to Action (CTA)** button. For design tips, see [Course Privacy](/course-privacy).
 
 ![Course Lock Screen settings with a Call to Action button](/images/monetization/monetizing-your-courses/Lock-Screen-Settings--scaled.webp)
 
@@ -39,7 +39,7 @@ In Fluent Forms, create a new payment form with the fields you need plus a [**Pa
 ### Configure the FluentCommunity Integration Feed
 
 > **✨ Note:**
-> To use the FluentCommunity Integration Feed, first [activate the FluentCommunity module](/integrations/connecting-with-fluent-forms) in Fluent Forms.
+> To use the FluentCommunity Integration Feed, first [activate the FluentCommunity module](/connecting-with-fluent-forms) in Fluent Forms.
 
 Open the form's **Settings & Integration** tab, choose **Configure Integration** from the left sidebar, click **Add New Integration**, and select **FluentCommunity Integration Feed**.
 

@@ -20,6 +20,6 @@ In the following articles, we will explore the different storage configurations 
 * **Secure File URLs (Pro):** Protect your premium content by generating temporary, signed links for private files.
 
 **Get Started:**
-- Learn about [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
-- Explore [course creation](../courses-&-learning-(pro)/creating-your-first-course.md) for learning content
-- Set up [portal settings](../portal-settings/layout-&-appearance.md) to customize your platform
+- Learn about [creating spaces](/creating-a-new-space) to organize your community
+- Explore [course creation](/creating-your-first-course) for learning content
+- Set up [portal settings](/layout-&-appearance) to customize your platform

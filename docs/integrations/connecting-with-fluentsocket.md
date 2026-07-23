@@ -5,7 +5,7 @@ description: Learn how to connect FluentSocket with FluentCommunity to power rea
 
 # Connecting with FluentSocket
 
-**FluentSocket** is a high-performance socket server built specifically for the Fluent ecosystem. It's one of the real-time drivers that powers your community's [group chat](/community-hub/using-group-chat-(pro)) — connecting it lets messages and notifications reach your members the exact moment they happen, with no page refresh required.
+**FluentSocket** is a high-performance socket server built specifically for the Fluent ecosystem. It's one of the real-time drivers that powers your community's [group chat](/using-group-chat-(pro)) — connecting it lets messages and notifications reach your members the exact moment they happen, with no page refresh required.
 
 > **Use Case:** Your members chat in real time across several Spaces, and you want a self-hosted socket server that keeps conversations instant and reliable without relying on a third-party cloud service.
 
@@ -51,7 +51,7 @@ Now plug your credentials into your WordPress site.
 
 1.  Go to your WordPress dashboard and navigate to **FluentCommunity > Settings**.
 2.  Click **Features & Addons** in the left sidebar.
-3.  Find the [Group Chat module](/community-hub/using-group-chat-(pro)) and click the **Messaging Settings** button.
+3.  Find the [Group Chat module](/using-group-chat-(pro)) and click the **Messaging Settings** button.
 4.  Locate the **Enable Real-Time Messaging** toggle and turn it **On**.
 5.  Select **FluentSocket** as your real-time driver.
 6.  Paste the **App ID**, **App Key**, and **App Secret** into their respective fields.

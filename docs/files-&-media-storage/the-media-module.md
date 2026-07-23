@@ -27,14 +27,14 @@ In the Community Media Storage option, you will find three configuring settings.
 
 ![The Server Storage option in Community Media Storage](/images/files-media-storage/the-media-module/Media-Module-2.webp)
 
-**Cloudflare R2:** Cloudflare R2 is the cloud server storage for your site you can use this cloud server for your FluentCommunity after integrating with the Cloudflare R2. Please read this [documentation](./connecting-cloudflare-r2-(pro).md) in order to configure your FluentCommunity with the Cloudflare R2 server.
+**Cloudflare R2:** Cloudflare R2 is the cloud server storage for your site you can use this cloud server for your FluentCommunity after integrating with the Cloudflare R2. Please read this [documentation](/connecting-cloudflare-r2-(pro)) in order to configure your FluentCommunity with the Cloudflare R2 server.
 
 ![The Cloudflare R2 storage option](/images/files-media-storage/the-media-module/Media-Module-3.webp)
 
-**Amazon S3:** Amazon S3 is another cloud storage server where you can store your community media files. You need to configure the Amazon S3 server in order to use the server. Please read this [documentation](./connecting-amazon-s3-(pro).md) to connect your Fluent Community Storage with the Amazon S3 server.
+**Amazon S3:** Amazon S3 is another cloud storage server where you can store your community media files. You need to configure the Amazon S3 server in order to use the server. Please read this [documentation](/connecting-amazon-s3-(pro)) to connect your Fluent Community Storage with the Amazon S3 server.
 
 ![The Amazon S3 storage option](/images/files-media-storage/the-media-module/Media-Module-4.webp)
 
-**BunnyCDN:** Bunny is the cloud server storage for your site, you can use this cloud server for storing media of your FluentCommunity. Please read this [documentation](./cdn-&-image-proxy-setup-(pro).md) in order to configure your FluentCommunity with the BunnyCDN.
+**BunnyCDN:** Bunny is the cloud server storage for your site, you can use this cloud server for storing media of your FluentCommunity. Please read this [documentation](/cdn-&-image-proxy-setup-(pro)) in order to configure your FluentCommunity with the BunnyCDN.
 
 ![The BunnyCDN storage option](/images/files-media-storage/the-media-module/Features-Settings-bunny-.webp)

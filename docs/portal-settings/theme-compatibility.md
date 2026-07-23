@@ -82,6 +82,6 @@ You can also enable the **Disable Dark Mode** option. This ensures that even if 
 
 #### Advanced Options
 
-For deeper customization, add [custom CSS](/for-developers/adding-custom-css) in the **Advanced** section to further tweak your template as needed.
+For deeper customization, add [custom CSS](/adding-custom-css) in the **Advanced** section to further tweak your template as needed.
 
 ![The Layout Settings and Advanced options in the right sidebar](/images/portal-settings/theme-compatibility/Theme-Compatibility-10-scaled.webp)

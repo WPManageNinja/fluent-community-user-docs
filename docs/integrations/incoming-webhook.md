@@ -26,9 +26,9 @@ Once you're there, you'll be ready to create and manage your webhooks.
 To create a new webhook, click the **Add New Webhook** button. A pop-up will appear where you need to enter the details.
 
 - **Title:** Give your webhook a unique title.
-- **Add to Space:** Choose one or multiple [Spaces](../community-hub/creating-a-new-space.md) from the dropdown menu to which new users will be added.
+- **Add to Space:** Choose one or multiple [Spaces](/creating-a-new-space) from the dropdown menu to which new users will be added.
 - **Remove from Space:** Select the Spaces you want to remove the user from when the webhook is received.
-- **Add to Courses:** Select [Courses](../courses-&-learning-(pro)/course-layouts-&-enrollment.md) that will be added to the user's list upon receiving the webhook.
+- **Add to Courses:** Select [Courses](/course-layouts-&-enrollment) that will be added to the user's list upon receiving the webhook.
 - **Remove from Courses:** From the dropdown menu, select the Courses you want to remove from the user's list when the webhook is received.
 - **Send default WordPress welcome email for new users:** Check this box to send the default WordPress welcome email to newly created users.
 

@@ -10,7 +10,7 @@ When your **Spaces** and **Courses** are private, you can charge for access — 
 > **Use Case:** You run a paid membership community and want members to pay monthly for access to your private "Pro Members" Space. A Paymattic subscription form bills them each month and keeps their access active for as long as the subscription is live.
 
 > **✨ Note:**
-> Before you start, make sure your Space or course is already monetized through Paymattic. See [Monetizing with Paymattic](/monetization/monetizing-with-paymattic) for the full setup.
+> Before you start, make sure your Space or course is already monetized through Paymattic. See [Monetizing with Paymattic](/monetizing-with-paymattic) for the full setup.
 
 ## Add a Monetized Space or Course to a Paymattic Subscription Form
 
@@ -55,7 +55,7 @@ Once configured, click **Create Fluent Community Feed** to add the feed.
 
 ## Publish Your Paymattic Subscription Form
 
-With your Space or course added, publish the subscription form and link its URL to the Lock Screen. For the publishing steps, see [Monetizing with Paymattic](/monetization/monetizing-with-paymattic).
+With your Space or course added, publish the subscription form and link its URL to the Lock Screen. For the publishing steps, see [Monetizing with Paymattic](/monetizing-with-paymattic).
 
 ## Start Collecting Recurring Payments
 

@@ -10,7 +10,7 @@ FluentCommunity can automatically enroll members and students into your **Spaces
 > **Use Case:** You sell a membership through FluentCRM and want buyers tagged "Premium" to instantly gain access to your private "Premium Members" Space, without you adding them by hand.
 
 > **✨ Note:**
-> Before you start, make sure you've installed and activated the FluentCommunity Pro plugin and the [FluentCRM plugin](/integrations/connecting-with-fluentcrm) on your WordPress site to use this feature.
+> Before you start, make sure you've installed and activated the FluentCommunity Pro plugin and the [FluentCRM plugin](/connecting-with-fluentcrm) on your WordPress site to use this feature.
 
 ## How to Enable Access Management
 

@@ -13,7 +13,7 @@ Before you start, make sure:
 - You have **Administrator** or **Moderator** privileges for the Space you want to manage.
 
 ::: tip Looking for roles instead?
-This guide covers *adding* people. To change someone's role or remove them from a Space, see [Assigning User Roles](./assigning-user-roles.md).
+This guide covers *adding* people. To change someone's role or remove them from a Space, see [Assigning User Roles](/assigning-user-roles).
 :::
 
 ## Step 1: Navigate to Your Member List
@@ -48,7 +48,7 @@ This is the perfect method if the person you want to add already has an account 
 
 ### Method B: From Space/Course (Bulk Import)
 
-Do you already have a thriving [Course](../courses-&-learning-(pro)/course-layouts-&-enrollment.md) or another Space? You can copy all of those members over at once.
+Do you already have a thriving [Course](/course-layouts-&-enrollment) or another Space? You can copy all of those members over at once.
 
 1. Click the **From Space/Course** tab.
 2. Click the dropdown menu and select the source Space or Course.
@@ -78,7 +78,7 @@ If you have an external directory of users you want to enroll (such as a spreads
 
 ### Method D: CRM Tag (Integrate with FluentCRM)
 
-If you use [FluentCRM](../integrations/managing-access-with-fluentcrm-tags.md), you can automatically pull in contacts based on the tags they have in your CRM.
+If you use [FluentCRM](/managing-access-with-fluentcrm-tags), you can automatically pull in contacts based on the tags they have in your CRM.
 
 1. Click the **CRM Tag** tab.
 2. Select the specific FluentCRM Tag from the dropdown menu (e.g., "Subscriber" or "VIP").

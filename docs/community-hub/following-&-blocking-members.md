@@ -45,7 +45,7 @@ Click the **Save Settings** button to finalize your configuration.
 
 Members can follow others to see their posts and updates more easily.
 
-* **How to Follow:** A **Follow** button appears on other members' [profile pages](/community-hub/the-member-directory) and on their member cards in the [Member Directory](/community-hub/the-member-directory). Clicking it makes them a follower.
+* **How to Follow:** A **Follow** button appears on other members' [profile pages](/the-member-directory) and on their member cards in the [Member Directory](/the-member-directory). Clicking it makes them a follower.
 * **Notifications:** Use the notification icon to control notifications, so the followed user is alerted about new posts or comments.
 * **How to Unfollow:** Once you follow someone, the button changes to **Following**. Click it again to unfollow.
 

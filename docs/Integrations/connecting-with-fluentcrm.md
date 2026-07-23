@@ -76,7 +76,7 @@ A pop-up page will appear with the primary Action blocks to choose from:
 - **Remove from Space:** Select the Space the user will be removed from after the automation starts.
 - **Remove Courses:** Select the Course(s) the users will be removed from after the automation starts.
 - **Enroll to Course:** Choose the Course(s) where the users will be added once the automation starts.
-- **Add Badge To User:** Add [badges](../gamification-(pro)/creating-&-assigning-badges.md) to the user profile of community members once the automation starts.
+- **Add Badge To User:** Add [badges](/creating-&-assigning-badges) to the user profile of community members once the automation starts.
 
 Apart from the actions shown below, FluentCRM comes with many other actions. To see the full list, [click here](https://fluentcrm.com/docs/introduction-to-fluentcrm-automation/#primary-actions-of-fluentcrm-automation).
 

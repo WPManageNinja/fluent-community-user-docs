@@ -47,7 +47,7 @@ From the back-end, you can perform several exclusive actions:
 * **Verify Account:** Mark trusted members or team accounts as verified.
 * **Change Access Status:** Set member status to **Active**, **Pending**, or **Blocked**.
 * **Manage Username & Profile Data:** Review and update profile data when needed for consistency or moderation.
-* **Assign Badges (Pro):** If Gamification is enabled, manually assign badges to recognize contribution and role. Learn more about [creating and assigning badges](../gamification-(pro)/creating-&-assigning-badges.md).
+* **Assign Badges (Pro):** If Gamification is enabled, manually assign badges to recognize contribution and role. Learn more about [creating and assigning badges](/creating-&-assigning-badges).
 
 ![Administration Action](/images/community-hub/managing-user-profile/admin-actions-4.webp)
 

@@ -25,7 +25,7 @@ To create a new group, click the **Create New Group** button. A pop-up will appe
 
 **Set Group Visibility**
 
-You can choose the visibility of the group from **Appearance** by selecting the **Show Spaces Even if the User is not a Member of any Space** checkbox. This is a group-level setting, distinct from an individual [Space's privacy](./space-settings-&-privacy.md).
+You can choose the visibility of the group from **Appearance** by selecting the **Show Spaces Even if the User is not a Member of any Space** checkbox. This is a group-level setting, distinct from an individual [Space's privacy](/space-settings-&-privacy).
 
 Once you've filled in the details and set the visibility, click the **Create** button to create the group.
 
@@ -33,7 +33,7 @@ Once you've filled in the details and set the visibility, click the **Create** b
 
 ### Managing Space Groups
 
-**Reorganize Communities:** You can easily reorganize the [spaces](./creating-a-new-space.md) or communities within a group by dragging and dropping them into the desired order.
+**Reorganize Communities:** You can easily reorganize the [spaces](/creating-a-new-space) or communities within a group by dragging and dropping them into the desired order.
 
 **Edit/Delete Group:** To change the details of a group, click the **Edit Info** button next to the group. This will allow you to update the title, slug, description, or visibility settings.
 

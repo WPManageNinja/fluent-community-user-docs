@@ -59,7 +59,7 @@ For your community content to be indexed, your portal must be publicly accessibl
 
 ### Make Your Portal Public
 
-Go to the **FluentCommunity Dashboard** and scroll down to [**Portal Access Settings**](/portal-settings/portal-access-settings). Under Portal Access, select the **Everyone** option. Once your portal is public, your sitemap becomes active and your site is ready to be indexed by search engines.
+Go to the **FluentCommunity Dashboard** and scroll down to [**Portal Access Settings**](/portal-access-settings). Under Portal Access, select the **Everyone** option. Once your portal is public, your sitemap becomes active and your site is ready to be indexed by search engines.
 
 ![Setting Portal Access to Everyone](/images/portal-settings/sitemaps-and-seo/XML-sitemap-01-scaled.webp)
 

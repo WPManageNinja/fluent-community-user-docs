@@ -44,8 +44,8 @@ Let's explore the key areas of this page:
 
     * **Create Post Box:** At the very top, you'll find the "Create Post" box. This is your tool for sharing updates, asking questions, and starting a new discussion. You can add a title, write your content, and select which Space to post in. *(For a detailed guide on all the posting options, please see the "Creating a New Post" documentation.)*
     * **Feed Controls:**
-        * **Sort By Filter:** Just below the post box, members can sort their feed using the **Sort by** dropdown. The available options are set by the portal's [Feed Sorting](/portal-settings/feed-sorting) configuration.
-        * **View Toggle:** The icon next to the sort filter allows members to switch the feed layout. See [Feed Views](/community-hub/feed-views) for the available styles.
+        * **Sort By Filter:** Just below the post box, members can sort their feed using the **Sort by** dropdown. The available options are set by the portal's [Feed Sorting](/feed-sorting) configuration.
+        * **View Toggle:** The icon next to the sort filter allows members to switch the feed layout. See [Feed Views](/feed-views) for the available styles.
     * **The Activity Feed:** This is the main, scrollable list of all posts. Members can see who posted, what they said, and interact by liking, commenting, or clicking the three-dot menu on a post for more options (like edit, delete, or report).
 
 4.  **The Right Sidebar (Discovery)**

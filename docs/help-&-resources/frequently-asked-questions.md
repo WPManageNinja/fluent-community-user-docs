@@ -5,7 +5,7 @@ description: Answers to the most common questions about installing, configuring,
 
 # Frequently Asked Questions
 
-Can't find what you're looking for? Check the [Troubleshooting Common Issues](/help-&-resources/troubleshooting-common-issues) guide or [contact support](/help-&-resources/how-to-contact-support).
+Can't find what you're looking for? Check the [Troubleshooting Common Issues](/troubleshooting-common-issues) guide or [contact support](/how-to-contact-support).
 
 
 ## General
@@ -37,7 +37,7 @@ FluentCommunity does not use WordPress page builders for its community portal. H
 
 **How do I install FluentCommunity?**
 
-Go to **WordPress Admin → Plugins → Add New**, search for "FluentCommunity", install, and activate. For Pro, upload the Pro plugin zip via **Plugins → Add New → Upload Plugin** and activate it alongside the free version. See the full [Installation & Activation](/getting-started/installation-&-activation) guide.
+Go to **WordPress Admin → Plugins → Add New**, search for "FluentCommunity", install, and activate. For Pro, upload the Pro plugin zip via **Plugins → Add New → Upload Plugin** and activate it alongside the free version. See the full [Installation & Activation](/installation-&-activation) guide.
 
 **Do I need both the free and Pro plugins installed?**
 
@@ -60,7 +60,7 @@ Go to **WordPress Admin → FluentCommunity** and look for the Setup Wizard opti
 
 **What is a Space?**
 
-A Space is a dedicated area within your community for a specific topic, group, or course. Each Space has its own feed, members list, and settings. Think of it as a sub-community or channel within your main community. See [Creating a New Space](/community-hub/creating-a-new-space).
+A Space is a dedicated area within your community for a specific topic, group, or course. Each Space has its own feed, members list, and settings. Think of it as a sub-community or channel within your main community. See [Creating a New Space](/creating-a-new-space).
 
 **What privacy options are available for Spaces?**
 
@@ -71,11 +71,11 @@ Spaces can be set to:
 
 **Can I restrict access to a Space behind a payment?**
 
-Yes. Set the Space to Private or Secret, then use the **Paywalls** tab in Space Settings to link a FluentCart or Paymattic product. See [Connecting with FluentCart](/integrations/connecting-with-fluentcart).
+Yes. Set the Space to Private or Secret, then use the **Paywalls** tab in Space Settings to link a FluentCart or Paymattic product. See [Connecting with FluentCart](/connecting-with-fluentcart).
 
 **Can I add navigation links inside a Space?**
 
-Yes. In **Space Settings → Space Links**, you can add custom links that appear in the Space's navigation bar. See [Space Links](/community-hub/space-links).
+Yes. In **Space Settings → Space Links**, you can add custom links that appear in the Space's navigation bar. See [Space Links](/space-links).
 
 **How many Spaces can I create?**
 
@@ -116,15 +116,15 @@ Members can embed images, videos (via URL or upload), links with previews, GIFs 
 
 **How do I change a member's role?**
 
-Go to the member's profile, click the three-dot menu, and select **Change Role**. See [Assigning User Roles](/community-hub/assigning-user-roles).
+Go to the member's profile, click the three-dot menu, and select **Change Role**. See [Assigning User Roles](/assigning-user-roles).
 
 **Can I ban or remove a member from a Space?**
 
-Yes. From the member's profile or the Space member list, use the three-dot menu to remove or ban the member. See [Moderating Chat Users (Pro)](/community-hub/moderating-chat-users-(pro)).
+Yes. From the member's profile or the Space member list, use the three-dot menu to remove or ban the member. See [Moderating Chat Users (Pro)](/moderating-chat-users-(pro)).
 
 **Can members message each other privately?**
 
-Yes, with FluentCommunity Pro. Direct Messaging must be enabled by an Admin in the portal settings. See [Direct Messaging (Pro)](/community-hub/direct-messaging-(pro)).
+Yes, with FluentCommunity Pro. Direct Messaging must be enabled by an Admin in the portal settings. See [Direct Messaging (Pro)](/direct-messaging-(pro)).
 
 
 ## Gamification
@@ -139,11 +139,11 @@ The basic leaderboard is free. Pro adds enhanced scoring rules, custom leaderboa
 
 **How do badges work?**
 
-Admins create badges and assign them manually to members, or set rules to award them automatically based on points, activity, or level. See [Creating & Assigning Badges](/gamification-(pro)/creating-&-assigning-badges).
+Admins create badges and assign them manually to members, or set rules to award them automatically based on points, activity, or level. See [Creating & Assigning Badges](/creating-&-assigning-badges).
 
 **What triggers a level-up?**
 
-Level-ups are triggered when a member reaches a configured point threshold. Admins define the point ranges and labels for each level in the Leaderboards module. See [Setting Up Leaderboards](/gamification-(pro)/setting-up-leaderboards).
+Level-ups are triggered when a member reaches a configured point threshold. Admins define the point ranges and labels for each level in the Leaderboards module. See [Setting Up Leaderboards](/setting-up-leaderboards).
 
 
 ## Courses & Learning
@@ -158,18 +158,18 @@ Basic quizzes are available in the free version. Pro adds image-based questions,
 
 **Can I sell access to a course?**
 
-Yes. Set the course to Private, then link a FluentCart or Paymattic product via the Paywalls tab in course settings. See [Connecting with FluentCart](/integrations/connecting-with-fluentcart).
+Yes. Set the course to Private, then link a FluentCart or Paymattic product via the Paywalls tab in course settings. See [Connecting with FluentCart](/connecting-with-fluentcart).
 
 **Can I preview lessons before enrolling?**
 
-Yes. Admins can mark specific lessons as preview-accessible so visitors can sample course content before purchasing. See [Enabling Lesson Previews](/courses-&-learning-(pro)/enabling-lesson-previews).
+Yes. Admins can mark specific lessons as preview-accessible so visitors can sample course content before purchasing. See [Enabling Lesson Previews](/enabling-lesson-previews).
 
 
 ## Files & Media Storage
 
 **Where are uploaded files stored by default?**
 
-Files are stored on your local WordPress server by default. You can switch to Amazon S3, Cloudflare R2, or BunnyCDN for cloud storage. See [Using the Local Server](/files-&-media-storage/using-the-local-server).
+Files are stored on your local WordPress server by default. You can switch to Amazon S3, Cloudflare R2, or BunnyCDN for cloud storage. See [Using the Local Server](/using-the-local-server).
 
 **Is the file library free or Pro?**
 
@@ -177,7 +177,7 @@ The file & document library is a Pro feature. Basic media uploads in posts are a
 
 **Can I protect uploaded files from direct URL access?**
 
-Yes, with FluentCommunity Pro. Enable **Secure File URLs** to generate signed, expiring URLs that prevent unauthorized direct access. See [Secure File URLs (Pro)](/files-&-media-storage/secure-file-urls-(pro)).
+Yes, with FluentCommunity Pro. Enable **Secure File URLs** to generate signed, expiring URLs that prevent unauthorized direct access. See [Secure File URLs (Pro)](/secure-file-urls-(pro)).
 
 
 ## Notifications
@@ -188,14 +188,14 @@ FluentCommunity supports in-app notifications, email notifications, and push not
 
 **How do I customize email notification templates?**
 
-Go to **FluentCommunity → Portal Settings → Email Templates**. This requires FluentCommunity Pro. See [Customizing Email Templates (Pro)](/portal-settings/customizing-email-templates-(pro)).
+Go to **FluentCommunity → Portal Settings → Email Templates**. This requires FluentCommunity Pro. See [Customizing Email Templates (Pro)](/customizing-email-templates-(pro)).
 
 
 ## Integrations
 
 **Does FluentCommunity work with FluentCRM?**
 
-Yes. You can sync community membership, trigger automation, and segment contacts based on Space membership and activity. See [Connecting with FluentCRM](/integrations/connecting-with-fluentcrm).
+Yes. You can sync community membership, trigger automation, and segment contacts based on Space membership and activity. See [Connecting with FluentCRM](/connecting-with-fluentcrm).
 
 **Does FluentCommunity work with WooCommerce?**
 
@@ -203,14 +203,14 @@ FluentCommunity's native payment integrations are FluentCart and Paymattic. For 
 
 **Can I use webhooks to connect FluentCommunity to external tools?**
 
-Yes. FluentCommunity provides an **Incoming Webhook**: you generate a webhook URL and external systems (CRMs, email tools, automation platforms, etc.) send data to it to add users to Spaces or Courses in real time. See [Incoming Webhook](/integrations/incoming-webhook).
+Yes. FluentCommunity provides an **Incoming Webhook**: you generate a webhook URL and external systems (CRMs, email tools, automation platforms, etc.) send data to it to add users to Spaces or Courses in real time. See [Incoming Webhook](/incoming-webhook).
 
 
 ## Migration
 
 **Can I migrate from BuddyPress or BuddyBoss?**
 
-Yes. FluentCommunity includes a built-in migration tool for both platforms. See the [BuddyPress Migration](/migration/buddypress-migration) and [BuddyBoss Migration](/migration/buddyboss-migration) guides.
+Yes. FluentCommunity includes a built-in migration tool for both platforms. See the [BuddyPress Migration](/buddypress-migration) and [BuddyBoss Migration](/buddyboss-migration) guides.
 
 **Will my existing members and content be preserved after migration?**
 
@@ -233,5 +233,5 @@ Refund policies are managed by WPManageNinja. Contact support at [fluentcommunit
 
 
 ::: info Still have questions?
-[Contact the FluentCommunity support team](/help-&-resources/how-to-contact-support). The team typically responds within 1 business day.
+[Contact the FluentCommunity support team](/how-to-contact-support). The team typically responds within 1 business day.
 :::

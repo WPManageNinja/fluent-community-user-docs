@@ -67,7 +67,7 @@ You will see a confirmation message when the link is created successfully. The l
 FluentCommunity offers two link options:
 
 * **Add Custom Links (Pro)**: Create sidebar navigation links from the dashboard using the **Links** space type (this guide).
-* **[Space Links](/community-hub/space-links)**: Add links inside an existing Space's navigation via **Space Settings → Space Links**.
+* **[Space Links](/space-links)**: Add links inside an existing Space's navigation via **Space Settings → Space Links**.
 
 Use Custom Links for global or menu-group navigation. Use Space Links for resources specific to one Space.
 

@@ -103,11 +103,11 @@ Controls how posts are displayed in this Space.
 
 ## Paywalls Tab
 
-Visible when the Space privacy is set to **Private**. Use this tab to link [FluentCart products](/integrations/connecting-with-fluentcart) to charge for Space access, allowing you to monetize physical products, digital downloads, and courses. Once a product is added, return to the Lock Screen settings to design your sales page.
+Visible when the Space privacy is set to **Private**. Use this tab to link [FluentCart products](/connecting-with-fluentcart) to charge for Space access, allowing you to monetize physical products, digital downloads, and courses. Once a product is added, return to the Lock Screen settings to design your sales page.
 
 ## Space Links Tab
 
-Use this tab to manage external links associated with this Space. [Space Links](/community-hub/space-links) appear in the Space's navigation for quick access to related resources.
+Use this tab to manage external links associated with this Space. [Space Links](/space-links) appear in the Space's navigation for quick access to related resources.
 
 ## Deleting a Space
 

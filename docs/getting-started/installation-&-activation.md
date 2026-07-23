@@ -39,5 +39,5 @@ After installation, you need to activate FluentCommunity:
 Congratulations! FluentCommunity is now installed and activated on your site.
 
 **Next Steps:**
-- Complete the [Setup Wizard](./the-setup-wizard.md) to configure your community
-- Explore the [Admin Dashboard](./admin-dashboard.md) to familiarize yourself with the controls
+- Complete the [Setup Wizard](/the-setup-wizard) to configure your community
+- Explore the [Admin Dashboard](/admin-dashboard) to familiarize yourself with the controls

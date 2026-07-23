@@ -54,6 +54,6 @@ The lesson editor uses the familiar WordPress block editor (Gutenberg), giving y
 Once you are finished adding content to your lesson, click the **Update** button to save it. You can return to the main course builder at any time to add more lessons or sections.
 
 **Next Steps:**
-- Learn about [adding videos and attachments](./adding-videos-&-attachments.md) to enrich your lessons
-- Explore [using the quiz module](./using-the-quiz-module.md) to assess learning
-- Set up [course layouts and enrollment](./course-layouts-&-enrollment.md) to control access
+- Learn about [adding videos and attachments](/adding-videos-&-attachments) to enrich your lessons
+- Explore [using the quiz module](/using-the-quiz-module) to assess learning
+- Set up [course layouts and enrollment](/course-layouts-&-enrollment) to control access

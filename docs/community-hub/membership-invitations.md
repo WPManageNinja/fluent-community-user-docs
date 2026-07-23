@@ -23,7 +23,7 @@ First, open the invitation dashboard for the Space you want to grow.
 ![The Spaces page with the View Space button](/images/community-hub/membership-invitations/member-invitation-1-scaled.webp)
 
 3.  Inside the Space, click the **Members** tab in the top-right menu.
-4.  Click the **Invitations** button, located right next to the [**Add Member**](/community-hub/adding-members-to-a-space) button.
+4.  Click the **Invitations** button, located right next to the [**Add Member**](/adding-members-to-a-space) button.
 
 ![The Members tab with the Invitations button](/images/community-hub/membership-invitations/member-invitation-2-scaled.webp)
 
@@ -56,6 +56,6 @@ Once the link is created, copy it and share it via email, social media, or direc
 ![The created invitation link ready to copy and share](/images/community-hub/membership-invitations/member-invitation-5-scaled.webp)
 
 > **✨ Note:**
-> When someone clicks your invitation link, the system handles the rest. If they're already logged into your community, they're instantly added to the Space. If they're brand new, they're prompted with a friendly [Login/Signup form](/portal-settings/customizing-the-login-signup-form) to create their account before joining.
+> When someone clicks your invitation link, the system handles the rest. If they're already logged into your community, they're instantly added to the Space. If they're brand new, they're prompted with a friendly [Login/Signup form](/customizing-the-login-signup-form) to create their account before joining.
 
 ![The Login or Signup form shown to new members](/images/community-hub/membership-invitations/10.-Login-or-Signup-form-.webp)

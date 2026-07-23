@@ -43,8 +43,8 @@ To ensure our support engineers can help you efficiently, please include the fol
 
 Before contacting support, make sure you've checked these resources:
 
-* **FAQ:** [Frequently Asked Questions](./frequently-asked-questions.md) - Common questions and answers
-* **Troubleshooting:** [Troubleshooting Common Issues](./troubleshooting-common-issues.md) - Solutions to frequent problems
+* **FAQ:** [Frequently Asked Questions](/frequently-asked-questions) - Common questions and answers
+* **Troubleshooting:** [Troubleshooting Common Issues](/troubleshooting-common-issues) - Solutions to frequent problems
 * **Documentation:** Browse our complete documentation for step-by-step guides
-* **Admin Dashboard:** [Admin Dashboard](../getting-started/admin-dashboard.md) - Check your plugin status and version
+* **Admin Dashboard:** [Admin Dashboard](/admin-dashboard) - Check your plugin status and version
 

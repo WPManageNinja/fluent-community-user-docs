@@ -16,7 +16,7 @@ To switch between views, click the **View icon** button at the top of the activi
 * **Layout:** A structured grid that displays each activity as an individual card.
 * **Best for:** Members who like a visual grid to scan content at a glance.
 
-Card View is also available as a default layout option in the [**Space Settings**](/community-hub/space-settings-&-privacy) section.
+Card View is also available as a default layout option in the [**Space Settings**](/space-settings-&-privacy) section.
 
 ![Card View layout of the activity feed](/images/community-hub/feed-views/card-view.webp)
 

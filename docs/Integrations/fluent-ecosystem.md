@@ -19,6 +19,6 @@ In the following articles, we will explore how to connect and use these key inte
 * **Connecting with Paymattic:** Monetize your community for free by selling access to your premium Spaces and Courses with a powerful, flexible payment solution.
 
 **Get Started:**
-- Learn about [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
-- Explore [course creation](../courses-&-learning-(pro)/creating-your-first-course.md) for learning content
-- Set up [gamification](../gamification-(pro)/configuring-the-points-system.md) to encourage engagement
+- Learn about [creating spaces](/creating-a-new-space) to organize your community
+- Explore [course creation](/creating-your-first-course) for learning content
+- Set up [gamification](/configuring-the-points-system) to encourage engagement

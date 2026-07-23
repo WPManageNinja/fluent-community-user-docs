@@ -40,7 +40,7 @@ As an administrator, you control who can view the Member Directory and related m
 
 ### Related Profile & Community Visibility
 
-The same Privacy Settings tab also controls who can view member profile pages, leaderboard top members, and the membership spaces listed on a profile — plus what account details members may change themselves. For the full reference, see [Privacy Settings](../portal-settings/privacy-settings.md).
+The same Privacy Settings tab also controls who can view member profile pages, leaderboard top members, and the membership spaces listed on a profile — plus what account details members may change themselves. For the full reference, see [Privacy Settings](/privacy-settings).
 
 > **Use Case:** For a private membership community, set **Who can view all members page?** to **Only logged-in members** so the directory is visible to members only, not public visitors.
 

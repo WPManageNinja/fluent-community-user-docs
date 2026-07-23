@@ -61,7 +61,7 @@ Publish the form to start adding members to your community Spaces or Courses dir
 ::: info
 You can use Fluent Forms to enroll users into your FluentCommunity Spaces and Courses upon form submission. While the core integration is free, advanced features like **Conditional Logic** and the ability to **Import Entries** require upgrading to **Fluent Forms Pro**.
 
-For more details on monetizing Spaces and Courses, see [Monetizing Your Courses](../monetization/monetizing-your-courses.md) and [Monetizing Your Spaces](../monetization/monetizing-your-spaces.md).
+For more details on monetizing Spaces and Courses, see [Monetizing Your Courses](/monetizing-your-courses) and [Monetizing Your Spaces](/monetizing-your-spaces).
 :::
 
 That is how the Fluent Forms integration works with FluentCommunity.

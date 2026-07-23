@@ -37,7 +37,7 @@ Anyone can view the course and enroll in it for free. This is the best choice fo
 
 ### Private
 
-The course is locked for everyone. Only members you add manually (or through automation) can access it, and users can also enroll by [paying a fee](/monetization/monetizing-your-courses).
+The course is locked for everyone. Only members you add manually (or through automation) can access it, and users can also enroll by [paying a fee](/monetizing-your-courses).
 
 When you select **Private**, you get two **Lock Screen** options for what non-members see:
 

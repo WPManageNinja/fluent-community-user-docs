@@ -11,7 +11,7 @@ Portal Access Settings let you control how members reach and interact with your 
 
 ## How to Configure Portal Access Settings
 
-In your WordPress dashboard, go to **FluentCommunity**, then open the [**General Settings**](/portal-settings/general-settings) tab. Within General Settings, find the **Portal Access Settings** section.
+In your WordPress dashboard, go to **FluentCommunity**, then open the [**General Settings**](/general-settings) tab. Within General Settings, find the **Portal Access Settings** section.
 
 ![The Portal Access Settings section in General Settings](/images/portal-settings/portal-access-settings/Portal-Access-1--scaled.webp)
 
@@ -35,7 +35,7 @@ Under this option, you can choose which login and signup pages members use. This
     * **Default Login URL / Default Signup URL:** These remain unchanged and cannot be modified.
 
 > **✨ Note:**
-> If you select **Use Custom Login Page**, the option to [Customize the Login/Signup Form](/portal-settings/customizing-the-login-signup-form) will no longer appear on the FluentCommunity settings page.
+> If you select **Use Custom Login Page**, the option to [Customize the Login/Signup Form](/customizing-the-login-signup-form) will no longer appear on the FluentCommunity settings page.
 
 ![The Login and Registration URL options](/images/portal-settings/portal-access-settings/FC-Portal-Access-Settings-2-1.webp)
 

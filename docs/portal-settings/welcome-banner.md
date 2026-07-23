@@ -5,7 +5,7 @@ description: Learn how to add a Welcome Banner to your FluentCommunity global fe
 
 # Welcome Banner
 
-The Welcome Banner appears on the [global feed](../getting-started/global-feed.md) and can be shown to both logged-in and logged-out users. Use it to share announcements, notices, promotions, or welcome messages, and add a call-to-action button to engage your community.
+The Welcome Banner appears on the [global feed](/global-feed) and can be shown to both logged-in and logged-out users. Use it to share announcements, notices, promotions, or welcome messages, and add a call-to-action button to engage your community.
 
 This guide will walk you through the steps to create and add the banner to your global feed.
 
@@ -72,5 +72,5 @@ You will see the logged-out banner like the screenshot below.
 With this guide, you can easily create Welcome Banners for your community feed.
 
 ::: tip Adding links to the feed
-The global feed can also carry its own custom links, added via the **Feed Link** button. Those are documented alongside the other menu surfaces in [Menu Settings](./menu-settings.md#feed-links).
+The global feed can also carry its own custom links, added via the **Feed Link** button. Those are documented alongside the other menu surfaces in [Menu Settings](/menu-settings).
 :::

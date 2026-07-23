@@ -21,6 +21,6 @@ In the following articles, we will cover the core aspects of managing your cours
 Let's begin by creating your very first course.
 
 **Get Started:**
-- Learn about [creating your first course](./creating-your-first-course.md) to get started
-- Explore [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
-- Set up [course layouts and enrollment](./course-layouts-&-enrollment.md) to control access
+- Learn about [creating your first course](/creating-your-first-course) to get started
+- Explore [structuring lessons and modules](/structuring-lessons-&-modules) to organize content
+- Set up [course layouts and enrollment](/course-layouts-&-enrollment) to control access

@@ -25,21 +25,21 @@ FluentCommunity is designed for a wide range of users and businesses. You'll fin
 
 FluentCommunity is packed with features designed to help you build and manage your community effectively. Here are some of the core components:
 
-* **Spaces:** These are the heart of your community. Create unlimited public, private, or secret spaces to organize discussions by topic, group, or access level. Learn more about [creating spaces](../community-hub/creating-a-new-space.md) and [space settings](../community-hub/space-settings-&-privacy.md).
-* **Posts & Discussions:** A rich activity feed where members can create posts, share updates, ask questions, and interact with each other through comments, replies, and reactions. Explore [creating posts](../community-hub/creating-&-editing-posts.md) and [using comments](../community-hub/using-comments-&-replies.md).
-* **Member Profiles:** Customizable member profiles and a complete member directory, allowing users to connect and learn more about each other. Learn about [managing profiles](../community-hub/managing-user-profiles.md) and [the member directory](../community-hub/the-member-directory.md).
-* **Courses (LMS):** A built-in Learning Management System that lets you create and offer courses with lessons and quizzes directly within your community. Get started with [creating your first course](../courses-&-learning-(pro)/creating-your-first-course.md).
-* **Gamification:** Boost engagement with a powerful gamification system. Award points for activities, create badges, and display leaderboards to encourage participation. Learn about [configuring the points system](../gamification-(pro)/configuring-the-points-system.md).
-* **Powerful Integrations:** FluentCommunity works seamlessly with the entire Fluent Ecosystem (FluentCRM, Fluent Forms, Fluent Support, Paymattic) for unparalleled automation and power. Explore the [Fluent ecosystem](/integrations/fluent-ecosystem).
+* **Spaces:** These are the heart of your community. Create unlimited public, private, or secret spaces to organize discussions by topic, group, or access level. Learn more about [creating spaces](/creating-a-new-space) and [space settings](/space-settings-&-privacy).
+* **Posts & Discussions:** A rich activity feed where members can create posts, share updates, ask questions, and interact with each other through comments, replies, and reactions. Explore [creating posts](/creating-&-editing-posts) and [using comments](/using-comments-&-replies).
+* **Member Profiles:** Customizable member profiles and a complete member directory, allowing users to connect and learn more about each other. Learn about [managing profiles](/managing-user-profiles) and [the member directory](/the-member-directory).
+* **Courses (LMS):** A built-in Learning Management System that lets you create and offer courses with lessons and quizzes directly within your community. Get started with [creating your first course](/creating-your-first-course).
+* **Gamification:** Boost engagement with a powerful gamification system. Award points for activities, create badges, and display leaderboards to encourage participation. Learn about [configuring the points system](/configuring-the-points-system).
+* **Powerful Integrations:** FluentCommunity works seamlessly with the entire Fluent Ecosystem (FluentCRM, Fluent Forms, Fluent Support, Paymattic) for unparalleled automation and power. Explore the [Fluent ecosystem](/fluent-ecosystem).
 
 ## What Makes FluentCommunity Different?
 
 * **Blazing-Fast Performance:** Built with modern technology, FluentCommunity is optimized for speed, ensuring a smooth and responsive experience for your members.
 * **Modular by Design:** It's incredibly lightweight. You can enable only the features you need, keeping your site fast and bloat-free.
-* **Deep Fluent Ecosystem Integration:** The true power of FluentCommunity is unlocked when used with other Fluent plugins, allowing you to create automated workflows that are simply not possible with other tools. Learn more about [Fluent ecosystem integrations](/integrations/fluent-ecosystem).
+* **Deep Fluent Ecosystem Integration:** The true power of FluentCommunity is unlocked when used with other Fluent plugins, allowing you to create automated workflows that are simply not possible with other tools. Learn more about [Fluent ecosystem integrations](/fluent-ecosystem).
 
 ## Getting Started
 
-Now that you have an overview of what FluentCommunity can do, you're ready to start building. The best place to begin is by exploring your [Admin Dashboard](./admin-dashboard.md) or creating your very first [Space](../community-hub/creating-a-new-space.md).
+Now that you have an overview of what FluentCommunity can do, you're ready to start building. The best place to begin is by exploring your [Admin Dashboard](/admin-dashboard) or creating your very first [Space](/creating-a-new-space).
 
 Dive into our other guides to learn how to configure and customize your new community!

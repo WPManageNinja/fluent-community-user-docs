@@ -63,7 +63,7 @@ If you want to add another group click on the **Add Another Group** button place
 
 ## Feed Links
 
-The global feed carries its own set of links, managed from the feed itself rather than the Menu Settings screen. Click the **Feed Link** button on your [global feed](../getting-started/global-feed.md), then select **Add New Link**.
+The global feed carries its own set of links, managed from the feed itself rather than the Menu Settings screen. Click the **Feed Link** button on your [global feed](/global-feed), then select **Add New Link**.
 
 ![The Feed Link button on the global feed](/images/portal-settings/menu-settings/FluentCommunity-Feed-Link-1-scaled.webp)
 
