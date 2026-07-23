@@ -40,8 +40,3 @@ Once you've filled in the details and set the visibility, click the **Create** b
 If you want to delete the group simply click on the **Delete** button next to the Group name.
 
 That's how you can efficiently create and manage your Space Groups to keep your community organized.
-
-**Related Topics:**
-- Learn about [creating a new space](./creating-a-new-space.md) to add Spaces to your groups
-- Explore [Space Settings & Privacy](./space-settings-&-privacy.md) to assign a Space to a group
-- Configure [Menu Settings](../portal-settings/menu-settings.md) to organize the rest of your sidebar

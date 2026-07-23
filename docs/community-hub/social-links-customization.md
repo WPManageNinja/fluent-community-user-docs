@@ -42,8 +42,3 @@ Now, locate the **Social Links** dropdown and click the **Social Icon** of the p
 After that, click **Save Changes** to update your social links.
 
 ![Editing existing social links from the profile About section](/images/community-hub/social-links-customization/customizing-social-links-05.webp)
-
-**Related Topics:**
-- Explore [managing user profiles](./managing-user-profiles.md) for the rest of the profile options
-- Learn about [the member directory](./the-member-directory.md) to see how members are listed
-- Configure [privacy settings](../portal-settings/privacy-settings.md) to control profile visibility
