@@ -86,8 +86,3 @@ If you use [FluentCRM](../integrations/managing-access-with-fluentcrm-tags.md), 
 4. Click **Add Members**.
 
 ![Adding members by FluentCRM tag](/images/community-hub/adding-members-to-a-space/add-member-7-scaled.webp)
-
-**Related Topics:**
-- Learn about [assigning user roles](./assigning-user-roles.md) to change roles or remove members
-- Explore [membership invitations](./membership-invitations.md) to invite people by email
-- Add users from their profile with [Add Users to Spaces & Courses from a Profile](./add-users-from-profile.md)

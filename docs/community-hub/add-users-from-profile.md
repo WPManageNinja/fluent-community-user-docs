@@ -28,8 +28,3 @@ After selecting the space, choose the [**Membership Role**](./assigning-user-rol
 Once you click the button, the new Space or Course will immediately appear in the user's enrollment list.
 
 ![The Add User to Spaces/Courses modal with space and role dropdowns](/images/community-hub/add-users-from-profile/add-spaces-member-2.webp)
-
-**Related Topics:**
-- Explore [managing user profiles](./managing-user-profiles.md) for the rest of the profile admin tools
-- Learn about [adding members to a Space](./adding-members-to-a-space.md) from inside the Space itself
-- Set up [assigning user roles](./assigning-user-roles.md) to understand each membership role
