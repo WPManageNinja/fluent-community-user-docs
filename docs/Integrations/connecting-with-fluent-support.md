@@ -111,8 +111,3 @@ The payoff: your agents see exactly who they're helping and where that member is
 ## You're All Set
 
 With FluentCommunity and Fluent Support working together, your community becomes a true support hub: members raise and track tickets without leaving the space, tickets route themselves to the right people, and your agents always have the full story.
-
-**Related Topics:**
-- Explore [Connecting with FluentCRM](./connecting-with-fluentcrm.md) for email automation
-- Explore [Connecting with Fluent Forms](./connecting-with-fluent-forms.md) for custom registration
-- Review [Course Enrollment](../courses-&-learning-(pro)/course-layouts-&-enrollment.md) options

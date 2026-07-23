@@ -65,8 +65,3 @@ For more details on monetizing Spaces and Courses, see [Monetizing Your Courses]
 :::
 
 That is how the Fluent Forms integration works with FluentCommunity.
-
-**Related Topics:**
-- Explore [Connecting with FluentCRM](./connecting-with-fluentcrm.md) for email automation
-- Explore [Connecting with Paymattic](./connecting-with-paymattic.md) for monetization
-- Set up [creating spaces](../community-hub/creating-a-new-space.md) to organize your community
