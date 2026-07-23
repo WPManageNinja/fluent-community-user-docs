@@ -23,8 +23,8 @@ The page opens on the **Overview** tab, labeled **Reports (Beta)** at the top.
 
 Two controls sit at the top-right of every tab and apply to everything below them:
 
-* **Select** — a quick preset for the reporting period.
-* **Date range** — a calendar picker for an exact start and end date.
+* **Select:** a quick preset for the reporting period.
+* **Date range:** a calendar picker for an exact start and end date.
 
 The **Spaces** tab adds a third control, **Select Space**, so you can narrow the whole report down to a single space instead of the entire community.
 
@@ -36,12 +36,12 @@ This is your community at a glance.
 
 ![The Overview tab of the FluentCommunity Analytics report, showing stat cards, the Activities chart, and the Popular day and time table](/images/portal-settings/the-analytics-dashboard/analytics-overview.webp)
 
-**Stat cards.** Four totals for the selected period — **Members**, **Posts**, **Comments**, and **Spaces** — each with its change badge.
+**Stat cards.** Four totals for the selected period **Members**, **Posts**, **Comments**, and **Spaces** each with its change badge.
 
 **Activities chart.** A combined chart with a dropdown in its top-right corner so you can switch the metric being plotted (Posts, and other activity types). It draws two things at once:
 
-* **Bars** — how much happened in each individual period.
-* **Cumulative line** — the running total over time.
+* **Bars:** how much happened in each individual period.
+* **Cumulative line:** the running total over time.
 
 The bars tell you where the spikes were. The line tells you whether the community is still climbing or has flattened out.
 
@@ -66,9 +66,9 @@ Everything about the people in your community.
 
 **The three leaderboards** at the bottom are the most useful part of this tab:
 
-* **Top Members** — your most active people overall.
-* **Post starters** — the members who begin conversations rather than just joining them.
-* **Top Commenters** — the members who keep threads going.
+* **Top Members:** your most active people overall.
+* **Post starters:** the members who begin conversations rather than just joining them.
+* **Top Commenters:** the members who keep threads going.
 
 Each row shows the member's avatar, name, how long ago they joined, and their count for that list.
 
