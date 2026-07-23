@@ -50,8 +50,3 @@ The **Global Post Status** in FluentCommunity lets you display a post on the mai
 ::: warning Don't forget
 Always remember to click the **Save Settings** button after making changes to your General Settings to ensure they are applied.
 :::
-
-**Related Topics:**
-- Configure [Menu Settings](./menu-settings.md) to organize your sidebar and top menus
-- Set up [Privacy Settings](./privacy-settings.md) to control who can view your community
-- Explore [Color Customization](./color-customization.md) to match your brand

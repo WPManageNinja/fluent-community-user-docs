@@ -28,8 +28,3 @@ While global notification events are set by the administrator, individual member
 Each member can typically access their own notification settings from their profile page. Here, they can choose which types of events they wish to be notified about.
 
 [Screenshot: A user's personal notification settings page, with toggle switches for different notification types.]
-
-**Related Topics:**
-- Learn about [customizing email templates](./customizing-email-templates-(pro).md) for email notifications
-- Explore [managing user profiles](../community-hub/managing-user-profiles.md) for member administration
-- Set up [communication settings](./communication.md) to configure notifications

@@ -85,8 +85,3 @@ Once saved, your link will appear in the **Global Feed**, just like in the examp
 **Drag-and-Drop:** You can arrange items in each section by dragging and dropping them into the desired order.
 
 This flexibility helps ensure that your community's menus are tailored to your preferences, making navigation intuitive for members.
-
-**Related Topics:**
-- Configure [General Settings](./general-settings.md) for your community title and logos
-- Add a [Welcome Banner](./welcome-banner.md) to your global feed
-- Explore [Add Custom Links (Pro)](../community-hub/add-custom-links-(pro).md) for the Links space type
