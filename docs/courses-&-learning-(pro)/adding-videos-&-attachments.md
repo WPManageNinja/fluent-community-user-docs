@@ -36,8 +36,3 @@ You can add multiple files to a single lesson. They will be displayed in a neat 
 
 > **✨ Note:**
 > For larger video files, we strongly recommend using a dedicated video hosting service like YouTube or Vimeo instead of uploading them directly to WordPress. This will provide a much better streaming experience for your students and save your server's bandwidth.
-
-**Related Topics:**
-- Learn about [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
-- Explore [using the quiz module](./using-the-quiz-module.md) to assess learning
-- Set up [course layouts and enrollment](./course-layouts-&-enrollment.md) to control access

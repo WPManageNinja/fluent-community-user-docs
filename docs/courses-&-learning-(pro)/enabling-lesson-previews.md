@@ -24,8 +24,3 @@ Once enabled, public users can view that lesson without enrolling in the course.
 ::: tip
 Choose preview lessons that are engaging and clearly demonstrate the value of your course. An introduction, a high-value concept, or a particularly well-produced video all make strong candidates.
 :::
-
-**Related Topics:**
-- Learn about [creating your first course](./creating-your-first-course.md) to get started
-- Explore [structuring lessons and modules](./structuring-lessons-&-modules.md) to organize content
-- Set up [course privacy](./course-privacy.md) to control who can access your course
