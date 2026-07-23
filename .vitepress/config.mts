@@ -70,7 +70,6 @@ export default defineConfig({
       alt: 'FluentCommunity'
     },
     nav: [
-      { text: 'Home', link: '/' },
       { text: 'User Docs', link: '/introduction-fluentcommunity' },
       { text: 'Website', link: 'https://fluentcommunity.co/' },
       { text: 'Support', link: '/how-to-contact-support' },

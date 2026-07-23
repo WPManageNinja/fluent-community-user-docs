@@ -12,7 +12,7 @@ hero:
       link: /introduction-fluentcommunity
     - theme: alt
       text: Dev Docs
-      link: /adding-custom-css
+      link: https://dev.fluentcommunity.co/
 
 features:
   - title: 🚀 Getting Started
