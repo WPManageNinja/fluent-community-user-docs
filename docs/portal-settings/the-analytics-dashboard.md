@@ -29,7 +29,3 @@ The dashboard provides several key insights into your community's performance.
 > The data presented in the Analytics Dashboard is invaluable for your community strategy. Use the "Top Active Spaces" report to understand what topics your members are most interested in, and use the "Top Active Users" report to identify potential community moderators or advocates you can reward.
 
 By regularly reviewing these analytics, you can get a clear, data-driven picture of what's working in your community and where you might need to focus your efforts to stimulate growth and engagement.
-
-**Related Topics:**
-- Explore [creating spaces](../community-hub/creating-a-new-space.md) to organize discussions
-- Set up [content moderation](../community-hub/content-moderation.md) to maintain quality

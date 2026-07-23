@@ -54,8 +54,3 @@ For security, users with post edit access will not be logged in automatically.
 After you've configured all your privacy preferences, remember to click the **Save Settings** button to proceed.
 
 So, now you can ensure the privacy and security of your community while providing flexibility for admins and members.
-
-**Related Topics:**
-- Configure [Portal Access Settings](./portal-access-settings.md) to control who can join
-- Explore [The Member Directory](../community-hub/the-member-directory.md) to see how members are listed
-- Set up [General Settings](./general-settings.md) for your community title and logos

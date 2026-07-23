@@ -74,8 +74,3 @@ With this guide, you can easily create Welcome Banners for your community feed.
 ::: tip Adding links to the feed
 The global feed can also carry its own custom links, added via the **Feed Link** button. Those are documented alongside the other menu surfaces in [Menu Settings](./menu-settings.md#feed-links).
 :::
-
-**Related Topics:**
-- Explore [the Global Feed](../getting-started/global-feed.md) to see where the banner appears
-- Configure [Menu Settings](./menu-settings.md) to organize your sidebar, top menu, and feed links
-- Set up [Feed Sorting](./feed-sorting.md) to control how posts are ordered
