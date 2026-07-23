@@ -98,7 +98,7 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 **Featured Members**: A widget on the Space sidebar that highlights selected members. Configured in Space settings.
 
-**Filter (WordPress Hook)**: A type of WordPress hook that intercepts and modifies data before it is used. Used by developers to customize FluentCommunity output. See also: [Hooks & Filters Reference](/hooks-&-filters-reference).
+**Filter (WordPress Hook)**: A type of WordPress hook that intercepts and modifies data before it is used. Used by developers to customize FluentCommunity output.
 
 **FluentCommunity**: A WordPress plugin for building online communities with Spaces, posts, courses, gamification, and real-time chat.
 
@@ -122,7 +122,7 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 ## H
 
-**Hook (WordPress)**: An extension point in FluentCommunity's code where developers can attach custom PHP functions. Comes in two types: **Actions** (run code at an event) and **Filters** (modify data). See also: [Hooks & Filters Reference](/hooks-&-filters-reference).
+**Hook (WordPress)**: An extension point in FluentCommunity's code where developers can attach custom PHP functions. Comes in two types: **Actions** (run code at an event) and **Filters** (modify data).
 
 
 ## I
