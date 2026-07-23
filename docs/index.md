@@ -12,7 +12,7 @@ hero:
       link: /introduction-fluentcommunity
     - theme: alt
       text: Dev Docs
-      link: /using-the-rest-api
+      link: /adding-custom-css
 
 features:
   - title: 🚀 Getting Started
@@ -40,6 +40,6 @@ features:
     details: Step-by-step guides to migrate your existing community from BuddyPress or BuddyBoss.
     link: /buddypress-migration
   - title: 🛠️ For Developers
-    details: REST API reference, hooks & filters, custom CSS, and integration development guides.
-    link: /using-the-rest-api
+    details: Extend and customize your community with custom CSS and JavaScript.
+    link: /adding-custom-css
 ---

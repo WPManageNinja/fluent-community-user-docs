@@ -287,19 +287,17 @@ export default defineConfig({
         ]
       },
       {
+        text: 'For Developers',
+        items: [
+          { text: 'Adding Custom CSS & JavaScript', link: '/adding-custom-css' },
+        ]
+      },
+      {
         text: 'Help & Resources',
         items: [
           { text: 'Frequently Asked Questions', link: '/frequently-asked-questions' },
           { text: 'Troubleshooting Common Issues', link: '/troubleshooting-common-issues' },
           { text: 'How to Contact Support', link: '/how-to-contact-support' },
-        ]
-      },
-      {
-        text: 'For Developers',
-        items: [
-          { text: 'Using the REST API', link: '/using-the-rest-api' },
-          { text: 'Hooks & Filters Reference', link: '/hooks-&-filters-reference' },
-          { text: 'Adding Custom CSS & JavaScript', link: '/adding-custom-css' },
         ]
       },
       {
