@@ -157,6 +157,7 @@ export default defineConfig({
               { text: 'Adding Videos & Attachments', link: '/adding-videos-&-attachments' },
               { text: 'Course Privacy', link: '/course-privacy' },
               { text: 'Course Links', link: '/course-links' },
+              { text: 'Course Welcome Banners', link: '/course-welcome-banners' },
             ]
           },
           {
@@ -173,6 +174,7 @@ export default defineConfig({
         text: 'Files & Media Storage',
         items: [
           { text: 'The File & Document Library (Pro)', link: '/the-file-&-document-library-(pro)' },
+          { text: 'Space Media Gallery (Pro)', link: '/space-media-gallery-(pro)' },
           { text: 'The Media Module', link: '/the-media-module' },
           {
             text: 'Storage Configuration',
@@ -251,6 +253,7 @@ export default defineConfig({
               { text: 'Connecting with Fluent Support', link: '/connecting-with-fluent-support' },
               { text: 'Connecting with FluentPlayer', link: '/connecting-with-fluentplayer' },
               { text: 'Connecting with FluentSocket', link: '/connecting-with-fluentsocket' },
+              { text: 'Connecting with FluentSMTP', link: '/connecting-with-fluentsmtp' },
               { text: 'Managing Access with FluentCRM Tags', link: '/managing-access-with-fluentcrm-tags' },
             ]
           },

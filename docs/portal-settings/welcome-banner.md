@@ -71,6 +71,10 @@ You will see the logged-out banner like the screenshot below.
 
 With this guide, you can easily create Welcome Banners for your community feed.
 
+::: tip Banners inside a course
+This page covers the banner on the **global feed**. Courses have their own separate banner, split by **Enrolled** and **Not Enrolled** visitors instead of logged-in and logged-out — see [Course Welcome Banners](/course-welcome-banners).
+:::
+
 ::: tip Adding links to the feed
 The global feed can also carry its own custom links, added via the **Feed Link** button. Those are documented alongside the other menu surfaces in [Menu Settings](/menu-settings).
 :::
