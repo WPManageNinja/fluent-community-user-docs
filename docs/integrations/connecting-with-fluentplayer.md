@@ -1,6 +1,6 @@
 ---
 title: Connecting with FluentPlayer
-description: Learn how to connect FluentPlayer with FluentCommunity to deliver branded, customizable video playback and let members upload videos directly to your Spaces.
+description: Learn how to connect FluentPlayer with FluentCommunity to deliver branded, customizable video and audio playback, style the player and audio tracks, and let members upload videos directly to your Spaces.
 ---
 
 # Connecting with FluentPlayer
@@ -34,12 +34,21 @@ Once enabled, your community posts start using FluentPlayer, and you unlock the 
 
 ### Step 2: Customize the Player Appearance
 
-Match your videos to your community's look and feel.
+Match your videos to your community's look and feel. A live preview at the top of the panel updates as you adjust these settings.
 
 * **Player Skin:** Choose from multiple layouts — **Modern**, **Classic**, **Simple**, **Floating**, or **Minimal**. Use **Modern** for a feature-rich look, or **Minimal** for a distraction-free learning environment.
-* **Brand Color:** Define your community's primary hex color. It instantly applies to the player's progress bar, button highlights, and active controls.
+* **Brand Color:** Define your community's primary hex color. It applies to key highlights like the progress bar and play button.
+* **Control Bar Color:** Customize the background color of the control bar independently of your brand color.
 
-![FluentPlayer appearance settings showing player skin and brand color](/images/integrations/connecting-with-fluentplayer/fluent-player-integration-3-scaled.webp)
+#### Audio Appearance
+
+With **FluentPlayer Audio** enabled, three extra options control how uploaded audio tracks look:
+
+* **Audio Background Color:** The background color shown behind uploaded audio tracks.
+* **Audio Title Color:** The text color used for the audio track's title.
+* **Audio Logo:** Upload a custom logo to display on the audio player.
+
+![FluentPlayer appearance settings showing player skin, brand and control bar colors, and the audio background, title, and logo options](/images/integrations/connecting-with-fluentplayer/player-appearance-audio-settings.webp)
 
 ### Step 3: Configure the Player Controls
 
