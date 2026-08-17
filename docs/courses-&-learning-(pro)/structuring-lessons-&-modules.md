@@ -40,6 +40,17 @@ Now you can add individual lessons inside the section.
 2.  Enter a title for the lesson (e.g., "Meet Your Instructor").
 3.  Click **Add Lesson**. The lesson will be created, and you will be taken to the lesson editor.
 
+### Edit a Lesson Slug (Optional)
+
+Each lesson gets a URL slug generated from its title, and you can change it at any time to something cleaner or more descriptive.
+
+1.  Click the **three-dot menu** on the right-hand side of the lesson row.
+2.  Select **Edit Slug** from the dropdown. A pop-up appears showing the current slug.
+3.  Enter your preferred URL-friendly text in the input field.
+4.  Click **Save**. The change applies immediately.
+
+> **💡 Tip:** Courses have their own **Slug** field on the course details screen — see [Creating Your First Course](/creating-your-first-course). Keeping lesson slugs short and descriptive makes shared lesson links much easier to read.
+
 ## Step 3: Add Content to Your Lesson
 
 The lesson editor uses the familiar WordPress block editor (Gutenberg), giving you the flexibility to add any type of content you need.
