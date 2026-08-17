@@ -7,6 +7,102 @@ description: All notable changes to the FluentCommunity WordPress plugin, newest
 
 All notable changes to **FluentCommunity** are documented here, newest first.
 
+## FluentCommunity v2.7.7
+
+*Released on Aug 10, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Privacy Control for Profile Password Changes
+• Divider Option in the Editor Slash Menu
+• Play Button Color Options in FluentPlayer Settings
+```
+
+```markdown [🚀 Improvements]
+• Media Gallery Tabs Synced to URL Query Params
+• Audio Edit Modal Thumbnail Upload and Styling
+• Quiz Result Badges in Dark Mode
+• Keyboard and Screen Reader Accessibility
+```
+
+```markdown [🔒 Security]
+• Restricted HTML Embed for Media (props to Patchstack, CVE-2026-66467)
+```
+
+```markdown [🐞 Bug fixes]
+• Session-Expiry Request Loop on Portal Tab
+• Comment Reply Mention, Focus and Collapse Behavior
+• Unsaved Changes Warning Missing for Comment Replies
+• Mobile Sidebar Not Closing on Scroll or Outside Tap
+• Mobile Bottom Nav Overlapped by Video Overlays
+• Blank Audio Players After Media Gallery Tab Switch
+• Multi-Select Quiz Answers Not Marked
+• Lesson Editor Ignoring Browser Back Button
+• Textarea Profile Fields Losing Line Breaks
+• HTML Entities Showing in Community Card Excerpts
+• Action Menu Popover Styling and Sticky-Header Overlap
+• Box Card Placeholder Ignoring Theme Colors
+• Sidebar Custom Link Missing Top Padding
+```
+
+:::
+
+## FluentCommunity v2.7.5
+
+*Released on Jul 24, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Audio Uploads and Audio Media Gallery
+• Details and LaTeX (Math) Blocks in Lesson Editor
+• Password Change Option on Profile Edit
+• Default Theme Mode Customization
+• Rename Documents in Space Documents Section
+• Open Profile Comments in Feed Modal
+• Message Field Support in Lesson PATCH Endpoint
+```
+
+```markdown [🚀 Improvements]
+• Activity Feed and Ticker Query Performance
+• New Posts Notification Preferences as a Table
+• Sidebar Membership Preloading and Per-User Permission Caching
+• Database Indexes on Notifications, Comments and Space Members
+• Space Feature Access Nested Under Toggles
+• Primary Menu Default Items Support Visibility Controls
+• Best-Quality WebP Thumbnails for YouTube Feed Previews
+• Cached Sitemap Index and Moderator Recipient Lists
+```
+
+```markdown [🔒 Security]
+• Access Control on Comments, Lockscreens and Documents
+• Escaping, Input Sanitization and API Key Masking
+```
+
+```markdown [🐞 Bug fixes]
+• Fatal Error on WordPress 6.0 from Unguarded Core Calls
+• Mobile Menu and Sidebar Feed Link Ignoring Menu Settings
+• Duplicate and Missing Mention Notifications
+• Notification Highlight Targeting the Wrong Comment
+• Markdown Tables Stripped on Feed Render
+• Cross-Space Post View via Space Permalink
+• Photos Uploaded Sideways From Unhandled EXIF Orientations
+• Moderation Actions for Course and Sticky Posts
+• Comment Toolbox Overlapping Delete Dialog
+• Space Lock and Unread Badge Visible in Collapsed Sidebar
+• Space Sub-Header Overflow With Collapsible Sidebar
+• Sidebar Toggle Missing on Fcom Frame Templates
+• Empty Space Groups Skipped in FluentCRM Tagging
+• Followers and Following Alphabetical Sort
+• Corrected Comment Author Profile Links in SEO
+• Course Lesson Comment Approval Feed Lookup
+• Early Text Domain Translation Loading Notice
+• Duplicate Auto-Flag Reports on Content Edit
+```
+
+:::
+
 ## FluentCommunity v2.7.0
 
 *Released on Jul 8, 2026*
