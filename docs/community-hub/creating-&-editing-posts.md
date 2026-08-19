@@ -7,6 +7,8 @@ description: Learn how to create and edit posts in FluentCommunity. Share rich t
 
 Posts are the lifeblood of your community. They are the primary way for you and your members to share updates, ask questions, and start discussions. This guide covers how to create, format, and edit posts within a Space.
 
+<VideoEmbed id="1nrHk0FgCwE" title="How to Boost Engagement Inside Your Community (Module 4)" />
+
 ## How to Create a New Post
 
 Any member of a Space can create a new post to engage with others.

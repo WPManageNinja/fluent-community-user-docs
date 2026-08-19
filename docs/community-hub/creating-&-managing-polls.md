@@ -9,6 +9,8 @@ Polls are a quick way to connect with your community and gather their feedback. 
 
 > **Use Case:** You're planning your next live workshop and can't decide on a topic. Post a poll asking members to vote between three options, set an end date, and let the community shape your content calendar for you.
 
+<VideoEmbed id="EYpBGN8NohM" title="Maximize Engagement with FluentCommunity Pro (Module 6)" />
+
 ## How to Create a Poll from the Global Feed
 
 1.  From your FluentCommunity dashboard, open the **Global Feed**.
