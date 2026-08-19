@@ -9,6 +9,8 @@ The **Member Directory** is a central hub where people in your community can dis
 
 > **Use Case:** A new member joins and wants to find experienced users in a specific niche. They can open the Member Directory, search by name or keyword, and follow the right people immediately.
 
+<VideoEmbed id="FBp2LE5sbC0" title="Unite Members &amp; Build Stronger Connections with FluentCommunity" />
+
 ## Accessing the Member Directory
 
 For members, the directory is available from the front-end community navigation, usually under the **Members** tab.

@@ -9,6 +9,8 @@ Welcome to the core organizational feature of your community: **Spaces**. A Spac
 
 Think of Spaces as the rooms of your community house. You can create different rooms for different purposes, each with its own content, members, and privacy settings.
 
+<VideoEmbed id="NVYoq0Q5W4E" title="How to Create a Discussion Space with FluentCommunity (Module 3)" />
+
 ## What You Can Do with Spaces
 
 * **Structure Your Community:** You can create an unlimited number of Spaces to organize conversations. For example, you could have a "General Discussion" space, a "Product Feedback" space, and a private "Staff Only" space.
