@@ -1,9 +1,9 @@
 ---
-title: Secure File Urls (Pro)
+title: Secure File URLs (Pro)
 description: Learn how to generate signed, temporary URLs for your private files in FluentCommunity to prevent unauthorized sharing and protect your premium content.
 ---
 
-# Secure File Urls (Pro)
+# Secure File URLs (Pro)
 
 When you offer premium or private files in your community, you need to ensure they can't be easily shared with non-members. The **Secure File URLs** feature prevents this by generating signed, temporary links for your private files instead of direct, permanent links.
 
