@@ -9,6 +9,8 @@ The heart of any community is its members. FluentCommunity provides a complete s
 
 This section of the documentation covers all features related to your users.
 
+<VideoEmbed id="kgBgv-M-euc" title="How to Make Your Profile Standout in FluentCommunity" />
+
 ## What is a Member Profile?
 
 Every user who joins your community gets their own profile page. This is their personal space to build their identity. A standard profile includes:

@@ -9,6 +9,8 @@ A member profile is each user's personal identity page inside your community. It
 
 > **Use Case:** A member wants to update their bio and social links before joining active discussions, while an admin needs to verify that account and keep its access status set to **Active**.
 
+<VideoEmbed id="kgBgv-M-euc" title="How to Make Your Profile Standout in FluentCommunity" />
+
 ## How Members Edit Their Profile
 
 Any logged-in member can quickly edit their own profile details from the community portal.
