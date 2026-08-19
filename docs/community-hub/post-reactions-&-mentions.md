@@ -7,6 +7,8 @@ description: Learn how to use reactions to express feedback on posts and mention
 
 Beyond structured comments, FluentCommunity provides two powerful features for quick engagement and direct communication: **Reactions** and **Mentions**. These tools help foster a more interactive and connected environment for your members.
 
+<VideoEmbed id="EYpBGN8NohM" title="Maximize Engagement with FluentCommunity Pro (Module 6)" />
+
 ## Using Reactions
 
 Reactions are a quick, one-click way for members to express their feelings about a post or a comment without having to write a full response.

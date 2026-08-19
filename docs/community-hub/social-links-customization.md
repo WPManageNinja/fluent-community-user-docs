@@ -9,6 +9,8 @@ FluentCommunity's Social Links Customization feature allows **admins** to contro
 
 This guide will walk you through setting up and customizing social links on user profiles.
 
+<VideoEmbed id="kgBgv-M-euc" title="How to Make Your Profile Standout in FluentCommunity" />
+
 ## Enable Profile Social Media Links
 
 To enable social media links in your profile, go to the Portal Settings and select the **Features & Addons** section from the left sidebar. Then, locate the **Profile Social Media Links** section and click the **Settings** button.
