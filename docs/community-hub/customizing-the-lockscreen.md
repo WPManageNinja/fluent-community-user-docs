@@ -12,7 +12,7 @@ The Lock Screen is the "front door" to your gated content. When a non-member or 
 Each Space has its own unique **Lock Screen** configuration.
 
 1.  Navigate to the specific Space you want to edit.
-2.  Click the **three-dot (vertical ellipses) menu** in the top-right corner of the Space header.
+2.  Click the **three-dot (vertical ellipsis) menu** in the top-right corner of the Space header.
 3.  Select **Space Settings** from the dropdown menu.
 
 ![Space Settings](/images/community-hub/customizing-lock-screen/customize-lock-screen-1.webp)

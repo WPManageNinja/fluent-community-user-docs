@@ -37,6 +37,6 @@ Once you've filled in the details and set the visibility, click the **Create** b
 
 **Edit/Delete Group:** To change the details of a group, click the **Edit Info** button next to the group. This will allow you to update the title, slug, description, or visibility settings.
 
-If you want to delete the group simply click on the **Delete** button next to the Group name.
+If you want to delete the group, simply click the **Delete** button next to the group name.
 
 That's how you can efficiently create and manage your Space Groups to keep your community organized.
