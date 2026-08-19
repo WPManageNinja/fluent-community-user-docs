@@ -11,7 +11,7 @@ We are here to help you succeed with FluentCommunity! If you've run into an issu
 
 To help us resolve your issue as quickly as possible, please take a moment to do the following:
 
-1.  **Check the Documentation:** Ensure you have reviewed the relevant articles in this knowledge base. The answer to your question may xalready be here.
+1.  **Check the Documentation:** Ensure you have reviewed the relevant articles in this knowledge base. The answer to your question may already be here.
 2.  **Check for Conflicts:** Temporarily deactivate other plugins to see if the issue persists. This helps determine if there is a conflict with another plugin.
 3.  **Enable Debugging (If Applicable):** If you are experiencing a critical error, enabling WordPress debugging can provide an error message that is extremely helpful for our team.
 

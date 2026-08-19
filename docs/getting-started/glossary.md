@@ -19,13 +19,13 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 **Actions (Automation)**: Outcomes triggered by an automation rule. Examples: *Add to Space*, *Remove from Space*, *Assign Badge*. Used in FluentCRM's Automation Builder after a Trigger fires. See also: [Connecting with FluentCRM](/connecting-with-fluentcrm).
 
-**Activity Feed**: A chronological stream of community events new posts, comments, reactions, and member joins. Displayed on the Global Feed and within individual Spaces.
+**Activity Feed**: A chronological stream of community events — new posts, comments, reactions, and member joins. Displayed on the Global Feed and within individual Spaces.
 
 **Add-ons**: Optional feature modules that extend FluentCommunity beyond its core set. Enabled or disabled individually from the **Features & Modules** section in the admin dashboard.
 
 **Admin Dashboard**: The command center for managing your community. Accessible from **FluentCommunity** in the WordPress admin menu. Contains sections for Portal Settings, Modules, Courses, and analytics.
 
-**Admin (Space Admin)**: A member role with full control over a specific Space managing members, editing settings, and moderating content. Distinct from the WordPress-level Site Admin. See also: [Assigning User Roles](/assigning-user-roles).
+**Admin (Space Admin)**: A member role with full control over a specific Space — managing members, editing settings, and moderating content. Distinct from the WordPress-level Site Admin. See also: [Assigning User Roles](/assigning-user-roles).
 
 
 
