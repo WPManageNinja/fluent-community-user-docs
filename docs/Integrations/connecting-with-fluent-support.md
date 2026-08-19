@@ -19,6 +19,8 @@ Imagine a student enrolled in your "Advanced SEO" course runs into a problem. Th
 Behind the scenes, a workflow rule automatically assigns that ticket to your SEO specialist. When the agent opens it, a FluentCommunity widget instantly shows that the student is on "Lesson 5: Link Building." The agent now has full context to solve the problem quickly — no back-and-forth needed.
 :::
 
+<VideoEmbed id="EPLm8LXBEeI" title="Build a Customer Support Community on WordPress" />
+
 ## Before You Begin
 
 To use this integration, make sure the following are in place:
