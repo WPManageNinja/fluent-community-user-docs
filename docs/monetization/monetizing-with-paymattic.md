@@ -89,7 +89,7 @@ A settings popup appears for configuring FluentCommunity. Here's what each optio
 * **Remove from space/course if subscription canceled:** Automatically removes users when they cancel a subscription.
 * **Enable conditional logic:** Set conditions on form submission. See the [Paymattic conditional logic guide](https://paymattic.com/docs/how-to-use-conditional-logic-in-form-fields-with-paymattic/); this feature requires the [Paymattic Pro plugin](https://paymattic.com/docs/how-to-install-and-activate-paymattic-in-wordpress/#1-toc-title).
 
-Once configured, click **Create Fluent Community Feed** to add the feed.
+Once configured, click **Create FluentCommunity Feed** to add the feed.
 
 ![Creating a new FluentCommunity Integration Feed in Paymattic](/images/monetization/monetizing-with-paymattic/10-.-Create-New-FluentCommunity-Integration-Feed.webp)
 
