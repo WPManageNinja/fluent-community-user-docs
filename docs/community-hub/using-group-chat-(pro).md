@@ -9,6 +9,8 @@ The **Group Chat** feature allows you to add a real-time chat room directly insi
 
 > **Use Case:** If you are running a live webinar or a virtual event, you can enable Group Chat for that specific Space. This gives attendees a place to discuss the event live with each other while watching, creating a buzz that static posts can't match.
 
+<VideoEmbed id="EYpBGN8NohM" title="Maximize Engagement with FluentCommunity Pro (Module 6)" />
+
 ## 1. Activate the Chat Feature
 
 Before you can add a chat room to a specific Space, you need to make sure the main Chat system is turned on for your whole website. You only need to do this once.
