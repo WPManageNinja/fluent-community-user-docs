@@ -12,6 +12,8 @@ Create a **complete backup** of your WordPress files and database before running
 :::
 
 
+<VideoEmbed id="KQvapIAkI64" title="The Fast and Lightweight BuddyBoss Alternative" />
+
 ## What Gets Migrated
 
 | BuddyBoss Data | FluentCommunity Equivalent |

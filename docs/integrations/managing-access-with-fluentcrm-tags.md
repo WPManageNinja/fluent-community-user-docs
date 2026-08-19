@@ -12,6 +12,8 @@ FluentCommunity can automatically enroll members and students into your **Spaces
 > **✨ Note:**
 > Before you start, make sure you've installed and activated the FluentCommunity Pro plugin and the [FluentCRM plugin](/connecting-with-fluentcrm) on your WordPress site to use this feature.
 
+<VideoEmbed id="ULJqNHWMTO0" title="Turn Engagement into Growth: FluentCRM and FluentCommunity Together" />
+
 ## How to Enable Access Management
 
 Go to the **Settings** of FluentCommunity from the bottom-left corner and open the **Access Management** tab in the left-side menu.

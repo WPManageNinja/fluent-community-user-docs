@@ -16,6 +16,8 @@ Members can upload videos in popular formats like MP4, M3U8, MPD, WebM, and MOV,
 
 ![The FluentPlayer module in the FluentCommunity Features & Addons settings](/images/integrations/connecting-with-fluentplayer/fluent-player-integration-1-scaled.webp)
 
+<VideoEmbed list="PLSrsnN1BlMH8" title="FluentPlayer: Complete Video Player Solution for WordPress" />
+
 ## How to Enable FluentPlayer
 
 ### Step 1: Enable the Integration
