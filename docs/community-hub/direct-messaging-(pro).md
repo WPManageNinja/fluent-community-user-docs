@@ -11,6 +11,8 @@ description: Learn how to use Direct Messaging in FluentCommunity to send privat
 
 > **Note:** Direct Messaging is a **Pro** feature. An administrator must enable it in **FluentCommunity settings > Features & Addons > FluentCommunity Chat**. If you do not see the Messages icon, contact your site administrator.
 
+<VideoEmbed id="EYpBGN8NohM" title="Maximize Engagement with FluentCommunity Pro (Module 6)" />
+
 ## Navigating the Chat Interface
 
 To access chat in FluentCommunity, click the **Messages** (speech bubble) icon in the bottom-right corner of the community portal.
