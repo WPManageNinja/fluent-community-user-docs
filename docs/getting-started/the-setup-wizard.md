@@ -1,8 +1,15 @@
+---
+title: The Setup Wizard
+description: Walk through the FluentCommunity Setup Wizard — naming your community, choosing a portal URL and logo, picking a template, and configuring access and integrations.
+---
+
 # The Setup Wizard
 
 After activating FluentCommunity for the first time, you will be automatically guided through our quick Setup Wizard. This simple 3-step process is the easiest and fastest way to configure the essential settings for your new community.
 
 Don't worry, you can change any of these settings later!
+
+<VideoEmbed id="LZ7aDq1ASEk" title="How to Install &amp; Set Up FluentCommunity on WordPress (Module 2)" />
 
 ## Step 1: Let's Build Your Community
 
@@ -16,7 +23,7 @@ Click **Continue to Next** to proceed.
 
 ![Onboarding Settings](/images/getting-started/setup-wizard/onboarding-setup-wizard.webp)
 
-## Step 2: Pick a Fluent Community Template
+## Step 2: Pick a FluentCommunity Template
 
 Next, you'll choose a template that best fits your community's goal. This helps start you off with the right layout and features.
 
