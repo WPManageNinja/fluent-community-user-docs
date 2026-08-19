@@ -45,7 +45,7 @@ A popup window will appear, showing options for both logged-in and logged-out me
 
 **Allow members to close the welcome banner**: Check this box to let members close the Welcome Banner.
 
-After that click the **Update Info** or **Save Changes** button to apply all your changes.
+After that, click the **Update Info** or **Save Changes** button to apply all your changes.
 
 ![The completed Welcome Banner configuration](/images/portal-settings/welcome-banner/welcome-member-image-04-scaled.webp)
 
