@@ -5,36 +5,33 @@ description: Learn how to select a media storage option in FluentCommunity — S
 
 # Media Module
 
-In your Fluentcommunity, you can select a Media Storage for better and smoother service of your media on your site.
+The Media Module controls where FluentCommunity stores the images, videos, and files your members upload. Choosing the right storage option keeps media loading quickly and stops uploads from filling up your server.
 
 ## Access Media Settings
 
-Go to the Fluent Community **Settings** and then select the **Feature and Addons** section from the left sidebar. Here you will find the **Media Module** option for your community's storage for the Media. Click on the **Configure** button for the settings option.
+Go to the FluentCommunity **Settings** and select the **Features & Addons** section from the left sidebar. Find the **Media Module** option and click the **Configure** button to open its settings.
 
 ![The Media Module option under Features & Addons](/images/files-media-storage/the-media-module/Media-Module-1-scaled.webp)
 
-In the Community Media Storage option, you will find three configuring settings.
+Under **Community Media Storage**, you can choose from four storage options:
 
-1. Server Storage.
-
+1. Server Storage
 2. Cloudflare R2 Storage
-
 3. Amazon S3 Storage
-
 4. BunnyCDN
 
 **Server Storage:** This option saves your content to the Fluent-Community folder located within the WordPress Uploads directory on your site.
 
 ![The Server Storage option in Community Media Storage](/images/files-media-storage/the-media-module/Media-Module-2.webp)
 
-**Cloudflare R2:** Cloudflare R2 is the cloud server storage for your site you can use this cloud server for your FluentCommunity after integrating with the Cloudflare R2. Please read this [documentation](/connecting-cloudflare-r2-(pro)) in order to configure your FluentCommunity with the Cloudflare R2 server.
+**Cloudflare R2:** Cloudflare R2 is a cloud storage service you can use for your community media. To set it up, see the [Configuring CloudFlare R2](/connecting-cloudflare-r2-(pro)) guide.
 
 ![The Cloudflare R2 storage option](/images/files-media-storage/the-media-module/Media-Module-3.webp)
 
-**Amazon S3:** Amazon S3 is another cloud storage server where you can store your community media files. You need to configure the Amazon S3 server in order to use the server. Please read this [documentation](/connecting-amazon-s3-(pro)) to connect your Fluent Community Storage with the Amazon S3 server.
+**Amazon S3:** Amazon S3 is another cloud storage service where you can store your community media files. You need to configure the S3 bucket before you can use it — see the [Configuring Amazon S3](/connecting-amazon-s3-(pro)) guide.
 
 ![The Amazon S3 storage option](/images/files-media-storage/the-media-module/Media-Module-4.webp)
 
-**BunnyCDN:** Bunny is the cloud server storage for your site, you can use this cloud server for storing media of your FluentCommunity. Please read this [documentation](/cdn-&-image-proxy-setup-(pro)) in order to configure your FluentCommunity with the BunnyCDN.
+**BunnyCDN:** BunnyCDN is a cloud storage and delivery service you can use to store your community media. To connect it, see the [Configuring BunnyCDN](/cdn-&-image-proxy-setup-(pro)) guide.
 
 ![The BunnyCDN storage option](/images/files-media-storage/the-media-module/Features-Settings-bunny-.webp)

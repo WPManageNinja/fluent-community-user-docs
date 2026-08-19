@@ -38,8 +38,9 @@ Once you enable the module, you can build out your community's active badge dire
      * **Custom Image:** Upload local raster image files directly from your computer.
    * **Show Label on Badge:** Check this box if you want the written title text to display directly inside the stylized capsule layout.
    * **Color & Background Color:** Click the color picker box to customize the precise text color and background block fill using the color field or the hex preset swatches.
->[!Tip]
->Leave these color parameters empty if you prefer the badge to automatically inherit clean default UI styling.
+::: tip
+Leave these color parameters empty if you prefer the badge to automatically inherit clean default UI styling.
+:::
 3. Click **Save** to add the reward to your permanent inventory list.
 
 ![Custom Badge](/images/gamification/creating-assign-badges/emoji-3.webp)
