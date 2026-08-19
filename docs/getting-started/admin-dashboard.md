@@ -9,6 +9,8 @@ Welcome to the command center for your new community! After installing and activ
 
 This page is designed to be your central hub, giving you quick and easy access to all the most important settings and management areas for your community.
 
+<VideoEmbed id="FbQsW5UHr0E" title="7 Things You Should Do Right After Getting FluentCommunity" />
+
 ## The Dashboard Header
 
 At the very top of the page, you'll find a welcome banner that confirms your community is ready to go. It contains three important action buttons:
@@ -47,7 +49,7 @@ This card provides a direct link to the official FluentCommunity knowledge base.
 
 Every community has a unique web address (URL), such as `yoursite.com/community`. This link takes you to the settings page where you can easily change this URL slug to something else if needed.
 
-## Ready to make your community stand-out?
+## Ready to make your community stand out?
 
 This section is a notice for users of the free version of FluentCommunity, highlighting the premium features available when you upgrade to Pro (like advanced automations, video, and more).
 
