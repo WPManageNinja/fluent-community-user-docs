@@ -12,6 +12,8 @@ The Theme Compatibility feature lets you turn any WordPress page into part of yo
 > **✨ Note:**
 > FluentCommunity integrates seamlessly with popular WordPress themes like Blocksy, Astra, Kadence, GeneratePress, OceanWP, Neve, Hello Elementor, and Bricks, and is fully compatible with the WordPress default themes. It also works with most other themes, though some functions may not behave perfectly outside the themes listed above.
 
+<VideoEmbed id="UEes_7JgmJc" title="Introducing FluentCommunity Theme Compatibility" />
+
 ## How to Apply the FluentCommunity Frame to a Page
 
 1.  Open the **Page** where you want to apply the FluentCommunity portal frame.
