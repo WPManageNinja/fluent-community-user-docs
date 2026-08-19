@@ -24,3 +24,4 @@ Let's begin by creating your very first course.
 - Learn about [creating your first course](/creating-your-first-course) to get started
 - Explore [structuring lessons and modules](/structuring-lessons-&-modules) to organize content
 - Set up [course layouts and enrollment](/course-layouts-&-enrollment) to control access
+<VideoEmbed id="ulHlAUPRdxU" title="How to Create Courses in FluentCommunity" />

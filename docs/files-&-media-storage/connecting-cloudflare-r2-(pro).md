@@ -27,7 +27,7 @@ Navigate to **R2 Object Storage** from the left sidebar, find **Overview** under
 
 Enter a name for your bucket that is easy to identify and unique across your projects. Leave the **Location** of the bucket as **Default** unless you have specific storage.
 
-Double-check your settings and click the **Create Bucket** button**.**
+Double-check your settings and click the **Create Bucket** button.
 
 ![Entering a bucket name and location on the Create Bucket page](/images/files-media-storage/connecting-cloudflare-r2/3111748f564e.png)
 

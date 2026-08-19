@@ -9,6 +9,10 @@ FluentCommunity includes a built-in Learning Management System (LMS) so you can 
 
 > **Use Case:** You are an expert in your field and want to offer a multi-part video series to members. Enable the Course Module, create a course with a strong title and visuals, then build out sections, lessons, and enrollments in follow-up guides.
 
+<VideoEmbed id="ulHlAUPRdxU" title="How to Create Courses in FluentCommunity" />
+
+<VideoEmbed id="t-5Q5zU6tAs" title="How to Create and Monetize Courses in FluentCommunity (Module 5)" />
+
 ## Enable the Course Module
 
 The Courses feature is a **Pro** module. Turn it on before you create or manage any course content.
@@ -22,8 +26,9 @@ The Courses feature is a **Pro** module. Turn it on before you create or manage 
 
 Once saved, course management options appear in your WordPress admin and on the community portal. You are ready to create your first course.
 
-> [!Note]
-> If you do not see **Courses** in the portal or admin menu, confirm the module is enabled from the **Features & Modules** section and that FluentCommunity Pro is active on your site.
+::: tip Note
+If you do not see **Courses** in the portal or admin menu, confirm the module is enabled from the **Features & Addons** section and that FluentCommunity Pro is active on your site.
+:::
 
 ## Create a New Course
 
@@ -50,8 +55,9 @@ Visual assets help your course stand out in the course directory and on its land
 * **Cover Photo:** Upload a wide banner image shown at the top of the course page.
 * **Featured Image / Thumbnail:** Upload a smaller image used in course listings and cards across the community.
 
-> [!Note]
->A clear description paired with professional cover and thumbnail images improves discovery and enrollment. You can update copy and images anytime from the same editor.
+::: tip Note
+A clear description paired with professional cover and thumbnail images improves discovery and enrollment. You can update copy and images anytime from the same editor.
+:::
 
 ### Save Your Course
 

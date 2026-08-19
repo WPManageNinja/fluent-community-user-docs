@@ -8,6 +8,8 @@ description: Learn how to use the built-in Emoji Picker and Giphy integration in
 Bring more personality and fun to your community conversations by using emojis and animated GIFs. FluentCommunity integrates directly with an emoji picker and the Giphy service to make your posts and comments more visual and engaging.
 
 
+<VideoEmbed id="EYpBGN8NohM" title="Maximize Engagement with FluentCommunity Pro (Module 6)" />
+
 ## Using the Emoji Picker
 
 You can add emojis to any post, comment, or private chat message to express yourself more clearly.

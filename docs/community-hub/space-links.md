@@ -34,7 +34,7 @@ A popup form appears. Fill in the following fields:
 
 You can optionally add an icon beside the link name:
 - Click the **empty box** to the left of the Name field.
-- An icon picker popup appears search or browse to select an icon.
+- An icon picker popup appears — search or browse to select an icon.
 - Click the icon to apply it.
 
 **URL**: The destination address for the link. Use a full URL including `https://` for external links, or a relative path for internal pages.

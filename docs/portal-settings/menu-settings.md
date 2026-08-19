@@ -31,7 +31,7 @@ Lastly, click on the **Save** button to save the link and show it in your top me
 
 ![The Add Link pop-up with emoji, name, URL, and Enable this link](/images/portal-settings/menu-settings/Menu-Settings-4-scaled.webp)
 
-If you want to edit any menu link just click on the **Edit** button next to the **Menu Item** names.
+If you want to edit any menu link, click the **Edit** button next to the **Menu Item** name.
 
 ![Editing an existing menu item](/images/portal-settings/menu-settings/Menu-Settings-3.webp)
 
@@ -43,7 +43,7 @@ These items appear in the user's profile dropdown menu, providing easy access to
 
 ### Top Links (At Sidebar)
 
-This section displays custom links at the top of the sidebar, making it a prime spot for important or frequently accessed links. If you want to add any link to this section just click on the **Add New Link** button.
+This section displays custom links at the top of the sidebar, making it a prime spot for important or frequently accessed links. If you want to add a link to this section, click the **Add New Link** button.
 
 A pop-up will appear to give detailed information about the link. Then click on the **Save** button to save your link.
 
@@ -57,7 +57,7 @@ To organize links, you can create a new group by typing a **Group Name** in the 
 
 To change or remove links in this section, use the **Edit** or **Delete** buttons next to each link name.
 
-If you want to add another group click on the **Add Another Group** button placed below.
+If you want to add another group, click the **Add Another Group** button below.
 
 ![The Bottom Links section with grouped links](/images/portal-settings/menu-settings/Menu-Settings-8.webp)
 

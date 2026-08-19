@@ -7,7 +7,7 @@ description: Learn how to read the FluentCommunity Analytics reports — the Ove
 
 Guessing how your community is doing is exhausting. The **Analytics** report answers it with numbers: how many people joined, how much they posted, who is doing the talking, and which spaces are actually alive.
 
-Everything lives on one screen, split into three tabs **Overview**, **Members**, and **Spaces**.
+Everything lives on one screen, split into three tabs: **Overview**, **Members**, and **Spaces**.
 
 > **Use Case:** You are running a month-long campaign to spark more discussion. Set the date range to that month, watch the **Posts** and **Comments** numbers on the Overview tab, then check **Top Members** to see who responded to the push — and reward them.
 
@@ -36,7 +36,7 @@ This is your community at a glance.
 
 ![The Overview tab of the FluentCommunity Analytics report, showing stat cards, the Activities chart, and the Popular day and time table](/images/portal-settings/the-analytics-dashboard/analytics-overview.webp)
 
-**Stat cards.** Four totals for the selected period **Members**, **Posts**, **Comments**, and **Spaces** each with its change badge.
+**Stat cards.** Four totals for the selected period — **Members**, **Posts**, **Comments**, and **Spaces** — each with its change badge.
 
 **Activities chart.** A combined chart with a dropdown in its top-right corner so you can switch the metric being plotted (Posts, and other activity types). It draws two things at once:
 

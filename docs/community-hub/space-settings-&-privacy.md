@@ -9,6 +9,8 @@ Every Space in FluentCommunity is highly customizable. This guide walks you thro
 
 > **Use Case:** You might set an "Announcements" Space to Public with a List layout for clarity, while keeping a "Premium Mastermind" Space Private and monetizing it via the Paywalls tab.
 
+<VideoEmbed id="NVYoq0Q5W4E" title="How to Create a Discussion Space with FluentCommunity (Module 3)" />
+
 ## Accessing Space Settings
 
 Space Settings are managed from the community frontend, not the WordPress dashboard.
@@ -47,7 +49,7 @@ When **Private** is selected, a **Lock Screen Type** option appears:
 
 * **Custom:** Build a custom lock screen or sales page using the drag-and-drop builder.
 * **Default:** Show the standard community lock screen.
-* **Redirect to an URL:** Send non-members to an external page (e.g., a sales or landing page).
+* **Redirect to a URL:** Send non-members to an external page (e.g., a sales or landing page).
 
 **Allow users to request to join this Space:** When enabled, non-members can submit a join request. Admins and Moderators approve or reject requests from the Space's Members tab.
 
@@ -80,7 +82,7 @@ Controls how posts are displayed in this Space.
 
 **Default Layout Styles:** Choose one of three display options:
 
-* **Timeline** - a standard chronological feed.
+* **Timeline** — a standard chronological feed.
 * **List** — a compact, text-focused view.
 * **Card** — a grid of visual cards, ideal for image-heavy content.
 

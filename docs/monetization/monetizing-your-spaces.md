@@ -9,6 +9,10 @@ FluentCommunity lets you turn any Space into a paid, members-only area. The idea
 
 > **Use Case:** You run a coaching business and want to charge a one-time fee for access to your private "Inner Circle" Space. Non-members see a branded Lock Screen with a "Join Now" button that sends them to a Fluent Forms payment form, and paying customers are enrolled automatically.
 
+<VideoEmbed id="U0bSifllDW0" title="Profitable Community Spaces: A Guide to Monetizing FluentCommunity" />
+
+<VideoEmbed id="2ljBin8E0To" title="Convert Your Community into a Paid Membership Site" />
+
 ## Step 1: Set Up Your Space
 
 ### Create or Edit a Space

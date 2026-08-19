@@ -11,6 +11,8 @@ Fluent Forms integrates with FluentCommunity, making it easy to add members to y
 Make sure to install the free version of **Fluent Forms** to set up this integration.
 :::
 
+<VideoEmbed id="2ljBin8E0To" title="Convert Your Community into a Paid Membership Site" />
+
 ## FluentCommunity Module in Fluent Forms
 
 To access the **FluentCommunity Integration Feed** in your forms, you must activate the **FluentCommunity module** in Fluent Forms.

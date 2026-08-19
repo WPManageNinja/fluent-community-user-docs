@@ -12,6 +12,8 @@ Once you have created a course, the next step is to add the learning content. Fl
 
 > **Use Case:** For a course on "Website Design," you could create a "Module 1: Introduction to HTML" section, which contains individual lessons like "Lesson 1: Basic Page Structure" and "Lesson 2: Working with Text & Links."
 
+<VideoEmbed id="ulHlAUPRdxU" title="How to Create Courses in FluentCommunity" />
+
 ## Accessing the Course Structure Editor
 
 1.  Navigate to **FluentCommunity → Courses (Pro)**.

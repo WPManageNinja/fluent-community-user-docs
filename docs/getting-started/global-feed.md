@@ -1,6 +1,6 @@
 ---
 title: Global Feed
-description: Get familiar with the FluentCommunity Admin Dashboard. Learn how this command center gives you an at-a-glance overview of your community's health and activity.
+description: Get familiar with the FluentCommunity Global Feed — the community homepage where posts, discussions, and activity come together, with a tour of the header, sidebars, and feed controls.
 ---
 
 # Global Feed
@@ -54,3 +54,4 @@ Let's explore the key areas of this page:
 
     * **Complete Your Profile:** New members will often see a prompt, like "Complete your profile (60%)", with a button. Clicking this encourages you to fill out your profile details, which helps other members get to know you.
     * **Recent Activities:** This widget shows a live feed of the very latest actions in the community, such as new posts or comments.
+<VideoEmbed id="1nrHk0FgCwE" title="How to Boost Engagement Inside Your Community (Module 4)" />

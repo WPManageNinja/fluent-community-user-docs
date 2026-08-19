@@ -130,4 +130,4 @@ Please use the value for `FLUENT_COMMUNITY_CLOUD_STORAGE_S3_REGION` based on the
 
 #### Limitations
 
-As BunnyCDN is not a full S3 compatible storage and does not support ACL. If you use the Document upload feature, then the full URL will still be served via the CDN.
+BunnyCDN is not fully S3-compatible and does not support ACL. As a result, if you use the Document upload feature, the full URL will still be served via the CDN.

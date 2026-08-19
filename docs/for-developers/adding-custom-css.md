@@ -104,5 +104,5 @@ add_action('fluent_community/portal_footer', function() {
 ## Troubleshooting
 
 * **CSS or JS doesn't work?** Clear your browser cache and any caching plugins on your site first.
-* **Site looks broken after adding a snippet?** Deactivate the last snippet you added, the culprit is usually a small typo.
+* **Site looks broken after adding a snippet?** Deactivate the last snippet you added; the culprit is usually a small typo.
 * **Code in a snippet not working?** Double-check that you created a **PHP Snippet** and that your code sits correctly inside the `<style>` or `<script>` tags.

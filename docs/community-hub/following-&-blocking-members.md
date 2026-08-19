@@ -9,6 +9,8 @@ The Follow & Block module adds a layer of social interaction to your community, 
 
 > **Use Case:** A member wants a quieter feed focused on the handful of experts they trust. They follow those users to build a personalized feed and block a disruptive account to stop seeing its posts entirely, all without anyone being notified.
 
+<VideoEmbed id="FBp2LE5sbC0" title="Unite Members &amp; Build Stronger Connections with FluentCommunity" />
+
 ## How to Set Up the Module (For Admins)
 
 The module is disabled by default, so you'll activate and configure it first.

@@ -9,6 +9,8 @@ In FluentCommunity, **Spaces** are the foundational building blocks of your comm
 
 **Use Case:** You could create a "General Discussion" space for all members, a private "Beta Testers" space for product feedback, and another "Beginner's Guide" space for new users to ask questions.
 
+<VideoEmbed id="NVYoq0Q5W4E" title="How to Create a Discussion Space with FluentCommunity (Module 3)" />
+
 ## How to Create a Space
 
 You can create a new space directly from the front-end of your community portal.
@@ -53,10 +55,10 @@ This is a crucial step for controlling your space's privacy.
     * **Private:** The space is listed in the directory, but only members can see the content. When you select "Private," a new "Lock Screen Type" option appears:
         * [**Custom Lock Screen:**](/customizing-the-lockscreen) This lets you create a custom message or design for what non-members see when they land on this space.
         * **Default Lock Screen:** This will show a standard, default message that the space is private.
-        * **Redirect to an URL:** Redirects non-members to a different page entirely (like a sales or landing page).
+        * **Redirect to a URL:** Redirects non-members to a different page entirely (like a sales or landing page).
     * **Secret:** The space is completely hidden and invisible to non-members. It can only be accessed via a direct link by members who have been invited.
 * **Show Paywalls in Default Lock Screen:** When using the Default Lock Screen, check this to display any configured paywall content to non-members.
-* **Allow users to request to join this Space:** 
+* **Allow users to request to join this Space:** When enabled, non-members can submit a join request. Admins and Moderators approve or reject requests from the Space's Members tab.
 * **Who can view space members:** Controls who can see the member list for this Space. Options: *Member Only*, *Admin/Moderator Only*, *Any Logged-in User*, or *Anyone*.
 
 Once you have configured these settings, click **Next**.
@@ -86,9 +88,9 @@ This final step controls the look, features, and content organization of your ne
 #### Layout
 
 * **Default Layout Styles:** Choose how posts are displayed in this Space. Three options are available:
-    * **Timeline** a standard chronological feed.
-    * **List** a compact, text-focused list view.
-    * **Card** a grid of visual cards, ideal for image-heavy content.
+    * **Timeline** — a standard chronological feed.
+    * **List** — a compact, text-focused list view.
+    * **Card** — a grid of visual cards, ideal for image-heavy content.
 * **Disable Layout Style Change Option:** Check this to prevent members from switching the layout to their own preference.
 
 #### Others

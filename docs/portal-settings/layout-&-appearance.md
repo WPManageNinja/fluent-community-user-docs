@@ -21,3 +21,5 @@ In the following articles, we will cover how to customize key display elements:
 - Learn about [creating spaces](/creating-a-new-space) to organize your community
 - Explore [communication settings](/communication) to configure notifications
 - Set up [analytics](/the-analytics-dashboard) to track community performance
+
+<VideoEmbed id="PhaNJSQOpwQ" title="How to Customize FluentCommunity to Reflect Your Website or Brand" />

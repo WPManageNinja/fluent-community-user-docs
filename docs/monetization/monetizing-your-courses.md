@@ -9,6 +9,12 @@ FluentCommunity lets you sell access to your courses just as easily as your Spac
 
 > **Use Case:** You've built a "Web Development Bootcamp" course and want to charge a one-time enrollment fee. Non-students see a Lock Screen with an "Enroll Now" button that leads to a Fluent Forms payment form, and paying students are enrolled automatically.
 
+<VideoEmbed id="7sBF9EHDeO0" title="How to Monetize Courses in FluentCommunity" />
+
+<VideoEmbed id="Fp8CaYkgIwI" title="How to Sell Your Courses in FluentCommunity (Using FREE Tools!)" />
+
+<VideoEmbed id="t-5Q5zU6tAs" title="How to Create and Monetize Courses in FluentCommunity (Module 5)" />
+
 ## Step 1: Set Up Your Course
 
 ### Create or Edit a Course

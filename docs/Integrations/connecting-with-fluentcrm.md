@@ -9,6 +9,8 @@ FluentCommunity integrates with **FluentCRM**, allowing you to run **email campa
 
 This article covers **Automations**, **Contacts**, and **Email Campaigns** that you can manage for FluentCommunity using FluentCRM.
 
+<VideoEmbed id="ULJqNHWMTO0" title="Turn Engagement into Growth: FluentCRM and FluentCommunity Together" />
+
 ## Connecting FluentCRM with FluentCommunity
 
 First, go to the **Settings** of FluentCommunity from the bottom-left corner.
@@ -78,7 +80,7 @@ A pop-up page will appear with the primary Action blocks to choose from:
 - **Enroll to Course:** Choose the Course(s) where the users will be added once the automation starts.
 - **Add Badge To User:** Add [badges](/creating-&-assigning-badges) to the user profile of community members once the automation starts.
 
-Apart from the actions shown below, FluentCRM comes with many other actions. To see the full list, [click here](https://fluentcrm.com/docs/introduction-to-fluentcrm-automation/#primary-actions-of-fluentcrm-automation).
+Apart from the actions shown above, FluentCRM comes with many other actions. To see the full list, [click here](https://fluentcrm.com/docs/introduction-to-fluentcrm-automation/#primary-actions-of-fluentcrm-automation).
 
 ![All Actions for FluentCommunity](/images/integrations/connecting-with-fluentcrm/8.-All-Actions-of-Fluent-Community-1.webp)
 

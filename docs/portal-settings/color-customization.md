@@ -9,6 +9,8 @@ FluentCommunity lets you customize the color of almost every part of your portal
 
 > **Use Case:** You want your community portal to match your brand's palette, with a bright, airy look in Light mode and a comfortable, low-glare scheme in Dark mode.
 
+<VideoEmbed id="PhaNJSQOpwQ" title="How to Customize FluentCommunity to Reflect Your Website or Brand" />
+
 ## How to Customize Colors
 
 1.  Go to the **Settings** page of your portal.

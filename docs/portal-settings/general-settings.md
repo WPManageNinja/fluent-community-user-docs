@@ -11,19 +11,19 @@ The General Settings of FluentCommunity allow you to configure essential feature
 
 The **FluentCommunity Title** is the name of your community, which appears in different areas like the **meta title** and email notifications. It helps users recognize your community and should match your site title for consistency.
 
-To update it, go to **FluentCommunity Settings**, you will see the **Community Title** option, enter your preferred name, and save the changes.
+To update it, go to **FluentCommunity Settings**. There you will see the **Community Title** option — enter your preferred name and save the changes.
 
 ![The Community Title field in General Settings](/images/portal-settings/general-settings/FluentCommunity-Title-.webp)
 
 ## Site Logo
 
-Go to **Settings** then choose **General** from the left sidebar, you will see the option to upload your site logo.
+Go to **Settings**, then choose **General** from the left sidebar. There you will see the option to upload your site logo.
 
-**Site Logo (For Light Background):** This site logo will be shown when someone is using FluentCommunity in light mode. To set up the Logo for the Light Mode of the Community click on the **Set Logo** button and upload the logo from your storage.
+**Site Logo (For Light Background):** This site logo will be shown when someone is using FluentCommunity in light mode. To set up the logo for the Light Mode of the community, click the **Set Logo** button and upload the logo from your storage.
 
 ![Setting the site logo for light backgrounds](/images/portal-settings/general-settings/Site-Logo-1.webp)
 
-**Site Logo (For Dark Mode):** This site logo option is for the Dark Mode of FluentCommunity. To set up the Logo for the Dark Mode of the Community click on the **Set Logo** button and upload the logo from your storage.
+**Site Logo (For Dark Mode):** This site logo option is for the Dark Mode of FluentCommunity. To set up the logo for the Dark Mode of the community, click the **Set Logo** button and upload the logo from your storage.
 
 ![Setting the site logo for dark mode](/images/portal-settings/general-settings/Site-Logo-2.webp)
 
@@ -31,7 +31,7 @@ Go to **Settings** then choose **General** from the left sidebar, you will see t
 
 The **Default Open Graph** refers to metadata that automatically defines how your webpage content appears when shared on social platforms like Facebook or LinkedIn. It includes elements like title, description, and image, helping ensure that links look visually appealing and informative when shared.
 
-If you want to set this Default Open Graph image then click on the **Set Featured Image** button and upload the image you want to set from your storage.
+If you want to set this Default Open Graph image, click the **Set Featured Image** button and upload the image you want to set from your storage.
 
 ![Setting the default Open Graph image](/images/portal-settings/general-settings/Open-Graph-Image-3.webp)
 

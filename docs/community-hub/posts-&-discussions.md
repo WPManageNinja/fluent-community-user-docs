@@ -9,6 +9,8 @@ The core of any community is the conversation. In FluentCommunity, discussions a
 
 This section of the documentation covers all the features you and your members will use to communicate.
 
+<VideoEmbed id="1nrHk0FgCwE" title="How to Boost Engagement Inside Your Community (Module 4)" />
+
 ## How Discussions Work
 
 * **Posts:** A member starts a conversation by creating a post within a specific **Space**. A post can contain rich text, images, videos, and links.
