@@ -132,3 +132,14 @@ Click the **+ Add** button to start filtering. You will get two options for Flue
 This allows you to directly select specified Space/Course members to include or exclude as recipients using the dropdown arrow. You can add more filters by clicking **+ Add**, add filters against an existing filter by clicking **+ OR**, and delete any existing filter by clicking the **Trash** icon.
 
 ![Selecting recipients by Advanced Filter](/images/integrations/connecting-with-fluentcrm/12.-Selecting-Email-Campaigns-Recipients-by-Advanced-Filter.webp)
+
+## Suppressing Emails to Bounced or Complained Contacts
+
+If a member's FluentCRM contact is marked **Bounced**, **Complained**, or **Spammed**, FluentCommunity automatically stops sending that member community notification emails protecting your sender reputation instead of repeatedly emailing an address that can no longer receive mail.
+
+This is controlled by a [privacy setting](/privacy-settings) **Do not send emails to contacts marked as Bounced, Complained, or Spammed in FluentCRM**.
+
+Affected members aren't left guessing. Their own [notification preferences](/in-app-notification-settings) screen shows their current email status, along with a **Re-confirm My Email Address** button that sends a fresh double opt-in email one click on their side, and notifications resume once the address is confirmed again.
+
+> [!Note]
+> Developers can fine-tune this behavior with a filter rather than relying on the on/off setting alone.

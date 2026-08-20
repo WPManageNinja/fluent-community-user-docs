@@ -37,6 +37,16 @@ Each row displays the content **Title**, **Type** (post or comment), **Reporter*
 
 ![Managing Reported Content](/images/community-hub/content-moderation/content-moderation-4.webp)
 
+## Reviewing Unlisted Posts (Pro)
+
+[Unlisted posts](/creating-&-editing-posts) stay off every feed and listing by design, but moderators still need a way to see them all in one place.
+
+Open any feed's **Sort by** dropdown and switch on the **Unlisted** visibility filter to list every unlisted post together, FluentCommunity marks the active sort with an "(Unlisted)" tag next to the field name (for example, "Latest (Unlisted)") so it's obvious the filter is on. 
+
+The filter remembers your last choice, so it stays selected the next time you open that feed. See [Feed Sorting](/feed-sorting) for the full sort reference.
+
+![Reviewing Unlisted Posts](/images/community-hub/content-moderation/unlisted-posts-4.webp)
+
 ## Moderation Settings
 
 You can configure how moderation works before reviewing reported content. From your WordPress dashboard, go to **FluentCommunity → Settings → Content Moderation**, then click the **settings (gear) icon** to open the **Moderation Settings** modal.

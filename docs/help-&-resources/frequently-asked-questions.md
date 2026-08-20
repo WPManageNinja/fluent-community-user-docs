@@ -28,7 +28,7 @@ Yes. FluentCommunity renders inside its own portal page and is largely independe
 
 **What are the minimum server requirements?**
 
-- WordPress 6.0 or higher
+- WordPress 6.0 or higher (fully tested up to WordPress 7.1)
 - PHP 7.4 or higher (PHP 8.0+ recommended)
 - MySQL 5.7+ or MariaDB 10.3+
 

@@ -110,5 +110,12 @@ Click **Save Changes** to apply.
 
 > **💡 Tip:** Members who find a busy space noisy don't have to mute the whole community — switching that one space to **Notify only for Admin Posts** keeps announcements coming while dropping the day-to-day chatter.
 
-> **✨ Note:**
-> These preferences are the member's own. Administrators set the community-wide defaults and choose which emails exist at all — see [Connecting with FluentSMTP](/connecting-with-fluentsmtp) for the sending setup and [Customizing Email Templates (Pro)](/customizing-email-templates-(pro)) for branding those messages.
+### Email Status and Re-Confirming Your Address
+
+If your address is connected through [FluentCRM](/connecting-with-fluentcrm) and gets marked **Bounced**, **Complained**, or **Spammed**, FluentCommunity pauses notification emails to that address and shows its status right here on this screen.
+
+Click **Re-confirm My Email Address** to send yourself a fresh double opt-in email. Confirming it clears the flag and notification emails resume.
+
+> [!Note]
+> These preferences are the member's own. Administrators set the community-wide defaults and choose which emails exist at all. see [Connecting with FluentSMTP](/connecting-with-fluentsmtp) for the sending setup and [Customizing Email Templates (Pro)](/customizing-email-templates-(pro)) for branding those messages.
+

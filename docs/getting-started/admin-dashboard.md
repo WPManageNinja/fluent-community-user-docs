@@ -16,7 +16,7 @@ This page is designed to be your central hub, giving you quick and easy access t
 At the very top of the page, you'll find a welcome banner that confirms your community is ready to go. It contains three important action buttons:
 
  * **Go to the portal:** This is the primary button you'll use to view your community from a member's perspective. It takes you directly to the front-end of your FluentCommunity portal.
- * **License Management:** Click this button to view your license details, activate your pro license key, or manage your activated sites.
+ * **License Management:** Click this button to view your license details, activate your pro license key, or manage your activated sites. The screen shows your plan status at a glance, with clear renewal and upgrade actions whenever your license needs attention.
  * **Join Official Community:** This link takes you to the official FluentCommunity user group, where you can ask questions, get help from the community, and connect with the development team.
 
 ![FluentCommunity admin dashboard](/images/getting-started/admin-dashboard/admin-dashboard-1.webp)

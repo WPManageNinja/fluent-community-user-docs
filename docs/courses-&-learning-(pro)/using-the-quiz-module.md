@@ -77,6 +77,10 @@ It is easy to organize your quiz layout directly from the editor.
 
 When students take the quiz, they will see their results right away after submitting their answers. Always remember to click the dark **Save** button in the top-right corner to keep everything updated.
 
+::: info Non-enrolled students
+If a student isn't enrolled in the course, the **Submit** button appears disabled with a short hint explaining why, instead of redirecting them to a redundant enrollment prompt.
+:::
+
 ::: warning Don't forget
 Before students can see or take the quiz, make sure you **publish your quiz questions**.
 :::

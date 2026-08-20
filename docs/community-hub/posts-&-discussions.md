@@ -39,6 +39,10 @@ When a member creates a post, they do not set privacy separately on the post its
 
 > **Use Case:** You run a members-only coaching Space set to **Private**. Every post shared there is automatically restricted to members, without needing per-post privacy settings.
 
+### Unlisted Posts (Pro)
+
+Separately from the Space's privacy level, an individual post can also be marked **Unlisted**. An unlisted post is hidden from every feed and listing — but anyone with its direct link can still open it normally, and the author still sees it on their own profile timeline. See [Creating & Editing Posts](/creating-&-editing-posts) for how to set it.
+
 ## Scheduled Posts
 
 FluentCommunity allows you to publish posts at a future date and time using the scheduling feature.

@@ -44,6 +44,19 @@ You can also share the post with the link. To get the post link click on the **t
 
   ![Share Post](/images/community-hub/creating-and-editing/share-link-3.webp)
 
+### Making a Post Unlisted (Pro)
+
+Some posts aren't meant for the main feed meeting notes for one team, an early draft you want feedback on, or a resource you only hand out when someone asks. Check the **Unlisted** box in the editor before publishing to keep the post out of every feed and listing. Anyone with the direct link can still open it normally.
+
+You can flip an existing post to **Unlisted** or back to listed from its **Edit** screen at any time.
+
+Unlisted posts carry a clear **Unlisted** badge, so there's never confusion about what's visible where. You'll still see your own unlisted posts on your profile timeline; nobody else will.
+
+> [!Note]
+> Moderators can review every unlisted post in one place using the visibility filter in the feed's sort dropdown. See [Content Moderation](/content-moderation).
+
+  ![Unlisted Post](/images/community-hub/creating-and-editing/unlisted-post-3.webp)
+
 ### Editing or Deleting a Post
 
 If you need to make changes after publishing, you can easily modify or remove your content.

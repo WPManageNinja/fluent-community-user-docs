@@ -44,3 +44,9 @@ To sort posts, go to any community feed or **space**. In the top-right corner of
 ![The Sort by dropdown in the top-right corner of a feed](/images/portal-settings/feed-sorting/sort-by-02.webp)
 
 That's it.
+
+## Reviewing Unlisted Posts (Pro)
+
+Moderators and admins get one more option in the same **Sort by** dropdown: **Unlisted**. Selecting it filters the feed down to only unlisted posts the ones hidden from regular feeds and listings. 
+
+So, you can review them all in one place. The active sort shows an "(Unlisted)" tag next to the field name (for example, "Latest (Unlisted)"), and FluentCommunity remembers this choice for the next time you open that feed. See [Content Moderation](/content-moderation) for the full moderator workflow.
