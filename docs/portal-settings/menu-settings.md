@@ -85,3 +85,5 @@ Once saved, your link will appear in the **Global Feed**, just like in the examp
 **Drag-and-Drop:** You can arrange items in each section by dragging and dropping them into the desired order.
 
 This flexibility helps ensure that your community's menus are tailored to your preferences, making navigation intuitive for members.
+
+To add an installable app shortcut to the sidebar, see [Progressive Web App (PWA) (Pro)](./progressive-web-app-(pro).md).

@@ -203,6 +203,7 @@ export default defineConfig({
               { text: 'Color Customization', link: '/color-customization' },
               { text: 'Theme Compatibility', link: '/theme-compatibility' },
               { text: 'Community as Homepage', link: '/community-as-homepage' },
+              { text: 'Progressive Web App (PWA) (Pro)', link: '/progressive-web-app-(pro)' },
               { text: 'Sitemaps & SEO', link: '/sitemaps-&-seo' },
             ]
           },
