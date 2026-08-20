@@ -15,6 +15,7 @@ In the following articles, we will cover key features that enhance the student j
 
 * **Enabling Lesson Previews:** Learn how to offer a "try before you buy" experience by making certain lessons free to non-enrolled students.
 * **Using the Quiz Module:** Discover how to create and manage quizzes to assess knowledge and reinforce key concepts.
+* **Sorting Your Student List:** Every course's **Students** tab includes the same sort dropdown and ascending/descending direction toggle used across FluentCommunity's member lists — see [Adding Members to a Space](/adding-members-to-a-space) for how it works.
 
 **Get Started:**
 - Learn about [creating your first course](/creating-your-first-course) to get started

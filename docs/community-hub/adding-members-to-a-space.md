@@ -31,6 +31,14 @@ To start managing your community, you first need to access the dedicated member 
 
 Here, you will see a list of everyone currently in the Space. You can use the search bar to quickly find existing members, and you can easily see each person's role (like Admin or Moderator) displayed directly under their name.
 
+Use the sort dropdown above the list to choose a field **Joining Date**, **Last Activity**, or **Name**. Then click the direction arrow next to it to flip between ascending and descending. For example, switch **Joining Date** to ascending to surface your longest-standing members first. Your choice is saved and restored the next time you open this list.
+
+> [!Note]
+> For a course-type Space, this same tab is labeled **Students** and offers the identical sort-and-direction control.
+
+![Member Joining](/images/community-hub/adding-members-to-a-space/member-list-3.webp)
+
+
 ## Step 2: Add New Members
 
 Click the **Add Member** button to open the invitation menu. From here, you can choose one of the following four tabs based on your needs.

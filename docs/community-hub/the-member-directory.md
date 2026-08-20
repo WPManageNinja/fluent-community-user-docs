@@ -20,11 +20,25 @@ For administrators, you can view and manage members from the back-end by navigat
 The Member Directory is more than a static user list. It includes tools that make discovery easy:
 
 * **Search Members:** Find people by display name, username, or relevant profile keywords.
-* **Sort Results:** Reorder the list by criteria such as **Last Activity**, **Display Name**, or **Joining Date**.
+* **Sort Results:** Reorder the list by criteria such as **Last Activity**, **Display Name**, or **Joining Date** and choose the direction, ascending or descending.
 * **Quick Profile Context:** Each row/card gives useful at-a-glance context (name, username, joined date, and activity info).
 * **Follow and Connect:** Members can follow others directly from the directory to build meaningful connections.
 
 ![Directory](/images/community-hub/member-directory/member-1.webp)
+
+## Sorting the Directory
+
+The sort control above the member list separates **what** you sort by from **which direction** it goes. Click the dropdown to pick a field:
+
+* **Joining Date** and **Last Activity** sort newest first by default.
+* **Display Name** sorts A → Z by default.
+
+Click the arrow button next to the dropdown to flip between ascending and descending, the arrow updates to show which direction is active. Your choice is saved per list, so it's restored the next time you open the directory.
+
+> [!Note]
+> The same sort-and-direction control appears on a Space's member list and a course's student list. see [Adding Members to a Space](/adding-members-to-a-space).
+
+![Directory](/images/community-hub/member-directory/sorting-directory-2.webp)
 
 ## Directory Privacy Settings
 
