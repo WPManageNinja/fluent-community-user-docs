@@ -22,8 +22,7 @@ Once you have created a course, the next step is to add the learning content. Fl
 
 This will open the main course builder interface where you can add and arrange your content.
 
-[Screenshot: The main Course Builder view, showing the area to add new sections and lessons.]
-
+<!-- TODO(screenshot): The main Course Builder view, showing the area to add new sections and lessons. -->
 ## Step 1: Create a New Section
 
 First, you need to create a section to hold your lessons.
@@ -62,8 +61,7 @@ The lesson editor uses the familiar WordPress block editor (Gutenberg), giving y
 * Add images, galleries, and downloadable files.
 * Include lists, quotes, and other rich formatting.
 
-[Screenshot: The lesson editor, showing the Gutenberg block editor interface with some sample text and a video block.]
-
+<!-- TODO(screenshot): The lesson editor, showing the Gutenberg block editor interface with some sample text and a video block. -->
 Once you are finished adding content to your lesson, click the **Update** button to save it. You can return to the main course builder at any time to add more lessons or sections.
 
 **Next Steps:**

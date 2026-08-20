@@ -21,8 +21,7 @@ If a member is in a group chat that is very active, they can choose to mute it t
 
 The user will no longer receive notifications from this chat unless they are directly mentioned. They can unmute it at any time from the same menu.
 
-[Screenshot: The chat window with the three-dot menu open, showing the "Mute Conversation" option.]
-
+<!-- TODO(screenshot): The chat window with the three-dot menu open, showing the "Mute Conversation" option. -->
 ### Blocking a User
 
 If a member no longer wishes to receive messages from a specific person, they can block them.
@@ -32,8 +31,7 @@ If a member no longer wishes to receive messages from a specific person, they ca
 
 Once a user is blocked, they will no longer be able to send direct messages to the member who blocked them, and vice versa. This action is private and the blocked user is not notified.
 
-[Screenshot: The three-dot menu in a direct message, highlighting the "Block User" option.]
-
+<!-- TODO(screenshot): The three-dot menu in a direct message, highlighting the "Block User" option. -->
 ### Reporting a User
 
 If a user's behavior violates the community guidelines, members can report them directly to the site administrators.

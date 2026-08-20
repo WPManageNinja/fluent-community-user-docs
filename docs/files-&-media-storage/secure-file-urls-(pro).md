@@ -27,8 +27,7 @@ This feature typically works in conjunction with a third-party storage service l
 3.  Within the settings for your chosen storage provider, you will find an option labeled **"Generate signed URLs for secure file access"** or similar.
 4.  Turn this toggle switch to the "On" position.
 
-[Screenshot: The Media & Storage settings, showing the toggle switch for enabling Secure File URLs within the Amazon S3 or Cloudflare R2 configuration area.]
-
+<!-- TODO(screenshot): The Media & Storage settings, showing the toggle switch for enabling Secure File URLs within the Amazon S3 or Cloudflare R2 configuration area. -->
 5.  You may also be able to configure the **URL Expiration Time**. This determines how long the temporary link will be valid after it's generated. A shorter time is more secure.
 6.  Click **Save Settings**.
 

@@ -17,8 +17,7 @@ Video is one of the most effective ways to teach. You can add videos from popula
 4.  **For hosted videos (like YouTube):** Simply paste the URL of the video into the block, and it will be embedded automatically.
 5.  **For uploaded videos:** Use the main Video block to upload a video file directly to your WordPress Media Library.
 
-[Screenshot: The WordPress block editor showing a YouTube block where a user can paste a video URL.]
-
+<!-- TODO(screenshot): The WordPress block editor showing a YouTube block where a user can paste a video URL. -->
 > **Use Case:** You can embed a main lesson video from YouTube at the top of the lesson, followed by a written summary and key takeaways below it.
 
 ## Adding File Attachments
@@ -30,8 +29,7 @@ Providing downloadable resources can significantly enhance the value of your cou
 3.  You can select a file from your computer to upload (e.g., a PDF worksheet, a ZIP file with code samples, or presentation slides).
 4.  Once uploaded, the file will appear as a clickable link for your students to download.
 
-[Screenshot: The lesson settings sidebar with the "Attachments" section visible, showing an "Upload Attachment" button.]
-
+<!-- TODO(screenshot): The lesson settings sidebar with the "Attachments" section visible, showing an "Upload Attachment" button. -->
 You can add multiple files to a single lesson. They will be displayed in a neat list for your students at the bottom of the lesson page.
 
 > **✨ Note:**

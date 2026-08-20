@@ -13,8 +13,7 @@ FluentCommunity gives you flexible options to control how your course content is
 2.  Create a new course or **Edit** an existing one.
 3.  In the course editor, look for the main **Settings** panel, often located in a sidebar.
 
-[Screenshot: The course editor screen, with the main Settings panel highlighted.]
-
+<!-- TODO(screenshot): The course editor screen, with the main Settings panel highlighted. -->
 ## Course Layout Options
 
 This setting changes the visual presentation of your course for students.
