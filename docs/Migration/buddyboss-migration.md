@@ -42,7 +42,7 @@ Create a **complete backup** of your WordPress files and database before running
 
 Go to your FluentCommunity portal on the front end. Click the **Settings** button in the bottom-right corner of the screen. In the settings menu, select **Manage Migration** from the left sidebar. You will see the **Migrate Data from Other Plugins** section with the **BuddyBoss Module** option. Click on it to begin.
 
-![FluentCommunity BuddyBoss Migration - Open migration tool](https://fluentcommunity.co/wp-content/uploads/2025/01/FlunetCommunity-BuddyBoss-Migration-1-scaled.webp)
+![FluentCommunity BuddyBoss Migration - Open migration tool](/images/migration/buddyboss/buddyboss-migration-1.webp)
 
 ### Step 2: Map Groups and Start Migration
 
@@ -50,13 +50,13 @@ Once inside the BuddyBoss Module, you can map BuddyBoss Groups to specific exist
 
 When ready, click **Start Migrating Data** to begin. FluentCommunity will copy all your BuddyBoss data across.
 
-![FluentCommunity BuddyBoss Migration - Start migration](https://fluentcommunity.co/wp-content/uploads/2025/01/FlunetCommunity-BuddyBoss-Migration-2-scaled.webp)
+![FluentCommunity BuddyBoss Migration - Start migration](/images/migration/buddyboss/buddyboss-migration-2.webp)
 
 ### Step 3: Confirm Completion
 
 When the migration finishes, a congratulatory notification confirms that the process is complete.
 
-![FluentCommunity BuddyBoss Migration - Completion notification](https://fluentcommunity.co/wp-content/uploads/2025/01/FlunetCommunity-BuddyBoss-Migration-3-scaled.webp)
+![FluentCommunity BuddyBoss Migration - Completion notification](/images/migration/buddyboss/buddyboss-migration-3.webp)
 
 
 ## Method 2: Migrate Using WP-CLI (Recommended for Large Communities)
@@ -85,13 +85,13 @@ After migration completes, review the following to confirm everything transferre
 
 All posts, reactions, and comments from BuddyBoss are now visible in the corresponding Space feeds and the main community feed.
 
-![FluentCommunity BuddyBoss Migration - Feed preview](https://fluentcommunity.co/wp-content/uploads/2025/01/FlunetCommunity-BuddyBoss-Migration-4-scaled.webp)
+![FluentCommunity BuddyBoss Migration - Feed preview](/images/migration/buddyboss/buddyboss-migration-4.webp)
 
 ### Spaces Preview
 
 All BuddyBoss Groups now appear as Spaces in FluentCommunity. Groups you mapped to existing Spaces during setup appear under those designated Spaces.
 
-![FluentCommunity BuddyBoss Migration - Spaces preview](https://fluentcommunity.co/wp-content/uploads/2025/01/FlunetCommunity-BuddyBoss-Migration-5-scaled.webp)
+![FluentCommunity BuddyBoss Migration - Spaces preview](/images/migration/buddyboss/buddyboss-migration-5.webp)
 
 
 ## After Migration: Next Steps
