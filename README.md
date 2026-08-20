@@ -10,8 +10,8 @@
 
 <p align="center">
   <img alt="VitePress" src="https://img.shields.io/badge/built%20with-VitePress-5145e6">
-  <img alt="Content" src="https://img.shields.io/badge/articles-97-5145e6">
-  <img alt="Node" src="https://img.shields.io/badge/node-%E2%89%A518-5145e6">
+  <img alt="Content" src="https://img.shields.io/badge/articles-99-5145e6">
+  <img alt="Node" src="https://img.shields.io/badge/node-%E2%89%A520-5145e6">
 </p>
 
 ---
@@ -24,7 +24,7 @@ If you're looking for developer-facing API documentation instead, that lives at 
 
 ## Quick Start
 
-You'll need [Node.js](https://nodejs.org/) 18 or newer.
+You'll need [Node.js](https://nodejs.org/) 20 or newer.
 
 ```bash
 git clone https://github.com/WPManageNinja/fluent-community-user-docs.git

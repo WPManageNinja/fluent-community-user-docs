@@ -7,6 +7,11 @@ export default defineConfig({
   srcDir: 'docs',
   cleanUrls: true,
 
+  // Generates /sitemap.xml at build time for search engines.
+  sitemap: {
+    hostname: 'https://docs.fluentcommunity.co'
+  },
+
   // Serve every article at the site root, hiding its category folder from the URL.
   // Files stay in their category folders; only the public URL is flattened
   // (e.g. docs/gamification-(pro)/configuring-the-points-system.md -> /configuring-the-points-system).
@@ -93,6 +98,7 @@ export default defineConfig({
         items: [
           {
             text: 'Spaces & Group Chat',
+            link: '/spaces-&-group-chat',
             collapsed: true,
             items: [
               { text: 'Creating a New Space', link: '/creating-a-new-space' },
@@ -108,6 +114,7 @@ export default defineConfig({
           },
           {
             text: 'Posts & Discussions',
+            link: '/posts-&-discussions',
             collapsed: true,
             items: [
               { text: 'Creating & Editing Posts', link: '/creating-&-editing-posts' },
@@ -121,6 +128,7 @@ export default defineConfig({
           },
           {
             text: 'Members & Profiles',
+            link: '/members-&-profiles',
             collapsed: true,
             items: [
               { text: 'The Member Directory', link: '/the-member-directory' },
@@ -149,6 +157,7 @@ export default defineConfig({
         items: [
           {
             text: 'Course Management',
+            link: '/course-management',
             collapsed: true,
             items: [
               { text: 'Creating Your First Course', link: '/creating-your-first-course' },
@@ -162,6 +171,7 @@ export default defineConfig({
           },
           {
             text: 'Student Tools',
+            link: '/student-tools',
             collapsed: true,
             items: [
               { text: 'Enabling Lesson Previews', link: '/enabling-lesson-previews' },
@@ -178,6 +188,7 @@ export default defineConfig({
           { text: 'The Media Module', link: '/the-media-module' },
           {
             text: 'Storage Configuration',
+            link: '/storage-configuration',
             collapsed: true,
             items: [
               { text: 'Using the Local Server', link: '/using-the-local-server' },
@@ -195,6 +206,7 @@ export default defineConfig({
           { text: 'General Settings', link: '/general-settings' },
           {
             text: 'Layout & Appearance',
+            link: '/layout-&-appearance',
             collapsed: true,
             items: [
               { text: 'Menu Settings', link: '/menu-settings' },
@@ -218,6 +230,7 @@ export default defineConfig({
           },
           {
             text: 'Communication',
+            link: '/communication',
             collapsed: true,
             items: [
               { text: 'In-App Notification Settings', link: '/in-app-notification-settings' },
@@ -247,6 +260,7 @@ export default defineConfig({
         items: [
           {
             text: 'Fluent Ecosystem',
+            link: '/fluent-ecosystem',
             collapsed: true,
             items: [
               { text: 'Connecting with FluentCRM', link: '/connecting-with-fluentcrm' },
@@ -260,6 +274,7 @@ export default defineConfig({
           },
           {
             text: 'Payments & Monetization',
+            link: '/payments-&-monetization',
             collapsed: true,
             items: [
               { text: 'Connecting with FluentCart', link: '/connecting-with-fluentcart' },
@@ -268,6 +283,7 @@ export default defineConfig({
           },
           {
             text: 'Automation Tools',
+            link: '/automation-tools',
             collapsed: true,
             items: [
               { text: 'Incoming Webhook', link: '/incoming-webhook' },
@@ -275,6 +291,7 @@ export default defineConfig({
           },
           {
             text: 'Other Integrations',
+            link: '/other-integrations',
             collapsed: true,
             items: [
               { text: 'Connecting with Pusher', link: '/connecting-with-pusher' },
