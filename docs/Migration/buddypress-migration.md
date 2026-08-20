@@ -40,7 +40,7 @@ To migrate your BuddyPress data into FluentCommunity, start by navigating to you
 
 In the settings menu, select **Manage Migration** from the left sidebar. You will find the **Migrate Data from Other Plugins** section with the **BuddyPress Module** option. Click on it to initiate the migration process.
 
-![Manage Migration settings and BuddyPress Module](https://fluentcommunity.co/wp-content/uploads/2025/01/BuddyPress-Data-Migration-in-FluentCommunity-1-scaled.webp)
+![Manage Migration settings and BuddyPress Module](/images/migration/buddypress/buddypress-migration-1.webp)
 
 Once you access the BuddyPress Module, you will see the migration options and the following key notes.
 
@@ -57,11 +57,11 @@ On the migration screen, you can map BuddyPress Groups to specific existing Spac
 
 When ready, click **Start Migrating Data** to begin. FluentCommunity will copy all your BuddyPress data across with just a few clicks.
 
-![Map groups and start migrating data](https://fluentcommunity.co/wp-content/uploads/2025/01/BuddyPress-Data-Migration-in-FluentCommunity-2-scaled.webp)
+![Map groups and start migrating data](/images/migration/buddypress/buddypress-migration-2.webp)
 
 Upon migration completion, you will receive a congratulatory notification confirming the process is complete.
 
-![Migration completion notification](https://fluentcommunity.co/wp-content/uploads/2025/01/BuddyPress-Data-Migration-in-FluentCommunity-3-scaled.webp)
+![Migration completion notification](/images/migration/buddypress/buddypress-migration-3.webp)
 
 
 ## Verifying Your Migrated Data
@@ -70,19 +70,19 @@ Upon migration completion, you will receive a congratulatory notification confir
 
 All posts, reactions, and comments have been successfully migrated from BuddyPress to FluentCommunity. You can view them seamlessly within your FluentCommunity setup.
 
-![Feed preview after migration](https://fluentcommunity.co/wp-content/uploads/2025/01/BuddyPress-Data-Migration-in-FluentCommunity-4-scaled.webp)
+![Feed preview after migration](/images/migration/buddypress/buddypress-migration-4.webp)
 
 ### Space Preview
 
 All BuddyPress Groups have been migrated to the Spaces section of FluentCommunity. Groups you mapped to specific Spaces during setup will appear under those designated Spaces.
 
-![Space preview after migration](https://fluentcommunity.co/wp-content/uploads/2025/01/BuddyPress-Data-Migration-in-FluentCommunity-5-scaled.webp)
+![Space preview after migration](/images/migration/buddypress/buddypress-migration-5.webp)
 
 ### Members Preview
 
 All BuddyPress members have been successfully migrated into FluentCommunity and are assigned to their corresponding Spaces, mirroring their previous associations in BuddyPress.
 
-![Members preview after migration](https://fluentcommunity.co/wp-content/uploads/2025/01/BuddyPress-Data-Migration-in-FluentCommunity-6-scaled.webp)
+![Members preview after migration](/images/migration/buddypress/buddypress-migration-6.webp)
 
 
 ## After Migration: Next Steps
