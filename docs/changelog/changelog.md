@@ -7,6 +7,58 @@ description: All notable changes to the FluentCommunity WordPress plugin, newest
 
 All notable changes to **FluentCommunity** are documented here, newest first.
 
+## FluentCommunity v2.8.0
+
+*Released on Aug 19, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Progressive Web App (PWA) Module
+• Unlisted Post Visibility with Feed Status Filter
+• Sort Direction Control on Member and Student Lists
+• FluentCRM Bounce Suppression with Email Re-Confirm Flow
+```
+
+```markdown [🚀 Improvements]
+• Customizer Back Button Keyboard Accessibility
+• WordPress 7.1 Compatibility
+• Quiz Submit Disabled for Non-Enrolled Members
+• Onboarding License Management Experience
+```
+
+```markdown [🔒 Security]
+• Hardened REST API Endpoints and Data Sanitization and Escaping
+```
+
+```markdown [🐞 Bug fixes]
+• Lesson Duplication Copying Deleted Documents
+• Member Join Time Off by Site Timezone
+• Profile Dropdown Links Not Redirecting on iOS
+• Missing Padding on Loading Skeletons
+• Unstyled Logo Picker Buttons in Input Group
+• Untranslated Password-Change and Slash-Menu Labels
+• YouTube Playlist Links Spinning Forever in Feed
+• Feed Edit Deleting Media from Remote Storage
+• Replacing Native Video with Image on Post Edit
+• Feed Videos Forcing Fullscreen on Android
+• Unsupported HTML Embed Rendering Broken Output
+• Emoji Picker Hidden Inside Popovers
+• Social Login Buttons Missing on Signup
+• Media Insert Failing Under Strict SQL Mode
+• Link Fields Rejecting Valid Paths and Placeholders
+• Empty Title or Slug When Creating Space Group
+• Misleading Lock Icon on Public-View Lessons
+• Mobile Lesson Table of Contents Cannot Collapse
+• Self-Reaction Block Hooks Not Working
+• Members Denied Access to Own Scheduled Posts
+• Popular Spaces Report Ranking Oldest Spaces
+• Cloud Storage URLs for Keys with Special Characters
+• Misspelled Manager and Sitemap Hook Names
+```
+
+:::
+
 ## FluentCommunity v2.7.7
 
 *Released on Aug 10, 2026*
