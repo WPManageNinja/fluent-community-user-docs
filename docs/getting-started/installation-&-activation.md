@@ -9,8 +9,6 @@ Let's get the plugin installed on your WordPress site so you can start building 
 
 <VideoEmbed id="EYqJz5uonAc" title="How to Install FluentCommunity on Your WordPress Site" />
 
-<VideoEmbed id="LZ7aDq1ASEk" title="How to Install &amp; Set Up FluentCommunity on WordPress (Module 2)" />
-
 ## Step 1: Installing the Plugin
 
 You can install FluentCommunity directly from your WordPress dashboard or by uploading the plugin file if you have the Pro version.
