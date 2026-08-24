@@ -23,7 +23,27 @@ npm run docs:build     # production build to .vitepress/dist
 npm run docs:preview   # preview the built site
 ```
 
-There are no tests or linters. The build (`docs:build`) is the effective correctness check — VitePress fails the build on dead relative links between pages, so run it after adding or renaming articles.
+There are no tests or linters. The build (`docs:build`) is the effective correctness check — VitePress fails the build on dead relative links between pages.
+
+### Always build after editing
+
+**Run `npm run docs:build` after every edit to this repo — no exceptions.** This applies to any change to a `.md` article, `.vitepress/config.mts`, a theme file, or a component. Do not report work as finished until the build has been run and passes.
+
+- Run it once at the end of a batch of related edits, not after each individual file.
+- A passing build prints `build complete in Xs` and exits `0`. Anything else — a non-zero exit, a `dead link` error, a Vue/component compile error — is a failure that must be fixed before reporting done.
+- Report the outcome honestly. If the build fails and you cannot fix it, say so and show the error.
+
+What the build **does** catch: dead relative links between pages, malformed frontmatter, broken Vue components (e.g. `VideoEmbed`), config syntax errors.
+
+What the build **does not** catch — check these manually when relevant:
+
+- Missing image files (a broken `/images/...` path renders as a 404 `<img>`, not a build error).
+- Pages with no sidebar entry in `.vitepress/config.mts` (orphans — reachable by URL but invisible in navigation).
+- Unresolved `[Screenshot: ...]` placeholders left in prose.
+- Missing `description` frontmatter.
+- Remote-hosted images (`![...](https://...)`) that should be local under `docs/public/images/`.
+
+For a full pass over those, use the `audit-fluentcommunity-docs` skill.
 
 ## Structure & conventions
 
