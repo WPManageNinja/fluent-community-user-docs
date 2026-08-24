@@ -11,8 +11,6 @@ FluentCommunity lets you turn any Space into a paid, members-only area. The idea
 
 <VideoEmbed id="U0bSifllDW0" title="Profitable Community Spaces: A Guide to Monetizing FluentCommunity" />
 
-<VideoEmbed id="2ljBin8E0To" title="Convert Your Community into a Paid Membership Site" />
-
 ## Step 1: Set Up Your Space
 
 ### Create or Edit a Space

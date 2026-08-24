@@ -8,8 +8,6 @@ description: Answers to the most common questions about installing, configuring,
 Can't find what you're looking for? Check the [Troubleshooting Common Issues](/troubleshooting-common-issues) guide or [contact support](/how-to-contact-support).
 
 
-<VideoEmbed id="PDDhn75nayA" title="Is FluentCommunity Only for WordPress Users?" />
-
 <VideoEmbed id="kQZg53PUaCc" title="FluentCommunity Free vs Pro: Which One is Best for You?" />
 
 ## General
