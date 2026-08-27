@@ -32,7 +32,9 @@ This setting defines how your students will progress through the lessons.
     > **Use Case:** For a 4-week coaching program, you can set up a drip schedule to release a new module each week, preventing students from getting overwhelmed by seeing all the content at once.
 * **Scheduled:** This option allows you to set a specific start and end date for the entire course. All students will progress through the material on the same timeline. This is ideal for running a course with a live cohort.
 
-> **⚠️ Important:**
+> [!Note]
 > When using the **Drip** or **Scheduled** enrollment types, ensure your schedule is clearly communicated to your students so they know when to expect new content to become available.
 
-Choose the layout and enrollment type that best suits your teaching style and click **Update Course** to save your settings.
+Choose the layout and enrollment type that best suits your teaching style and click **Save changes** button to save your settings.
+
+![Course layout and Enrollment](/images/course-and-learning/course-layout/course-settings-1.webp)
