@@ -234,6 +234,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'In-App Notification Settings', link: '/in-app-notification-settings' },
+              { text: 'Push Notifications with Firebase (Pro)', link: '/push-notifications-with-firebase' },
               { text: 'Customizing Email Templates (Pro)', link: '/customizing-email-templates-(pro)' },
             ]
           },
