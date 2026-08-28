@@ -106,9 +106,12 @@ Below the global options, **New Posts Notifications** lets members subscribe to 
 
 Click **Save Changes** to apply.
 
-![The New Posts Notifications table listing each space with its per-space email notification dropdown](/images/portal-settings/in-app-notification-settings/new-posts-notifications.webp)
+> [!Tip]
+> Members who find a busy space noisy don't have to mute the whole community, switching that one space to **Notify only for Admin Posts** keeps announcements coming while dropping the day-to-day chatter.
 
-> **💡 Tip:** Members who find a busy space noisy don't have to mute the whole community — switching that one space to **Notify only for Admin Posts** keeps announcements coming while dropping the day-to-day chatter.
+![The New Posts Notifications table](/images/portal-settings/in-app-notification-settings/new-posts-notifications.webp)
+
+
 
 ### Email Status and Re-Confirming Your Address
 
@@ -116,6 +119,9 @@ If your address is connected through [FluentCRM](/connecting-with-fluentcrm) and
 
 Click **Re-confirm My Email Address** to send yourself a fresh double opt-in email. Confirming it clears the flag and notification emails resume.
 
-> [!Note]
-> These preferences are the member's own. Administrators set the community-wide defaults and choose which emails exist at all. see [Connecting with FluentSMTP](/connecting-with-fluentsmtp) for the sending setup and [Customizing Email Templates (Pro)](/customizing-email-templates-(pro)) for branding those messages.
+> **✨ Note:** These preferences are the member's own. Administrators set the community-wide defaults and choose which emails exist at all — see [Connecting with FluentSMTP](/connecting-with-fluentsmtp) for the sending setup and [Customizing Email Templates (Pro)](/customizing-email-templates-(pro)) for branding those messages.
+
+## Beyond the Bell: Browser Push Notifications
+
+The Notification Center and email preferences above only reach members while they're on your site or checking their inbox. To send real, OS-level push notifications that reach members even when their browser is closed, see [Push Notifications with Firebase (Pro)](./push-notifications-with-firebase.md).
 
