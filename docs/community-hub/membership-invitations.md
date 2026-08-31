@@ -1,6 +1,6 @@
 ---
 title: Membership Invitations
-description: Learn how to create, manage, and share membership invitation links in FluentCommunity to invite new members into a specific Space.
+description: Create, manage, and share membership invitation links in FluentCommunity to invite new members into a specific Space.
 ---
 
 # Membership Invitations

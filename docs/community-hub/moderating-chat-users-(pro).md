@@ -1,6 +1,6 @@
 ---
 title: Moderating Chat Users (Pro)
-description: Learn how members can mute, block, or report users in Direct Messaging and Group Chat to maintain a safe and positive communication environment in FluentCommunity.
+description: Mute, block, or report users in FluentCommunity Direct Messaging and Group Chat to keep community conversations safe and positive.
 ---
 
 # Moderating Chat Users (Pro)

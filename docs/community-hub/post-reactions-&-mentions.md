@@ -1,6 +1,6 @@
 ---
 title: Post Reactions & Mentions
-description: Learn how to use reactions to express feedback on posts and mentions to directly notify and engage other members in FluentCommunity conversations.
+description: Use reactions to express feedback on posts and mentions to directly notify and engage other members in FluentCommunity conversations.
 ---
 
 # Post Reactions & Mentions
