@@ -1,6 +1,6 @@
 ---
 title: Automation Tools
-description: An overview of how to automate FluentCommunity using incoming webhooks, so external systems can add members, grant access, and sync data in real time.
+description: How to automate FluentCommunity using incoming webhooks, so external systems can add members, grant access, and sync data in real time.
 ---
 
 # Automation Tools

@@ -1,6 +1,6 @@
 ---
 title: The Setup Wizard
-description: Walk through the FluentCommunity Setup Wizard — naming your community, choosing a portal URL and logo, picking a template, and configuring access and integrations.
+description: Walk through the FluentCommunity Setup Wizard — name your community, choose a portal URL and logo, pick a template, and configure access and integrations.
 ---
 
 # The Setup Wizard

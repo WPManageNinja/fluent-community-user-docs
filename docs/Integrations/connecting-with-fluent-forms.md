@@ -1,6 +1,6 @@
 ---
 title: Connecting with Fluent Forms
-description: Learn how to integrate FluentCommunity with Fluent Forms to add members to your Spaces or Courses and collect payments directly through form submissions.
+description: Integrate FluentCommunity with Fluent Forms to add members to your Spaces or Courses and collect payments directly through form submissions.
 ---
 
 # Connecting with Fluent Forms
