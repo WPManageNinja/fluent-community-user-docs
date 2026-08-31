@@ -1,6 +1,6 @@
 ---
 title: Privacy Settings
-description: Control who can view your members, profiles, and leaderboard in FluentCommunity, what account details members can manage themselves, and system options like Gravatar and profile syncing.
+description: Control who can view members, profiles, and the leaderboard in FluentCommunity, which account details members manage, and Gravatar and sync options.
 ---
 
 # Privacy Settings

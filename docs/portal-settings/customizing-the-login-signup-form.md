@@ -1,6 +1,6 @@
 ---
 title: Customizing the Login/Signup Form
-description: Learn how to customize your FluentCommunity login and signup page, including the banner and form content, colors, images, and layout.
+description: Customize your FluentCommunity login and signup page, including the banner and form content, colors, images, and layout.
 ---
 
 # Customizing the Login/Signup Form

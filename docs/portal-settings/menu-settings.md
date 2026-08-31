@@ -1,6 +1,6 @@
 ---
 title: Menu Settings
-description: Learn how to customize FluentCommunity's menus — the primary top menu, profile dropdown, and sidebar top and bottom links — by adding, editing, grouping, and reordering items.
+description: Customize FluentCommunity menus — the primary top menu, profile dropdown, and sidebar links — by adding, editing, grouping, and reordering items.
 ---
 
 # Menu Settings

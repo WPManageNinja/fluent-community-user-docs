@@ -1,6 +1,6 @@
 ---
 title: In-App Notification Settings
-description: Learn how the FluentCommunity Notification Center works — the bell icon and unread badge, the Recent, Unread, Mentions, and Following tabs — and how members set their own email notification preferences per space.
+description: Inside the FluentCommunity Notification Center — the bell icon and unread badge, the Recent, Unread, Mentions, and Following tabs, and email preferences.
 ---
 
 # In-App Notification Settings

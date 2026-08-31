@@ -1,6 +1,6 @@
 ---
 title: Layout & Appearance
-description: An overview of how to customize the visual layout and appearance of your FluentCommunity platform, including navigation links and other display settings.
+description: How to customize the visual layout and appearance of your FluentCommunity platform, including navigation links and other display settings.
 ---
 
 # Layout & Appearance
