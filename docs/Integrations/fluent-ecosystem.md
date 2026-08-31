@@ -1,6 +1,6 @@
 ---
 title: Fluent Ecosystem
-description: An overview of how FluentCommunity integrates seamlessly with other plugins in the Fluent ecosystem, such as FluentCRM, Fluent Forms, Fluent Support, and Paymattic.
+description: How FluentCommunity integrates with the Fluent ecosystem — FluentCRM, Fluent Forms, Fluent Support, FluentSMTP, and Paymattic.
 ---
 
 # Fluent Ecosystem

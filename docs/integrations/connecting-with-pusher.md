@@ -1,6 +1,6 @@
 ---
 title: Connecting with Pusher
-description: Learn how to connect Pusher with FluentCommunity to power real-time chat, delivering messages to members instantly through a reliable cloud-based service.
+description: Connect Pusher with FluentCommunity to power real-time chat, delivering messages to members instantly through a reliable cloud-based service.
 ---
 
 # Connecting with Pusher

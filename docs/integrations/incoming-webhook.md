@@ -1,6 +1,6 @@
 ---
 title: Incoming Webhook
-description: Learn how to use the Incoming Webhook feature in FluentCommunity to connect external systems, automate workflows, and sync user data into your community in real time.
+description: Use the Incoming Webhook in FluentCommunity to connect external systems, automate workflows, and sync user data into your community in real time.
 ---
 
 # Incoming Webhook
