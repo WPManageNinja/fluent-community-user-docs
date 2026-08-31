@@ -1,6 +1,6 @@
 ---
 title: Payments & Monetization
-description: An overview of the payment integrations available in FluentCommunity, including FluentCart and Paymattic, for selling access to premium Spaces and Courses.
+description: The payment integrations available in FluentCommunity, including FluentCart and Paymattic, for selling access to premium Spaces and Courses.
 ---
 
 # Payments & Monetization

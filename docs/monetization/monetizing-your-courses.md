@@ -1,6 +1,6 @@
 ---
 title: Monetizing Your Courses
-description: Learn how to monetize a course in FluentCommunity by setting it to Private, adding a custom Lock Screen, and connecting a Fluent Forms payment form.
+description: Monetize a course in FluentCommunity by setting it to Private, adding a custom Lock Screen, and connecting a Fluent Forms payment form.
 ---
 
 # Monetizing Your Courses

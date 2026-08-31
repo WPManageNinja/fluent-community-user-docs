@@ -1,6 +1,6 @@
 ---
 title: Monetizing Your Spaces
-description: Learn how to monetize a Space in FluentCommunity by setting it to Private, adding a custom Lock Screen, and connecting a Fluent Forms payment form.
+description: Monetize a Space in FluentCommunity by setting it to Private, adding a custom Lock Screen, and connecting a Fluent Forms payment form.
 ---
 
 # Monetizing Your Spaces
