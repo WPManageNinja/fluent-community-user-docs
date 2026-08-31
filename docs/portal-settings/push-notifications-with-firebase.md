@@ -16,13 +16,27 @@ The Notification Center bell keeps members updated while they're inside your com
 
 1. Go to **Portal Settings → Features & Addons → Advanced Features & Addons**.
 2. Scroll down to the **Recommended Plugins and Addons** panel.
-3. Find **FluentNotify** *"Send browser push notifications to your community members for comments, replies and mentions"* — and click **Install FluentNotify**.
+3. Find **FluentNotify** *"Send browser push notifications to your community members for comments, replies and mentions"* and click **Install FluentNotify**.
 
 ![Install FluentNotify button](/images/portal-settings/push-notifications-with-firebase/install-fluentnotify-1.webp)
 
-Once it finishes installing, the button changes to **View Settings**. Click it to open FluentNotify's configuration screen.
+Once it finishes installing, the button changes to **View Settings**.
 
 ![The same panel after installation](/images/portal-settings/push-notifications-with-firebase/view-settings-2.webp)
+
+## Setting Default Push Notification Preferences
+
+Click **View Settings** to open the **Push Notification Settings** drawer. These are the community-wide defaults applied to any member who hasn't chosen their own preference yet, once a member changes a setting for themselves, their choice is kept and this default no longer applies to them.
+
+Three events are turned on by default:
+
+* **Notify when someone comments on their post**
+* **Notify when someone replies to their comment**
+* **Notify when someone mentions them**
+
+Uncheck any you don't want triggering a push notification by default, then click **Save Settings**. This takes you straight into FluentNotify's full settings screen, where you'll connect it to Firebase next.
+
+![The Push Notification Settings drawer with three default notification checkboxes and a Save Settings button](/images/portal-settings/push-notifications-with-firebase/enable-notification-settings-3.webp)
 
 ## Confirming New Posts Notifications Are Set Up
 
@@ -46,7 +60,6 @@ FluentNotify needs a set of credentials from a Firebase project to actually send
 ### Step 1: Create a Firebase Project
 
 Log in to the Firebase Console and click **Get started by setting up a Firebase project**.
-
 
 Enter a name for your project (for example, your community's name), accept the Firebase terms, and click **Continue**.
 
@@ -143,34 +156,36 @@ Keep this JSON handy — you'll paste it into FluentNotify shortly.
 
 3. In the confirmation pop-up, click **Generate key**.
 
-![The Generate new private key confirmation pop-up with the Generate key button](/images/portal-settings/push-notifications-with-firebase/generate-key-14.webp)
+![The Generate new private key ](/images/portal-settings/push-notifications-with-firebase/generate-key-14.webp)
 
 A `.json` file downloads to your computer. Keep it safe. Firebase can't regenerate this exact file if you lose it, and it grants access to your project's Firebase services.
 
 ## Connecting Firebase to FluentNotify
 
-Back in your WordPress dashboard, open **FluentNotify → Settings** (the **View Settings** button from earlier).
+After you save your default push notification preferences, you land on FluentNotify's full **Settings** screen. This is where you connect it to the Firebase project you just configured.
 
-1. **Paste** the **Firebase Config JSON** you copied in Step 3 into the **Firebase Config JSON** box. FluentNotify auto-fills the **API Key**, **Project ID**, **Messaging Sender ID**, and **App ID** fields from it, or you can enter each one manually.
-2. **Paste** your **VAPID Key** from Step 4 into its field.
-3. Under **Service Account Credentials**, drop the `.json` file you downloaded in Step 5 onto the upload area (or click to browse for it). This auto-fills the **Private Key**, **Client Email**, and **Token URI** fields.
-4. Check **Enable Push Notifications**.
+1. At the top of the page, turn on the **Enable Push Notifications** toggle. Nothing is sent while it's off, but your credentials are kept either way, so it's safe to turn on before you finish the rest of the form.
+2. Under **Web app config**, **paste** the **Firebase Config JSON** you copied in Step 3 into the box. FluentNotify auto-fills the **API Key**, **Project ID**, **Messaging Sender ID**, and **App ID** fields from it, or you can enter each one manually.
+3. Under **Web Push certificate**, **paste** your **VAPID Key** from Step 4 into the **Key pair** field.
+4. Under **Service account**, drop the `.json` file you downloaded in Step 5 onto the upload area (or click to browse for it). This auto-fills the **Private Key**, **Client Email**, and **Token URI** fields.
 5. Click the **Save Settings** button.
 
-> [!Note]
-> All five Firebase fields (API Key, Project ID, Messaging Sender ID, App ID, VAPID Key) plus the three service-account fields are required, **FluentNotify** won't send notifications until every one of them is filled in.
+Each panel shows a live count as you fill in its fields (e.g., "4 of 4"), and once everything is saved, the page header shows **Configuration complete** and **Notifications enabled**.
 
-![Configure Firebase to FluentNotify](/images/portal-settings/push-notifications-with-firebase/settings-12.webp)
+> [!Note]
+> All five Firebase fields (API Key, Project ID, Messaging Sender ID, App ID, VAPID Key) plus the three service-account fields are required, **FluentNotify** won't send notifications until every one of them is filled in and **Enable Push Notifications** is on.
+
+![The FluentNotify Settings ](/images/portal-settings/push-notifications-with-firebase/settings-12.webp)
 
 ## Notification Defaults
 
-Below the connection settings, **Notification Defaults** controls the fallback icon and link used whenever an individual notification doesn't specify its own:
+Below the connection settings, **Notification Defaults** controls the fallback icon, badge, and link used whenever a campaign doesn't set its own:
 
-- **Default Icon URL** — shown next to the notification text. A square PNG of at least 192×192px works best. Leave it blank to use your site icon.
+- **Default Icon URL** — shown next to the notification text. A square PNG of at least 192×192px works best.
 - **Default Badge URL** — Android only. A small monochrome PNG shown in the status bar. Optional.
-- **Default Click URL** — where the notification opens if it has no link of its own. Leave it blank to use your homepage.
+- **Default Click URL** — where the notification opens when it has no link of its own.
 
-Click **Save Defaults** to apply.
+Two buttons sit at the bottom: **Send test to me** sends a preview notification using these defaults to your own device, and **Save Settings** applies the changes.
 
 ![The Notification Defaults panel](/images/portal-settings/push-notifications-with-firebase/notification-defult-13.webp)
 
@@ -188,7 +203,7 @@ Once connected, members who grant browser notification permission get a real pus
 
 Inside the community itself, the same activity also appears in the in-app bell dropdown:
 
-![The Recent Notifications dropdown showing a comment alert](/images/portal-settings/push-notifications-with-firebase/notification-14.webp)
+![The Recent Notifications](/images/portal-settings/push-notifications-with-firebase/notification-14.webp)
 
 > [!Tip]
 > For the full breakdown of the bell dropdown's Recent, Unread, Mentions, and Following tabs, see [In-App Notification Settings](/in-app-notification-settings).
