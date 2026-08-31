@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { zoomablePlugin } from './theme/plugin-zoomable'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -17,6 +18,13 @@ export default defineConfig({
   // (e.g. docs/gamification-(pro)/configuring-the-points-system.md -> /configuring-the-points-system).
   // Using a function avoids path-to-regexp parsing of '&' and '()' in folder/file names.
   rewrites: (id: string) => id.replace(/^[^/]+\//, ''),
+
+  // Wrap every markdown image in <ZoomableImage> so it can be clicked to zoom.
+  markdown: {
+    config: (md) => {
+      md.use(zoomablePlugin)
+    }
+  },
 
   head: [
     ['link', { rel: 'shortcut icon', type: 'image/png', href: '/images/brand/fluentCommunity_primary_icon.png' }],
