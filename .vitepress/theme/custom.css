@@ -30,3 +30,47 @@
   background: var(--vp-c-brand-soft) !important;
   border-radius: 12px;
 }
+
+/* ---------------------------------------------------------------------------
+   Homepage aurora (see components/HomeAurora.vue)
+   --------------------------------------------------------------------------- */
+
+/* Light: the deep brand tones read well against a white ground. */
+:root {
+  --fc-aurora-1: #5145e6;
+  --fc-aurora-2: #8a7cff;
+  --fc-aurora-3: #b15cff;
+  --fc-aurora-4: #5b8def;
+  --fc-aurora-opacity: 0.42;
+}
+
+/* Dark: the deep end has too little luminance against near-black, so use the
+   light end of the same hues and lift the intensity. */
+.dark {
+  --fc-aurora-1: #7c70ff;
+  --fc-aurora-2: #a094ff;
+  --fc-aurora-3: #c47aff;
+  --fc-aurora-4: #6ea8ff;
+  --fc-aurora-opacity: 0.5;
+}
+
+/* The aurora sits at z-index 0, above the opaque `body` background. The home
+   content has to stop painting its own background over it and lift above it. */
+.VPContent.is-home {
+  position: relative;
+  z-index: 1;
+  background-color: transparent;
+}
+.VPHome {
+  background-color: transparent;
+}
+
+/* Glass feature cards so the wash reads through the grid instead of stopping at it. */
+.VPHome .VPFeature {
+  background-color: color-mix(in srgb, var(--vp-c-bg-soft) 72%, transparent);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+.dark .VPHome .VPFeature {
+  background-color: color-mix(in srgb, var(--vp-c-bg-soft) 62%, transparent);
+}
