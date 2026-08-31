@@ -1,6 +1,6 @@
 ---
 title: Members & Profiles
-description: An overview of member management in FluentCommunity. Learn about user profiles, the member directory, and the role system that powers your community.
+description: Member management in FluentCommunity. Covers user profiles, the member directory, and the role system that powers your community.
 ---
 
 # Members & Profiles

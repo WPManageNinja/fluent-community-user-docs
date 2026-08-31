@@ -1,6 +1,6 @@
 ---
 title: Creating A New Space
-description: Learn how to create a new Space in FluentCommunity. A Space acts as a dedicated group, forum, or hub for a specific topic or user segment.
+description: Create a new Space in FluentCommunity. A Space acts as a dedicated group, forum, or hub for a specific topic or user segment.
 ---
 
 # Creating A New Space

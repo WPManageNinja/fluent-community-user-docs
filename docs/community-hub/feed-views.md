@@ -1,6 +1,6 @@
 ---
 title: Feed Views
-description: An overview of the Card, List, and Timeline feed views in FluentCommunity and how to switch between them to browse activity your way.
+description: The Card, List, and Timeline feed views in FluentCommunity and how to switch between them to browse activity your way.
 ---
 
 # Feed Views

@@ -1,6 +1,6 @@
 ---
 title: Managing User Profiles
-description: Learn how members can edit their own profiles in FluentCommunity and how administrators can manage user details, verify accounts, and assign badges from the back-end.
+description: How members edit their own FluentCommunity profiles, and how admins manage user details, verify accounts, and assign badges from the back end.
 ---
 
 # Managing User Profiles

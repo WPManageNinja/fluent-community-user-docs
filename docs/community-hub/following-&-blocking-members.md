@@ -1,6 +1,6 @@
 ---
 title: Following & Blocking Members
-description: Learn how to enable and use the Follower module in FluentCommunity so members can follow, unfollow, and block one another for a personalized, safer experience.
+description: Enable and use the Follower module in FluentCommunity so members can follow, unfollow, and block one another for a personalized, safer experience.
 ---
 
 # Following & Blocking Members
