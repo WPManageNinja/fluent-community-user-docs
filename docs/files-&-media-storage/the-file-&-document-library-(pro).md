@@ -1,6 +1,6 @@
 ---
 title: The File & Document Library (Pro)
-description: Learn how to securely upload, manage, and share documents in FluentCommunity — both in Spaces, where you control who can view and upload, and in Course Lessons, where files are protected for enrolled students.
+description: Upload, manage, and share documents in FluentCommunity Spaces and Course Lessons, with permission control over who can view and upload each file.
 ---
 
 # The File & Document Library (Pro)

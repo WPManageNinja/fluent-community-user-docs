@@ -1,6 +1,6 @@
 ---
 title: Adding Custom CSS & JavaScript
-description: Learn how to add custom CSS and JavaScript to your FluentCommunity portal, using either the built-in editor or a PHP snippet plugin for advanced control.
+description: Add custom CSS and JavaScript to your FluentCommunity portal, using either the built-in editor or a PHP snippet plugin for advanced control.
 ---
 
 # Adding Custom CSS & JavaScript
