@@ -3,8 +3,8 @@ import { zoomablePlugin } from './theme/plugin-zoomable'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "FluentCommunity",
-  description: "The official documentation for the FluentCommunity WordPress plugin.",
+  title: "FluentCommunity Docs",
+  description: "The official documentation for the FluentCommunity Plugin for WordPress.",
   srcDir: 'docs',
   cleanUrls: true,
 
