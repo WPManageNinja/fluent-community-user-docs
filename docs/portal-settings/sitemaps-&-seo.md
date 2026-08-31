@@ -1,6 +1,6 @@
 ---
 title: Sitemaps & SEO
-description: Learn how FluentCommunity generates an XML sitemap of your public content so search engines like Google and Bing can discover and index your spaces, courses, and discussions.
+description: FluentCommunity generates an XML sitemap of your public content so Google and Bing can discover and index your spaces, courses, and discussions.
 ---
 
 # Sitemaps & SEO
