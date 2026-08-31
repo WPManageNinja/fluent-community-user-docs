@@ -1,6 +1,6 @@
 ---
 title: Installation & Activation
-description: Learn how to install and activate the FluentCommunity plugin on your WordPress site, for both the free and pro versions.
+description: Install and activate the FluentCommunity plugin on your WordPress site, for both the free and pro versions.
 ---
 
 # Installation & Activation

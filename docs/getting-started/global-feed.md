@@ -1,6 +1,6 @@
 ---
 title: Global Feed
-description: Get familiar with the FluentCommunity Global Feed — the community homepage where posts, discussions, and activity come together, with a tour of the header, sidebars, and feed controls.
+description: The FluentCommunity Global Feed is your community homepage. Tour the header, sidebars, and feed controls that bring posts, discussions, and activity together.
 ---
 
 # Global Feed
