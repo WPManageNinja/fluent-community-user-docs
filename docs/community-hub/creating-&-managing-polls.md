@@ -1,6 +1,6 @@
 ---
 title: Creating & Managing Polls
-description: Learn how to create and manage polls in FluentCommunity to gather feedback and collect valuable insights from your community members.
+description: Create and manage polls in FluentCommunity to gather feedback and collect valuable insights from your community members.
 ---
 
 # Creating & Managing Polls

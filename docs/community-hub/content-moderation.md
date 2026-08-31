@@ -1,6 +1,6 @@
 ---
 title: Content Moderation
-description: Learn how to use the content moderation tools in FluentCommunity to manage reported posts and comments, ensuring a safe and positive environment for your members.
+description: Use FluentCommunity content moderation tools to review and act on reported posts and comments, keeping your community safe for every member.
 ---
 
 # Content Moderation

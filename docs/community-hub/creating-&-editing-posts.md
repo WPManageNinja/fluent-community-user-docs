@@ -1,6 +1,6 @@
 ---
 title: Creating & Editing Posts
-description: Learn how to create and edit posts in FluentCommunity. Share rich text, images, videos, and other media to engage your community members.
+description: Create and edit posts in FluentCommunity. Share rich text, images, videos, and other media to engage your community members.
 ---
 
 # Creating & Editing Posts
