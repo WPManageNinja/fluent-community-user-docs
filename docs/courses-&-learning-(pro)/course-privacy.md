@@ -1,6 +1,6 @@
 ---
 title: Course Privacy
-description: Learn how to set the privacy of a course in FluentCommunity as Public, Private, or Secret, and how to customize the lock screen for restricted courses.
+description: Set the privacy of a course in FluentCommunity as Public, Private, or Secret, and customize the lock screen for restricted courses.
 ---
 
 # Course Privacy

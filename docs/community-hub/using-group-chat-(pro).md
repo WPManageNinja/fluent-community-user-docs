@@ -1,6 +1,6 @@
 ---
 title: Using Group Chat (Pro)
-description: Learn how to enable and use the real-time Group Chat feature within Spaces in FluentCommunity to foster instant communication among your members.
+description: Enable and use the real-time Group Chat feature within Spaces in FluentCommunity to foster instant communication among your members.
 ---
 
 # Using Group Chat (Pro)

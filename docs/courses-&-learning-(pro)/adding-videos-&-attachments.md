@@ -1,6 +1,6 @@
 ---
 title: Adding Videos & Attachments
-description: Learn how to add video content and downloadable file attachments to your lessons in FluentCommunity to create a rich multimedia learning experience.
+description: Add video content and downloadable file attachments to your lessons in FluentCommunity to create a rich multimedia learning experience.
 ---
 
 # Adding Videos & Attachments

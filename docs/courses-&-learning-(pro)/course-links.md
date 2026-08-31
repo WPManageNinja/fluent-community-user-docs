@@ -1,6 +1,6 @@
 ---
 title: Course Links
-description: Learn how to add custom links to a course in FluentCommunity, complete with icons, visibility rules, and new-tab behavior, right from the course navbar.
+description: Add custom links to a course in FluentCommunity, complete with icons, visibility rules, and new-tab behavior, right from the course navbar.
 ---
 
 # Course Links
