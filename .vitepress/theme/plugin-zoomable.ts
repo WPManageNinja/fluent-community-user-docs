@@ -34,9 +34,11 @@ export function zoomablePlugin(md: MarkdownRenderer) {
       return defaultRender(tokens, idx, options, env, self);
     }
 
-    // Use explicit closing tag with the image inside as a child element
-    // This ensures SSR and client rendering produce the exact same HTML
-    // The wrapper div creates a proper block boundary
-    return `<ClientOnly><ZoomableImage src="${escapeAttr(src)}" alt="${escapeAttr(alt)}"></ZoomableImage></ClientOnly>`;
+    // Rendered server-side (NOT wrapped in <ClientOnly>) so the <img> and its alt
+    // text are present in the static HTML for crawlers and social scrapers.
+    // ZoomableImage uses <span> wrappers precisely so this is valid inside the <p>
+    // markdown puts an image in, and so SSR and client markup match for hydration.
+    // Explicit closing tag keeps SSR and client output byte-identical.
+    return `<ZoomableImage src="${escapeAttr(src)}" alt="${escapeAttr(alt)}"></ZoomableImage>`;
   };
 }

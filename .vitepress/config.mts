@@ -1,16 +1,32 @@
 import { defineConfig } from 'vitepress'
 import { zoomablePlugin } from './theme/plugin-zoomable'
 
+// Canonical origin for this site. Stated once and reused by the sitemap, the
+// canonical links, and the absolute og:/twitter: URLs below — changing the host
+// should only ever mean editing this line.
+const SITE_URL = 'https://docs.fluentcommunity.co'
+const SITE_NAME = 'FluentCommunity Docs'
+const SITE_DESCRIPTION =
+  'Official documentation for FluentCommunity — the all-in-one community, courses, and membership platform for WordPress. Setup guides, feature walkthroughs, and developer reference.'
+// Social share card. Must be an absolute URL — relative paths are ignored by
+// Slack/X/LinkedIn/Facebook scrapers.
+const OG_IMAGE = `${SITE_URL}/og-image.png`
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "FluentCommunity Docs",
-  description: "Official documentation for FluentCommunity — the all-in-one community, courses, and membership platform for WordPress. Setup guides, feature walkthroughs, and developer reference.",
+  title: SITE_NAME,
+  description: SITE_DESCRIPTION,
   srcDir: 'docs',
   cleanUrls: true,
+  lang: 'en-US',
+
+  // Surfaces a git-derived timestamp per page, which also gives every sitemap
+  // entry a <lastmod> freshness signal.
+  lastUpdated: true,
 
   // Generates /sitemap.xml at build time for search engines.
   sitemap: {
-    hostname: 'https://docs.fluentcommunity.co'
+    hostname: SITE_URL
   },
 
   // Serve every article at the site root, hiding its category folder from the URL.
@@ -26,8 +42,27 @@ export default defineConfig({
     }
   },
 
+  // Site-wide tags. Per-page tags (canonical, og:title/description/url, twitter:*)
+  // are generated in transformPageData() below.
   head: [
     ['link', { rel: 'shortcut icon', type: 'image/png', href: '/images/brand/fluentCommunity_primary_icon.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/images/brand/fluentCommunity_primary_icon.png' }],
+    ['meta', { name: 'theme-color', content: '#5145e6' }],
+
+    // Open Graph / Twitter values that never vary per page.
+    ['meta', { property: 'og:site_name', content: SITE_NAME }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:locale', content: 'en_US' }],
+    ['meta', { property: 'og:image', content: OG_IMAGE }],
+    ['meta', { property: 'og:image:width', content: '1200' }],
+    ['meta', { property: 'og:image:height', content: '630' }],
+    ['meta', { property: 'og:image:alt', content: 'FluentCommunity Documentation' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:image', content: OG_IMAGE }],
+
+    // Add a Search Console verification tag here when the property is claimed:
+    // ['meta', { name: 'google-site-verification', content: '<token>' }],
+
     ['style', {}, `
       .VPHomeHero {
         text-align: center !important;
@@ -50,6 +85,33 @@ export default defineConfig({
       }
     `],
   ],
+
+  // Per-page SEO tags: canonical URL plus the Open Graph / Twitter values that
+  // differ per page. Without a canonical, cleanUrls + the `rewrites` flattening
+  // leave the same content reachable at more than one path with nothing telling
+  // search engines which one is authoritative.
+  transformPageData(pageData) {
+    // `relativePath` is already the REWRITTEN (flattened) path, so it matches the
+    // public URL — see the `rewrites` option above.
+    const slug = pageData.relativePath
+      .replace(/(^|\/)index\.md$/, '$1')
+      .replace(/\.md$/, '')
+    const url = `${SITE_URL}/${slug}`
+
+    const title = pageData.frontmatter.title || pageData.title || SITE_NAME
+    const description =
+      pageData.frontmatter.description || pageData.description || SITE_DESCRIPTION
+
+    pageData.frontmatter.head ??= []
+    pageData.frontmatter.head.push(
+      ['link', { rel: 'canonical', href: url }],
+      ['meta', { property: 'og:title', content: title }],
+      ['meta', { property: 'og:description', content: description }],
+      ['meta', { property: 'og:url', content: url }],
+      ['meta', { name: 'twitter:title', content: title }],
+      ['meta', { name: 'twitter:description', content: description }]
+    )
+  },
 
   // Theme related configurations
   // https://vitepress.dev/reference/default-theme-config

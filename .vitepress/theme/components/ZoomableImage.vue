@@ -1,16 +1,24 @@
+<!--
+  NOTE: every wrapper is a <span>, not a <div>, and is given `display: block` in CSS.
+  Markdown renders a standalone image as `<p><img></p>`, so this component is
+  server-rendered inside a <p>. A <div> there is invalid HTML — the browser's parser
+  would auto-close the <p> and produce a DOM that doesn't match what Vue rendered,
+  breaking hydration. Spans are phrasing content, so they are legal inside <p> and
+  the parsed DOM matches the SSR output exactly. Keep these as spans.
+-->
 <template>
-  <div ref="wrapperRef" class="image-wrapper">
-    <div
+  <span ref="wrapperRef" class="image-wrapper">
+    <span
       class="image-container"
       :class="{ clicked: isZoomed }"
       @click.stop="toggleZoom"
     >
-      <div class="image-padding-wrapper">
+      <span class="image-padding-wrapper">
         <img ref="imgRef" :src="src" :alt="alt" :key="src" loading="lazy" />
-      </div>
-    </div>
-    <div v-if="isZoomed" class="overlay" @click.stop="toggleZoom"></div>
-  </div>
+      </span>
+    </span>
+    <span v-if="isZoomed" class="overlay" @click.stop="toggleZoom"></span>
+  </span>
 </template>
 
 <script setup>
@@ -178,18 +186,23 @@ onBeforeUnmount(() => {
 </script>
 
 <style>
+/* All four wrappers are <span> (see the note on the template) so they are legal
+   inside the <p> markdown wraps images in; display:block restores block layout. */
 .image-wrapper {
+  display: block;
   position: relative;
   width: 100%;
   margin: 16px 0;
 }
 
 .image-container {
+  display: block;
   position: relative;
   z-index: 1;
 }
 
 .image-padding-wrapper {
+  display: block;
   padding: 0;
   transition: padding 0.3s ease;
 }
@@ -220,6 +233,7 @@ onBeforeUnmount(() => {
 }
 
 .overlay {
+  display: block;
   position: fixed;
   top: 0;
   left: 0;
