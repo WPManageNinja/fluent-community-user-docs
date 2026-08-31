@@ -1,11 +1,11 @@
 ---
 title: Connecting Cloudflare R2 (Pro)
-description: A complete guide to setting up CloudFlare R2 with FluentCommunity — creating and configuring an R2 bucket, generating API tokens, and setting up the plugin.
+description: A complete guide to setting up Cloudflare R2 with FluentCommunity — creating and configuring an R2 bucket, generating API tokens, and setting up the plugin.
 ---
 
-# Configuring CloudFlare R2
+# Connecting Cloudflare R2 (Pro)
 
-This comprehensive guide will walk you through the entire process of setting up CloudFlare R2 to work with the FluentCommunity Plugin. We'll cover how to create and configure an R2 bucket, generate API tokens, and set up the plugin's settings.
+This comprehensive guide will walk you through the entire process of setting up Cloudflare R2 to work with the FluentCommunity Plugin. We'll cover how to create and configure an R2 bucket, generate API tokens, and set up the plugin's settings.
 
 Follow these steps to set up Cloudflare R2 with your FluentCommunity.
 
@@ -19,7 +19,7 @@ Alternatively, you can find your **Account ID** in the **URL** of your Cloudflar
 
 ![The Cloudflare Account ID shown in the browser URL](/images/files-media-storage/connecting-cloudflare-r2/CF-Account-ID-3.png)
 
-### Create a CloudFlare R2 Bucket (Bucket Name & Public URL)
+### Create a Cloudflare R2 Bucket (Bucket Name & Public URL)
 
 Navigate to **R2 Object Storage** from the left sidebar, find **Overview** under R2 Object Storage, and click on it. Now click on the **Create Bucket** button to create a bucket.
 
@@ -97,11 +97,11 @@ Now access FluentCommunity and go to **Settings > Features & Addons**. Here you 
 
 Next, select **Cloudflare R2** and enter the credentials you collected from your Cloudflare account in the earlier steps of this guide.
 
-**Cloudflare Account ID:** Input your CloudFlare Account ID.
+**Cloudflare Account ID:** Input your Cloudflare Account ID.
 
-**Cloudflare Access Key:** Paste the Access Key you got earlier from your CloudFlare API token.
+**Cloudflare Access Key:** Paste the Access Key you got earlier from your Cloudflare API token.
 
-**Cloudflare Secret Key:** Enter the Secret Key from your CloudFlare API token.
+**Cloudflare Secret Key:** Enter the Secret Key from your Cloudflare API token.
 
 **Cloudflare Bucket Name:** Enter the name of the R2 bucket you created.
 
@@ -115,10 +115,10 @@ Once all fields are filled in correctly, click the **Save Settings** button to s
 
 ### Additional Configuration (Optional)
 
-For more advanced setups, you can define your CloudFlare R2 settings in your wp-config.php file. This method provides an extra layer of security and is useful for managing configurations across different environments.
+For more advanced setups, you can define your Cloudflare R2 settings in your wp-config.php file. This method provides an extra layer of security and is useful for managing configurations across different environments.
 
 ```php
-// CloudFlare R2 Configuration
+// Cloudflare R2 Configuration
 
 define('FLUENT_COMMUNITY_CLOUD_STORAGE', 'cloudflare_r2');
 
@@ -145,4 +145,4 @@ Defining these values in wp-config.php will override any settings configured in 
 
 2. Incorrect Bucket or URL: Double-check that your bucket name and public URL are accurate and correctly configured.
 
-3. Custom Domain Setup: If using a custom domain, confirm it is properly configured in CloudFlare to avoid connectivity issues.
+3. Custom Domain Setup: If using a custom domain, confirm it is properly configured in Cloudflare to avoid connectivity issues.

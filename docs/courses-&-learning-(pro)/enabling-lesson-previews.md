@@ -1,6 +1,6 @@
 ---
 title: Enabling Lesson Previews
-description: Learn how to use the Free Preview Lesson option in FluentCommunity to let public users view a lesson without enrolling in the course.
+description: Use the Free Preview Lesson option in FluentCommunity to let public users view a lesson without enrolling in the course.
 ---
 
 # Enabling Lesson Previews

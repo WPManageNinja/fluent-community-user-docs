@@ -1,9 +1,9 @@
 ---
 title: CDN & Image Proxy Setup (Pro)
-description: Learn how to configure BunnyCDN with FluentCommunity — through the plugin's UI or the wp-config.php file — to store data online and reduce site storage usage.
+description: Configure BunnyCDN with FluentCommunity — through the plugin's UI or the wp-config.php file — to store data online and reduce site storage usage.
 ---
 
-# Configuring BunnyCDN
+# CDN & Image Proxy Setup (Pro)
 
 FluentCommunity now integrates with BunnyCDN, allowing you to store data online and reduce site storage usage.
 

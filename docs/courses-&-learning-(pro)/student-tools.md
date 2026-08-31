@@ -1,6 +1,6 @@
 ---
 title: Student Tools
-description: An overview of the tools available to enhance the student learning experience in FluentCommunity, including free lesson previews and interactive quizzes.
+description: The tools available to enhance the student learning experience in FluentCommunity, including free lesson previews and interactive quizzes.
 ---
 
 # Student Tools

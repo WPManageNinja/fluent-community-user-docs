@@ -1,6 +1,6 @@
 ---
 title: Structuring Lessons & Modules
-description: Learn how to structure your FluentCommunity course by organizing content into Sections and adding individual Lessons with rich text, videos, and attachments.
+description: Structure your FluentCommunity course by organizing content into Sections and adding individual Lessons with rich text, videos, and attachments.
 ---
 
 # Structuring Lessons & Modules

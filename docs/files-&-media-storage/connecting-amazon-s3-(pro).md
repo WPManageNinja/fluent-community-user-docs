@@ -1,9 +1,9 @@
 ---
 title: Connecting Amazon S3 (Pro)
-description: Learn how to integrate your Amazon S3 bucket with FluentCommunity to store media files externally, reducing your site's load and maintaining its storage health.
+description: Integrate your Amazon S3 bucket with FluentCommunity to store media files externally, reducing your site's load and maintaining its storage health.
 ---
 
-# Configuring Amazon S3
+# Connecting Amazon S3 (Pro)
 
 You can integrate your Amazon S3 bucket with FluentCommunity to store media files externally, reducing your site's load and maintaining its storage health.
 

@@ -1,6 +1,6 @@
 ---
 title: Using the Quiz Module
-description: Learn how to create and manage quizzes in FluentCommunity to test your students' knowledge, set passing grades, and make your courses more interactive.
+description: Create and manage quizzes in FluentCommunity to test your students' knowledge, set passing grades, and make your courses more interactive.
 ---
 
 # Using the Quiz Module

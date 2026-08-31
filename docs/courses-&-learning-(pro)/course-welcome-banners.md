@@ -1,6 +1,6 @@
 ---
 title: Course Welcome Banners
-description: Learn how to set up Course Welcome Banners in FluentCommunity — one message for enrolled students and a separate landing-page style message for visitors who haven't joined yet.
+description: Set up Course Welcome Banners in FluentCommunity — one message for enrolled students, another landing-page style message for visitors who have not joined.
 ---
 
 # Course Welcome Banners
