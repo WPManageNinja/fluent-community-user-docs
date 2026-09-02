@@ -160,6 +160,9 @@ Keep this JSON handy — you'll paste it into FluentNotify shortly.
 
 A `.json` file downloads to your computer. Keep it safe. Firebase can't regenerate this exact file if you lose it, and it grants access to your project's Firebase services.
 
+> [!Important]
+> Keep your service account JSON file safe. You can only download the JSON key when it is created. If you lose the file, you will need to generate a new key from your service account and replace the old key in FluentCommunity.
+
 ## Connecting Firebase to FluentNotify
 
 After you save your default push notification preferences, you land on FluentNotify's full **Settings** screen. This is where you connect it to the Firebase project you just configured.
