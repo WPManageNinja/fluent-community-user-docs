@@ -1,6 +1,6 @@
 ---
 title: Introduction to FluentCommunity
-description: Learn about FluentCommunity - a powerful WordPress plugin for building online communities. Discover key features, use cases, and what makes it the perfect solution for course creators, businesses, and membership sites.
+description: FluentCommunity turns WordPress into a full community platform. Explore its key features, use cases, and who it is built for.
 ---
 
 # Introduction to FluentCommunity
@@ -10,10 +10,6 @@ Welcome to FluentCommunity!
 FluentCommunity is a powerful and lightweight WordPress plugin that allows you to build a thriving, fully-featured online community directly on your website. It's an all-in-one solution designed to help you connect with your audience, increase engagement, and create a loyal following around your brand, product, or passion.
 
 Whether you're looking to build a social network, a support forum, a learning hub, or a private members-only area, FluentCommunity provides all the tools you need in a single, easy-to-use package.
-
-<VideoEmbed id="HYFKUxaW9jU" title="Introducing All-in-One WordPress Community Builder Plugin (Module 1)" />
-
-<VideoEmbed id="xfbnwoXYTew" title="What's Inside FluentCommunity? Take a Peek!" />
 
 <VideoEmbed id="ktM2VWIZ-Uo" title="FluentCommunity: The Fastest Community Plugin for WordPress" />
 

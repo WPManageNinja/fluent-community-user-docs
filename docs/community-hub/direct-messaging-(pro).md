@@ -1,6 +1,6 @@
 ---
 title: Direct Messaging (Pro)
-description: Learn how to use Direct Messaging in FluentCommunity to send private one-on-one messages, share media, and manage conversations with other members.
+description: Use Direct Messaging in FluentCommunity to send private one-on-one messages, share media, and manage conversations with other members.
 ---
 
 # Direct Messaging (Pro)

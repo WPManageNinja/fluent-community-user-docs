@@ -1,6 +1,6 @@
 ---
 title: Space Media Gallery (Pro)
-description: Learn how to enable and use the Media Gallery in a FluentCommunity Space — an automatic, browsable grid of every photo and video shared in that Space, with per-Space view permissions.
+description: Enable the Media Gallery in a FluentCommunity Space — a browsable grid of every photo and video shared there, with per-Space view permissions.
 ---
 
 # Space Media Gallery (Pro)

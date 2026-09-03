@@ -1,6 +1,6 @@
 ---
 title: Portal Access Settings
-description: Learn how to control who can access your FluentCommunity portal using access levels, custom login pages, redirect URLs, and role-based restrictions.
+description: Control who can access your FluentCommunity portal using access levels, custom login pages, redirect URLs, and role-based restrictions.
 ---
 
 # Portal Access Settings

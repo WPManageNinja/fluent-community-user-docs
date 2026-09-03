@@ -1,6 +1,6 @@
 ---
 title: Color Customization
-description: Learn how to customize the colors of your FluentCommunity portal, including the navbar, sidebar, feed, buttons, and text, for both Light and Dark modes.
+description: Customize the colors of your FluentCommunity portal, including the navbar, sidebar, feed, buttons, and text, for both Light and Dark modes.
 ---
 
 # Color Customization

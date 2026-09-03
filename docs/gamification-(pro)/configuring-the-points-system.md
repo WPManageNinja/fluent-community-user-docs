@@ -1,6 +1,6 @@
 ---
 title: Configuring The Points System
-description: Learn how to set up and configure the points system in FluentCommunity to reward members for specific actions like posting, commenting, and reacting.
+description: Set up and configure the points system in FluentCommunity to reward members for specific actions like posting, commenting, and reacting.
 ---
 
 # Configuring The Points System

@@ -1,6 +1,6 @@
 ---
 title: Community as Homepage
-description: Learn how to make your FluentCommunity portal your website's homepage, or give it a cleaner, more professional URL.
+description: Make your FluentCommunity portal your website's homepage, or give it a cleaner, more professional URL.
 ---
 
 # Community as Homepage

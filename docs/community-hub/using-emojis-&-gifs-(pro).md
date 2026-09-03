@@ -1,6 +1,6 @@
 ---
 title: Using Emojis & Gifs (Pro)
-description: Learn how to use the built-in Emoji Picker and Giphy integration in FluentCommunity to make your posts, comments, and chats more expressive and engaging.
+description: Use the built-in Emoji Picker and Giphy integration in FluentCommunity to make your posts, comments, and chats more expressive and engaging.
 ---
 
 # Using Emojis & Gifs (Pro)

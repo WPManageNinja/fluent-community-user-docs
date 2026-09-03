@@ -1,6 +1,6 @@
 ---
 title: Admin Dashboard
-description: Learn how to navigate and use the FluentCommunity admin dashboard - your central hub for managing all community settings, features, and configurations.
+description: Navigate and use the FluentCommunity admin dashboard — your central hub for managing all community settings, features, and configurations.
 ---
 
 # Admin Dashboard

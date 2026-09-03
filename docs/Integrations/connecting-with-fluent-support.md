@@ -1,6 +1,6 @@
 ---
 title: Connecting with Fluent Support
-description: Learn how to integrate FluentCommunity with Fluent Support to route tickets by course, give agents community context, and embed your support desk inside the community.
+description: Integrate FluentCommunity with Fluent Support to route tickets by course, give agents community context, and embed your support desk in the community.
 ---
 
 # Connecting with Fluent Support

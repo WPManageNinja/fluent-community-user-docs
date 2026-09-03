@@ -1,9 +1,9 @@
 ---
 title: Space Settings & Privacy
-description: Learn how to configure the privacy, layout, and member access settings for your Spaces in FluentCommunity, including public, private, and secret types.
+description: Configure the privacy, layout, and member access settings for your Spaces in FluentCommunity, including public, private, and secret types.
 ---
 
-# Space Settings
+# Space Settings & Privacy
 
 Every Space in FluentCommunity is highly customizable. This guide walks you through the **General Settings** tab, where you control visibility, appearance, and functionality for each Space.
 

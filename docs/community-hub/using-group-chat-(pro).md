@@ -1,6 +1,6 @@
 ---
 title: Using Group Chat (Pro)
-description: Learn how to enable and use the real-time Group Chat feature within Spaces in FluentCommunity to foster instant communication among your members.
+description: Enable and use the real-time Group Chat feature within Spaces in FluentCommunity to foster instant communication among your members.
 ---
 
 # Using Group Chat (Pro)
@@ -8,8 +8,6 @@ description: Learn how to enable and use the real-time Group Chat feature within
 The **Group Chat** feature allows you to add a real-time chat room directly inside any Space. Unlike standard posts or comments, this is a live messaging channel where members can talk instantly—just like Slack or WhatsApp—but right inside your community.
 
 > **Use Case:** If you are running a live webinar or a virtual event, you can enable Group Chat for that specific Space. This gives attendees a place to discuss the event live with each other while watching, creating a buzz that static posts can't match.
-
-<VideoEmbed id="EYpBGN8NohM" title="Maximize Engagement with FluentCommunity Pro (Module 6)" />
 
 ## 1. Activate the Chat Feature
 

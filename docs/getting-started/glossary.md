@@ -3,7 +3,7 @@ title: Glossary
 description: Definitions for every term, feature name, role, and concept used across FluentCommunity — a reference for new and experienced community builders.
 ---
 
-# FluentCommunity Glossary
+# Glossary
 
 A reference for every term used across FluentCommunity. If you encounter an unfamiliar word in the documentation, find it here.
 

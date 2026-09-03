@@ -1,6 +1,6 @@
 ---
 title: Posts & Discussions
-description: An overview of how conversations work in FluentCommunity. Learn about posts, comments, replies, reactions, and mentions, the key tools for engagement.
+description: How conversations work in FluentCommunity. Covers posts, comments, replies, reactions, and mentions, the key tools for engagement.
 ---
 
 # Posts & Discussions

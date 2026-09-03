@@ -1,6 +1,6 @@
 ---
 title: Progressive Web App (PWA) (Pro)
-description: Turn your FluentCommunity portal into an installable app — enable the PWA module and configure the app name, short name, splash screen color, icon, and install button behavior.
+description: Turn your FluentCommunity portal into an installable app — enable the PWA module and set the app name, short name, splash color, icon, and install button.
 ---
 
 # Progressive Web App (PWA) (Pro)

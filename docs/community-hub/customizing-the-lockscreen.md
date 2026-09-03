@@ -1,6 +1,6 @@
 ---
 title: Customizing The Lockscreen
-description: Learn how to customize the lockscreen for your private and secret Spaces in FluentCommunity to encourage new member sign-ups and explain space benefits.
+description: Customize the lockscreen for your private and secret Spaces in FluentCommunity to encourage new member sign-ups and explain space benefits.
 ---
 
 # Customizing The Lockscreen

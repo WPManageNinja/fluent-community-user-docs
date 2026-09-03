@@ -1,6 +1,6 @@
 ---
 title: Course Layouts & Enrollment
-description: Learn how to configure the course layout (Classic or Modern) and set the enrollment type (Self-paced, Drip, or Scheduled) for your courses in FluentCommunity.
+description: Configure the course layout (Classic or Modern) and set the enrollment type (Self-paced, Drip, or Scheduled) for your courses in FluentCommunity.
 ---
 
 # Course Layouts & Enrollment

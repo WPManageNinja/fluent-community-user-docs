@@ -1,6 +1,6 @@
 ---
 title: Course Management
-description: An overview of the course creation process in FluentCommunity. Learn about building your course structure, adding content, and configuring key settings.
+description: The course creation process in FluentCommunity. Covers building your course structure, adding content, and configuring key settings.
 ---
 
 # Course Management

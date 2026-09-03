@@ -1,6 +1,6 @@
 ---
 title: Managing Access with FluentCRM Tags
-description: Learn how to gate access to FluentCommunity Spaces and Courses using FluentCRM tags, automatically enrolling and removing members as tags are applied or removed.
+description: Gate access to FluentCommunity Spaces and Courses with FluentCRM tags, enrolling and removing members automatically as tags are applied or removed.
 ---
 
 # Managing Access with FluentCRM Tags

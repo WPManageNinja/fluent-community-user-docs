@@ -1,9 +1,9 @@
 ---
 title: Creating & Assigning Badges
-description: Learn how to enable User Badges, create custom badge styles, and manage your active badge inventory in FluentCommunity.
+description: Enable User Badges, create custom badge styles, and manage your active badge inventory in FluentCommunity.
 ---
 
-# Creating and Assigning User Badges
+# Creating & Assigning Badges
 
 User Badges let you recognize and reward your members for their achievements, status, or contributions. When active, these badges display alongside user names and profile sections to provide instant community distinction.
 

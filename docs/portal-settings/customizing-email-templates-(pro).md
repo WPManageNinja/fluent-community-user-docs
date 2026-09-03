@@ -1,6 +1,6 @@
 ---
 title: Customizing Email Templates (Pro)
-description: Configure FluentCommunity Email Settings — the from name and address, reply-to details, email footer and smartcodes, header logo, and the default notification and weekly digest emails.
+description: Configure FluentCommunity email settings — from name and address, reply-to, footer smartcodes, header logo, and the default notification and digest emails.
 ---
 
 # Customizing Email Templates (Pro)

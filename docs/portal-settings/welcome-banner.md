@@ -1,6 +1,6 @@
 ---
 title: Welcome Banner
-description: Learn how to add a Welcome Banner to your FluentCommunity global feed — with image or video media, a title, description, and call-to-action buttons for both logged-in and logged-out visitors.
+description: Add a Welcome Banner to your FluentCommunity global feed with image or video media, a title, description, and call-to-action buttons for every visitor.
 ---
 
 # Welcome Banner

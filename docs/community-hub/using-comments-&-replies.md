@@ -1,6 +1,6 @@
 ---
 title: Using Comments & Replies
-description: Learn how to use comments and nested replies in FluentCommunity to foster conversations and engage in discussions under any post.
+description: Use comments and nested replies in FluentCommunity to foster conversations and engage in discussions under any post.
 ---
 
 # Using Comments & Replies

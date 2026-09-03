@@ -1,6 +1,6 @@
 ---
 title: Connecting with FluentCart
-description: Learn how to monetize your FluentCommunity Courses and Spaces by selling access through a deep, seamless integration with FluentCart.
+description: Monetize your FluentCommunity Courses and Spaces by selling access through a deep, seamless integration with FluentCart.
 ---
 
 # Connecting with FluentCart

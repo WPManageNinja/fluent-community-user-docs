@@ -1,6 +1,6 @@
 ---
 title: Communication
-description: An overview of how FluentCommunity communicates with your members through on-site notifications and automated emails to keep them engaged and informed.
+description: How FluentCommunity communicates with your members through on-site notifications and automated emails to keep them engaged and informed.
 ---
 
 # Communication

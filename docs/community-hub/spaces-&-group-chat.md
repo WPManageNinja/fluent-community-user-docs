@@ -1,6 +1,6 @@
 ---
 title: Spaces & Group Chat
-description: An overview of how to structure your community in FluentCommunity using Spaces, which act as dedicated groups, forums, or hubs for your members.
+description: How to structure your community in FluentCommunity using Spaces, which act as dedicated groups, forums, or hubs for your members.
 ---
 
 # Spaces & Group Chat

@@ -1,6 +1,6 @@
 ---
 title: The Analytics Dashboard
-description: Learn how to read the FluentCommunity Analytics reports — the Overview, Members, and Spaces tabs — to track growth, engagement, your most active members, and your busiest spaces.
+description: Read the FluentCommunity Analytics reports — Overview, Members, and Spaces — to track growth, engagement, your most active members, and busiest spaces.
 ---
 
 # The Analytics Dashboard

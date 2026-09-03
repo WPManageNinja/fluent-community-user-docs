@@ -1,6 +1,6 @@
 ---
 title: Other Integrations
-description: An overview of the third-party services FluentCommunity connects to outside the Fluent ecosystem, such as Pusher for real-time chat.
+description: The third-party services FluentCommunity connects to outside the Fluent ecosystem, such as Pusher for real-time chat.
 ---
 
 # Other Integrations

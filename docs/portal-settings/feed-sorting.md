@@ -1,6 +1,6 @@
 ---
 title: Feed Sorting
-description: Learn how to set the default sort order for your FluentCommunity feed — New Activity, Latest, Oldest, Popular, Likes, Alphabetical, or Unanswered — and how members sort posts themselves.
+description: Set the default sort order for your FluentCommunity feed — New Activity, Latest, Oldest, Popular, Likes, Alphabetical, or Unanswered — and let members re-sort.
 ---
 
 # Feed Sorting

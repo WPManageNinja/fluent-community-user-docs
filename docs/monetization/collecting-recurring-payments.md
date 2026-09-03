@@ -1,6 +1,6 @@
 ---
 title: Collecting Recurring Payments
-description: Learn how to collect recurring subscription payments for private Spaces and courses in FluentCommunity using Paymattic subscription forms.
+description: Collect recurring subscription payments for private Spaces and courses in FluentCommunity using Paymattic subscription forms.
 ---
 
 # Collecting Recurring Payments

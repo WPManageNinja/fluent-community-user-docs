@@ -1,6 +1,6 @@
 ---
 title: Social Links Customization
-description: Learn how admins control which social platforms members can add to their FluentCommunity profiles, and how members add and edit their own social links.
+description: How admins control which social platforms members can add to their FluentCommunity profiles, and how members add and edit their own social links.
 ---
 
 # Social Links Customization

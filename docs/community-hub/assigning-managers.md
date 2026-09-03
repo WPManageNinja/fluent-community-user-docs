@@ -1,6 +1,6 @@
 ---
 title: Assigning Managers
-description: Learn how to assign and manage Managers in FluentCommunity to give trusted users control over your Spaces and courses.
+description: Assign and manage Managers in FluentCommunity to give trusted users control over your Spaces and courses.
 ---
 
 # Assigning Managers

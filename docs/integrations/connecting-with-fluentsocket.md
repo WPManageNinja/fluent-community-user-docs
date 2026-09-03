@@ -1,6 +1,6 @@
 ---
 title: Connecting with FluentSocket
-description: Learn how to connect FluentSocket with FluentCommunity to power real-time chat, delivering messages and notifications to members instantly with no page refresh.
+description: Connect FluentSocket with FluentCommunity to power real-time chat, delivering messages and notifications to members instantly with no page refresh.
 ---
 
 # Connecting with FluentSocket

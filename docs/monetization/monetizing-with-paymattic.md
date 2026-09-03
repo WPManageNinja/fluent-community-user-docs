@@ -1,6 +1,6 @@
 ---
 title: Monetizing With Paymattic
-description: Learn how to monetize your Spaces and courses in FluentCommunity using Paymattic payment forms and a custom Lock Screen.
+description: Monetize your Spaces and courses in FluentCommunity using Paymattic payment forms and a custom Lock Screen.
 ---
 
 # Monetizing With Paymattic

@@ -11,8 +11,6 @@ FluentCommunity includes a built-in Learning Management System (LMS) so you can 
 
 <VideoEmbed id="ulHlAUPRdxU" title="How to Create Courses in FluentCommunity" />
 
-<VideoEmbed id="t-5Q5zU6tAs" title="How to Create and Monetize Courses in FluentCommunity (Module 5)" />
-
 ## Enable the Course Module
 
 The Courses feature is a **Pro** module. Turn it on before you create or manage any course content.

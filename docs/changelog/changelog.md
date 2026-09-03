@@ -7,6 +7,33 @@ description: All notable changes to the FluentCommunity WordPress plugin, newest
 
 All notable changes to **FluentCommunity** are documented here, newest first.
 
+## FluentCommunity v2.8.1
+
+*Released on Aug 20, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Verified Members Only Posting Option for Spaces
+• PWA Install Instructions for Non-Chromium Android and iOS
+```
+
+```markdown [🚀 Improvements]
+• Sidebar Link Row Layout and Truncated Title
+• Feed Customizer Mobile Responsiveness
+• Translator Context for Placeholder Strings
+```
+
+```markdown [🐞 Bug fixes]
+• MemberPress Blocking Portal Signup
+• English Source Strings Reported by Translators
+• Card Action Popover Menu Rendered Sideways
+• Stuck Popover on Space Member Actions
+• Sidebar Gap With PWA Install Button at Top
+```
+
+:::
+
 ## FluentCommunity v2.8.0
 
 *Released on Aug 19, 2026*

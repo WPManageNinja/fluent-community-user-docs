@@ -1,6 +1,6 @@
 ---
 title: Connecting With Paymattic
-description: Learn how to integrate FluentCommunity with Paymattic to collect payments and automatically add members to your paid Courses and VIP Spaces through payment or subscription forms.
+description: Integrate FluentCommunity with Paymattic to collect payments and automatically enroll members in paid Courses and VIP Spaces from your payment forms.
 ---
 
 # Connecting With Paymattic

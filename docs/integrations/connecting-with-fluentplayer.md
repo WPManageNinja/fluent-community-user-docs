@@ -1,6 +1,6 @@
 ---
 title: Connecting with FluentPlayer
-description: Learn how to connect FluentPlayer with FluentCommunity to deliver branded, customizable video and audio playback, style the player and audio tracks, and let members upload videos directly to your Spaces.
+description: Connect FluentPlayer with FluentCommunity for branded video and audio playback, custom player styling, and member video uploads straight into your Spaces.
 ---
 
 # Connecting with FluentPlayer

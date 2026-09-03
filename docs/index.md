@@ -1,6 +1,8 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: FluentCommunity Documentation
+description: Official FluentCommunity docs — set up spaces, courses, gamification, and payments to build a complete community and membership platform on WordPress.
 
 hero:
   name: "FluentCommunity"

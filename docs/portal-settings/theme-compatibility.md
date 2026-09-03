@@ -1,6 +1,6 @@
 ---
 title: Theme Compatibility
-description: Learn how to use FluentCommunity's Theme Compatibility feature to turn any WordPress page into part of your community portal and build custom templates with the FluentCommunity block.
+description: Theme Compatibility turns any WordPress page into part of your FluentCommunity portal, and lets you build custom templates with the FluentCommunity block.
 ---
 
 # Theme Compatibility

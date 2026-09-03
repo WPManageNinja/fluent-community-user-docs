@@ -1,6 +1,6 @@
 ---
 title: Monetizing Your Spaces
-description: Learn how to monetize a Space in FluentCommunity by setting it to Private, adding a custom Lock Screen, and connecting a Fluent Forms payment form.
+description: Monetize a Space in FluentCommunity by setting it to Private, adding a custom Lock Screen, and connecting a Fluent Forms payment form.
 ---
 
 # Monetizing Your Spaces
@@ -10,8 +10,6 @@ FluentCommunity lets you turn any Space into a paid, members-only area. The idea
 > **Use Case:** You run a coaching business and want to charge a one-time fee for access to your private "Inner Circle" Space. Non-members see a branded Lock Screen with a "Join Now" button that sends them to a Fluent Forms payment form, and paying customers are enrolled automatically.
 
 <VideoEmbed id="U0bSifllDW0" title="Profitable Community Spaces: A Guide to Monetizing FluentCommunity" />
-
-<VideoEmbed id="2ljBin8E0To" title="Convert Your Community into a Paid Membership Site" />
 
 ## Step 1: Set Up Your Space
 

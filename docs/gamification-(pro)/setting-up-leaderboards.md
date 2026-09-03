@@ -1,9 +1,9 @@
 ---
 title: Setting Up Leaderboards
-description: Learn how to enable leaderboards, configure level tiers, and exclude staff from rankings in FluentCommunity to drive long-term member engagement.
+description: Enable leaderboards, configure level tiers, and exclude staff from rankings in FluentCommunity to drive long-term member engagement.
 ---
 
-# Leaderboards & Levels
+# Setting Up Leaderboards
 
 Leaderboard Levels keep your members actively engaged over the long term. As users post, comment, and interact within the community, they earn points that automatically advance them through your customized milestone ranks.
 

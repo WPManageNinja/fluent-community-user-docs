@@ -1,6 +1,6 @@
 ---
 title: Connecting with FluentCRM
-description: Learn how to integrate FluentCommunity with FluentCRM to run email campaigns, build automations, and add or remove CRM contacts from your community Spaces and Courses.
+description: Integrate FluentCommunity with FluentCRM to run email campaigns, build automations, and add or remove CRM contacts from your Spaces and Courses.
 ---
 
 # Connecting with FluentCRM

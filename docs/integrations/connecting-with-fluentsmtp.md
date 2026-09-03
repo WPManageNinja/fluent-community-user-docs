@@ -1,6 +1,6 @@
 ---
 title: Connecting with FluentSMTP
-description: Learn how FluentSMTP improves the deliverability of every email FluentCommunity sends, how to set your sending identity, and how to choose which community notification emails go out.
+description: FluentSMTP improves deliverability for every email FluentCommunity sends. Set your sending identity and choose which community notifications go out.
 ---
 
 # Connecting with FluentSMTP

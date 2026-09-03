@@ -1,9 +1,9 @@
 ---
 title: The Media Module
-description: Learn how to select a media storage option in FluentCommunity — Server Storage, Cloudflare R2, Amazon S3, or BunnyCDN — for smoother media delivery on your site.
+description: Choose a media storage option in FluentCommunity — Server Storage, Cloudflare R2, Amazon S3, or BunnyCDN — for smoother media delivery on your site.
 ---
 
-# Media Module
+# The Media Module
 
 The Media Module controls where FluentCommunity stores the images, videos, and files your members upload. Choosing the right storage option keeps media loading quickly and stops uploads from filling up your server.
 
@@ -24,7 +24,7 @@ Under **Community Media Storage**, you can choose from four storage options:
 
 ![The Server Storage option in Community Media Storage](/images/files-media-storage/the-media-module/Media-Module-2.webp)
 
-**Cloudflare R2:** Cloudflare R2 is a cloud storage service you can use for your community media. To set it up, see the [Configuring CloudFlare R2](/connecting-cloudflare-r2-(pro)) guide.
+**Cloudflare R2:** Cloudflare R2 is a cloud storage service you can use for your community media. To set it up, see the [Configuring Cloudflare R2](/connecting-cloudflare-r2-(pro)) guide.
 
 ![The Cloudflare R2 storage option](/images/files-media-storage/the-media-module/Media-Module-3.webp)
 

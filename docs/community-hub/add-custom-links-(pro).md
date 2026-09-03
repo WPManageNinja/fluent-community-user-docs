@@ -1,6 +1,6 @@
 ---
 title: Add Custom Links (Pro)
-description: Learn how to create custom sidebar links in FluentCommunity using the Links space type. Add personalized navigation for members with visibility and menu group controls.
+description: Create custom sidebar links in FluentCommunity with the Links space type, adding member navigation with visibility and menu group controls.
 ---
 
 # Add Custom Links (Pro)

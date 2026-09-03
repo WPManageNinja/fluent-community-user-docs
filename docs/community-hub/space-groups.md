@@ -1,6 +1,6 @@
 ---
 title: Space Groups
-description: Learn how to organize your FluentCommunity Spaces into groups — creating a group with a title, slug, description, and visibility setting, then reordering, editing, and deleting groups.
+description: Organize FluentCommunity Spaces into groups — set a title, slug, description, and visibility, then reorder, edit, and delete groups as your community grows.
 ---
 
 # Space Groups

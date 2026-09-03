@@ -1,6 +1,6 @@
 ---
 title: Storage Configuration
-description: An overview of the media storage options in FluentCommunity, from using your local server to connecting high-performance cloud storage like Amazon S3 and Cloudflare R2.
+description: Media storage options in FluentCommunity, from your local server to high-performance cloud storage like Amazon S3, Cloudflare R2, and BunnyCDN.
 ---
 
 # Storage Configuration

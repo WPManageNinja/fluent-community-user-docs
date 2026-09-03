@@ -1,6 +1,6 @@
 ---
 title: Space Links
-description: Learn how to add, manage, and organize custom links inside a FluentCommunity Space so members have quick access to related resources.
+description: Add, manage, and organize custom links inside a FluentCommunity Space so members have quick access to related resources.
 ---
 
 # Space Links

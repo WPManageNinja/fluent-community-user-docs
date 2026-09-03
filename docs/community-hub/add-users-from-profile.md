@@ -1,6 +1,6 @@
 ---
 title: Add Users to Spaces & Courses from a Profile
-description: Learn how administrators can enroll a member into a FluentCommunity Space or Course directly from their user profile, and assign a membership role at the same time.
+description: Enroll a member into a FluentCommunity Space or Course directly from their user profile, and assign their membership role at the same time.
 ---
 
 # Add Users to Spaces & Courses from a Profile

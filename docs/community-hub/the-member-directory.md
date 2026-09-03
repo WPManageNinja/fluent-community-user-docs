@@ -1,6 +1,6 @@
 ---
 title: The Member Directory
-description: Learn how to use and configure the Member Directory in FluentCommunity, a central place for users to discover and connect with other members of the community.
+description: Use and configure the Member Directory in FluentCommunity, a central place for users to discover and connect with other members of the community.
 ---
 
 # The Member Directory
