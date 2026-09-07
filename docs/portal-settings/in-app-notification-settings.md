@@ -1,6 +1,6 @@
 ---
 title: In-App Notification Settings
-description: Inside the FluentCommunity Notification Center, the bell icon and unread badge, the Recent, Unread, Mentions, and Following views, and email preferences.
+description: Inside the FluentCommunity Notification Center, the bell icon and unread badge, the Recent, Unread, Mentions, and Following views, and members' Email and Push notification preferences.
 ---
 
 # In-App Notification Settings
@@ -40,7 +40,9 @@ The default view: everything, newest first, read and unread together. This is th
 
 ### Unread
 
-Turn on the **Unread** filter in the panel header to hide everything you've already opened, leaving just what's new. Once you've caught up, this view empties out, which makes it the fastest way to work through a backlog without re-reading things you've already handled. Turn it off to bring back the full list.
+Turn on the **Unread** filter in the panel header to hide everything you've already opened, leaving just what's new. 
+
+Once you've caught up, this view empties out, which makes it the fastest way to work through a backlog without re-reading things you've already handled. Turn it off to bring back the full list.
 
 ![The Notification Center filtered to unread notifications only](/images/portal-settings/in-app-notification-settings/notifications-unread-tab.webp)
 
@@ -54,7 +56,9 @@ To learn how mentions are written, see [Post Reactions & Mentions](/post-reactio
 
 ### Following
 
-Activity connected to the people and content you follow: new followers, plus comments and reactions on the posts you're following. This tab depends on the **Follower Module**, which an administrator enables under **Portal Settings → Features & Addons**. See [Following & Blocking Members](/following-&-blocking-members) for the setup steps.
+Activity connected to the people and content you follow: new followers, plus comments and reactions on the posts you're following. 
+
+This tab depends on the **Follower Module**, which an administrator enables under **Portal Settings → Features & Addons**. See [Following & Blocking Members](/following-&-blocking-members) for the setup steps.
 
 ![The Following tab showing activity from members and posts the user follows](/images/portal-settings/in-app-notification-settings/notifications-following-tab.webp)
 
@@ -85,15 +89,27 @@ The Notification Center covers what happens **inside** the portal. Separately, e
 
 To open them, click your profile picture in the top-right corner of the community dashboard, select **Your Profile**, then click **Notification Settings** in the menu bar.
 
-### Global Email Notifications
+### Global Notifications
 
-These apply across every space and group the member belongs to:
+These apply across every space and group the member belongs to. Each event is a row, with a separate **Email** and **Push** checkbox so members can pick exactly how they hear about it:
 
-* **Email me when someone comments on my post**: an email whenever someone comments on one of your posts.
-* **Email me when someone replies to my comments**: an email whenever someone replies to a comment you left.
-* **Email me when someone mentions me in a post or comment**: an email whenever someone tags or mentions you.
-* **Weekly digest on Monday**: a summary of the week's activity. When unchecked, no digest email is sent.
-* **Email sending frequency for one-to-one messages**: how often unread direct-message emails go out. This option only appears when email notifications for one-to-one messages are enabled in the messaging settings. See [Direct Messaging (Pro)](/direct-messaging-(pro)) documentation.
+| Notify me when | Email | Push |
+| :--- | :---: | :---: |
+| Someone comments on my post | ✓ | ✓ |
+| Someone replies to my comment | ✓ | ✓ |
+| Someone mentions me | ✓ | ✓ |
+| Someone also comments on a post I commented on | | ✓ |
+| Weekly digest | ✓ | |
+
+The **Push** column only appears once [Push Notifications with Firebase (Pro)](/push-notifications-with-firebase) is connected, it's how members personalize their own push notifications. 
+
+An administrator sets the community-wide push defaults while configuring FluentNotify, those defaults apply to every member who hasn't made their own choice yet. The moment a member changes a Push checkbox here for themselves, their choice takes over and the community default no longer applies to that event for them.
+
+Below the table, **Email sending frequency for one-to-one messages** sets how often unread direct-message emails go out: **Hourly**, **Daily**, **Weekly**, or **Disable**. 
+
+This option only appears when email notifications for one-to-one messages are enabled in the messaging settings. See [Direct Messaging (Pro)](/direct-messaging-(pro)) documentation.
+
+![Global Notifications settings with separate Email and Push checkbox columns for each event type](/images/portal-settings/in-app-notification-settings/global-notification-3.webp)
 
 ### New Posts Notifications
 
@@ -113,7 +129,6 @@ Click **Save Changes** to apply.
 ![The New Posts Notifications table](/images/portal-settings/in-app-notification-settings/new-posts-notifications.webp)
 
 
-
 ### Email Status and Re-Confirming Your Address
 
 If your address is connected through [FluentCRM](/connecting-with-fluentcrm) and gets marked **Bounced**, **Complained**, or **Spammed**, FluentCommunity pauses notification emails to that address and shows its status right here on this screen.
@@ -125,5 +140,7 @@ Click **Re-confirm My Email Address** to send yourself a fresh double opt-in ema
 
 ## Beyond the Bell: Browser Push Notifications
 
-The Notification Center and email preferences above only reach members while they're on your site or checking their inbox. To send real, OS-level push notifications that reach members even when their browser is closed, see [Push Notifications with Firebase (Pro)](./push-notifications-with-firebase.md).
+The Notification Center and email preferences above only reach members while they're on your site or checking their inbox. 
+
+For real, OS-level push notifications that reach members even when their browser is closed, see [Push Notifications with Firebase (Pro)](./push-notifications-with-firebase.md) for the admin setup, and the **Push** column under **Global Notifications** above for how members personalize it for themselves.
 
