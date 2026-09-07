@@ -7,6 +7,76 @@ description: All notable changes to the FluentCommunity WordPress plugin, newest
 
 All notable changes to **FluentCommunity** are documented here, newest first.
 
+## FluentCommunity v2.9.1
+
+*Released on Sep 4, 2026*
+
+::: code-group
+
+```markdown [🚀 Improvements]
+• Push Notification Setup Guidance
+```
+
+```markdown [🐞 Bug fixes]
+• Notification Prefs Cache Not Updating on Pref Change
+• Deprecation Notices From the Markdown Parser
+```
+
+:::
+
+## FluentCommunity v2.9.0
+
+*Released on Sep 3, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Push Notifications with FluentNotify
+• Per-Member and Community-Level Push Preferences
+• Drag-and-Drop Ordering for Topics and Profile Badges
+• Canonical Tags for Spaces, Courses and Lessons
+• Video Thumbnail Preview for Feed Card View
+• Full-Site Support for the Installed PWA App
+• Pull-to-Refresh for the Installed iOS PWA
+• Filter to Set PWA Icon Purpose for Maskable Icons
+```
+
+```markdown [🚀 Improvements]
+• Screen Reader and Keyboard Accessibility Across the Portal
+• Notification Preference Lookups via a Dedicated Table
+• Unread Filter Moved Into the Notifications Header
+• Ticker Refresh on Window and App Refocus
+• Feedback When Video Playback Fails
+```
+
+```markdown [🔒 Security]
+• Access Control, Data Scoping and Input Sanitization Hardening
+```
+
+```markdown [🐞 Bug fixes]
+• Duplicate Submissions and Lost Counter Updates Under Concurrency
+• Silent Login Failure With Two-Factor Plugins
+• Editor Fallback on Older iOS Devices and False Failure Notices
+• Lesson Editor Styles, Block Rendering and Empty-Payload Saves
+• Empty Lesson Discussion Area Layout in Courses
+• Deleted Quizzes Still Listed in Quiz Results
+• Notification Badge Count and Drawer Not Refreshing
+• Poll End Date Marked as Ended on Non-UTC Timezones
+• Empty Media Upload Treated as a Valid File
+• Raw HTML Entities and Hidden Images in Post Excerpts
+• Overlapping Text in Script-Based oEmbeds
+• Mobile Sidebar Missing Overlay Backdrop
+• Mobile Sidebar Not Closing on Create
+• Document List Overflow in Edit Feed Modal on Mobile
+• Auth Page Indexed as a Canonical URL
+• Topic Kept on Posts Moved to a Profile
+• PWA Head Tags and iOS Home Screen Launch
+• S3 Delete Failing on S3-Compatible Storage
+• Undefined Version Notice on Plugin Details
+```
+
+:::
+
 ## FluentCommunity v2.8.1
 
 *Released on Aug 20, 2026*
