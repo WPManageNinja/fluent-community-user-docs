@@ -146,6 +146,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'User Docs', link: '/introduction-fluentcommunity' },
+      { text: 'Try It Free', link: 'https://try.wpmanageninja.com/?products=fluent-community' },
       { text: 'Website', link: 'https://fluentcommunity.co/' },
       { text: 'Support', link: '/how-to-contact-support' },
       { text: 'Changelog', link: '/changelog' }
