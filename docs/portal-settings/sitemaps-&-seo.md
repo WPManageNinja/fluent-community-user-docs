@@ -32,8 +32,7 @@ To protect your members' privacy, the sitemap includes only public-facing conten
 * **Public Posts & Discussions**
 * **Member Profiles** (only if the member's profile visibility is set to public)
 
-> [!Note]
-> All Private and Secret content is automatically excluded from the sitemap to protect your members and any sensitive data.
+> **✨ Note:** All Private and Secret content is automatically excluded from the sitemap to protect your members and any sensitive data.
 
 ### How It Works
 
@@ -54,6 +53,12 @@ Once the sitemap is generated, you can use its URL in a few ways:
 
 > **Troubleshooting:**
 > If your sitemap appears to be missing content, the most common cause is caching. Clear all caches from your caching plugins, server, and CDN. Also confirm that the spaces or courses you expect to see are set to **Public**.
+
+## Canonical URLs for Spaces, Courses, and Lessons
+
+FluentCommunity automatically adds a canonical tag (`<link rel="canonical">`) to every Space, Course, and Lesson page. This tells search engines which URL is the authoritative version of that content when it's reachable from more than one address, for example, a lesson linked both from its course and directly, preventing duplicate-content issues and keeping ranking signals consolidated on a single URL.
+
+Canonical tags are generated automatically alongside the sitemap, there's nothing to configure.
 
 ## Creating an XML Sitemap
 
