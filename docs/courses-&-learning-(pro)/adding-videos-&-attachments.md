@@ -20,11 +20,12 @@ The video is embedded directly in the lesson, with a **Learn more about embeds**
 
 ![Adding a YouTube video to a lesson via the Media Embed panel](/images/course-and-learning/add-video-and-attachment/adding-videos-1.webp)
 
-> Use Case
-> You can embed a main lesson video from YouTube at the top of the lesson, followed by a written summary and key takeaways below it.
+> **Use Case:** You can embed a main lesson video from YouTube at the top of the lesson, followed by a written summary and key takeaways below it.
 
 > [!Note]
 > The **Enable Comments** checkbox on the same **Lesson** tab controls whether students can comment on the lesson, and **Free Preview Lesson** lets non-enrolled visitors view it without joining the course.
+
+If a video fails to play, for example because the URL is invalid, the provider blocks embedding, or the connection drops, the player now shows a clear error message in its place instead of a blank box or an embed that spins forever. Students see right away that something's wrong rather than assuming the lesson is broken.
 
 ## Adding Documents & Files
 
@@ -37,6 +38,7 @@ Providing downloadable resources can significantly enhance the value of your cou
 
 Once uploaded, the section updates from "No documents attached yet" to list your files, and each one appears as a clickable link for your students to download at the bottom of the lesson page. You can add multiple files to a single lesson.
 
-> **Important:** For larger video files, we strongly recommend using a dedicated video hosting service like YouTube or Vimeo instead of uploading them directly to WordPress. This provides a much better streaming experience for your students and saves your server's bandwidth.
+> [!Important]
+> For larger video files, we strongly recommend using a dedicated video hosting service like YouTube or Vimeo instead of uploading them directly to WordPress. This provides a much better streaming experience for your students and saves your server's bandwidth.
 
 ![The Documents & Files upload pop-up in the lesson editor](/images/course-and-learning/add-video-and-attachment/manage-and-documents-file-2.webp)

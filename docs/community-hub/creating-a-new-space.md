@@ -88,16 +88,16 @@ This final step controls the look, features, and content organization of your ne
 #### Layout
 
 * **Default Layout Styles:** Choose how posts are displayed in this Space. Three options are available:
-    * **Timeline** — a standard chronological feed.
-    * **List** — a compact, text-focused list view.
-    * **Card** — a grid of visual cards, ideal for image-heavy content.
+    * **Timeline**: A standard chronological feed.
+    * **List**: A compact, text-focused list view.
+    * **Card**: A grid of visual cards, ideal for image-heavy content.
 * **Disable Layout Style Change Option:** Check this to prevent members from switching the layout to their own preference.
 
 #### Others
 
 * **Topic navigation:** Categorize posts within your Space. Select up to 20 topics from the dropdown. Members can then filter the Space feed by topic.
     * Click **+ New** to create a topic directly from this window.
-    * Click **Manage all topics** to go to the full topic management page.
+    * Click **Manage all topics** to go to the full topic management page, where you can drag and drop topics into the order you want them to appear in the filter dropdown.
 * **Make members select a topic:** Requires members to choose a topic before creating a new post in this Space.
 
 #### Group Chat

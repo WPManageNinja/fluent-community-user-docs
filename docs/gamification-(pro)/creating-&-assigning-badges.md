@@ -45,26 +45,27 @@ Leave these color parameters empty if you prefer the badge to automatically inhe
 
 ![Custom Badge](/images/gamification/creating-assign-badges/emoji-3.webp)
 
-## Update or Delete Active Badges
+## Update, Reorder, or Delete Active Badges
 
 Manage your existing badge catalog directly from your master inventory table:
 
+* **Reorder Badges:** Click and drag the handle (`⠿`) on the left of any row to change its position in the list. Badge order here is display order, it controls the sequence badges appear in wherever a member has more than one.
 * **Edit Existing Badges:** Click the **Edit (Pencil)** icon next to any active badge row to open its custom styling options, update color hexes, or rename titles.
 * **Remove Badges:** Click the **Delete (Trash Can)** icon next to any active badge row to permanently strip that reward option from the system directory.
 
-![Update or Delete Badge](/images/gamification/creating-assign-badges/delete-4.webp)
+![The User Badges table with a drag handle, title, preview, and Edit and Delete](/images/gamification/creating-assign-badges/delete-4.webp)
 
 ## Assigning Badges to Members
 
 Currently, badges are assigned manually by administrators through the member management interface.
 
 1. Go to the **Members** tab in your community navigation.
-2. Select the specific member you wish to recognize to open their profile.
+2. Select the specific member you wish to recognize to open their **Profile → My Profile** .
 3. Scroll down to the **Admin Actions** section.
 4. Locate the **Profile Badges** dropdown menu.
 5. Select the desired badge from your created list.
 6. Click **Save Changes** at the bottom of the page.
 
-> **Pro Tip:** Assigned badges are updated in real-time. Once saved, the badge will immediately appear on the member's profile card, highlighting their status to the rest of the community.
+> **💡 Tip:** Assigned badges are updated in real-time. Once saved, the badge will immediately appear on the member's profile card, highlighting their status to the rest of the community.
 
 ![Add Profile Badge](/images/gamification/creating-assign-badges/profile-badge-5.webp)

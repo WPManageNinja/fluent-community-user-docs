@@ -33,7 +33,7 @@ Once enabled, the module's status on the Advanced Features & Addons list changes
 
  * **Splash Screen Color:** Choose the solid background color that displays while your app is loading. If left blank, it automatically matches your default portal background.
 
- * **App Icon:** Choose **Default (Community Logo**) to reuse your existing site logo, or select **Custom** to upload a dedicated app icon.
+ * **App Icon:** Choose **Default (Community Logo)** to reuse your existing site logo, or select **Custom** to upload a dedicated app icon.
 
 > [!Note]
 > If you upload a **custom** icon, it must be a perfectly square image and no larger than 512x512 pixels. Mobile browsers automatically reject oversized images, which will cause the install button to break and disappear for your members.
@@ -65,9 +65,12 @@ Once everything is saved, members can easily install your branded community to t
 
 ![Install App entry](/images/portal-settings/progressive-web-app-(pro)/install-app-3.webp)
 
+Once installed, the entire portal, not just the main feed, runs inside the installed app shell, so members can browse Spaces, Courses, and their own profile without ever seeing the browser's address bar.
+
+On an installed iOS app, members can also pull down from the top of any screen to refresh it, the same pull-to-refresh gesture they're used to in native apps.
 
 ## For Developers
 
-Several filters are available for finer control over the install experience including the install button's text, the app's theme color, and its screen orientation so agencies can tailor the PWA behavior for a client without adding extra settings screens.
+Several filters are available for finer control over the install experience including the install button's text, the app's theme color, its screen orientation, and the icon's `purpose` attribute (for maskable icon support on Android), so agencies can tailor the PWA behavior for a client without adding extra settings screens.
 
 For the on-site sidebar links that surround the Install App entry, see [Menu Settings](/menu-settings).

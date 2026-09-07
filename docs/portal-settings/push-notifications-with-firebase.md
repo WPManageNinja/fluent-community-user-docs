@@ -28,6 +28,7 @@ Once it finishes installing, the button changes to **View Settings**.
 
 Click **View Settings** to open the **Push Notification Settings** panel. It's a short setup guide that tracks your progress toward sending your first push notification, in four steps:
 
+
 1. **Install FluentNotify** — done, since you already installed the plugin.
 2. **Enable the push service** — one switch inside FluentNotify.
 3. **Connect Firebase** — the SDK values plus a service account.
@@ -35,21 +36,7 @@ Click **View Settings** to open the **Push Notification Settings** panel. It's a
 
 Click **Open FluentNotify Settings** to jump straight into FluentNotify's full **Settings** screen and work through the remaining steps.
 
-![The Push Notification Settings panel showing a four-step setup guide: Install FluentNotify, Enable the push service, Connect Firebase, and Ready to send](/images/portal-settings/push-notifications-with-firebase/enable-the-push-service-3.webp)
-
-## Confirming New Posts Notifications Are Set Up
-
-FluentNotify only shows configuration options once at least one space has post notifications enabled for your own account. If you haven't already done this, set it up first:
-
-1. Open **My Profile**, then click **Notification Settings**.
-2. Scroll to **New Posts Notifications**.
-3. For each Space, Community, or other Space you want alerts from, choose **Email Disabled**, **Notify only for Admin Posts**, or **Notify for all posts**.
-4. Click **Save Changes**.
-
-For the full breakdown of these three options, see [In-App Notification Settings](/in-app-notification-settings).
-
-
-![The New Posts Notifications table ](/images/portal-settings/push-notifications-with-firebase/new-posts-notification-settings-3.webp)
+![The Push Notification Settings](/images/portal-settings/push-notifications-with-firebase/enable-the-push-service-3.webp)
 
 
 ## Configuring Google Firebase
@@ -174,9 +161,9 @@ Clicking **Open FluentNotify Settings** takes you to FluentNotify's full **Setti
 Each panel shows a live count as you fill in its fields (e.g., "4 of 4"). If you're editing an existing connection, the **Private Key** field stays blank and shows *"A key is saved. Leave this blank to keep it, or paste a new one to replace it"* — you only need to fill it in if you're replacing the key.
 
 > [!Note]
-> All five Firebase fields (API Key, Project ID, Messaging Sender ID, App ID, VAPID Key) plus the three service-account fields are required, **FluentNotify** won't send notifications until every one of them is filled in and **Enable Push Notifications** is on.
+>All five Firebase fields (API Key, Project ID, Messaging Sender ID, App ID, VAPID Key) plus the three service-account fields are required, **FluentNotify** won't send notifications until every one of them is filled in and **Enable Push Notifications** is on.
 
-![Enable Push Notifications toggle, Web app config, Web Push certificate, and Service account panels](/images/portal-settings/push-notifications-with-firebase/settings-12.webp)
+![Enable Push Notifications toggle](/images/portal-settings/push-notifications-with-firebase/settings-12.webp)
 
 ## Notification Defaults
 
@@ -192,7 +179,7 @@ Three buttons sit at the bottom of the page:
 - **Enable & send test** — turns on push notifications and sends a test notification to you.
 - **Save Settings** — saves everything on the page: the Firebase connection, Web Push certificate, service account, and notification defaults.
 
-![The Notification Defaults panel with Default Icon URL, Default Badge URL, and Default Click URL fields, and Verify credentials, Enable & send test, and Save Settings buttons](/images/portal-settings/push-notifications-with-firebase/notification-defult-13.webp)
+![The Notification Defaults panel with Default Icon URL](/images/portal-settings/push-notifications-with-firebase/notification-defult-13.webp)
 
 ### Data Retention
 
@@ -202,6 +189,14 @@ Further down, the **Data** panel controls what happens to your subscriber list i
 
 Click **Save** to apply.
 
+## Turn On Push Notification
+
+Even after an administrator connects Firebase and a member has **Push** checked under [Global Notifications](/in-app-notification-settings#global-notifications), nothing actually arrives until the member also grants their browser's notification permission, that's a separate, one-time step per device.
+
+A **Never Miss a Reply** prompt handles it: it appears on the member's own profile page with a **Turn On Push Notifications** button. Clicking it triggers the browser's native permission dialog, once the member allows it, push notifications start arriving for whichever events they have enabled.
+
+![The Never Miss a Reply prompt with a Turn On Push Notifications button on a member's profile page](/images/portal-settings/push-notifications-with-firebase/turn-on-notification-settings-15.webp)
+
 ## What Members See
 
 Once connected, members who grant browser notification permission get a real push notification the moment someone comments, replies, or mentions them, the same way any other website's push alerts appear on desktop or mobile, even outside the browser.
@@ -210,5 +205,6 @@ Inside the community itself, the same activity also appears in the in-app bell d
 
 ![The Recent Notifications](/images/portal-settings/push-notifications-with-firebase/notification-14.webp)
 
-> [!Tip]
-> For the full breakdown of the bell dropdown's Recent, Unread, Mentions, and Following tabs, see [In-App Notification Settings](/in-app-notification-settings).
+
+
+
