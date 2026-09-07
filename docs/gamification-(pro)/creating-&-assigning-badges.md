@@ -59,12 +59,13 @@ Manage your existing badge catalog directly from your master inventory table:
 Currently, badges are assigned manually by administrators through the member management interface.
 
 1. Go to the **Members** tab in your community navigation.
-2. Select the specific member you wish to recognize to open their profile.
+2. Select the specific member you wish to recognize to open their **Profile → My Profile** .
 3. Scroll down to the **Admin Actions** section.
 4. Locate the **Profile Badges** dropdown menu.
 5. Select the desired badge from your created list.
 6. Click **Save Changes** at the bottom of the page.
 
-> **Pro Tip:** Assigned badges are updated in real-time. Once saved, the badge will immediately appear on the member's profile card, highlighting their status to the rest of the community.
+> [!Tip]
+> Assigned badges are updated in real-time. Once saved, the badge will immediately appear on the member's profile card, highlighting their status to the rest of the community.
 
 ![Add Profile Badge](/images/gamification/creating-assign-badges/profile-badge-5.webp)
