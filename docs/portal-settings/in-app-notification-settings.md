@@ -1,15 +1,15 @@
 ---
 title: In-App Notification Settings
-description: Inside the FluentCommunity Notification Center — the bell icon and unread badge, the Recent, Unread, Mentions, and Following tabs, and email preferences.
+description: Inside the FluentCommunity Notification Center, the bell icon and unread badge, the Recent, Unread, Mentions, and Following views, and email preferences.
 ---
 
 # In-App Notification Settings
 
-The **Notification Center** is what pulls members back into the conversation. Every time someone replies to their post, mentions them, reacts to their content, or follows them, an alert lands in the bell menu in real time — no email required, no page refresh needed.
+The **Notification Center** is what pulls members back into the conversation. Every time someone replies to their post, mentions them, reacts to their content, or follows them, an alert lands in the bell menu in real time, no email required, no page refresh needed.
 
 This guide walks through what members see and how each part of the panel works.
 
-> **Use Case:** A member posts a question in the morning and closes the tab. Three people reply and one mentions them directly. When they come back, the bell shows a red **4** — they open the **Mentions** tab, jump straight to the comment that needs them, and reply without hunting through the feed.
+> **Use Case:** A member posts a question in the morning and closes the tab. Three people reply and one mentions them directly. When they come back, the bell shows a red **4**. They open the **Mentions** tab, jump straight to the comment that needs them, and reply without hunting through the feed.
 
 ## Opening the Notification Center
 
@@ -23,26 +23,26 @@ Click the bell to open the **Recent Notifications** panel.
 
 Every row in the panel packs four pieces of information:
 
-* **Avatar with a type icon** — the member who triggered the alert, with a small colored badge on their photo showing what they did (a comment bubble, a heart for a reaction, and so on).
-* **The message** — who did what, and where. Post titles and space names are highlighted, so you can tell a comment in **Announcement** from one in **Premium space** at a glance.
-* **Timestamp** — how long ago it happened, like "a minute ago" or "2 minutes ago".
-* **Blue dot** — shown on the right while the notification is still unread. It disappears once the notification has been read.
+* **Avatar with a type icon**: the member who triggered the alert, with a small colored badge on their photo showing what they did (a comment bubble, a heart for a reaction, and so on).
+* **The message**: who did what, and where. Post titles and space names are highlighted, so you can tell a comment in **Announcement** from one in **Premium space** at a glance.
+* **Timestamp**: how long ago it happened, like "a minute ago" or "2 minutes ago".
+* **Blue dot**: shown on the right while the notification is still unread. It disappears once the notification has been read.
 
 Clicking any row takes you directly to the post, comment, or profile it refers to.
 
-## The Four Tabs
+## The Tabs
 
-The panel splits alerts into four views so members can cut through the noise.
+The panel splits alerts into **Recent**, **Mentions**, and **Following**, plus an **Unread** filter in the panel header that narrows any of them down to what's new, so members can cut through the noise.
 
 ### Recent
 
-The default view — everything, newest first, read and unread together. This is the full picture of what happened while you were away.
+The default view: everything, newest first, read and unread together. This is the full picture of what happened while you were away.
 
 ### Unread
 
-Only the notifications you haven't opened yet. Once you've caught up, this tab empties out, which makes it the fastest way to work through a backlog without re-reading things you've already handled.
+Turn on the **Unread** filter in the panel header to hide everything you've already opened, leaving just what's new. Once you've caught up, this view empties out, which makes it the fastest way to work through a backlog without re-reading things you've already handled. Turn it off to bring back the full list.
 
-![The Unread tab of the Notification Center, filtered to notifications that have not been opened yet](/images/portal-settings/in-app-notification-settings/notifications-unread-tab.webp)
+![The Notification Center filtered to unread notifications only](/images/portal-settings/in-app-notification-settings/notifications-unread-tab.webp)
 
 ### Mentions
 
@@ -54,7 +54,7 @@ To learn how mentions are written, see [Post Reactions & Mentions](/post-reactio
 
 ### Following
 
-Activity connected to the people and content you follow — new followers, plus comments and reactions on the posts you're following. This tab depends on the **Follower Module**, which an administrator enables under **Portal Settings → Features & Addons**. See [Following & Blocking Members](/following-&-blocking-members) for the setup steps.
+Activity connected to the people and content you follow: new followers, plus comments and reactions on the posts you're following. This tab depends on the **Follower Module**, which an administrator enables under **Portal Settings → Features & Addons**. See [Following & Blocking Members](/following-&-blocking-members) for the setup steps.
 
 ![The Following tab showing activity from members and posts the user follows](/images/portal-settings/in-app-notification-settings/notifications-following-tab.webp)
 
@@ -69,18 +69,19 @@ The Notification Center covers the direct interactions that matter most:
 | **Mentioned you** | Someone tags you with `@name` in a post or a comment. |
 | **Reacted to your post** | Someone likes or reacts to your content. |
 
-> **💡 Tip:** Long post titles are shortened with an ellipsis so each row stays on one or two lines. Hover or click through to see the full post.
+> [!Tip]
+> Long post titles are shortened with an ellipsis so each row stays on one or two lines. Hover or click through to see the full post.
 
 ## Clearing and Expanding the List
 
-Two controls handle the panel itself:
+Two more controls sit in the panel header:
 
-* **Mark all as read** — the button in the top-right corner of the panel. One click clears every blue dot and resets the red badge on the bell to zero. It does not delete the notifications; they stay available under **Recent**.
-* **View All** — the button at the bottom of the panel. It opens the full notification history, which is useful when the dropdown only shows the most recent handful.
+* **Mark all as read**: one click clears every blue dot and resets the red badge on the bell to zero. It does not delete the notifications; they stay available under **Recent**.
+* **View All**: the button at the bottom of the panel. It opens the full notification history, which is useful when the dropdown only shows the most recent handful.
 
 ## Member Notification Preferences
 
-The Notification Center covers what happens **inside** the portal. Separately, every member — admins included — controls which of those events also reach their **inbox**, from their own profile.
+The Notification Center covers what happens **inside** the portal. Separately, every member (admins included) controls which of those events also reach their **inbox**, from their own profile.
 
 To open them, click your profile picture in the top-right corner of the community dashboard, select **Your Profile**, then click **Notification Settings** in the menu bar.
 
@@ -88,11 +89,11 @@ To open them, click your profile picture in the top-right corner of the communit
 
 These apply across every space and group the member belongs to:
 
-* **Email me when someone comments on my post** — an email whenever someone comments on one of your posts.
-* **Email me when someone replies to my comments** — an email whenever someone replies to a comment you left.
-* **Email me when someone mentions me in a post or comment** — an email whenever someone tags or mentions you.
-* **Weekly digest on Monday** — a summary of the week's activity. When unchecked, no digest email is sent.
-* **Email sending frequency for one-to-one messages** — how often unread direct-message emails go out. This option only appears when email notifications for one-to-one messages are enabled in the messaging settings. See [Direct Messaging (Pro)](/direct-messaging-(pro)).
+* **Email me when someone comments on my post**: an email whenever someone comments on one of your posts.
+* **Email me when someone replies to my comments**: an email whenever someone replies to a comment you left.
+* **Email me when someone mentions me in a post or comment**: an email whenever someone tags or mentions you.
+* **Weekly digest on Monday**: a summary of the week's activity. When unchecked, no digest email is sent.
+* **Email sending frequency for one-to-one messages**: how often unread direct-message emails go out. This option only appears when email notifications for one-to-one messages are enabled in the messaging settings. See [Direct Messaging (Pro)](/direct-messaging-(pro)) documentation.
 
 ### New Posts Notifications
 
@@ -119,7 +120,8 @@ If your address is connected through [FluentCRM](/connecting-with-fluentcrm) and
 
 Click **Re-confirm My Email Address** to send yourself a fresh double opt-in email. Confirming it clears the flag and notification emails resume.
 
-> **✨ Note:** These preferences are the member's own. Administrators set the community-wide defaults and choose which emails exist at all — see [Connecting with FluentSMTP](/connecting-with-fluentsmtp) for the sending setup and [Customizing Email Templates (Pro)](/customizing-email-templates-(pro)) for branding those messages.
+> [!Note]
+> These preferences are the member's own. Administrators set the community-wide defaults and choose which emails exist at all. See [Connecting with FluentSMTP](/connecting-with-fluentsmtp) for the sending setup and [Customizing Email Templates (Pro)](/customizing-email-templates-(pro)) for branding those messages.
 
 ## Beyond the Bell: Browser Push Notifications
 
