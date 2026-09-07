@@ -5,7 +5,9 @@ description: FluentCommunity generates an XML sitemap of your public content so 
 
 # Sitemaps & SEO
 
-A sitemap works like a roadmap for your website, helping search engines like Google, Bing, and Yahoo find and index your content more easily. FluentCommunity Pro includes a built-in Sitemap Configuration tool with support for Google-recommended SEO schemas and structured data, so your spaces, courses, and discussions can appear in search results without a third-party SEO plugin.
+A sitemap works like a roadmap for your website, helping search engines like Google, Bing, and Yahoo find and index your content more easily. 
+
+FluentCommunity Pro includes a built-in Sitemap Configuration tool with support for Google-recommended SEO schemas and structured data, so your spaces, courses, and discussions can appear in search results without a third-party SEO plugin.
 
 > **Use Case:** You've created several public spaces and courses that you want to rank in Google. By generating a sitemap and submitting it to Google Search Console, you give search engines a direct roadmap to all the indexable content in your community.
 
@@ -30,7 +32,7 @@ To protect your members' privacy, the sitemap includes only public-facing conten
 * **Public Posts & Discussions**
 * **Member Profiles** (only if the member's profile visibility is set to public)
 
-> **✨ Note:**
+> [!Note]
 > All Private and Secret content is automatically excluded from the sitemap to protect your members and any sensitive data.
 
 ### How It Works
@@ -50,7 +52,7 @@ Once the sitemap is generated, you can use its URL in a few ways:
 * **Submit to search engines:** Copy the sitemap URL and submit it directly to Google Search Console and Bing Webmaster Tools.
 * **Use with SEO plugins:** If you use Rank Math or Yoast SEO, find the setting for **Additional Sitemaps** or **External Sitemaps** and paste your FluentCommunity sitemap URL there. This tells your SEO plugin to include your community content in its main index.
 
-> **✨ Troubleshooting:**
+> **Troubleshooting:**
 > If your sitemap appears to be missing content, the most common cause is caching. Clear all caches from your caching plugins, server, and CDN. Also confirm that the spaces or courses you expect to see are set to **Public**.
 
 ## Creating an XML Sitemap
