@@ -13,7 +13,7 @@ When you use the community, you can turn on push notifications to stay updated o
 
 ![The "Never Miss a Reply" prompt with a Turn On Push Notifications button](/images/portal-settings/notification-user-guide/android-notification-4.webp)
 
-See [Turn On Push Notification](/push-notifications-with-firebase#turn-on-push-notification) for where this first prompt appears and what it does. The rest of this page covers the official OS/browser pop-up that follows it, and how to change your answer later.
+
 
 ## Apple iOS (iPhone & iPad)
 
