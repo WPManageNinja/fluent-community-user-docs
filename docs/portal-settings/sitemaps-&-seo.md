@@ -32,7 +32,8 @@ To protect your members' privacy, the sitemap includes only public-facing conten
 * **Public Posts & Discussions**
 * **Member Profiles** (only if the member's profile visibility is set to public)
 
-> **✨ Note:** All Private and Secret content is automatically excluded from the sitemap to protect your members and any sensitive data.
+> [!Note]
+> All Private and Secret content is automatically excluded from the sitemap to protect your members and any sensitive data.
 
 ### How It Works
 
