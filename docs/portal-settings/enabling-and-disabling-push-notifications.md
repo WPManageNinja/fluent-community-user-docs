@@ -4,7 +4,7 @@ description: How members turn browser push notifications on or off for the commu
 pageClass: notification-guide-page
 ---
 
-# Enabling & Disabling Push Notifications (Pro)
+# Enabling & Disabling Push Notifications 
 
 When you use the community, you can turn on push notifications to stay updated on replies, mentions, and other activity. Turning them on always takes two steps: first the community itself asks whether you want notifications, then your device or browser shows its own official permission prompt.
 
