@@ -1,6 +1,7 @@
 ---
 title: Enabling & Disabling Push Notifications (Pro)
 description: How members turn browser push notifications on or off for the community, on iOS and Android, in Safari and Chrome, with a quick-reference table for changing the setting later.
+pageClass: notification-guide-page
 ---
 
 # Enabling & Disabling Push Notifications (Pro)

@@ -74,3 +74,13 @@
 .dark .VPHome .VPFeature {
   background-color: color-mix(in srgb, var(--vp-c-bg-soft) 62%, transparent);
 }
+
+/* Enabling & Disabling Push Notifications (Pro): the page is mostly portrait
+   phone screenshots, which render at ~full content width by default via
+   ZoomableImage's `.image-wrapper { width: 100% }`. Cap them to a small,
+   phone-sized column instead. Scoped to this page only via `pageClass`. */
+.notification-guide-page .image-wrapper {
+  max-width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+}
