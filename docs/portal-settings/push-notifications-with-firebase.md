@@ -20,7 +20,7 @@ The Notification Center bell keeps members updated while they're inside your com
 
 ![Install FluentNotify button](/images/portal-settings/push-notifications-with-firebase/install-fluentnotify-1.webp)
 
-> [!Tip]
+> [!INFO]
 > If the one-click install button doesn't work on your server, download the FluentNotify plugin zip directly and upload it under **Plugins → Add New → Upload Plugin** in your WordPress admin: **[Download FluentNotify](https://fluentapi.wpmanageninja.com/addons/download/fluent-notify/latest.zip)**.
 
 Once it finishes installing, the button changes to **View Settings**.
