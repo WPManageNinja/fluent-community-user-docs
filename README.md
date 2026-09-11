@@ -42,6 +42,8 @@ The dev server starts at `http://localhost:5173` with hot reload.
 | `npm run docs:dev` | Start the local dev server with hot reload. |
 | `npm run docs:build` | Build the production site to `.vitepress/dist`. |
 | `npm run docs:preview` | Serve the built site locally to check the production output. |
+| `npm run featured:generate` | Render a branded 1200×630 social-share card for any page that doesn't have one yet. |
+| `npm run featured:regenerate` | Re-render every card (use after changing the generator's design). |
 
 > **There are no tests or linters in this repo.** `npm run docs:build` is the correctness check — VitePress fails the build on dead internal links, so always run it before opening a pull request.
 
@@ -104,7 +106,9 @@ Adding an article is always a **two-step** job. A file without a sidebar entry i
 
 3. **Add screenshots** to `docs/public/images/<section>/<article-slug>/` as `.webp`.
 
-4. **Run `npm run docs:build`** to confirm nothing is broken.
+4. **Run `npm run featured:generate`** to create the page's social-share card, and commit the PNG it writes to `docs/public/images/featured/`.
+
+5. **Run `npm run docs:build`** to confirm nothing is broken.
 
 ## Conventions
 
@@ -133,6 +137,14 @@ Screenshots go in `docs/public/images/<section>/<article-slug>/` as `.webp` and 
 ```
 
 Convert screenshots before committing — for example `cwebp -q 82 -resize 1600 0 shot.png -o shot.webp`.
+
+### Featured (social-share) images
+
+Every page gets its own link-preview card — the image Slack, X, LinkedIn and Facebook show when someone shares a docs URL. Cards are **generated, not designed by hand**: `scripts/generate-featured-images.mjs` renders a branded 1200×630 PNG carrying the page's `title` and its section name into `docs/public/images/featured/<slug>.png`, and `.vitepress/config.mts` points each page's `og:image` / `twitter:image` at it. A page with no card falls back to `default.png`.
+
+- Run `npm run featured:generate` after adding a page. It only renders missing cards, so it's safe to run any time; commit the new PNG alongside the page.
+- If you rename or retitle a page, delete its old card first (`rm docs/public/images/featured/<old-slug>.png`) and run the generator again — it skips existing files and only *reports* orphans, it never deletes them.
+- The card is named after the page's flat URL slug (the file basename). That rule is written in both the script and the config, so a change to one must be mirrored in the other.
 
 ### Callouts
 
