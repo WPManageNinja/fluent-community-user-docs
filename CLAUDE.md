@@ -21,6 +21,8 @@ This repo ships project skills under `.claude/skills/` for the common doc workfl
 npm run docs:dev       # local dev server with hot reload
 npm run docs:build     # production build to .vitepress/dist
 npm run docs:preview   # preview the built site
+npm run featured:generate     # render a 1200x630 social card for any page that lacks one (idempotent)
+npm run featured:regenerate   # re-render every card (after a design change to the generator)
 ```
 
 There are no tests or linters. The build (`docs:build`) is the effective correctness check — VitePress fails the build on dead relative links between pages.
@@ -52,6 +54,7 @@ For a full pass over those, use the `audit-fluentcommunity-docs` skill.
 - **The sidebar is hand-maintained** in `.vitepress/config.mts` (the `themeConfig.sidebar` array). Adding a new article is a two-step task: create the `.md` file AND add a matching `{ text, link }` entry under the correct section. A file with no sidebar entry is effectively orphaned. Nested sub-sections use `collapsed: true`.
 - **Frontmatter** on each article is `title` + `description` (the description feeds SEO/meta). The homepage `docs/index.md` uses `layout: home` with `hero`/`features` blocks.
 - **Images** live in `docs/public/images/<section>/<article-slug>/` as `.webp`, referenced by absolute path from the site root: `![alt text](/images/<section>/<article-slug>/<name>.webp)` (VitePress serves `public/` at `/`). Brand assets are under `/images/brand/`.
+- **Featured (social share) images** are generated, not hand-made: `scripts/generate-featured-images.mjs` renders one branded 1200x630 PNG per page into `docs/public/images/featured/<slug>.png`, using the page's `title` frontmatter and its section folder as the label. `.vitepress/config.mts` (`featuredImageFor()`) points each page's `og:image` / `twitter:image` at its card, falling back to `default.png` when none exists. The card is named after the flat URL slug (the file basename, since `rewrites` strips the folder) — that naming rule lives in both the script and the config; keep them in sync. Cards are committed to git, so run `npm run featured:generate` after adding a page and commit the PNG with it. A retitled or renamed page needs its old card deleted first (the generator skips existing files and reports orphans, but never deletes).
 - **Pro features** are labeled `(Pro)` in titles, sidebar text, and filenames. The docs use a shared convention (e.g. a `::: tip` note) to flag that terms/features marked **(Pro)** require the FluentCommunity Pro plan.
 - **Custom containers**: use VitePress markdown containers like `::: tip`, `::: warning`, `::: info` for callouts.
 
@@ -64,4 +67,5 @@ Branding is centralized in `.vitepress/theme/custom.css` (loaded via `.vitepress
 1. Create the `.md` file with `title` + `description` frontmatter in the right category folder, using the kebab-case-with-symbols naming convention.
 2. Add its sidebar entry in `.vitepress/config.mts`.
 3. Place screenshots in `docs/public/images/<section>/<article-slug>/` and reference them by root-absolute `/images/...` paths.
-4. Run `npm run docs:build` to catch broken internal links before committing.
+4. Run `npm run featured:generate` so the new page gets its own social card (commit the PNG).
+5. Run `npm run docs:build` to catch broken internal links before committing.

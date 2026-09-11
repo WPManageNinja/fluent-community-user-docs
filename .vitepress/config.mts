@@ -1,4 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { existsSync } from 'node:fs'
+import { join, dirname } from 'node:path'
+import { fileURLToPath } from 'node:url'
 import { zoomablePlugin } from './theme/plugin-zoomable'
 
 // Canonical origin for this site. Stated once and reused by the sitemap, the
@@ -8,9 +11,39 @@ const SITE_URL = 'https://docs.fluentcommunity.co'
 const SITE_NAME = 'FluentCommunity Docs'
 const SITE_DESCRIPTION =
   'Official documentation for FluentCommunity — the all-in-one community, courses, and membership platform for WordPress. Setup guides, feature walkthroughs, and developer reference.'
-// Social share card. Must be an absolute URL — relative paths are ignored by
-// Slack/X/LinkedIn/Facebook scrapers.
-const OG_IMAGE = `${SITE_URL}/og-image.png`
+
+/**
+ * Per-page link-preview cards.
+ *
+ * `scripts/generate-featured-images.mjs` renders a branded 1200x630 PNG carrying each
+ * page's own title into `docs/public/images/featured/<slug>.png`, which the publicDir
+ * serves at `/images/featured/<slug>.png`.
+ *
+ * NAMING RULE — kept in sync with that script: the `rewrites` below strips the section
+ * folder from every URL, so `pageData.relativePath` arrives here already flattened to
+ * `<slug>.md` and the card is named after that same slug (the home page's `index.md`
+ * uses `index.png`).
+ *
+ * Anything without a generated card falls back to `default.png`, which the generator
+ * also emits — so a shared link is never left with no preview at all. The URL must be
+ * absolute: relative paths are ignored by Slack/X/LinkedIn/Facebook scrapers.
+ */
+const FEATURED_DIR = join(
+  dirname(fileURLToPath(import.meta.url)),
+  '..',
+  'docs',
+  'public',
+  'images',
+  'featured'
+)
+
+function featuredImageFor(relativePath: string): string {
+  const name = `${relativePath.replace(/\.md$/, '')}.png`
+  const file = existsSync(join(FEATURED_DIR, name)) ? name : 'default.png'
+  // Slugs here legitimately contain `&` and `()`; encode so the URL survives every
+  // scraper's parser (the server decodes it back to the real filename).
+  return `${SITE_URL}/images/featured/${encodeURIComponent(file)}`
+}
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -49,16 +82,15 @@ export default defineConfig({
     ['link', { rel: 'apple-touch-icon', href: '/images/brand/fluentCommunity_primary_icon.png' }],
     ['meta', { name: 'theme-color', content: '#5145e6' }],
 
-    // Open Graph / Twitter values that never vary per page.
+    // Open Graph / Twitter values that never vary per page. Every generated card is
+    // 1200x630, so the dimensions stay here; the image URL itself is per page and is
+    // set in transformPageData() below.
     ['meta', { property: 'og:site_name', content: SITE_NAME }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'en_US' }],
-    ['meta', { property: 'og:image', content: OG_IMAGE }],
     ['meta', { property: 'og:image:width', content: '1200' }],
     ['meta', { property: 'og:image:height', content: '630' }],
-    ['meta', { property: 'og:image:alt', content: 'FluentCommunity Documentation' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:image', content: OG_IMAGE }],
 
     // Add a Search Console verification tag here when the property is claimed:
     // ['meta', { name: 'google-site-verification', content: '<token>' }],
@@ -87,9 +119,9 @@ export default defineConfig({
   ],
 
   // Per-page SEO tags: canonical URL plus the Open Graph / Twitter values that
-  // differ per page. Without a canonical, cleanUrls + the `rewrites` flattening
-  // leave the same content reachable at more than one path with nothing telling
-  // search engines which one is authoritative.
+  // differ per page (including the per-page featured image). Without a canonical,
+  // cleanUrls + the `rewrites` flattening leave the same content reachable at more
+  // than one path with nothing telling search engines which one is authoritative.
   transformPageData(pageData) {
     // `relativePath` is already the REWRITTEN (flattened) path, so it matches the
     // public URL — see the `rewrites` option above.
@@ -101,6 +133,7 @@ export default defineConfig({
     const title = pageData.frontmatter.title || pageData.title || SITE_NAME
     const description =
       pageData.frontmatter.description || pageData.description || SITE_DESCRIPTION
+    const image = featuredImageFor(pageData.relativePath)
 
     pageData.frontmatter.head ??= []
     pageData.frontmatter.head.push(
@@ -108,8 +141,11 @@ export default defineConfig({
       ['meta', { property: 'og:title', content: title }],
       ['meta', { property: 'og:description', content: description }],
       ['meta', { property: 'og:url', content: url }],
+      ['meta', { property: 'og:image', content: image }],
+      ['meta', { property: 'og:image:alt', content: title }],
       ['meta', { name: 'twitter:title', content: title }],
-      ['meta', { name: 'twitter:description', content: description }]
+      ['meta', { name: 'twitter:description', content: description }],
+      ['meta', { name: 'twitter:image', content: image }]
     )
   },
 

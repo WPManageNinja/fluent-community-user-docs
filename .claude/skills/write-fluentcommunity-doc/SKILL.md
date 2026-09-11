@@ -28,7 +28,7 @@ image folder, and the sidebar entry must all be created or the page is orphaned 
 7. **DO** write internal cross-links as **relative links that keep `.md`**: `[text](./other.md)` same-folder, `[text](../section/other.md)` cross-folder.
 8. **DO** add the page to `.vitepress/config.mts` under the correct sidebar group; the sidebar `link` is `/<section>/<slug>` **without** `.md`.
 9. **DO** mark Pro-only features `(Pro)` in the title/H1, body, and sidebar `text`; keep the filename/folder lowercase `(pro)`.
-10. **DO** end on a green `npm run docs:build`.
+10. **DO** run `npm run featured:generate` (per-page social card) and end on a green `npm run docs:build`.
 11. **DO NOT** invent a new section folder or sidebar group without asking the user.
 12. **DO NOT** leave `[Screenshot: ...]` placeholders unless the user has no image yet — if you must, flag them in the final report.
 13. **DO NOT** write inner-whitespace bold (`** term **`) — use `**term**`.
@@ -105,10 +105,11 @@ e.g. `docs/community-hub/creating-a-new-space.md`. Read the target sidebar group
 ## Phase 4: Verify & Report
 
 ```bash
+npm run featured:generate   # renders the new page's social card into docs/public/images/featured/<SLUG>.png
 npm run docs:build
 ```
-Must complete with no dead-link warnings. Then report using ✅/⚠️:
-- ✅ File, image folder, and sidebar entry created (list the paths).
+The generator is idempotent (existing cards are skipped) and reads the page's `title` frontmatter, so run it AFTER the title is final. The build must complete with no dead-link warnings. Then report using ✅/⚠️:
+- ✅ File, image folder, sidebar entry, and featured card created (list the paths).
 - ⚠️ Any `[Screenshot: …]` placeholders left, or images still needed.
 - The live URL: `/<SECTION>/<SLUG>`.
 
