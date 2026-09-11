@@ -79,6 +79,12 @@ Then a dead-link spot check for the old slug (should return nothing):
 grep -rn "<old-slug>.md" docs/ ; grep -rn "/images/.*/<old-slug>/" docs/
 ```
 
+Then refresh the per-page social cards — a renamed/moved page needs a card under its new slug, and the old one becomes an orphan the generator reports (delete it by hand; it never deletes for you). A retitled page needs `--force` for just that card, so delete the stale PNG first and let the generator rebuild it:
+```bash
+rm -f "docs/public/images/featured/<old-slug>.png"   # gone or retitled page
+npm run featured:generate                            # emits the card for the new slug/title; lists any remaining orphans
+```
+
 Report ✅ the operation with before → after paths, the sidebar change, and the count of inbound links updated. ⚠️ Flag any link you couldn't confidently repoint.
 
 ---
