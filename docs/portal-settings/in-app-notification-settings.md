@@ -28,7 +28,9 @@ Every row in the panel packs four pieces of information:
 * **Timestamp**: how long ago it happened, like "a minute ago" or "2 minutes ago".
 * **Blue dot**: shown on the right while the notification is still unread. It disappears once the notification has been read.
 
-Clicking any row takes you directly to the post, comment, or profile it refers to.
+Clicking any row takes you directly to the post, comment, or profile it refers to, and marks it as read.
+
+> **✨ Note:** If you arrive from a browser push notification instead, the notifications about that same post or comment are marked read as well — the badge on the bell won't keep counting something you've already opened.
 
 ## The Tabs
 
@@ -101,7 +103,7 @@ These apply across every space and group the member belongs to. Each event is a 
 | Someone also comments on a post I commented on | | ✓ |
 | Weekly digest | ✓ | |
 
-The **Push** column only appears once [Push Notifications with Firebase (Pro)](/push-notifications-with-firebase) is connected, it's how members personalize their own push notifications. 
+The **Push** column only appears once [Push Notifications with Firebase (Pro)](./push-notifications-with-firebase.md) is set up and enabled for the community — until then, members see the **Email** column alone. It's how members personalize their own push notifications.
 
 An administrator sets the community-wide push defaults while configuring FluentNotify, those defaults apply to every member who hasn't made their own choice yet. The moment a member changes a Push checkbox here for themselves, their choice takes over and the community default no longer applies to that event for them.
 
@@ -143,4 +145,6 @@ Click **Re-confirm My Email Address** to send yourself a fresh double opt-in ema
 The Notification Center and email preferences above only reach members while they're on your site or checking their inbox. 
 
 For real, OS-level push notifications that reach members even when their browser is closed, see [Push Notifications with Firebase (Pro)](./push-notifications-with-firebase.md) for the admin setup, and the **Push** column under **Global Notifications** above for how members personalize it for themselves.
+
+When both are on, they don't double up: a member whose device receives a push for an event won't also get the pop-up toast inside the community for the same event. The notification still lands in the bell dropdown either way. On phones, the toast now slides in from the top of the screen, where it's easier to notice and dismiss.
 
