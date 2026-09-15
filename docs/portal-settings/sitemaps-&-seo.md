@@ -30,6 +30,7 @@ To protect your members' privacy, the sitemap includes only public-facing conten
 * **Public Spaces**
 * **Public Courses (Pro)**
 * **Public Posts & Discussions**
+* **Public Space Pages (Pro)** — published pages set to *Everyone who can view the space*, inside public Spaces. See [Space Pages (Pro)](/space-pages-(pro)).
 * **Member Profiles** (only if the member's profile visibility is set to public)
 
 > [!Note]
@@ -60,6 +61,28 @@ Once the sitemap is generated, you can use its URL in a few ways:
 FluentCommunity automatically adds a canonical tag (`<link rel="canonical">`) to every Space, Course, and Lesson page. This tells search engines which URL is the authoritative version of that content when it's reachable from more than one address, for example, a lesson linked both from its course and directly, preventing duplicate-content issues and keeping ranking signals consolidated on a single URL.
 
 Canonical tags are generated automatically alongside the sitemap, there's nothing to configure.
+
+## Server-Rendered Pages for Search Engines (Pro)
+
+The community portal is an app: the page shell loads first and the content is filled in by JavaScript a moment later. Google runs JavaScript when it crawls, but many other visitors don't — Bing, AI crawlers such as GPTBot, ClaudeBot and PerplexityBot, and the link-preview bots used by Slack, WhatsApp, X and LinkedIn all read the raw HTML only. To them, a post page used to look like an empty container with a title.
+
+FluentCommunity Pro now renders the content of your most important public pages on the server, so the finished HTML already contains it before any script runs. Nothing changes for members — the app takes over as soon as it loads — but crawlers and preview bots now receive real content:
+
+| Page | What is rendered for crawlers |
+| :--- | :--- |
+| **A single post** | The post itself — title, body, author, reactions and the first comments. The app also skips one request on load, so the post appears a little faster for everyone. |
+| **A Space's post listing** | The list of posts in the Space, with a **page 2, 3…** trail so a crawler can reach every post from the Space's own URL. Each listing page gets its own canonical URL. |
+| **A course landing page** | The course title, description and curriculum for a public course, or its lock screen for a private one, along with the price where the course is paid — plus structured data that makes the course eligible for rich results. |
+
+Here is what a search engine sees on a public post page, with JavaScript switched off:
+
+![A public post page rendered without JavaScript, showing the Space header and the full post content](/images/portal-settings/sitemaps-and-seo/server-rendered-post.webp)
+
+**When it applies.** Server rendering runs only for **logged-out visitors** and only when your [Portal Access](./portal-access-settings.md) is set to **Everyone**. Logged-in members always get the personalised app, and content from private or secret Spaces is never rendered this way. Because nothing member-specific is included, the rendered pages are safe for caching plugins and CDNs.
+
+> **✨ Note:** There is nothing to turn on — it works as soon as FluentCommunity Pro is active and your portal is public. If your portal is set to **Only Logged In Users** or **Only Selected User Roles**, there is no public content to render.
+
+> **💡 Tip:** To check it yourself, open a public post in a private/incognito window, view the page source, and search for the post title — you'll find the full text in the HTML.
 
 ## Creating an XML Sitemap
 

@@ -94,5 +94,8 @@ When you use the community, you can turn on push notifications to stay updated o
 | **Android Installed App** | Website prompt → Android prompt | Android Settings → Apps → App name → Notifications |
 | **Android Chrome** | Website prompt → Chrome prompt | Chrome → Site Settings → Notifications → Website |
 
+> [!Note]
+> Tapping a push notification opens the post or comment it's about and clears its unread mark in the community's bell dropdown at the same time. And once a push reaches your device, the community won't show you a pop-up toast for the same event, so you're never told twice.
+
 > [!Tip]
 > This guide covers device- and browser-level permissions. For connecting the community to Firebase and configuring what triggers a push in the first place, see [Push Notifications with Firebase (Pro)](/push-notifications-with-firebase).

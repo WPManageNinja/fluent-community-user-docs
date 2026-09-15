@@ -9,7 +9,7 @@ Space Links allows you to add custom navigation links inside any Space. Each lin
 
 > **Use Case:** Use Space Links to point members to a resource library, an onboarding checklist, a Zoom room link, or a related course without leaving the community.
 
-> **Note:** For sidebar menu links created from the dashboard using the **Links** space type, see [Add Custom Links (Pro)](/add-custom-links-(pro)).
+> **Note:** For sidebar menu links created from the dashboard using the **Links** space type, see [Add Custom Links (Pro)](./add-custom-links-(pro).md).
 
 ## How to Add a Link
 
@@ -61,3 +61,9 @@ To edit or remove a link, return to **Space Settings → Space Links**. Each sav
 Click **Save Changes** after any edits to apply them.
 
 ![Edit or Delete](/images/community-hub/space-links/edit-or-delete-5.webp)
+
+## How Links Appear to Members
+
+Space Links sit in the Space's navigation bar alongside **Posts**, **Members**, and any [Space Pages (Pro)](./space-pages-(pro).md) you've added to the menu. A link that points at the page a member is currently viewing is highlighted as the active tab, the same way **Posts** is highlighted on the feed.
+
+On phones and narrow screens, the tab bar folds into a single menu button labelled with the current section — your links are listed inside it, right after Posts, About, and Members.

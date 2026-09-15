@@ -22,7 +22,9 @@ Space Settings are managed from the community frontend, not the WordPress dashbo
 
 ![Accessing Space Settings from the three-dot menu](/images/community-hub/space-settings-privacy/space-settings.webp)
 
-The settings panel opens with three tabs at the top: **General Settings**, **Paywalls**, and **Space Links**. Click **Update info** in the top-right to apply any edits.
+The settings panel opens with four tabs at the top: **General Settings**, **Paywalls**, **Space Links**, and **Pages** *(Pro)*. Click **Update info** in the top-right to apply any edits.
+
+> **💡 Tip:** Each tab has its own URL, so you can bookmark or share a specific settings screen — for example `/space/your-space-slug/settings/general`, `/settings/paywalls`, `/settings/lock-screen`, `/settings/links`, or `/settings/pages`.
 
 ## General Settings Tab
 
@@ -109,7 +111,15 @@ Visible when the Space privacy is set to **Private**. Use this tab to link [Flue
 
 ## Space Links Tab
 
-Use this tab to manage external links associated with this Space. [Space Links](/space-links) appear in the Space's navigation for quick access to related resources.
+Use this tab to manage external links associated with this Space. [Space Links](./space-links.md) appear in the Space's navigation for quick access to related resources.
+
+## Pages Tab (Pro)
+
+Use this tab to create and manage static pages that live inside the Space — a **Guidelines** page, an **FAQ**, or a **Current Offers** page. Each page is written in the block editor, can be limited to Space members, and can appear as a tab in the Space's navigation next to Posts and Members. Pages you're still working on stay as drafts that only Space Admins and Moderators can see.
+
+![The Pages tab in Space Settings listing the Space's pages with status, template and last-updated columns](/images/community-hub/space-settings-privacy/space-settings-pages-tab.webp)
+
+See [Space Pages (Pro)](./space-pages-(pro).md) for the full guide.
 
 ## Deleting a Space
 
