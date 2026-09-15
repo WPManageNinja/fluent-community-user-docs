@@ -211,6 +211,8 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 
 **Secret (Space)**: The strictest access level. The Space does not appear in the directory and is accessible only via a direct link or invitation.
 
+**Server-Rendered Page** *(Pro)*: A public post, Space listing, or course page whose content is included in the HTML the server sends, so search engines and link-preview bots that don't run JavaScript still see the real content. Active automatically for logged-out visitors when the portal is public. See [Sitemaps & SEO](/sitemaps-&-seo).
+
 **Self-Paced** *(Pro)*: A Course enrollment mode where students progress through lessons at their own speed with no time restrictions.
 
 **Setup Wizard**: A guided onboarding flow that configures your community name, template, and initial settings during the first install. See also: [The Setup Wizard](/the-setup-wizard).
@@ -220,6 +222,8 @@ Terms marked **(Pro)** require the FluentCommunity Pro plan.
 **Space**: The core organizational unit of FluentCommunity — a dedicated area for a specific topic, group, or course. Similar to a forum category, Facebook Group, or Slack channel. See also: [Creating a New Space](/creating-a-new-space).
 
 **Space Group**: A labeled folder in the left sidebar used to organize related Spaces. Mainly navigational, but a group's **Show Spaces Even if the User is not a Member of any Space** setting affects whether its Spaces are visible to non-members. See [Space Groups](/space-groups).
+
+**Space Page** *(Pro)*: A static page that lives inside a Space — a rules page, an FAQ, a current offers page — written in the block editor and optionally shown as a tab in the Space's navigation. Managed from **Space Settings → Pages**. See [Space Pages (Pro)](/space-pages-(pro)).
 
 **Space Slug**: The URL-friendly version of a Space's title, used in its web address (e.g., `/community/general-discussion`).
 
