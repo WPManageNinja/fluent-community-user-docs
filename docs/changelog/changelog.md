@@ -7,6 +7,69 @@ description: All notable changes to the FluentCommunity WordPress plugin, newest
 
 All notable changes to **FluentCommunity** are documented here, newest first.
 
+## FluentCommunity v2.10.01
+
+*Released on Sep 14, 2026*
+
+::: code-group
+
+```markdown [🔒 Security]
+• Output Escaping and Content Access Hardening
+```
+
+```markdown [🐞 Bug fixes]
+• Broken Layout on the FluentCommunity Page Template
+```
+
+:::
+
+## FluentCommunity v2.10.0
+
+*Released on Sep 14, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Static Pages for Spaces
+• Server-Rendered Portal Pages for Search Engines
+• Navigation Guards for Unsaved Page Edits
+• Action Hooks for Lesson and Section Create and Publish
+• Filter to Adjust Resolved Portal Head Meta
+• Mark Notifications Read on Push Click
+```
+
+```markdown [🚀 Improvements]
+• Guided FluentNotify Setup From the Push Settings Drawer
+• In-App Toast Skipped When a Push Is Delivered
+• Mobile Toast Slides In From the Top
+• Space, Course and Feed Settings as Real Vue Routes
+• Dark Mode Styling Keyed off data-color-mode
+• Space Header Menu on Mobile and Active Link State
+• Query Counts in Pages Manager and Server-Rendered Views
+• Popular Day and Time Analytics Aggregation
+```
+
+```markdown [🔒 Security]
+• Space Link Scoping and Page Endpoint Validation
+```
+
+```markdown [🐞 Bug fixes]
+• Scheduled Post Time in Localised Formats
+• Posts Bumped to the Top After Pin, Moderation and Report Actions
+• Empty Notification Preference Row When Push Is Unavailable
+• Toast Dropped for an Event Without a Push
+• Untranslatable Strings in the Community UI
+• Uploaded Videos Rendering as a Plain Link
+• Course Lessons Not Scrolling Back Up in the iOS App
+• Stale In-Memory Space Copy After Cache Invalidation
+• Null to String Deprecation Notices on PHP 8.1 and Later
+• Same-Day Daily Digest Scheduling
+• Quiz Submission With No Enabled Questions
+• WordPress Plugin Check Compliance for Shipped Files
+```
+
+:::
+
 ## FluentCommunity v2.9.1
 
 *Released on Sep 4, 2026*
