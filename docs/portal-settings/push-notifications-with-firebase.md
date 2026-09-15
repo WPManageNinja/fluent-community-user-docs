@@ -16,27 +16,28 @@ The Notification Center bell keeps members updated while they're inside your com
 
 1. Go to **Portal Settings → Features & Addons → Advanced Features & Addons**.
 2. Scroll down to the **Recommended Plugins and Addons** panel.
-3. Find **FluentNotify** *"Send browser push notifications to your community members for comments, replies and mentions"* and click **Install FluentNotify**.
+3. Find **FluentNotify** *"Send browser push notifications to your community members for comments, replies and mentions"* and click **Set up FluentNotify**.
 
-![Install FluentNotify button](/images/portal-settings/push-notifications-with-firebase/install-fluentnotify-1.webp)
+![The FluentNotify card in Recommended Plugins and Addons with the Set up FluentNotify button](/images/portal-settings/push-notifications-with-firebase/set-up-fluentnotify.webp)
 
-Once it finishes installing, the button changes to **View Settings**.
-
-![The same panel after installation](/images/portal-settings/push-notifications-with-firebase/view-settings-2.webp)
+Instead of installing straight away, the button opens the **Push Notification Settings** drawer — a short, guided checklist that walks you from an empty site to your first push notification. Installing is its first step.
 
 ## Push Notification Settings
 
-Click **View Settings** to open the **Push Notification Settings** panel. It's a short setup guide that tracks your progress toward sending your first push notification, in four steps:
+The drawer tracks your progress in four steps and always shows the button for whatever comes next:
 
-
-1. **Install FluentNotify** — done, since you already installed the plugin.
+1. **Install FluentNotify** — the companion plugin that delivers push. Click **Install FluentNotify** to install and activate it without leaving the page. If the plugin is already on the site but switched off, the button reads **Activate FluentNotify** instead.
 2. **Enable the push service** — one switch inside FluentNotify.
 3. **Connect Firebase** — the SDK values plus a service account.
 4. **Ready to send** — choose what members get notified about.
 
-Click **Open FluentNotify Settings** to jump straight into FluentNotify's full **Settings** screen and work through the remaining steps.
+![The Push Notification Settings drawer showing the four setup steps with the Install FluentNotify button under step one](/images/portal-settings/push-notifications-with-firebase/push-drawer-install-step.webp)
+
+Once FluentNotify is installed, the card's button changes to **View Settings** and re-opens the same drawer, now with step one ticked off. Click **Open FluentNotify Settings** to jump straight into FluentNotify's full **Settings** screen and work through the remaining steps.
 
 ![The Push Notification Settings](/images/portal-settings/push-notifications-with-firebase/enable-the-push-service-3.webp)
+
+> **✨ Note:** The one-click installer is part of FluentCommunity Pro. On the free plugin, the card offers a **Get FluentNotify** link to the plugin's own site instead, where you can download it and follow the same Firebase steps below. If you see *"Ask a site administrator to install FluentNotify"*, your account doesn't have permission to install plugins — an administrator needs to do this step.
 
 
 ## Configuring Google Firebase
@@ -204,6 +205,12 @@ Once connected, members who grant browser notification permission get a real pus
 Inside the community itself, the same activity also appears in the in-app bell dropdown:
 
 ![The Recent Notifications](/images/portal-settings/push-notifications-with-firebase/notification-14.webp)
+
+A few details keep push and in-app notifications feeling like one system rather than two:
+
+* **Clicking a push clears the bell.** Tapping a push notification opens the post or comment it's about and marks the matching notifications in the bell dropdown as read, so the unread badge doesn't stay lit for something the member has already seen.
+* **No double alerts.** When a push notification is actually delivered to a member's device, FluentCommunity skips the in-app toast for that event — they've already been told by their operating system. Members who have push switched on but haven't granted browser permission on any device still get the toast, so nobody misses out.
+* **The bell is unchanged.** Every event still appears in the notification dropdown, whether or not a push was sent.
 
 
 
