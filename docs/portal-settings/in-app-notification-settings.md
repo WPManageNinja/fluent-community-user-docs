@@ -13,7 +13,7 @@ This guide walks through what members see and how each part of the panel works.
 
 ## Opening the Notification Center
 
-The bell icon sits in the top-right corner of the community portal, next to the search icon and the member's avatar. When there are unread alerts, a **red badge** appears on the bell showing the count.
+The bell icon sits in the top-right corner of the community portal, next to the search icon and the member's avatar. When there are unread alerts, a **red badge** appears on the bell showing the count. The badge updates instantly as new notifications arrive, without needing a page refresh.
 
 Click the bell to open the **Recent Notifications** panel.
 
