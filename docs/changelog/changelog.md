@@ -7,6 +7,42 @@ description: All notable changes to the FluentCommunity WordPress plugin, newest
 
 All notable changes to **FluentCommunity** are documented here, newest first.
 
+## FluentCommunity v2.11.0
+
+*Released on Sep 18, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Space Menu Manager with Drag-and-Drop Ordering
+• Fill in the Blank, Ordering, and Matching Quiz Questions
+• Written Answer Quiz Questions with Open or Exact-Match Grading
+• One-by-One Quiz Layout with Progress Bar
+• Shuffle Option for Quiz Questions and Answers
+• Per-Question Explanations for Quizzes
+• Course Progress Restart for Students and Admins
+• Filter to Override Space Permalink
+```
+
+```markdown [🚀 Improvements]
+• Compatibility with the Latest FluentAuth Login Flow
+• Space Settings Layout and Menu Preview
+• Course Module Layout on Mobile
+• Notification Count Updates Instantly
+• Radio Buttons Follow the Theme Color
+```
+
+```markdown [🐞 Bug fixes]
+• Embedded Videos Blocked by WAF XSS Rules
+• Custom SVG Icons Hidden for Guests
+• Space Page Title Overwriting the Post Title
+• Comment Count Drift After Moderation
+• Untranslatable Block Editor and Space Page Labels
+• Lesson Video Shrinking on Course Lesson Pages
+```
+
+:::
+
 ## FluentCommunity v2.10.01
 
 *Released on Sep 14, 2026*
