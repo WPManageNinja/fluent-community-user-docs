@@ -85,3 +85,6 @@ Once you are finished adding content to your lesson, click **Save**, then **Back
 
 ![The lesson content editor with a paragraph block and an embedded video](/images/course-and-learning/structure-course/add-content-to-your-lesson-6.webp)
 
+> [!Note]
+> The section and lesson list students see on a course page is laid out more compactly on phones and small screens, so the module structure stays easy to scan while taking a course on mobile.
+
