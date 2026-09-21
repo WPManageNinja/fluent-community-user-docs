@@ -38,3 +38,14 @@ This setting defines how your students will progress through the lessons.
 Choose the layout and enrollment type that best suits your teaching style and click **Save changes** button to save your settings.
 
 ![Course layout and Enrollment](/images/course-and-learning/course-layout/course-settings-1.webp)
+
+## Restarting Course Progress
+
+A student can restart their own progress on a course — resetting completed lessons and quiz results back to not-started, without losing their enrollment. This is useful for a student repeating a cohort or picking a course back up after a long break and wanting a clean slate.
+
+Admins and Moderators can also restart a student's progress on their behalf from the course's Students list.
+
+> [!Important]
+> Restarting progress is permanent — completed lessons and quiz attempts are reset and cannot be recovered.
+
+<!-- TODO(screenshot): The restart-progress action and confirmation, from both the student view and the admin Students list. -->
