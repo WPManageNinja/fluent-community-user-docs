@@ -9,7 +9,8 @@ description: Create static pages inside a FluentCommunity Space — rules, an FA
 
 > **Use Case:** Pin the house rules as a **Guidelines** tab, keep an **FAQ** that answers the questions new members ask most, publish a **Current Offers** page for a promotion, or write a **Start Here** page that walks newcomers through the Space.
 
-> **✨ Note:** Space Pages are part of **FluentCommunity Pro**. In the free plugin, the **Pages** tab is still visible in Space Settings but shows an upgrade prompt instead of the page manager.
+> [!Note]
+> Space Pages are part of **FluentCommunity Pro**. In the free plugin, the **Pages** tab is still visible in Space Settings but shows an upgrade prompt instead of the page manager.
 
 Pages are available in every discussion Space — there is nothing to switch on. Any **Space Admin** or **Moderator** can create and manage pages for the Spaces they look after. Course Spaces do not support pages yet.
 
@@ -23,7 +24,8 @@ The **Pages** tab lists every page in the Space — published or draft — with 
 
 ![The Pages tab in Space Settings, listing three pages with their status, template and last-updated columns](/images/community-hub/space-pages-pro/pages-tab-1.webp)
 
-> **💡 Tip:** Every settings tab now has its own URL, so you can bookmark the page manager directly: `/space/your-space-slug/settings/pages`.
+> [!Tip]
+> Every settings tab now has its own URL, so you can bookmark the page manager directly: `/space/your-space-slug/settings/pages`.
 
 ## Creating a Page
 
@@ -46,7 +48,8 @@ The page editor is the familiar WordPress block editor, so headings, lists, imag
 
 ![The page editor with Community Guidelines content on the left and the Space Page settings sidebar on the right](/images/community-hub/space-pages-pro/page-editor-3.webp)
 
-> **✨ Note:** If you try to leave with unsaved edits — the Back button, the browser's Back button, another link in the portal, or closing the tab — FluentCommunity asks you to confirm so nothing is lost silently.
+> [!Note]
+> If you try to leave with unsaved edits — the Back button, the browser's Back button, another link in the portal, or closing the tab — FluentCommunity asks you to confirm so nothing is lost silently.
 
 ![The unsaved-changes confirmation asking whether you are sure you want to close](/images/community-hub/space-pages-pro/unsaved-changes-15.webp)
 
@@ -104,7 +107,8 @@ Open the **SEO** panel and write a one- or two-sentence **SEO Description**. Sea
 
 ![The SEO panel with the SEO Description field](/images/community-hub/space-pages-pro/seo-description-10.webp)
 
-> **✨ Note:** Only pages that are published, set to **Everyone who can view the space**, and inside a public Space are listed for search engines. They are also included in the [FluentCommunity sitemap](/sitemaps-&-seo). Members-only pages and drafts are never listed.
+> [!Note]
+> Only pages that are published, set to **Everyone who can view the space**, and inside a public Space are listed for search engines. They are also included in the [FluentCommunity sitemap](/sitemaps-&-seo). Members-only pages and drafts are never listed.
 
 ### Step 6: Publish
 
@@ -112,7 +116,10 @@ Change the status switch in the top bar from **Draft** to **Published** and clic
 
 ## Where Pages Appear
 
-A page that's shown in the menu becomes a tab in the Space header, after **Posts** and **Members** (and after **Media** and **Documents** if those are on). Tabs are ordered the same way the pages are ordered in the Pages tab — drag to reorder them there. If there are more tabs than fit, the rest move into a **More** menu.
+A page that's shown in the menu becomes a tab in the Space header, after **Posts** and **Members** (and after **Media** and **Documents** if those are on). If there are more tabs than fit, the rest move into a **More** menu.
+
+> [!Note]
+> As of FluentCommunity 2.11.0, tab order and labels are set from **Space Settings → Menu**, not from the page order in this Pages tab. See [Space Menu Manager](./space-menu-manager.md).
 
 ![The Start Here Space header with Guidelines and FAQ page tabs next to Posts and Members](/images/community-hub/space-pages-pro/page-in-space-menu-12.webp)
 
@@ -155,7 +162,7 @@ When **Enable comments** is on, a **Discussion** thread appears beneath the page
 Everything in the list on the **Pages** tab is live — no separate save step.
 
 * **Search and filter**: Use the search box to find a page by title, or the **All / Published / Draft** buttons to narrow the list.
-* **Reorder**: Drag a page by its **⠿ grip** on the left to change its position. The order controls the order of the tabs in the Space menu. Reordering is paused while a search or filter is active.
+* **Reorder**: Drag a page by its **⠿ grip** on the left to change its position in this list. Reordering is paused while a search or filter is active. This does not change the page's position in the Space menu — see the note above.
 * **Edit**: Opens the page in the editor.
 * **⋮ (three-dot) menu**: Quick actions for each page, without opening the editor.
 
@@ -169,11 +176,12 @@ Everything in the list on the **Pages** tab is live — no separate save step.
 | **Duplicate** | Creates a copy of the page as a draft — handy for reusing a layout. |
 | **Delete** | Removes the page and its comments permanently, after a confirmation. |
 
-> **⚠️ Important:** Deleting a Space also deletes all of its pages. Duplicate any page you want to keep into another Space first.
+> [!Important]
+> Deleting a Space also deletes all of its pages. Duplicate any page you want to keep into another Space first.
 
 ## Good to Know
 
 * **No extra setup.** Pages work in every discussion Space as soon as FluentCommunity Pro is active — there is no feature toggle to turn on.
 * **Courses don't have pages yet.** The Pages tab is only available for discussion Spaces.
-* **Pages are separate from Space Links.** [Space Links](./space-links.md) add a link to *another* URL to the Space menu; a Space Page holds its own content inside the Space. Use both together — a page for the rules, a link for the Zoom room.
+* **Pages are separate from Space Links.** [Space Links](./space-links.md) add a link to *another* URL to the Space menu; a Space Page holds its own content inside the Space. Use both together — a page for the rules, a link for the Zoom room. Both are ordered and labeled from the [Space Menu Manager](./space-menu-manager.md).
 * **Search engines can find public pages.** A published page set to *Everyone who can view the space* in a public Space gets its own title, description and preview image tags, and is listed in the [FluentCommunity sitemap](/sitemaps-&-seo). Members-only pages and drafts are kept out.

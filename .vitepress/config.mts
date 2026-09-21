@@ -214,6 +214,7 @@ export default defineConfig({
               { text: 'Adding Members to a Space', link: '/adding-members-to-a-space' },
               { text: 'Space Links', link: '/space-links' },
               { text: 'Space Pages (Pro)', link: '/space-pages-(pro)' },
+              { text: 'Space Menu Manager', link: '/space-menu-manager' },
               { text: 'Add Custom Links (Pro)', link: '/add-custom-links-(pro)' },
               { text: 'Customizing the Lockscreen', link: '/customizing-the-lockscreen' },
               { text: 'Using Group Chat (Pro)', link: '/using-group-chat-(pro)' },

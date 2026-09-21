@@ -5,11 +5,15 @@ description: Add, manage, and organize custom links inside a FluentCommunity Spa
 
 # Space Links
 
-Space Links allows you to add custom navigation links inside any Space. Each link appears in the Space's navigation bar, giving members quick access to related resources — external websites, internal pages, tools, or any URL relevant to that Space.
+Space Links allows you to add custom navigation links inside any Space. Each link appears in the Space's navigation bar, giving members quick access to related resources, external websites, internal pages, tools, or any URL relevant to that Space.
 
 > **Use Case:** Use Space Links to point members to a resource library, an onboarding checklist, a Zoom room link, or a related course without leaving the community.
 
-> **Note:** For sidebar menu links created from the dashboard using the **Links** space type, see [Add Custom Links (Pro)](./add-custom-links-(pro).md).
+> [!Note]
+> For sidebar menu links created from the dashboard using the **Links** space type, see [Add Custom Links (Pro)](./add-custom-links-(pro).md).
+
+> [!Note]
+> As of FluentCommunity 2.11.0, custom links are managed from **Space Settings → Menu** rather than a standalone Space Links tab. See [Space Menu Manager](./space-menu-manager.md) for the current workflow — it covers everything below, plus per-link visibility and choosing between the tab bar and the sub bar.
 
 ## How to Add a Link
 
@@ -45,9 +49,8 @@ You can optionally add an icon beside the link name:
 
 The link now appears in the Space's navigation bar for all members.
 
-::: info
-Only Space Admins and Site Admins can add, edit, or delete Space Links. Regular members see the links but cannot manage them.
-:::
+> [!Note]
+> Only Space Admins and Site Admins can add, edit, or delete Space Links. Regular members see the links but cannot manage them.
 
 ![Custom Links](/images/community-hub/space-links/add-custom-links-4.webp)
 
