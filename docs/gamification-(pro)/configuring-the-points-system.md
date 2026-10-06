@@ -1,30 +1,74 @@
 ---
 title: Configuring The Points System
-description: Set up and configure the points system in FluentCommunity to reward members for specific actions like posting, commenting, and reacting.
+description: Learn how FluentCommunity awards points (one point per reaction a member receives) and how to tune the level thresholds those points unlock.
 ---
 
 # Configuring The Points System
 
-Gamification is a powerful engine for community retention. In FluentCommunity, you assign points to member actions such as posting, commenting, and reacting. Those points power leaderboard rankings and level progression.
+Points are the score behind the leaderboard and member levels. In FluentCommunity, a member earns points when **other people react to the content they posted**. There is no separate score for posting, commenting, or reacting to someone else's content.
 
-> **Use Case:** You can set up a system where members earn 10 points for creating a new post, 2 points for every comment they leave, and 1 point for every reaction they give. This incentivizes them to not just consume content, but to actively contribute to discussions.
+> [!Important]
+> The point formula is fixed. You cannot assign custom point values for simply writing a post or leaving a comment. Instead, you can control the milestone ladder that those earned points unlock.
 
-## Setting Point Values
+## How Points Are Calculated
 
-From **Portal Settings**, open **Features & Addons**, locate the **Leaderboards Module**, and click **Settings**. With the module enabled, you will see a list of actions that can be rewarded with points. Enter a numerical value for each action.
+A member's total is the number of reactions their published content has received:
 
-Key actions you can assign points to include:
+```
+Total points = reactions on their published posts
+             + reactions on their published comments
+```
 
-* **Create a Post:** Award points when a member starts a new discussion thread.
-* **Post a Reply:** Award points for each comment a member leaves on a post.
-* **Receive a Reaction:** Award points to the *author* of a post or comment each time someone reacts to it.
-* **Give a Reaction:** Award points to the member who *gives* a reaction to someone else's content.
+Every reaction is worth **1 point**.
 
-Enter the number of points you want to award for each action. If you want to disable points for a specific action, simply enter `0`.
+* **Writing a post earns 0 points** on its own. It earns points once other members react to it.
+* **Leaving a comment earns 0 points** on its own. It earns points once other members react to that comment.
+* **Giving a reaction earns the giver nothing.** The point always goes to the author of the reacted content.
+* **Removing a reaction removes the point.** Totals follow the current reaction count.
+* **Deleted or unpublished posts and comments stop counting.**
 
-> **✨ Note:**
-> The points a user earns are cumulative and are displayed on their profile. These points are also used to determine a member's rank on the community leaderboards and their milestone level.
+> [!Note]
+> Point totals do not update instantly. The system recalculates scores about once per hour when a member loads the portal, alongside a daily background refresh. A short delay between a reaction and an updated score is normal.
 
-Click **Save Settings** to apply your changes. Your points system is now active.
+## Configure Your Level Settings
 
-![Setting Point](/images/gamification/configure-the-point/settings-1.webp)
+To build your gamification ladder:
+
+1. Navigate to **Portal Settings** and open **Features & Addons**.
+2. Find the **Leaderboards Module** and click **Settings**.
+3. Inside the expanded drawer, define your **Leaderboard Levels** across nine rank tiers.
+4. For each tier row, enter a public **Title & Description** (e.g., Space Initiate).   
+5. Set the **Minimum Points** required to unlock that specific rank.   
+6. Click **Save Settings** to apply your changes. For the step-by-step walkthrough, see [Setting Up Leaderboards](./setting-up-leaderboards.md).
+
+![Leaderboard settings drawer showing Leaderboard Levels and Exclude Users](/images/gamification/configure-the-point/leaderboard-setting-1.webp)
+
+
+## Tuning The Ladder
+
+Because 1 point equals 1 reaction, you shape community progression entirely by adjusting the minimum point thresholds.
+
+Here are the system defaults:
+
+| Level | Default title | Minimum points |
+| --- | --- | --- |
+| 1 | Space Initiate | 0 |
+| 2 | Space Pathfinder | 5 |
+| 3 | Space Enthusiast | 20 |
+| 4 | Space Contributor | 65 |
+| 5 | Space Advocate | 155 |
+| 6 | Space Virtuoso | 500 |
+| 7 | Space Sage | 2,000 |
+| 8 | Space Hero | 8,000 |
+| 9 | Space Legend | 25,000 |
+
+> [!Tip]
+> One point equals one reaction, so 25,000 points means 25,000 reactions. That is out of reach for a small or new community. If members feel stuck at Level 1 or 2, lower the thresholds. Keep Level 1 at `0` so every new member starts on the ladder.
+
+> **Use Case:** A community of 200 members where good posts collect 5–10 reactions could set the ladder to 0 / 5 / 15 / 40 / 100 / 250 / 600 / 1,500 / 4,000, so an engaged member can realistically reach the top tiers within a year.
+
+## Where Points Appear
+
+* **Member profiles**: Displays the user's total accumulated points and their current level title.
+* **Leaderboards:** Ranks the top 10 members across 7-day, 30-day, and all-time windows. Time-limited boards only count reactions earned within that specific timeframe, allowing newer members to compete for the weekly top spot without needing a massive lifetime total.
+* **Level upgrades:** Level upgrades trigger an event that you can use to launch automated email workflows if you have FluentCRM active.
