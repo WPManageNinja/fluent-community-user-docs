@@ -37,11 +37,11 @@ To build your gamification ladder:
 1. Navigate to **Portal Settings** and open **Features & Addons**.
 2. Find the **Leaderboards Module** and click **Settings**.
 3. Inside the expanded drawer, define your **Leaderboard Levels** across nine rank tiers.
-4. For each tier row, enter a public **Title & Description** (e.g., Space Initiate).   
-5. Set the **Minimum Points** required to unlock that specific rank.   
+4. For each tier row, enter a public **Title & Description** (e.g., Space Initiate).
+5. Set the **Minimum Points** required to unlock that specific rank.
 6. Click **Save Settings** to apply your changes. For the step-by-step walkthrough, see [Setting Up Leaderboards](./setting-up-leaderboards.md).
 
-![Leaderboard settings drawer showing Leaderboard Levels and Exclude Users](/images/gamification/configure-the-point/leaderboard-setting-1.webp)
+![Leaderboard settings drawer showing the nine Leaderboard Levels with their titles, descriptions, and minimum points](/images/gamification/configure-the-point/leaderboard-setting-1.webp)
 
 
 ## Tuning The Ladder
