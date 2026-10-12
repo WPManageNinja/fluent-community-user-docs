@@ -262,7 +262,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Courses & Learning (Pro)',
+        text: 'Courses & Learning',
         items: [
           {
             text: 'Course Management',
