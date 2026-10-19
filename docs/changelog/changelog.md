@@ -7,6 +7,57 @@ description: All notable changes to the FluentCommunity WordPress plugin, newest
 
 All notable changes to **FluentCommunity** are documented here, newest first.
 
+## FluentCommunity v2.12.0
+
+*Released on Oct 16, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Insights Reporting for Members, Content and Courses
+• Custom Ordering for Spaces and Courses via a Re-arrange Drawer
+• Default and Locked Sort Options for Spaces and Courses
+• Email Notification Links Mark Their Notification as Read
+```
+
+```markdown [🚀 Improvements]
+• Realtime Space Unread Badges for Joined Spaces
+• Unread Badge Window Raised to 14 Days with a Filter
+• PWA Pull to Refresh Feels More Natural on iOS
+• Space Membership Schema and Indexes for Faster Filtering
+• BunnyCDN Uploads Streamed From Disk
+• Faster Block Editor Startup
+```
+
+```markdown [🔒 Security]
+• Access, Shortcode and Signup Hardening Across the Portal
+```
+
+```markdown [🐞 Bug fixes]
+• Activity Feed Showing Posts From Spaces a Member Left Behind
+• Activity From Public Courses Hidden From Visitors
+• Deleted Posts Lingering in Feeds, Counts and Pinned Slots
+• Return Link Lost or Mangled After Portal Login
+• Dates and Calendars Ignoring WordPress Date and Week Settings
+• Session Ending After a Long-Idle Tab Renewed Its Nonce
+• Mention Popup Drifting Off-Screen in Long Posts
+• Umlauts Dropped From New Space, Course and Post URLs
+• Feed Search Matching Hidden Comments
+• Space Header Tabs Wrapping or Staying Hidden After Resize
+• Secret Spaces Hidden From Admins on the Spaces Page
+• Space Moderators Could Not See Invitations
+• Locked Lessons Could Be Marked Complete
+• Course Breadcrumb and Menu Links Not Opening in a New Tab
+• Pinned Post Shown Twice After a Comment
+• Space Admins Losing Post Options on Return
+• Signup Passwords Altered Before Saving
+• iOS App Documents Opening With No Way Back
+• Required Fields Blocking Admin Profile Edits
+• Cloud Media Deleted or Signed Through the Wrong Provider
+```
+
+:::
+
 ## FluentCommunity v2.11.0
 
 *Released on Sep 18, 2026*
