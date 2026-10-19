@@ -37,6 +37,12 @@ Once you're done, click the **Save Settings** button to apply the changes.
 
 ![The Feed Sorting options in Portal Settings Customization](/images/portal-settings/feed-sorting/Post-sorting-customization-01-scaled.webp)
 
+## Sorting Spaces and Courses
+
+Spaces and courses have their own sort settings in the same **Customization** section. You can pick the **default sort** members see on the Spaces and Courses listings, and turn the sort dropdown **off** to lock everyone to one order. 
+
+To set a custom order by drag and drop, see [Re-arranging Spaces & Courses](/rearranging-spaces-&-courses).
+
 ## How to Sort Feed
 
 To sort posts, go to any community feed or **space**. In the top-right corner of the feed, you'll see a **Sort by** dropdown. Now, choose the option you like to sort the posts right away.
