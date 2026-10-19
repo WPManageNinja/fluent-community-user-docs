@@ -9,6 +9,9 @@ FluentCommunity now integrates with BunnyCDN, allowing you to store data online 
 
 This guide covers two ways to configure BunnyCDN with FluentCommunity: through the plugin's UI or by using the WordPress wp-config.php file.
 
+> [!Note]
+> Large BunnyCDN uploads are streamed from disk instead of being held whole in memory, so big files put far less load on your server.
+
 ## Bunny Settings in FluentCommunity
 
 Navigate to FluentCommunity **Settings**, then click on **Features and Addons** from the left sidebar. Find the [**Media Module**](/the-media-module) and click the **Configure** button next to it.
