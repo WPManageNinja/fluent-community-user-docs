@@ -211,6 +211,7 @@ export default defineConfig({
               { text: 'Creating a New Space', link: '/creating-a-new-space' },
               { text: 'Space Settings & Privacy', link: '/space-settings-&-privacy' },
               { text: 'Space Groups', link: '/space-groups' },
+              { text: 'Re-arranging Spaces & Courses', link: '/rearranging-spaces-&-courses' },
               { text: 'Adding Members to a Space', link: '/adding-members-to-a-space' },
               { text: 'Space Links', link: '/space-links' },
               { text: 'Space Pages (Pro)', link: '/space-pages-(pro)' },
@@ -349,9 +350,10 @@ export default defineConfig({
             ]
           },
           {
-            text: 'Analytics (Pro)',
+            text: 'Insights & Analytics',
             collapsed: true,
             items: [
+              { text: 'Insights Reporting', link: '/insights-reporting' },
               { text: 'The Analytics Dashboard', link: '/the-analytics-dashboard' },
             ]
           },

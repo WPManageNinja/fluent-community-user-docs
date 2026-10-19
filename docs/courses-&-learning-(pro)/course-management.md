@@ -16,6 +16,7 @@ In the following articles, we will cover the core aspects of managing your cours
 * **Creating Your First Course:** How to set up the main course page with a title, description, and branding.
 * **Structuring Lessons & Modules:** How to organize your content into logical sections and individual lessons.
 * **Course Layouts & Enrollment:** How to choose the visual style of your course and define how students access the content over time.
+* **Re-arranging Courses:** How to drag courses into a custom order and set the default sort. See [Re-arranging Spaces & Courses](/rearranging-spaces-&-courses).
 * **Adding Videos & Attachments:** How to enrich your lessons with multimedia and downloadable resources.
 
 Let's begin by creating your very first course.
