@@ -30,7 +30,10 @@ Every row in the panel packs four pieces of information:
 
 Clicking any row takes you directly to the post, comment, or profile it refers to, and marks it as read.
 
-> **✨ Note:** If you arrive from a browser push notification instead, the notifications about that same post or comment are marked read as well — the badge on the bell won't keep counting something you've already opened.
+> [!Note]
+>  If you arrive from a browser push notification instead, the notifications about that same post or comment are marked read as well the badge on the bell won't keep counting something you've already opened.
+
+> [!Note]: Notification emails and the daily digest work the same way. When a member opens a post from a link in one of those emails, the matching notification is marked as read automatically, so it does not sit unread in the bell.
 
 ## The Tabs
 
