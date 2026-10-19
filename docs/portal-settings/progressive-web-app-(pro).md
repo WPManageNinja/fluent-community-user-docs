@@ -67,7 +67,7 @@ Once everything is saved, members can easily install your branded community to t
 
 Once installed, the entire portal, not just the main feed, runs inside the installed app shell, so members can browse Spaces, Courses, and their own profile without ever seeing the browser's address bar.
 
-On an installed iOS app, members can also pull down from the top of any screen to refresh it, the same pull-to-refresh gesture they're used to in native apps.
+On an installed iOS app, members can also pull down from the top of any screen to refresh it, the same pull-to-refresh gesture they're used to in native apps. The indicator follows the finger, stiffens as it is pulled, and stays in place while the page reloads. It stays still for members who have asked their device to reduce motion.
 
 ## For Developers
 

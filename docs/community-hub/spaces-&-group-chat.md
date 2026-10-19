@@ -19,6 +19,19 @@ Think of Spaces as the rooms of your community house. You can create different r
 
 In the following articles, we will walk you through how to create and manage every aspect of your Spaces.
 
+## Unread Badges in the Sidebar
+
+The sidebar shows an unread count next to each space a member has **joined**. The count tracks when the member last opened that space, and new posts raise it live as they arrive, with no reload.
+
+* Badges appear only for joined spaces.
+* A member's own posts never count as unread.
+* Duplicate memberships do not inflate the number.
+* Posts older than **14 days** never count as unread, so a quiet space does not keep a badge forever.
+
+![The sidebar showing unread post counts next to joined spaces](/images/community-hub/spaces-&-group-chat/sidebar-unread-badges.webp)
+
+> **Tip:** Developers on large sites can lower the 14-day window with the `fluent_community/unread_badge_max_days` filter.
+
 ## Inside a Space: the Activity Feed
 
 Once a member opens a Space they've joined, the **Activity Feed** is what they land on — a chronological list of everything happening inside it. Members can post updates, comment and react, vote in polls, and filter the feed down to a specific kind of content.
@@ -32,9 +45,3 @@ Two things worth knowing about the feed that aren't obvious at a glance:
 
 To change how the feed is laid out, see [Feed Views](/feed-views). To change the order posts appear in, see [Feed Sorting](/feed-sorting).
 
-**Get Started:**
-- [Creating a New Space](/creating-a-new-space) - Set up your first space
-- [Space Settings & Privacy](/space-settings-&-privacy) - Control access and visibility
-- [Space Groups](/space-groups) - Organize related Spaces into sidebar groups
-- [Adding Members to a Space](/adding-members-to-a-space) - Bring people in
-- [Posts & Discussions](/posts-&-discussions) - Enable member engagement
