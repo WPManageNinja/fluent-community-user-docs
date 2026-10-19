@@ -350,11 +350,10 @@ export default defineConfig({
             ]
           },
           {
-            text: 'Insights & Analytics',
+            text: 'Insights',
             collapsed: true,
             items: [
               { text: 'Insights Reporting', link: '/insights-reporting' },
-              { text: 'The Analytics Dashboard', link: '/the-analytics-dashboard' },
             ]
           },
         ]
