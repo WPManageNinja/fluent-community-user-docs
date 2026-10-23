@@ -84,9 +84,20 @@ Click the **Update Files** button to upload the document.
 
 **Edit Document Name:** Click the Edit (Pencil Icon) next to the document you want to rename. Enter the new name for the document. Click the **Update** button to save the changes.
 
-**Delete a Document:** Click the Delete (Trash Icon) next to the document you want to remove. Confirm the deletion when prompted.
+**Download a Document:** Click the Download Icon next to the document to save the file to your device.
 
-![Renaming and deleting documents with the pencil and trash icons](/images/files-media-storage/the-file-document-library/space-06-manage.webp)
+#### Delete a Document
+
+The Documents list only shows the **Edit** (pencil) and **Download** icons, so a document cannot be deleted directly from the list. Every uploaded document belongs to a post in the Space, so you delete the document by deleting that post.
+
+1. Open the Space and click **Documents**.
+2. Click the title of the document you want to remove. This opens the post that contains the file.
+3. Click the **three dots** at the top right of the post.
+4. Click **Delete**, then confirm.
+
+::: warning
+Deleting the post also deletes the file attached to it. This cannot be undone, so download a copy first if you may need the file later.
+:::
 
 ### Access Uploaded Documents
 
