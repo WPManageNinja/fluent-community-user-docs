@@ -75,6 +75,16 @@ export default defineConfig({
     }
   },
 
+  // <fluent-comments> is a web component defined by the Fluent Comments embed.js,
+  // not a Vue component.
+  vue: {
+    template: {
+      compilerOptions: {
+        isCustomElement: (tag) => tag === 'fluent-comments'
+      }
+    }
+  },
+
   // Site-wide tags. Per-page tags (canonical, og:title/description/url, twitter:*)
   // are generated in transformPageData() below.
   head: [
@@ -288,6 +298,7 @@ export default defineConfig({
               { text: 'Using the Quiz Module', link: '/using-the-quiz-module' },
             ]
           },
+          { text: 'Course Certificates', link: '/course-certificates' },
         ]
       },
       {
