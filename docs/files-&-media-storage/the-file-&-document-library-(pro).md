@@ -5,7 +5,7 @@ description: Upload, manage, and share documents in FluentCommunity Spaces and C
 
 # The File & Document Library (Pro)
 
-FluentCommunity lets you securely upload and share documents — PDFs, worksheets, spreadsheets, reference files — directly inside your community. Uploaded files stay protected, reaching only the people you intend.
+FluentCommunity lets you securely upload and share documents — PDFs, worksheets, spreadsheets, reference files — directly inside your community. FluentCommunity checks who can open each document before it starts the download. How well the stored file is protected depends on your media storage. See [Secure File URLs (Pro)](/secure-file-urls-(pro)).
 
 The library works in **two places**, and they behave a little differently:
 

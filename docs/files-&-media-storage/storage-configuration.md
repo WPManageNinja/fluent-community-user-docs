@@ -17,7 +17,7 @@ In the following articles, we will explore the different storage configurations 
 * **Connecting Amazon S3 (Pro):** Offload your files to Amazon's powerful and scalable S3 service.
 * **Connecting Cloudflare R2 (Pro):** Use Cloudflare's high-performance, S3-compatible storage with zero egress fees.
 * **CDN & Image Proxy Setup (Pro):** Optimize file delivery speed for a global audience using a Content Delivery Network.
-* **Secure File URLs (Pro):** Protect your premium content by generating temporary, signed links for private files.
+* **Secure File URLs (Pro):** Learn how document downloads use signed, temporary links on Amazon S3 and Cloudflare R2, and which files keep a permanent public link.
 
 **Get Started:**
 - Learn about [creating spaces](/creating-a-new-space) to organize your community
