@@ -179,7 +179,7 @@ The file & document library is a Pro feature. Basic media uploads in posts are a
 
 **Can I protect uploaded files from direct URL access?**
 
-Yes, with FluentCommunity Pro. Enable **Secure File URLs** to generate signed, expiring URLs that prevent unauthorized direct access. See [Secure File URLs (Pro)](/secure-file-urls-(pro)).
+Partly. With FluentCommunity Pro and Amazon S3 or Cloudflare R2, document downloads use a signed link that expires after 15 minutes. FluentCommunity checks access before it creates the link. Other uploads, such as images in posts, use a permanent public link with a random name. See [Secure File URLs (Pro)](/secure-file-urls-(pro)).
 
 
 ## Notifications
