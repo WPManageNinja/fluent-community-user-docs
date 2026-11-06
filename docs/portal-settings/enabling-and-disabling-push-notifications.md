@@ -85,6 +85,20 @@ When you use the community, you can turn on push notifications to stay updated o
 > [!Tip]
 > Alternative method: open Chrome, tap the **⋮** menu, go to **Settings → Site Settings → Notifications**, find the community website in the list, and select **Allow**.
 
+## If Notifications Are Blocked
+
+If you blocked notifications earlier, the community now shows a **Notifications Blocked** dialog when you try to turn them on. It tells you that your browser is blocking notifications from the site and shows the exact steps for your browser or app:
+
+* **Chrome, Edge, Brave or Opera:** Click the icon to the left of the web address (a lock or two sliders), then turn on **Notifications**, or set it to **Allow**.
+* **Firefox:** Click the crossed-out notification icon to the left of the web address. Next to **Send notifications**, click **Blocked ×** to remove the block.
+* **Safari on Mac:** In the menu bar, click **Safari**, then **Settings**. Click **Websites**, then **Notifications**, and choose **Allow** next to the community website.
+* **Chrome on Android:** Tap the icon to the left of the web address, then tap **Permissions**, then **Notifications**.
+* **Android app on your home screen:** Open the **Settings** app and tap **Notifications**. Tap **App notifications**, find the community app, and turn on notifications for it.
+* **iPhone or iPad app on your Home Screen:** Open the **Settings** app, tap **Notifications**, tap the community app, and turn on **Allow Notifications**.
+* **Desktop app:** Click **⋮** or **…** at the top right of the app window, open **App info** or **Settings**, then turn on **Notifications**.
+
+When you're done, reload the page (or close and reopen the app) and select **Turn On Push Notifications** again.
+
 ## Quick Reference Summary
 
 | Platform & View | Initial Setup Prompt | How to Change Settings Later |
