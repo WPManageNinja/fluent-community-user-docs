@@ -207,6 +207,7 @@ export default defineConfig({
           { text: 'The Setup Wizard', link: '/the-setup-wizard' },
           { text: 'Admin Dashboard', link: '/admin-dashboard' },
           { text: 'Global Feed', link: '/global-feed' },
+          { text: 'Global Search & Command Palette', link: '/global-search' },
           { text: 'Glossary', link: '/glossary' },
         ]
       },
@@ -433,6 +434,7 @@ export default defineConfig({
         text: 'For Developers',
         items: [
           { text: 'Adding Custom CSS & JavaScript', link: '/adding-custom-css' },
+          { text: 'Add-on Modules & Course Hooks', link: '/add-on-modules-and-course-hooks' },
         ]
       },
       {
