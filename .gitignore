@@ -3,3 +3,6 @@
 .DS_Store
 /.vitepress/dist
 docs/public/.DS_Store
+
+/scripts/screenshots/raw
+/scripts/screenshots/.cookies.json
