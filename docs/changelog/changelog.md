@@ -7,6 +7,85 @@ description: All notable changes to the FluentCommunity WordPress plugin, newest
 
 All notable changes to **FluentCommunity** are documented here, newest first.
 
+## FluentCommunity v2.13.0
+
+*Released on Nov 5, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Course Certificates With Public Verification and Open Badges (Pro)
+• Add-on Module Runtime via Import Map
+• Unified Global Search With a Command Palette
+• Time Limit and Attempt Limit for Quizzes (Pro)
+• Rating Scale and Image Choice Questions for Quizzes (Pro)
+• Points per Question and Instructor-Graded Answers in Quizzes (Pro)
+• Needs Review Shortcut in Quiz Results (Pro)
+• Manual Certificates for People Without an Account (Pro)
+• Option to Strip Image and GPS Metadata From Uploads
+• Show Only Joined Spaces in a Space Group Sidebar
+• System Option in the Dark Mode Switcher
+• Courses Enable Page When the Module Is Off
+• Course Completion Hooks for Add-ons
+• Admin Hooks for Course Menu Items and Settings Tabs
+• FluentCRM Pro Action Placeholders
+```
+
+```markdown [🚀 Improvements]
+• Embedded Posts Open in a Modal and Follow Post Rules
+• Popular Sort Favors Recent Activity
+• Quiz Result Card Shows Pass Mark and Attempts Left (Pro)
+• Course Module Settings in a Drawer
+• Step-by-Step Help When Browser Notifications Are Blocked
+• Cached Insights Tabs With No Duplicate Requests
+• Meaningful SEO Page Titles for Posts Without Titles
+• Buttons and Borders Match the Theme
+• FluentCart Product Status Labels on Paywall Rows
+```
+
+```markdown [🔒 Security]
+• Plugin-Wide Access Control and Data Exposure Hardening
+```
+
+```markdown [🐞 Bug fixes]
+• Partial Space and Course Updates Resetting Fields They Did Not Send
+• Admin-Only Topic Rules on Post Create and Edit
+• Quiz Timer Expiry Now Submits Partial Answers Without Restarting (Pro)
+• Attempt Limit Bypass From Concurrent Quiz Submits (Pro)
+• Quiz Dialog Layout on Small Screens
+• Multiple Votes on a Single-Choice Poll Through the API
+• Clear Message When an Upload Is Too Large
+• Images Over the Media Limit Shown and Then Deleted
+• Mobile and RTL Layout Issues Across Portal Pages
+• Required Fields Shown as Optional or Unmarked
+• Sidebar Not Updating After Joining a Space or a Course
+• Lesson Checkmark Missing Right After Completing a Lesson
+• Portal Routing and URL Encoding at the Site Root
+• Dead Notification Links in Invitation and Course Emails
+• Display Names Adding Bcc Recipients to Join-Request Emails
+• Drip Emails Sent to Blocked Students (Pro)
+• Moderator Actions on Unpublished and Scheduled Posts
+• Profile Crash When an Add-on Tab Route Is Missing
+• Profile Meta Lost on Background and Badge Saves
+• Removing a Draft or Deleted Paywall Product
+• FluentPlayer YouTube Embeds Saved Without a Source
+• Broken Welcome Banner Image Now Hidden
+• Old Files Left Behind When Replacing Space and Course Images
+• Community Title Not Saving After Being Cleared
+• Header Logo Not Updating After Save
+• Feed Link Visibility Rules Not Applied
+• FluentForms Log for Failed User Creation
+• Requested Role Lost When Re-Adding a Member
+• Lesson Number for Free Previews in Private Courses
+• Post Edit Blocked When Comments Are Off
+• Leave Space Confirmation Calling the Space a Community
+• Crashes With Week Number and Ordinal Date Formats
+• Stale Feed and Comment Timestamps
+• Cloud Document Downloads Opening Inline (Pro)
+```
+
+:::
+
 ## FluentCommunity v2.12.0
 
 *Released on Oct 16, 2026*
