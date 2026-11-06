@@ -17,7 +17,7 @@ Read this whole file before shooting. Follow the workflow in section 2.
 |---|---|
 | Test site | `http://crm.local` (Local by Flywheel). Site id `P9mY3GtAt`. WP user ID `1` (`tajul`, administrator). |
 | Plugins under test | `~/Local Sites/crm/app/public/wp-content/plugins/fluent-community` and `fluent-community-pro` (v2.13.0). |
-| Login | **Cookie based, no password.** `scripts/screenshots/wp-cookies.php` writes auth cookies to `scripts/screenshots/.cookies.json` (gitignored, expires in 2 days). Regenerate when the runner says "Cookies rejected". |
+| Login | **Cookie based, no password.** `~/.claude/skills/release-docs/scripts/wp-cookies.php` (kept outside this repo on purpose) writes auth cookies to `scripts/screenshots/.cookies.json` (gitignored, expires in 2 days). Regenerate when the runner says "Cookies rejected". |
 | Portal | `http://crm.local/portal/` is a Vue SPA with history routing. App root: `#fluent_com_portal`. |
 | Routes | Feed `/portal/`, spaces `/portal/discover/spaces`, courses `/portal/courses`, members `/portal/members`, profile `/portal/u/<username>`, a space `/portal/space/<slug>/home`, a course `/portal/course/<slug>/lessons`, **all admin settings `/portal/admin/settings`** (Portal Settings sidebar), certificates and quizzes live under Course Management in that sidebar. |
 | Runner | `npm run shots -- scripts/screenshots/plans/<plan>.json`. Library in `scripts/screenshots/lib/`. |
@@ -35,7 +35,7 @@ PHP=/Applications/Local.app/Contents/Resources/extraResources/lightning-services
 SOCK="$HOME/Library/Application Support/Local/run/P9mY3GtAt/mysql/mysqld.sock"
 SITE_HOST=crm.local WP_PATH="$HOME/Local Sites/crm/app/public" \
   "$PHP" -d memory_limit=1G -d mysqli.default_socket="$SOCK" \
-  scripts/screenshots/wp-cookies.php 1 > scripts/screenshots/.cookies.json
+  ~/.claude/skills/release-docs/scripts/wp-cookies.php 1 > scripts/screenshots/.cookies.json
 ```
 
 The Local site must be running (`curl -s -o /dev/null -w "%{http_code}" http://crm.local/` returns 200). Never commit `.cookies.json`.
