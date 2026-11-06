@@ -147,7 +147,7 @@ If anything fails, fix the plan and re-run with `--only=`. Never hand-edit image
 ### Step 7: Leave the site as you found it
 - Put back every setting you changed and note it in your report.
 - Delete sample records you created, or list their IDs and offer to delete them.
-- Keep the plan JSON in `scripts/screenshots/plans/`. It is the regression fixture for the next release.
+- Keep the plan JSON in `scripts/screenshots/plans/` on your own machine for the next release. The folder is gitignored on purpose: plans depend on `crm.local` demo data and IDs, so they are not committed.
 
 ---
 
