@@ -61,7 +61,7 @@ Rules:
 - **Arrows only where the sentence says "click", "select" or "open"**. A field-reference image gets no arrow.
 - Skip an image if the control is already obvious in the previous one.
 - A new feature page needs at minimum: (1) the "where to find it" shot, (2) one shot per major section, (3) the Save/apply shot.
-- Reuse an existing image name when replacing a stale screenshot, so the markdown stays untouched. Check `docs/public/images/<section>/` first.
+- **Never overwrite or delete an existing image.** Only add new images where the user says one is needed, under a new filename. Replace an existing image only when the user explicitly asks. Check `docs/public/images/<section>/` first and pick a name that is not taken.
 - Match the house style: portal chrome visible, no WordPress admin bar, no toasts, an arrow (and optional underline) in brand colour.
 
 Naming: `kebab-case`, `<screen>-<what>.webp`, e.g. `global-search-results.webp`. No numbers, no dates.
@@ -91,11 +91,14 @@ Create `scripts/screenshots/plans/<page-slug>.json`. Copy `plans/global-search.j
 
 Step vocabulary: `portal`, `viewport`, `click`, `fill`, `fillByLabel`, `press`, `type`, `hideCss`, `scrollTop`, `css`, `eval`, `wait`, `shot`, `stack`.
 
+A `portal` step also accepts `"waitForApp": false` for server-rendered pages that have no `#fluent_com_portal` (for example the public `/portal/certificates/<credential-id>` verification page). The full-screen course editor keeps `#fluent_com_portal` hidden, so the runner only waits for it to exist.
+
 Selector forms accepted wherever `<sel>` is expected:
 - CSS string: `".el-dialog"`, `"button.fcom_primary_button"`
 - `{ "text": "Save" }`: exact visible text
 - `{ "role": "button", "name": "^save$" }`: accessible role plus name regex
 - `{ "selector": "css", "hasText": "Customize" }`: CSS narrowed by text
+- `{ "selector": "css" }`: a plain CSS selector in object form (first match). A string such as `"button:has-text('Settings') >> nth=3"` picks the nth match.
 - `{ "row": "Label", "part": "control" }`: a form row (`.el-form-item`) found by its label text
 
 Clip rules:
@@ -159,6 +162,12 @@ If anything fails, fix the plan and re-run with `--only=`. Never hand-edit image
 **Quiz or lesson editor**: open the lesson in the course editor under `/portal/course/<slug>/lessons`, then shoot the viewport. Quiz settings are in the right-hand panel.
 
 **Student view**: the same cookies sign in as the admin. To show a student screen, shoot the pages students share (profile, course page) and avoid anything that needs a second user.
+
+---
+
+**Certificates (Pro)**: templates, the Course Certificates and Manual Certificates tabs live under `/portal/admin/settings` then **Certificates**. A course's **Certificate** tab is `/portal/admin/manage-courses/edit/<course-id>/settings`. Student screens are the profile **Certificates** tab (`/portal/u/<username>`) and the public page `/portal/certificates/<credential-id>`. See `plans/course-certificates-*.json` for working examples.
+
+**Demo data**: create it through the plugin UI or REST API with a short Playwright script that reuses `.cookies.json` and the nonce in `window.fluentComAdmin.rest` (`url` and `nonce`). Lesson completion is `PUT courses/<id>/lessons/<lesson-id>/completion` and needs `POST courses/<id>/enroll` first. Always note every record and setting you create, and offer to remove it.
 
 ---
 

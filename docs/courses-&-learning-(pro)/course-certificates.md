@@ -7,20 +7,16 @@ description: Design certificates in a visual editor, award them automatically wh
 
 Course Certificates give your students something to keep and something to show. You design the certificate once in a visual editor. FluentCommunity awards it the moment a student finishes the course, and gives every certificate a public verification page that anyone can check.
 
-::: warning Coming soon — and we want your feedback
-This feature is in development and is not in a public release yet. The screens below are from a working build, so small details may still change before launch.
-
-**Tell us what you think in the comments at the bottom of this page.** What would you use certificates for? What is missing? Anything here that would not work for your community? We read every comment, and this is the point where your feedback can still change the feature.
-:::
-
 > **Use Case:** You run a paid course called "Build a Community People Love." A student finishes the last lesson, and a certificate with their name appears straight away. They download it as a PDF, add it to LinkedIn, and a future employer clicks the link to confirm it is real.
 
 ## What You Get
 
 * **A visual editor.** Drag, resize, and rotate every element on a fixed page. Start from one of six designs, or from a blank page.
-* **Automatic awarding.** A certificate is issued the second a student completes the course. No manual step.
+* **Automatic awarding.** A certificate is issued the second a student completes the course.
+* **Manual certificates.** Issue a certificate by hand to anyone, with or without an account.
 * **Downloads.** PNG, PDF, and the browser's own print dialog.
 * **A public verification page.** Every certificate has its own URL and QR code, and shows a live status: Valid, Expired, Suspended, or Revoked.
+* **Open Badges.** Students can download a badge for a badge wallet or Credly.
 * **Full control for admins.** Suspend, reinstate, revoke, or reissue any certificate.
 
 ## Turn On Certificates
@@ -31,56 +27,58 @@ Certificates have two switches: one for the site, one for each course.
 
 Go to **Portal Settings → Features & Addons**, find **Course Module**, and click **Settings**.
 
-![The Course Module Settings drawer, with Enable Course Certificates turned on and the profile visibility options below it](/images/course-and-learning/course-certificates/course-module-certificate-settings.webp)
-
 * **Enable Course Certificates** — turn this on. When it is off, certificates are not shown or issued, and verification links stop working.
 * **Who can see a member's certificates on their profile?** — choose one:
   * **Only the member** (the default)
   * **Logged-in members**
   * **Everyone**
 
+* **Email students their certificate** — on by default. When a student completes a course, they get an email with a link to their certificate. Certificates issued for past completions are not emailed.
+
 Others only ever see the certificates a member has marked **Public**, and your normal profile privacy settings still apply on top. This setting does not affect verification: anyone holding a certificate's link or QR code can always check it.
+
+![The Course Module Settings drawer](/images/course-and-learning/course-certificates/course-module-certificate-settings.webp)
 
 ### 2. Enable it for a course
 
 Open the course, go to **Settings → Certificate**, and turn on **Award a certificate when a student completes this course**.
 
-![The Certificate tab in course settings, showing the award toggle, the template picker, the Valid for dropdown, and a Past completions panel](/images/course-and-learning/course-certificates/course-certificate-tab.webp)
 
 * **Template** — pick a published template.
 * **Valid for** — leave it on **Never expires**, or choose a number of months. An expired certificate stays on record, and its verification page says it has expired.
 
 Click **Save Changes**.
 
+![The Certificate tab in course settings](/images/course-and-learning/course-certificates/course-certificate-tab.webp)
+
 ### Catch up on past completions
 
 If students finished the course before you turned certificates on, they are not left out. Once you save, a **Past completions** panel appears with a count.
 
-![The Past completions panel, offering to issue certificates for nine students who finished before certificates were turned on](/images/course-and-learning/course-certificates/course-certificate-backfill.webp)
-
-Click **Issue N certificates**. Each student gets the date they actually completed the course, not today's date — so if you set an expiry, it counts from the real completion, and an old one may already be expired.
+Click the **Issue** button, which shows the count, for example **Issue 1 certificate**. Each student gets the date they actually completed the course, not today's date, so if you set an expiry, it counts from the real completion, and an old one may already be expired.
 
 Students who already hold a certificate for the course are skipped, including anyone whose certificate you revoked.
 
+
+![The Past completions panel](/images/course-and-learning/course-certificates/course-certificate-backfill.webp)
+
 ## Design a Certificate
 
-Go to **Portal Settings → Certificates** to see your templates.
-
-![The Certificate Templates screen, showing template cards with a live preview, the issued count, and a published version badge](/images/course-and-learning/course-certificates/certificate-templates-list.webp)
+Go to **Portal Settings → Certificates**. The page has three tabs: **Templates**, **Course Certificates** and **Manual Certificates**. The **Templates** tab lists your designs.
 
 Each card shows a live preview, how many certificates use it, and which version is published.
+
+![The Certificate Templates screen](/images/course-and-learning/course-certificates/certificate-templates-list.webp)
 
 ### Start a new template
 
 Click **New Template**, give it a name, and choose a starting point.
 
-![The New certificate template dialog, offering Start from scratch and six ready-made designs](/images/course-and-learning/course-certificates/new-certificate-template.webp)
+There are six ready-made designs — **Classic Gold**, **Modern Minimal**, **Elegant Serif**, **Bold Navy**, **Academic (Portrait)**, and **Soft Teal** plus **Start from scratch** and **Import JSON** for a design exported from another site.
 
-There are six ready-made designs — **Classic Gold**, **Modern Minimal**, **Elegant Serif**, **Bold Navy**, **Academic (Portrait)**, and **Soft Teal** — plus **Start from scratch** and **Import JSON** for a design exported from another site.
+![The New certificate template dialog](/images/course-and-learning/course-certificates/new-certificate-template.webp)
 
 ### Use the editor
-
-![The certificate editor, with the element palette and layer list on the left, the page in the middle, and page settings on the right](/images/course-and-learning/course-certificates/certificate-editor.webp)
 
 The editor has three columns:
 
@@ -99,6 +97,8 @@ You can add these elements:
 | **QR code** | Links to this certificate's verification page |
 | **Shape** / **Line** | Borders, bands, and rules |
 
+![The certificate editor, with the element palette and layer list on the left, the page in the middle, and page settings on the right](/images/course-and-learning/course-certificates/certificate-editor.webp)
+
 ### Set the page
 
 Under **Page** on the right, choose **A4** or **Letter**, and **Landscape** or **Portrait**. For the background, pick a colour or upload an image.
@@ -110,8 +110,6 @@ Make the artwork at the page size in a tool such as Canva, upload it as the back
 ### Add dynamic fields
 
 A dynamic field is a placeholder that becomes real text when a certificate is issued.
-
-![The Dynamic field menu open in the editor, listing the twelve available fields](/images/course-and-learning/course-certificates/certificate-dynamic-fields.webp)
 
 Twelve fields are available:
 
@@ -131,11 +129,13 @@ Twelve fields are available:
 
 A student's name is never their login name.
 
+![The Dynamic field menu open in the editor](/images/course-and-learning/course-certificates/certificate-dynamic-fields.webp)
+
 ### Style text and stop long names overflowing
 
 Select any text element to open its settings.
 
-![The text settings panel, showing the dynamic field content, the Shrink to fit switch, typography controls, and exact position values](/images/course-and-learning/course-certificates/certificate-editor-text-settings.webp)
+![The text settings panel](/images/course-and-learning/course-certificates/certificate-editor-text-settings.webp)
 
 You get font, size, colour, weight, case, line height, letter spacing, alignment, and italics, plus exact X, Y, width, height, and rotation in points.
 
@@ -143,13 +143,11 @@ You get font, size, colour, weight, case, line height, letter spacing, alignment
 
 Use the **Preview** dropdown at the top to check your work. **Very long name** loads a deliberately extreme name and course title so you can see the worst case before you publish.
 
-![The editor previewing a very long student name, which has shrunk to stay inside its box](/images/course-and-learning/course-certificates/certificate-preview-long-name.webp)
+![The editor previewing a very long student name](/images/course-and-learning/course-certificates/certificate-preview-long-name.webp)
 
 ### Publish the template
 
 Your edits save as you work, but a course can only use a **published** template.
-
-![The Publish this template confirmation, explaining that new certificates will use this design](/images/course-and-learning/course-certificates/certificate-publish-template.webp)
 
 Click **Publish** and confirm. This writes a new version, and new certificates use it.
 
@@ -157,37 +155,40 @@ Click **Publish** and confirm. This writes a new version, and new certificates u
 Each certificate keeps the template version and the student details from the day it was issued. If you redesign the template later, certificates already in students' hands stay exactly as they were. The template card shows **Unpublished changes** when your draft is ahead of the published version.
 :::
 
+![The Publish this template confirmation](/images/course-and-learning/course-certificates/certificate-publish-template.webp)
+
 ## What the Student Sees
 
 ### On finishing the course
 
 The moment a student completes the final lesson, their certificate appears.
 
-![The Congratulations dialog over the lesson page, showing the finished certificate and the download buttons](/images/course-and-learning/course-certificates/student-congratulations-dialog.webp)
-
 They can download it right there, as **PNG**, **PDF**, or through **Print / Save as PDF**.
+
+![The Congratulations dialog over the lesson page](/images/course-and-learning/course-certificates/student-congratulations-dialog.webp)
 
 ### On their profile
 
 Every certificate is kept on a **Certificates** tab on the member's profile.
 
-![The Certificates tab on a member profile, showing a grid of certificate cards with a Private/Public toggle on each](/images/course-and-learning/course-certificates/student-profile-certificates.webp)
-
 Each card has a **Private / Public** toggle. Private is the quiet default for the profile: others only see the certificates the member has made public.
+
+![The Certificates tab on a member profile](/images/course-and-learning/course-certificates/student-profile-certificates.webp)
 
 ### Downloading and sharing
 
 **View and share** opens the certificate full size.
 
-![The certificate dialog, with download buttons, LinkedIn and copy buttons, and a link to the public verification page](/images/course-and-learning/course-certificates/student-certificate-share-dialog.webp)
-
-* **Download PNG** — a high-resolution image, 3508 × 2479 pixels for A4, which is 300 DPI print quality.
-* **Download PDF** — a single-page PDF.
-* **Print / Save as PDF** — opens the browser's print dialog. This route produces real, selectable text in the PDF, which matters for accessibility and for scripts such as Arabic, Bengali, and Hindi.
-* **Add to LinkedIn** — opens LinkedIn's "Add license or certification" form.
-* **Copy link** and **Copy credential ID** — for pasting into any field LinkedIn leaves empty.
+* **Download PNG**: A high-resolution image, 3508 × 2479 pixels for A4, which is 300 DPI print quality.
+* **Download PDF**: A a single-page PDF.
+* **Download Open Badge**: The certificate as an Open Badges 3.0 credential. See [Open Badges](#open-badges).
+* **Print / Save as PDF**: Opens the browser's print dialog. This route produces real, selectable text in the PDF, which matters for accessibility and for scripts such as Arabic, Bengali, and Hindi.
+* **Add to LinkedIn**: Opens LinkedIn's "Add license or certification" form.
+* **Copy link** and **Copy credential ID**, for pasting into any field LinkedIn leaves empty.
 
 Downloads are named after the credential ID, for example `certificate-FC-EPTJ-CKQJ-BCVP.pdf`.
+
+![The certificate dialog, with download buttons, LinkedIn and copy buttons, and a link to the public verification page](/images/course-and-learning/course-certificates/student-certificate-share-dialog.webp)
 
 ## The Public Verification Page
 
@@ -214,9 +215,60 @@ A suspended or revoked certificate still shows its details, but the certificate 
 
 At the bottom of every verification page is a **Verify a certificate** box, where anyone can type a credential ID and check it directly.
 
+## Open Badges
+
+Every certificate is also issued as an **Open Badges 3.0** credential. This is an open standard that lets a student keep a verifiable badge in a badge wallet or on a platform such as Credly.
+
+A student opens their certificate and clicks **Download Open Badge**.
+
+![The certificate dialog with the Download Open Badge button highlighted next to Download PNG, Download PDF and Print / Save as PDF](/images/course-and-learning/course-certificates/student-certificate-open-badge.webp)
+
+The file is the certificate image with a signed credential inside it. They upload that file to a badge wallet or to Credly. If you later suspend or revoke the certificate, the badge shows that change too.
+
+## Issue a Certificate Manually
+
+Not every achievement happens inside a course. You can issue a certificate by hand to a workshop attendee, a speaker or a volunteer. They do not need an account.
+
+Go to **Portal Settings → Certificates → Manual Certificates**. The tab lists every certificate issued by hand. Search it by name, email, title or credential ID, and filter by template or status.
+
+![The Manual Certificates tab, listing two certificates with the person, certificate title, template, credential ID, issue date and status](/images/course-and-learning/course-certificates/manual-certificates-list.webp)
+
+Click **Issue certificate** and fill in the dialog. A live preview of the certificate updates on the right as you type.
+
+![The Issue a certificate dialog, with person, account, template, certificate details, options and verification page settings, next to a live preview](/images/course-and-learning/course-certificates/manual-certificate-dialog.webp)
+
+* **Person** — their **Full name** and **Email**.
+* **Account** — choose one:
+  * **No account.** The person gets a link to the verification page, where they can view, download and share the certificate.
+  * **Link to the existing account.** Shows the certificate on that member's profile. This is available when the email matches an existing member.
+  * **Create an account.** Creates a member for them. This is available when the email does not match an existing member. You can email them a link to set their password.
+* **Template** — pick any published template. If none is listed, you see **Publish a certificate template first.**
+* **Course (optional)** — attach the certificate to a course, or leave it on **No course**.
+* **Certificate title** and **Course title** — the text that fills the template's dynamic fields. The fields you see depend on the template you chose.
+* **Issue date** and **Expiry date (optional)** — leave the expiry on **Never expires** if the certificate should not expire.
+* **Verification page** — choose **Public: shows the certificate**, or **Private: only confirms it is valid**.
+* **Email the certificate to the person** — on by default. Turn it off if you want to share the link yourself.
+
+Click **Issue certificate** to finish.
+
+::: tip No account? Share the holder link
+A person without an account opens their certificate through a **holder link**. Click **Copy holder link** on the certificate's row and send it only to that person. The link opens their private view and the Open Badge download.
+:::
+
+### Manage manual certificates
+
+The **…** menu on each row has these actions.
+
+![The row menu for a manual certificate, with Edit, View, Copy verification link, Copy holder link, Suspend and Revoke](/images/course-and-learning/course-certificates/manual-certificate-actions.webp)
+
+* **Edit** — change the details. Every change is recorded.
+* **View** — open the certificate.
+* **Copy verification link** and **Copy holder link.**
+* **Suspend** and **Revoke** — the same actions as for course certificates. A suspended certificate shows **Reinstate** instead of **Suspend**.
+
 ## Manage Issued Certificates
 
-Go to **Portal Settings → Certificates → Issued**.
+Go to **Portal Settings → Certificates → Course Certificates**.
 
 ![The Issued Certificates list, with search, course and status filters, and a row for each student](/images/course-and-learning/course-certificates/issued-certificates-list.webp)
 
@@ -242,16 +294,6 @@ A revoked certificate cannot be reinstated, and the student is not given a new o
 * **Credential IDs are random**, in the form `FC-XXXX-XXXX-XXXX`. They cannot be guessed from each other, and the serial number is only printed on the certificate — it is never used to look one up.
 * **Verification pages are not indexed by search engines** by default.
 * **Nothing is generated on your server.** The certificate is drawn in the student's browser when they view it, so there is no PDF job slowing your site down.
-
-## Tell Us What You Think
-
-Certificates are still in development, so this is the best moment to shape them. **Leave a comment below** and tell us:
-
-* What would you award a certificate for, beyond finishing a course?
-* Which of the six starter designs fits your community, and what style is missing?
-* Do you need certificates to expire, and on what schedule?
-* Where do your members want to share them?
-* Is anything here missing or awkward for the way you run your courses?
 
 ## Related Articles
 

@@ -1,0 +1,104 @@
+{
+  "outDir": "docs/public/images/getting-started/global-search",
+  "viewport": {
+    "width": 1600,
+    "height": 1000
+  },
+  "steps": [
+    {
+      "portal": "/portal/"
+    },
+    {
+      "shot": {
+        "name": "global-search-box",
+        "clip": "viewport",
+        "crop": {
+          "height": 170
+        },
+        "arrows": [
+          {
+            "target": {
+              "selector": "button.fcom_search_trigger"
+            },
+            "from": "left",
+            "len": 110
+          }
+        ]
+      }
+    },
+    {
+      "press": "Control+K"
+    },
+    {
+      "shot": {
+        "name": "global-search-jump-to",
+        "clip": "viewport"
+      }
+    },
+    {
+      "type": "welcome"
+    },
+    {
+      "shot": {
+        "name": "global-search-results",
+        "clip": "viewport",
+        "arrows": [
+          {
+            "target": {
+              "selector": "select:visible"
+            },
+            "from": "right",
+            "len": 130
+          }
+        ]
+      }
+    },
+    {
+      "click": {
+        "text": "Posts"
+      }
+    },
+    {
+      "shot": {
+        "name": "global-search-posts-tab",
+        "clip": "viewport"
+      }
+    },
+    {
+      "press": "Escape"
+    },
+    {
+      "portal": "/portal/"
+    },
+    {
+      "press": "Control+K"
+    },
+    {
+      "type": ">"
+    },
+    {
+      "shot": {
+        "name": "global-search-commands",
+        "clip": "viewport"
+      }
+    },
+    {
+      "press": "Escape"
+    },
+    {
+      "portal": "/portal/"
+    },
+    {
+      "press": "Control+K"
+    },
+    {
+      "type": "#"
+    },
+    {
+      "shot": {
+        "name": "global-search-spaces",
+        "clip": "viewport"
+      }
+    }
+  ]
+}
