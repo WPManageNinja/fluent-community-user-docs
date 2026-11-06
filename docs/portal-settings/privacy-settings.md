@@ -57,6 +57,10 @@ For security, users with post edit access will not be logged in automatically.
 
 - **Do not send emails to contacts marked as Bounced, Complained, or Spammed in FluentCRM:** When enabled, community notification emails skip any member whose [FluentCRM](/connecting-with-fluentcrm) contact is marked Bounced, Complained, or Spammed, protecting your sender reputation. Requires FluentCRM to be connected.
 
+- **Remove location and camera data from uploaded images:** When enabled, GPS location, camera details, and other hidden metadata (EXIF, XMP, IPTC) are removed from images that members upload. This setting is off by default. Turn it on if your members share photos taken on their phones, so nobody gives away where a photo was taken by accident.
+
+![The Remove location and camera data from uploaded images option in Privacy Settings](/images/portal-settings/privacy-settings/privacy-remove-image-metadata.webp)
+
 ![The Member Account Permissions and System Configuration options](/images/portal-settings/privacy-settings/Member-Account-Permissions-2-scaled.webp)
 
 After you've configured all your privacy preferences, remember to click the **Save Settings** button to proceed.

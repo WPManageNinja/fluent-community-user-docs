@@ -1,0 +1,13 @@
+{
+  "outDir": "docs/public/images/portal-settings/privacy-settings",
+  "viewport": { "width": 1600, "height": 1100 },
+  "steps": [
+    { "portal": "/portal/admin/settings" },
+    { "click": { "text": "Privacy Settings" } },
+    { "wait": 2000 },
+    { "eval": "[...document.querySelectorAll('label,span')].find(e=>e.textContent.trim().startsWith('Remove location and camera data')).scrollIntoView({block:'center'})" },
+    { "wait": 800 },
+    { "shot": { "name": "privacy-remove-image-metadata", "clip": "viewport",
+                "arrows": [ { "target": { "text": "Remove location and camera data from uploaded images" }, "from": "left", "len": 130 } ] } }
+  ]
+}

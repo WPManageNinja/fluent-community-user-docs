@@ -1,0 +1,18 @@
+{
+  "_note": "Admin side: the Needs review shortcut on the Quiz Results tab and the grading dialog (not saved).",
+  "outDir": "docs/public/images/course-and-learning/using-the-quiz-module",
+  "viewport": { "width": 1600, "height": 1100 },
+  "steps": [
+    { "portal": "/portal/admin/manage-courses/edit/6" },
+    { "click": { "text": "Quiz Results" } },
+    { "wait": 2500 },
+    { "shot": { "name": "quiz-results-needs-review", "clip": "viewport", "crop": { "height": 760 },
+                "arrows": [ { "target": { "text": "Needs review (1)" }, "from": "left", "len": 120 } ] } },
+    { "click": { "text": "Needs review (1)" } },
+    { "wait": 1500 },
+    { "click": { "text": "View" } },
+    { "wait": 2500 },
+    { "shot": { "name": "quiz-result-grade-answers", "clip": { "element": ".el-dialog", "pad": 0 },
+                "arrows": [ { "target": { "text": "Save Grades" }, "from": "left", "len": 110 } ] } }
+  ]
+}

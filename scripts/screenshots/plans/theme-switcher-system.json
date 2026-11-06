@@ -1,0 +1,10 @@
+{
+  "outDir": "docs/public/images/portal-settings/color-customization",
+  "viewport": { "width": 1600, "height": 1000 },
+  "steps": [
+    { "portal": "/portal/" },
+    { "clickAt": { "x": 1481, "y": 28 } },
+    { "wait": 800 },
+    { "shot": { "name": "theme-switcher-system-option", "clip": { "x": 1100, "y": 0, "width": 500, "height": 220 } } }
+  ]
+}

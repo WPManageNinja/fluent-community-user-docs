@@ -1,0 +1,57 @@
+{
+  "outDir": "docs/public/images/community-hub/space-groups",
+  "viewport": {
+    "width": 1600,
+    "height": 1100
+  },
+  "steps": [
+    {
+      "portal": "/portal/admin/settings"
+    },
+    {
+      "click": {
+        "text": "Space Groups"
+      }
+    },
+    {
+      "wait": 2000
+    },
+    {
+      "clickAt": {
+        "x": 1418,
+        "y": 258
+      }
+    },
+    {
+      "wait": 700
+    },
+    {
+      "click": {
+        "text": "Edit Group Info"
+      }
+    },
+    {
+      "wait": 1500
+    },
+    {
+      "shot": {
+        "name": "space-group-sidebar-visibility",
+        "clip": {
+          "x": 960,
+          "y": 0,
+          "width": 640,
+          "height": 600
+        },
+        "arrows": [
+          {
+            "target": {
+              "selector": "label:has-text('Show only the spaces')"
+            },
+            "from": "right",
+            "len": 90
+          }
+        ]
+      }
+    }
+  ]
+}

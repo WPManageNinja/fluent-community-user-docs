@@ -22,6 +22,10 @@ The Courses feature is a **Pro** module. Turn it on before you create or manage 
 
 ![Enable Course Module](/images/course-and-learning/creating-first-course/enable-course-module-1.png)
 
+You can also turn it on from the **Courses** page. While the module is off, go to **Portal Settings → Courses** (it shows **Off** next to the name). The page explains what courses do and has an **Enable Course Module** button. Click it and the module turns on right away.
+
+![The Courses page in Portal Settings while the Course Module is off, with the Enable Course Module button highlighted](/images/course-and-learning/creating-first-course/courses-enable-module-page.webp)
+
 Once saved, course management options appear in your WordPress admin and on the community portal. You are ready to create your first course.
 
 ::: tip Note

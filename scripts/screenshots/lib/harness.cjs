@@ -33,6 +33,7 @@ class Harness {
     const host = new URL(this.o.site).hostname;
     const cookies = JSON.parse(fs.readFileSync(this.o.cookieFile, 'utf8'));
     await this.context.addCookies(cookies.map(c => ({ ...c, domain: host, path: '/' })));
+    if (this.o.initScript) await this.context.addInitScript(this.o.initScript);
     this.page = await this.context.newPage();
     return this.page;
   }

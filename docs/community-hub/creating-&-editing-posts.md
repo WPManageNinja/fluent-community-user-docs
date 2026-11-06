@@ -44,6 +44,8 @@ You can also share the post with the link. To get the post link click on the **t
 
   ![Share Post](/images/community-hub/creating-and-editing/share-link-3.webp)
 
+When a post is embedded in another post, clicking it opens the post in the post modal. An embedded post follows the same rules as any other post, so members can report it and moderators can review it from the [moderation queue](/content-moderation).
+
 ### Making a Post Unlisted (Pro)
 
 Some posts aren't meant for the main feed meeting notes for one team, an early draft you want feedback on, or a resource you only hand out when someone asks. Check the **Unlisted** box in the editor before publishing to keep the post out of every feed and listing. Anyone with the direct link can still open it normally.

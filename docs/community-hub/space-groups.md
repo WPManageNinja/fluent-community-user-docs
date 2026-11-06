@@ -23,9 +23,17 @@ To create a new group, click the **Create New Group** button. A pop-up will appe
 
 **Description:** A brief description of the group's purpose.
 
-**Set Group Visibility**
+**Set Sidebar Visibility**
 
-You can choose the visibility of the group from **Appearance** by selecting the **Show Spaces Even if the User is not a Member of any Space** checkbox. This is a group-level setting, distinct from an individual [Space's privacy](/space-settings-&-privacy).
+Under **Sidebar visibility**, choose which spaces of this group a member sees in the sidebar:
+
+* **Show all spaces:** Every space in the group is shown to every member.
+* **Show all spaces once a member joins one of them:** Members who haven't joined any of the group's spaces don't see the group. Once they join one, they see all of its spaces.
+* **Show only the spaces the member has joined:** Members see only the spaces they have joined, and the group stays hidden until they join one.
+
+Admins, moderators, and course creators always see every space, whichever option you pick. This is a group-level setting, distinct from an individual [Space's privacy](/space-settings-&-privacy).
+
+![The Edit Group drawer with the Sidebar visibility options, and Show only the spaces the member has joined highlighted](/images/community-hub/space-groups/space-group-sidebar-visibility.webp)
 
 Once you've filled in the details and set the visibility, click the **Create** button to create the group.
 

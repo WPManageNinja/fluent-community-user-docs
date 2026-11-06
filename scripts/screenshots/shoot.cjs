@@ -8,6 +8,7 @@
 //   "site": "http://crm.local",                       (optional, default)
 //   "outDir": "docs/public/images/<section>/<article-slug>",    (required; created if missing)
 //   "viewport": {"width":1600,"height":1100},           (optional, default)
+//   "initScript": "Object.defineProperty(...)",         (optional, JS run before every page loads, e.g. to fake a browser permission)
 //   "steps": [ ...see STEP TYPES below... ]
 // }
 //
@@ -22,6 +23,7 @@
 //   {"scrollTop": true}                                 reset every scroll container (pickers scroll the panel)
 //   {"css": "#adminmenumain{display:none}"}            inject arbitrary CSS (e.g. to hide chrome around the WordPress block editor)
 //   {"eval": "wp.data.dispatch('core/block-editor').selectBlock(...)"}   run JS in the page (block/Elementor editors expose no stable selectors)
+//   {"clickAt": {"x": 956, "y": 391}}                  click at CSS-pixel coordinates (last resort for icon-only buttons)
 //   {"press": "Control+K"}                          keyboard shortcut (use "Meta+K" for Mac style)
 //   {"type": "welcome"}                               type text into the focused element
 //   {"wait": 800}                                       ms
@@ -62,7 +64,7 @@ async function main() {
   const outDir = path.resolve(REPO, plan.outDir);
   fs.mkdirSync(outDir, { recursive: true });
 
-  const h = new Harness({ site: plan.site, viewport: plan.viewport, user: plan.user, pass: plan.pass });
+  const h = new Harness({ site: plan.site, viewport: plan.viewport, initScript: plan.initScript });
   await h.launch();
   const raws = {};
   let n = 0;
@@ -83,6 +85,7 @@ async function main() {
         case 'scrollTop': console.log(tag); await h.scrollTop(); break;
         case 'css': console.log(tag, v.slice(0, 60)); await h.page.addStyleTag({ content: v }); await h.page.waitForTimeout(300); break;
         case 'eval': console.log(tag, v.slice(0, 60)); await h.page.evaluate(v); await h.page.waitForTimeout(600); break;
+        case 'clickAt': console.log(tag, v.x, v.y); await h.page.mouse.click(v.x, v.y); await h.page.waitForTimeout(600); break;
         case 'press': console.log(tag, v); await h.page.keyboard.press(v); await h.page.waitForTimeout(700); break;
         case 'type': console.log(tag, v); await h.page.keyboard.type(v, { delay: 40 }); await h.page.waitForTimeout(1200); break;
         case 'wait': console.log(tag, v); await h.page.waitForTimeout(v); break;

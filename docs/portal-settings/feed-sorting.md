@@ -26,7 +26,7 @@ From the dropdown menu, select the default sorting option you'd like to apply. A
 - **New Activity**: Sorts posts by the most recent activity, including comments or likes.
 - **Latest**: Shows the newest posts first.
 - **Oldest**: Displays the earliest posts at the top.
-- **Popular**: Highlights posts with the most engagement.
+- **Popular**: Highlights posts with the most engagement, giving more weight to recent activity. An old thread no longer outranks a conversation that is happening today.
 - **Likes**: Sorts posts by the number of likes received.
 - **Alphabetical**: Organizes posts by title in A-Z order.
 - **Unanswered**: Shows posts with no replies or engagement.
