@@ -7,6 +7,58 @@ description: All notable changes to the FluentCommunity WordPress plugin, newest
 
 All notable changes to **FluentCommunity** are documented here, newest first.
 
+## FluentCommunity v2.14.0
+
+*Released on Nov 13, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Community Events With FluentEvent
+• Getting Started Checklist for Community Admins
+• Scheduled Course Enrollment With a Start Date
+• Shared Composer, Comments, Editor and Hooks for Add-ons
+• Wordfence 2FA and Security Plugin Challenges in Community Login
+• Announcement and Space Email Preferences
+• Help Text for Custom Profile Fields
+• Sort By Option on Profile Spaces and Courses
+• Delete Content Action in Moderation
+• Favicon Upload in Portal General Settings
+• CRM Tag Access Sync on User Registration
+• Paste a Link Over Selected Text to Link It
+• Enable and Disable Menu Links With Visibility Status
+• Strict Mode for Cloud Storage Uploads (Pro)
+• Filters for Branding, Admin Links, Add-on Installs and Auth Paths
+• Custom CSS and JavaScript Editor With Warnings and Scope Notes
+```
+
+```markdown [🚀 Improvements]
+• Customization Settings Layout With Visual Pickers
+• Pinch to Zoom in the Media Gallery Preview
+• Paging and Full CSV Export for Top Contributors
+• Count and Progress Queries on Course and Space Pages
+• Certificate Text Fit and Translated Starter Text (Pro)
+```
+
+```markdown [🔒 Security]
+• Rate Limiting, Atomic Counters and Access Control Hardening
+```
+
+```markdown [🐞 Bug fixes]
+• Pinned Post Updates, Visibility and Deletion
+• Bookmark List Staleness and Bookmarking Your Own Posts
+• Bold, Italic and Line Breaks in the Post Editor
+• Scrolling, Gaps, Sticky Elements and Admin Bar on Page Templates
+• Overlapping Saves in Feed and Course Link Managers
+• Stale Feed Pages After Deleting a Post
+• Lesson Video Expiring After Returning to the First Lesson
+• Character Counts and Length Limits for Non-Latin Text
+• Leftover Data After Deleting a User
+• Unlisted Document Posts by Members (Pro)
+```
+
+:::
+
 ## FluentCommunity v2.13.0
 
 *Released on Nov 5, 2026*
