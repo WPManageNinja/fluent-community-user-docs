@@ -368,6 +368,7 @@ export default defineConfig({
               { text: 'Insights Reporting', link: '/insights-reporting' },
             ]
           },
+          { text: 'MCP for AI Agents', link: '/mcp-for-ai-agents' },
         ]
       },
       {

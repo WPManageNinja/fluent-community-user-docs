@@ -3,7 +3,7 @@
 
 const sharp = require('sharp');
 
-const BRAND = '#5145e6';       // FluentCommunity brand purple-blue (matches .vitepress/theme/custom.css)
+const BRAND = '#4561E9';       // annotation colour for FluentCommunity doc screenshots
 const QUALITY = 82;            // webp quality used across the docs
 
 // A gently curved arrow whose tip stops `gap` px short of the target's edge.
