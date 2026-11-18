@@ -230,18 +230,10 @@ You never call tools by name. The assistant picks the right one from your reques
 - **Upload Image**: Uploads an image to attach to a post or comment.
 - **Like Post or Comment**: Likes or unlikes content as the connected user.
 
-Example prompts:
-
-- "Show me posts from the Announcements space this week."
-- "Which members haven't posted in 60 days?"
-- "Reply to the latest question in General and mention the author."
-
 ### Moderation
 
 - **Moderate Content**: Pins, unpins, locks, or moves posts, or pins a comment. Each action can be undone.
 - **Delete Post or Comment**: Permanently deletes a post with its comments, or a comment.
-
-Example prompt: "Pin the welcome post in the Introductions space."
 
 ### Courses
 
@@ -251,8 +243,6 @@ These tools appear only when the Course module is on.
 - **Get Block Editor Guide**: Gives the assistant the rules for writing lesson content.
 - **Create Course Content**: Creates a course with its sections and lessons. Everything starts as a draft.
 - **Update Course Content**: Edits a course, section, or lesson. Set the status to **published** to make it visible to students.
-
-Example prompt: "Draft a beginner course on email marketing with four sections."
 
 ::: tip
 New course content is always a draft. Review it in the course editor before you publish. Video, documents, and cover images are added in the course editor, not through MCP.

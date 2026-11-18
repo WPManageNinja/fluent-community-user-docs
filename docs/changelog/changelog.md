@@ -7,6 +7,50 @@ description: All notable changes to the FluentCommunity WordPress plugin, newest
 
 All notable changes to **FluentCommunity** are documented here, newest first.
 
+## FluentCommunity v2.15.0
+
+*Released on Nov 18, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• MCP Server for AI Agents
+• Multi-Image Post Layout With a Zoomable Photo Viewer
+• Show/Hide Password Toggle on Login and Signup Forms
+• WordPress Admin Submenu With Quick Links to Portal Pages
+• FluentCRM Action to Reset Course Progress
+• Mark a Single Notification as Read
+• Filter to Skip Remote Link Preview Lookups
+• Reaction Notification Filter Hook
+• Host Overrides for Email Settings and Announcement Emails
+```
+
+```markdown [🚀 Improvements]
+• Markdown Editor on Milkdown 7.23 With Table Support
+• Lazy-Loaded Video Players in the Feed
+• Profile Photo Upload Menu With Upload Progress
+• Image Limits for Comments, Lifted for Admins and Moderators
+• Featured Image on Card View Posts
+```
+
+```markdown [🔒 Security]
+• Masked Socket Secret in Messaging Settings
+```
+
+```markdown [🐞 Bug fixes]
+• Quiz Intro Edits and Removals Not Shown to Students
+• Unsaved Profile Fields Cleared During Photo Upload
+• Empty Image Files After WebP Conversion
+• Post Previews and Anchors on Hash-Routed Portals
+• Google Docs Paste Bold and Angle-Bracket Links
+• Failed oEmbed Previews Cached as Results
+• Save Play Position Offered Without FluentPlayer Pro
+• Trending Posts and Cleanup Compared in UTC, Not Site Time
+• Scroll to Top on Courses and Spaces Pages
+```
+
+:::
+
 ## FluentCommunity v2.14.0
 
 *Released on Nov 13, 2026*
