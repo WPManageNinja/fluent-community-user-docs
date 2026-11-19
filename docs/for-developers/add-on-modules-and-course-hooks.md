@@ -73,7 +73,6 @@ add_action('fluent_community/course/completed', function ($course, $userId) {
     // For example, tag the user in your CRM or send a custom message.
 }, 10, 2);
 ```
-
 In the browser, a JavaScript action also fires when a lesson completes the course:
 
 ```js
@@ -104,4 +103,47 @@ window.FluentCommunityUtil.hooks.addFilter('fluent_com_course_settings_tabs', 'm
 
 Register the route itself with the `fluent_com_portal_admin_routes` filter, which receives the admin route list and returns it.
 
+## Filters for Hosts and Developers
 
+These PHP filters let you change how FluentCommunity handles link previews, announcement emails, reaction notifications, and email settings. Add them in a small plugin or in your theme's `functions.php`.
+
+### Skip Remote Link Preview Lookups
+
+`fluent_community/remote_preview_pre_parse` runs before FluentCommunity fetches a link preview, such as an oEmbed or page details. Return `null` to continue as normal. Return an array to use it as the preview. Return `false` for no preview, and no request is made.
+
+```php
+add_filter('fluent_community/remote_preview_pre_parse', function ($pre, $url) {
+    // Never contact other sites for previews.
+    return false;
+}, 10, 2);
+```
+
+### Hold or Narrow an Announcement Email
+
+`fluent_community/announcement_email/hold` lets you pause an announcement email, for example while a post is reviewed. Return `true` to hold the send. It is checked before every batch, so a hold also pauses a send that is already running.
+
+```php
+add_filter('fluent_community/announcement_email/hold', function ($hold, $feed, $lastSendUserId) {
+    return false; // Return true to hold this announcement.
+}, 10, 3);
+```
+
+`fluent_community/announcement_email/recipients_query` lets you narrow who receives the email, for example only recently active members. It receives the query for the recipients and the post. Add conditions to the query and return it. Emails still go out in batches of 100.
+
+### Turn Off Reaction Notifications
+
+`fluent_community/reaction_notification/enabled` decides whether a member gets a notification when someone reacts to their post or comment. It receives `true`, the recipient's user ID, the reaction, the post, and the comment. The comment is `null` for a reaction on a post. Return `false` to skip that notification.
+
+```php
+add_filter('fluent_community/reaction_notification/enabled', function ($enabled, $recipientId, $react, $feed, $comment) {
+    return $enabled; // Return false to skip the notification.
+}, 10, 5);
+```
+
+### Change the Email Settings Screen
+
+`fluent_community/email_settings_api_response` changes the data the **Email Settings** screen loads. A hosting platform can use it to supply the mailing settings for every site it runs.
+
+### Change the Photo Limit
+
+`fluent_community/max_media_per_post` changes the number of photos and videos allowed in one post. `fluent_community/media_limit_exempt` decides who has no limit. By default, site admins and community moderators are exempt. Members see the limit set in **Portal Settings → Customizations → Max Media Per Post**. See [Posting Photos & the Photo Viewer](/posting-photos-and-photo-viewer).
