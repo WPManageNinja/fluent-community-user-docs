@@ -396,6 +396,7 @@ export default defineConfig({
               { text: 'Connecting with FluentSocket', link: '/connecting-with-fluentsocket' },
               { text: 'Connecting with FluentSMTP', link: '/connecting-with-fluentsmtp' },
               { text: 'Managing Access with FluentCRM Tags', link: '/managing-access-with-fluentcrm-tags' },
+              { text: 'Community Events With FluentEvent', link: '/community-events-with-fluentevent' },
             ]
           },
           {
