@@ -17,7 +17,7 @@ Any member of a Space can create a new post to engage with others.
  * **Open the Editor:** At the top of the feed, you will see a content editor box labeled "What's happening, [Name]?". Click inside it to begin writing.
  * **Write Your Content:** Enter your message in the main text area.
  * **Add a Title (Optional):** You can include a title to help your post stand out and summarize the topic.
- * **Add Media and Attachments:** Use the icons at the bottom left of the editor to upload images, videos, or GIFs.
+ * **Add Media and Attachments:** Use the icons at the bottom left of the editor to upload images, videos, or GIFs. To learn how photos are laid out, reordered, and described, see [Posting Photos & the Photo Viewer](/posting-photos-and-photo-viewer).
  * **Inline Media:** You can now insert **Inline Images** directly within the text area by using the block selector or typing `/` to select the **Image** option.
  * **Select a Space:** If you are posting from the main Feed, use the Posting in: Select Space dropdown to choose the correct destination for your post.
  * **Publish:** Once you are finished, click the **Post** button to publish it to the feed.
@@ -32,6 +32,15 @@ FluentCommunity uses a rich text editor, allowing you to format your posts for b
  * **Lists:** Use **Bullet Lists** or **Ordered Lists** to make information easier to scan.
  * **Emphasis:** Apply **Bold** and **Italics** to key phrases.
  * **Special Blocks:** Add **Quotes** for citations or **Code Blocks** for technical snippets.
+ * **Tables:** Add a **Table** to show information in rows and columns. See [Add a Table to a Post](#add-a-table-to-a-post).
+
+### Add a Table to a Post
+
+To add a table, click inside the post editor and type `/`. A menu opens with the block types you can add. Select **Table**.
+
+![The post editor slash menu with an arrow pointing at the Table option](/images/community-hub/creating-and-editing/editor-slash-menu-table.webp)
+
+The table is added where your cursor is. Click a cell to type in it. On a phone, a published table scrolls sideways, so a wide table doesn't break the layout of the page.
 
 > **✨ Note:**
 > Using formatting, especially headings and lists, is a great way to make longer posts easier to read and scan for other members.

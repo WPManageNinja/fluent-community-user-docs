@@ -8,6 +8,7 @@
 //   "site": "http://crm.local",                       (optional, default)
 //   "outDir": "docs/public/images/<section>/<article-slug>",    (required; created if missing)
 //   "viewport": {"width":1600,"height":1100},           (optional, default)
+//   "anonymous": true,                                   (optional, skip the cookie login: shoot the logged-out portal, login and signup screens)
 //   "initScript": "Object.defineProperty(...)",         (optional, JS run before every page loads, e.g. to fake a browser permission)
 //   "steps": [ ...see STEP TYPES below... ]
 // }
@@ -68,7 +69,7 @@ async function main() {
   const outDir = path.resolve(REPO, plan.outDir);
   fs.mkdirSync(outDir, { recursive: true });
 
-  const h = new Harness({ site: plan.site, viewport: plan.viewport, initScript: plan.initScript });
+  const h = new Harness({ site: plan.site, viewport: plan.viewport, initScript: plan.initScript, anonymous: plan.anonymous });
   await h.launch();
   const raws = {};
   let n = 0;

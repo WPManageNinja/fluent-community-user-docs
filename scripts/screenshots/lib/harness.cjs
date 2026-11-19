@@ -27,12 +27,14 @@ class Harness {
   }
 
   async launch() {
-    if (!fs.existsSync(this.o.cookieFile)) throw new Error('Missing ' + this.o.cookieFile + '. Run the wp-cookies.php command from the skill (section 2, step 1).');
+    if (!this.o.anonymous && !fs.existsSync(this.o.cookieFile)) throw new Error('Missing ' + this.o.cookieFile + '. Run the wp-cookies.php command from the skill (section 2, step 1).');
     this.browser = await chromium.launch({ executablePath: this.o.chrome, headless: true });
     this.context = await this.browser.newContext({ viewport: this.o.viewport, deviceScaleFactor: this.o.scale });
     const host = new URL(this.o.site).hostname;
-    const cookies = JSON.parse(fs.readFileSync(this.o.cookieFile, 'utf8'));
-    await this.context.addCookies(cookies.map(c => ({ ...c, domain: host, path: '/' })));
+    if (!this.o.anonymous) {
+      const cookies = JSON.parse(fs.readFileSync(this.o.cookieFile, 'utf8'));
+      await this.context.addCookies(cookies.map(c => ({ ...c, domain: host, path: '/' })));
+    }
     if (this.o.initScript) await this.context.addInitScript(this.o.initScript);
     this.page = await this.context.newPage();
     return this.page;
