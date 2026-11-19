@@ -47,7 +47,6 @@ To get all the Triggers and Actions, go to the **Automations** section from the 
 
 A pop-up page will appear with all the popular pre-built funnel templates, where the full funnel diagram is ready automatically. To create your automation funnel from scratch, click the **Create from Scratch** tab.
 
-![The Create from Scratch tab](/images/integrations/connecting-with-fluentcrm/5.-Create-from-Scratch-tab.webp)
 
 ### Triggers for FluentCommunity
 
@@ -79,6 +78,13 @@ A pop-up page will appear with the primary Action blocks to choose from:
 - **Remove Courses:** Select the Course(s) the users will be removed from after the automation starts.
 - **Enroll to Course:** Choose the Course(s) where the users will be added once the automation starts.
 - **Add Badge To User:** Add [badges](/creating-&-assigning-badges) to the user profile of community members once the automation starts.
+- **Reset Course Progress (Pro):** Reset a contact's progress in the courses you select. The contact stays enrolled and starts again from the beginning. It only resets courses where the contact is a student.
+
+To find it, click the **Plus** icon, choose **Add Action / Goal**, and search for **course**. **Reset Course Progress** is listed under the **Community** group.
+
+![The FluentCRM action picker filtered to courses, with an arrow pointing at Reset Course Progress under the Community group](/images/integrations/connecting-with-fluentcrm/fluentcrm-reset-course-progress-action.webp)
+
+Use it for a "finished the course, now start again" automation. For example, trigger it when a contact completes a course and is tagged for a retake.
 
 Apart from the actions shown above, FluentCRM comes with many other actions. To see the full list, [click here](https://fluentcrm.com/docs/introduction-to-fluentcrm-automation/#primary-actions-of-fluentcrm-automation).
 
