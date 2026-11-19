@@ -8,6 +8,7 @@
 //   "site": "http://crm.local",                       (optional, default)
 //   "outDir": "docs/public/images/<section>/<article-slug>",    (required; created if missing)
 //   "viewport": {"width":1600,"height":1100},           (optional, default)
+//   "anonymous": true,                                   (optional, skip the cookie login: shoot the logged-out portal, login and signup screens)
 //   "initScript": "Object.defineProperty(...)",         (optional, JS run before every page loads, e.g. to fake a browser permission)
 //   "steps": [ ...see STEP TYPES below... ]
 // }
@@ -24,6 +25,10 @@
 //   {"css": "#adminmenumain{display:none}"}            inject arbitrary CSS (e.g. to hide chrome around the WordPress block editor)
 //   {"eval": "wp.data.dispatch('core/block-editor').selectBlock(...)"}   run JS in the page (block/Elementor editors expose no stable selectors)
 //   {"clickAt": {"x": 956, "y": 391}}                  click at CSS-pixel coordinates (last resort for icon-only buttons)
+//   {"upload": {"selector": "input[type=file]" | "chooser": "<js expr returning the button to click>", "files": ["/abs/a.jpg"], "wait": 4000}}   attach files. CAUTION: a bare input[type=file] on a space page is the COVER uploader; use "chooser" for the composer.
+//   {"drag": {"from": "css", "to": "css", "release": false}} / {"mouseup": true}   drag-and-drop (button stays held until mouseup)
+//   {"mousemove": {"x": 800, "y": 500}}                 real pointer movement (wakes hover-only UI such as the photo viewer controls)
+//   {"hover": "css"}                                  move the mouse over an element
 //   {"press": "Control+K"}                          keyboard shortcut (use "Meta+K" for Mac style)
 //   {"type": "welcome"}                               type text into the focused element
 //   {"wait": 800}                                       ms
@@ -64,7 +69,7 @@ async function main() {
   const outDir = path.resolve(REPO, plan.outDir);
   fs.mkdirSync(outDir, { recursive: true });
 
-  const h = new Harness({ site: plan.site, viewport: plan.viewport, initScript: plan.initScript });
+  const h = new Harness({ site: plan.site, viewport: plan.viewport, initScript: plan.initScript, anonymous: plan.anonymous });
   await h.launch();
   const raws = {};
   let n = 0;
@@ -88,6 +93,34 @@ async function main() {
         case 'clickAt': console.log(tag, v.x, v.y); await h.page.mouse.click(v.x, v.y); await h.page.waitForTimeout(600); break;
         case 'press': console.log(tag, v); await h.page.keyboard.press(v); await h.page.waitForTimeout(700); break;
         case 'type': console.log(tag, v); await h.page.keyboard.type(v, { delay: 40 }); await h.page.waitForTimeout(1200); break;
+        case 'upload': {
+          console.log(tag, JSON.stringify(v.files));
+          if (v.chooser) {
+            // Click the real trigger (a JS expression returning the element) and answer the native file chooser.
+            const [fc] = await Promise.all([h.page.waitForEvent('filechooser'), h.page.evaluateHandle(v.chooser).then(el => el.asElement().click())]);
+            await fc.setFiles(v.files);
+          } else {
+            await h.page.locator(v.selector || 'input[type=file]').first().setInputFiles(v.files);
+          }
+          await h.page.waitForTimeout(v.wait || 4000);
+          break;
+        }
+        case 'hover': console.log(tag, JSON.stringify(v)); await h.page.locator(typeof v === 'string' ? v : v.selector).first().hover(); await h.page.waitForTimeout(500); break;
+        case 'drag': {
+          // Press on "from", move to "to" in small steps, and (unless release:true) keep the button held for the shot.
+          console.log(tag, JSON.stringify(v));
+          const fb = await h.page.locator(v.from).first().boundingBox();
+          const tb = await h.page.locator(v.to).first().boundingBox();
+          await h.page.mouse.move(fb.x + fb.width / 2, fb.y + fb.height / 2);
+          await h.page.mouse.down();
+          await h.page.mouse.move(fb.x + fb.width / 2 + 6, fb.y + fb.height / 2 + 6, { steps: 4 });
+          await h.page.mouse.move(tb.x + tb.width / 2 + (v.dx || 0), tb.y + tb.height / 2 + (v.dy || 0), { steps: 20 });
+          await h.page.waitForTimeout(400);
+          if (v.release) await h.page.mouse.up();
+          break;
+        }
+        case 'mousemove': console.log(tag, v.x, v.y); await h.page.mouse.move(v.x - 40, v.y - 40); await h.page.mouse.move(v.x, v.y, { steps: 12 }); await h.page.waitForTimeout(v.wait || 800); break;
+        case 'mouseup': console.log(tag); await h.page.mouse.up(); await h.page.waitForTimeout(600); break;
         case 'wait': console.log(tag, v); await h.page.waitForTimeout(v); break;
         case 'shot': {
           if (only.length && !only.includes(v.name)) { console.log(tag, v.name, '(skipped)'); break; }

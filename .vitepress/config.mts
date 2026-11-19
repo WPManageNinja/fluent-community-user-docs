@@ -239,6 +239,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Creating & Editing Posts', link: '/creating-&-editing-posts' },
+              { text: 'Posting Photos & the Photo Viewer', link: '/posting-photos-and-photo-viewer' },
               { text: 'Using Comments & Replies', link: '/using-comments-&-replies' },
               { text: 'Post Reactions & Mentions', link: '/post-reactions-&-mentions' },
               { text: 'Using Emojis & GIFs (Pro)', link: '/using-emojis-&-gifs-(pro)' },
@@ -395,6 +396,7 @@ export default defineConfig({
               { text: 'Connecting with FluentSocket', link: '/connecting-with-fluentsocket' },
               { text: 'Connecting with FluentSMTP', link: '/connecting-with-fluentsmtp' },
               { text: 'Managing Access with FluentCRM Tags', link: '/managing-access-with-fluentcrm-tags' },
+              { text: 'Community Events With FluentEvent', link: '/community-events-with-fluentevent' },
             ]
           },
           {

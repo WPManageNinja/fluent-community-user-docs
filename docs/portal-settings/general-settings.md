@@ -50,3 +50,19 @@ The **Global Post Status** in FluentCommunity lets you display a post on the mai
 ::: warning Don't forget
 Always remember to click the **Save Settings** button after making changes to your General Settings to ensure they are applied.
 :::
+
+## FluentCommunity in the WordPress Admin Menu
+
+The **FluentCommunity** item in your WordPress admin sidebar opens a submenu with quick links, so you can jump to the main pages without opening the portal first. Hover over **FluentCommunity** to see them:
+
+- **Dashboard**
+- **Community Portal**
+- **Insights**
+- **Members**
+- **Space Groups**
+- **Manage Courses**
+- **Settings**
+
+![The FluentCommunity submenu in the WordPress admin sidebar](/images/portal-settings/general-settings/wp-admin-fluentcommunity-submenu.webp)
+
+The dashboard cards show the same links. Each link is listed only for people who are allowed to open that page. For example, a course creator sees **Manage Courses**, and a moderator does not see **Settings**.

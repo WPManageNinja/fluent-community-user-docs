@@ -18,6 +18,8 @@ To switch between views, click the small view icon next to the **Latest** sort d
 
 Posts that contain a video show a thumbnail preview pulled from the video itself, instead of a generic placeholder, so members can spot video content while scanning the grid without opening the post first.
 
+If a post has no photo of its own but has a featured image, such as an event cover, the card uses the featured image. A post's own photos always come first, and a pattern shows only when a post has neither.
+
 Card View is also available as a default layout option in the [**Space Settings**](/space-settings-&-privacy) section.
 
 ![Card View layout of the activity feed, showing the view switcher popover with Card, List, and Timeline options](/images/community-hub/feed-views/card-view.webp)

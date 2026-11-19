@@ -52,6 +52,14 @@ When you click a color field, the color picker opens so you can choose a color f
 
 ![The color picker for banner elements](/images/portal-settings/customizing-the-login-signup-form/Customization-6.webp)
 
+### Show or Hide the Password
+
+The **Password** field on the login and signup forms has a show and hide button (an eye icon). Members click it to see the password they typed, which helps avoid mistakes, especially on a phone. Click it again to hide the password.
+
+![The login form with an arrow pointing at the eye button in the password field](/images/portal-settings/customizing-the-login-signup-form/login-password-toggle.webp)
+
+This button appears only on FluentCommunity's own login and signup forms. It does not change other forms on your site. You don't need to turn anything on.
+
 ### Login Form Settings
 
 Click the **Pencil** icon next to the Form to customize the login form section.
