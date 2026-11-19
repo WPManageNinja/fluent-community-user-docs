@@ -14,5 +14,25 @@ export default {
     if (!app.component('ZoomableImage')) {
       app.component('ZoomableImage', ZoomableImage)
     }
+
+    // Mobile search fix. VitePress binds the local-search box with `v-model`, which
+    // ignores input while an IME composition is active. Android keyboards (Gboard,
+    // Samsung, SwiftKey) keep the current word "composing" until space/suggestion,
+    // so search showed no results while typing on phones. This capture listener
+    // runs before Vue's own handler and clears its `composing` flag so every
+    // keystroke updates the query.
+    if (typeof window !== 'undefined' && !window.__fcSearchImeFix) {
+      window.__fcSearchImeFix = true
+      document.addEventListener(
+        'input',
+        (e) => {
+          const el = e.target
+          if (el && el.composing && el.closest && el.closest('.VPLocalSearchBox')) {
+            el.composing = false
+          }
+        },
+        true
+      )
+    }
   }
 }
