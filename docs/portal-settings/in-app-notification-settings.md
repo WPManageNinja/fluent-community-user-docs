@@ -30,6 +30,12 @@ Every row in the panel packs four pieces of information:
 
 Clicking any row takes you directly to the post, comment, or profile it refers to, and marks it as read.
 
+### Mark One Notification as Read
+
+To clear a single notification without opening it, move your mouse over the row and click the **check** button on the right. Only that notification is marked as read, and you stay on the same page. This is handy for clearing a like or a reaction you don't need to open.
+
+![An unread notification with an arrow pointing at the check button that marks it as read](/images/portal-settings/in-app-notification-settings/notification-mark-single-read.webp)
+
 > [!Note]
 >  If you arrive from a browser push notification instead, the notifications about that same post or comment are marked read as well the badge on the bell won't keep counting something you've already opened.
 
