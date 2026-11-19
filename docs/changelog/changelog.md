@@ -16,6 +16,8 @@ All notable changes to **FluentCommunity** are documented here, newest first.
 ```markdown [✨ Newly Added]
 • MCP Server for AI Agents
 • Multi-Image Post Layout With a Zoomable Photo Viewer
+• Photo Reordering in the Post and Comment Composer
+• Photo Descriptions and Captions in the Photo Viewer
 • Show/Hide Password Toggle on Login and Signup Forms
 • WordPress Admin Submenu With Quick Links to Portal Pages
 • FluentCRM Action to Reset Course Progress
@@ -44,6 +46,7 @@ All notable changes to **FluentCommunity** are documented here, newest first.
 • Post Previews and Anchors on Hash-Routed Portals
 • Google Docs Paste Bold and Angle-Bracket Links
 • Failed oEmbed Previews Cached as Results
+• X, Instagram and Other Script Embeds Shown as Raw Text
 • Save Play Position Offered Without FluentPlayer Pro
 • Trending Posts and Cleanup Compared in UTC, Not Site Time
 • Scroll to Top on Courses and Spaces Pages
